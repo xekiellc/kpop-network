@@ -1,1 +1,209 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="index, follow" />
+  <title id="page-title">K-Pop Network</title>
+  <meta name="description" id="page-desc" content="Your home for K-pop news, videos, and fan culture." />
+
+  <!-- Open Graph -->
+  <meta property="og:title" id="og-title" content="K-Pop Network" />
+  <meta property="og:description" id="og-desc" content="Your home for K-pop news, videos, and fan culture." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" id="og-url" content="" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Bebas+Neue&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header id="site-header">
+    <div class="header-inner">
+      <div class="header-left">
+        <div class="site-logo" id="site-logo">K-POP NETWORK</div>
+        <div class="site-tagline" id="site-tagline">Loading...</div>
+      </div>
+      <div class="header-right">
+        <div class="live-badge" id="live-badge">LIVE</div>
+        <button class="mobile-menu-btn" id="mobile-menu-btn">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- GROUP STRIP (Type B and HUB only) -->
+  <div class="group-strip" id="group-strip">
+    <div class="group-strip-inner" id="group-pills"></div>
+  </div>
+
+  <!-- TAB BAR -->
+  <nav class="tab-bar" id="tab-bar">
+    <div class="tab-bar-inner" id="tab-items">
+      <button class="tab-btn active" data-tab="news">News</button>
+      <button class="tab-btn" data-tab="videos">Videos</button>
+      <button class="tab-btn" data-tab="community">Community</button>
+      <button class="tab-btn" data-tab="archive">Archive</button>
+      <button class="tab-btn" data-tab="podcast">Podcast</button>
+    </div>
+  </nav>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content" id="main-content">
+
+    <!-- STATS BAR -->
+    <div class="stats-bar" id="stats-bar">
+      <div class="stat-card">
+        <div class="stat-num" id="stat-articles">—</div>
+        <div class="stat-label">Articles today</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-groups">—</div>
+        <div class="stat-label">Groups tracked</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-updated">—</div>
+        <div class="stat-label">Last updated</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">5×7</div>
+        <div class="stat-label">Podcast</div>
+      </div>
+    </div>
+
+    <!-- TRENDING BAR -->
+    <div class="trending-bar" id="trending-bar">
+      <div class="trending-label">Trending</div>
+      <div class="trending-items" id="trending-items">
+        <span class="trending-item">Loading trending stories...</span>
+      </div>
+    </div>
+
+    <!-- NEWS TAB -->
+    <div class="tab-content active" id="tab-news">
+      <div class="section-header">
+        <div class="section-title" id="news-section-title">Latest News</div>
+        <div class="section-meta" id="news-updated"></div>
+      </div>
+      <div class="articles-grid" id="articles-grid">
+        <div class="loading-state">
+          <div class="loading-spinner"></div>
+          <div class="loading-text">Fetching latest K-pop news...</div>
+        </div>
+      </div>
+      <button class="load-more-btn" id="load-more-news">Load More</button>
+    </div>
+
+    <!-- VIDEOS TAB -->
+    <div class="tab-content" id="tab-videos">
+      <div class="section-header">
+        <div class="section-title">Latest Videos</div>
+        <div class="section-meta" id="videos-updated"></div>
+      </div>
+      <div class="videos-grid" id="videos-grid">
+        <div class="loading-state">
+          <div class="loading-spinner"></div>
+          <div class="loading-text">Loading videos...</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- COMMUNITY TAB -->
+    <div class="tab-content" id="tab-community">
+      <div class="section-header">
+        <div class="section-title">Fan Community</div>
+        <div class="section-meta">Reddit • Fan posts • Discussions</div>
+      </div>
+      <div class="community-grid" id="community-grid">
+        <div class="loading-state">
+          <div class="loading-spinner"></div>
+          <div class="loading-text">Loading community posts...</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ARCHIVE TAB -->
+    <div class="tab-content" id="tab-archive">
+      <div class="section-header">
+        <div class="section-title">Archive</div>
+        <div class="section-meta">All past articles</div>
+      </div>
+      <div class="archive-filters" id="archive-filters"></div>
+      <div class="articles-grid" id="archive-grid">
+        <div class="loading-state">
+          <div class="loading-spinner"></div>
+          <div class="loading-text">Loading archive...</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- PODCAST TAB -->
+    <div class="tab-content" id="tab-podcast">
+      <div class="section-header">
+        <div class="section-title">5×7 Podcast</div>
+        <div class="section-meta">The AI K-pop podcast — every Monday</div>
+      </div>
+      <div class="podcast-container" id="podcast-container">
+        <div class="podcast-hero">
+          <div class="podcast-artwork">
+            <div class="podcast-artwork-text">5×7</div>
+          </div>
+          <div class="podcast-info">
+            <div class="podcast-show-name">5×7 — The AI K-Pop Podcast</div>
+            <div class="podcast-show-desc">Two AI hosts. Every Monday. All the K-pop news you need in under 15 minutes.</div>
+            <div class="podcast-platforms">
+              <a href="https://spotify.com" target="_blank" class="platform-btn">Spotify</a>
+              <a href="https://podcasts.apple.com" target="_blank" class="platform-btn">Apple Podcasts</a>
+            </div>
+          </div>
+        </div>
+        <div class="episode-list" id="episode-list">
+          <div class="episode-list-label">Episodes</div>
+          <div class="loading-state">
+            <div class="loading-text">Episodes coming soon — launching shortly!</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- NEWSLETTER SIGNUP -->
+    <div class="newsletter-bar" id="newsletter-bar">
+      <div class="newsletter-text" id="newsletter-text">Get the latest K-pop news in your inbox</div>
+      <a href="#" class="newsletter-btn" id="newsletter-btn" target="_blank">Subscribe Free</a>
+    </div>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-logo" id="footer-logo">K-POP NETWORK</div>
+      <div class="footer-links">
+        <a href="https://hybeworld.com" target="_blank">HYBE World</a>
+        <a href="https://iheartkpop.com" target="_blank">iHeart K-Pop</a>
+        <a href="https://armypulse.com" target="_blank">Army Pulse</a>
+        <a href="https://5x7pod.com" target="_blank">5×7 Podcast</a>
+      </div>
+      <div class="footer-meta">
+        Powered by AI • Updated daily • Part of the XEKIE K-Pop Network
+      </div>
+    </div>
+  </footer>
+
+  <!-- DATA -->
+  <script>
+    // Site config injected at build time by GitHub Actions
+    // Falls back to a default for local/preview
+    window.SITE_CONFIG = null;
+    window.SITE_DATA = null;
+  </script>
+
+  <script src="app.js"></script>
+
+</body>
+</html>
