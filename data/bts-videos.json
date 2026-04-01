@@ -1,5 +1,83 @@
 {
-  "updatedAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T20:33:40.796Z",
   "bucket": "bts",
-  "videos": []
+  "videos": [
+    {
+      "id": "-bts-2-0-mv-out-now-bts-arirang-2point0",
+      "title": "#BTS #방탄소년단 ‘2.0' MV OUT NOW #BTS_ARIRANG #2point0",
+      "url": "https://www.youtube.com/shorts/7c0QVWIIics",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-01T15:01:23.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "_gyultVTesk",
+      "title": "BTS (방탄소년단) '2.0' Official MV",
+      "url": "https://www.youtube.com/watch?v=_gyultVTesk",
+      "videoId": "_gyultVTesk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/_gyultVTesk/mqdefault.jpg",
+      "publishedAt": "2026-04-01T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "O_UAV5Ckr-g",
+      "title": "BTS (방탄소년단) '2.0' Official Teaser",
+      "url": "https://www.youtube.com/watch?v=O_UAV5Ckr-g",
+      "videoId": "O_UAV5Ckr-g",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/O_UAV5Ckr-g/mqdefault.jpg",
+      "publishedAt": "2026-03-31T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "illit-mamihlapinatapai-tracklist",
+      "title": "ILLIT (아일릿) ‘MAMIHLAPINATAPAI’ Tracklist",
+      "url": "https://www.youtube.com/shorts/aLtjqzyZ2M0",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-03-31T03:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "7kLlHXAN9R8",
+      "title": "TWS (투어스) 5th Mini Album 'NO TRAGEDY'",
+      "url": "https://www.youtube.com/watch?v=7kLlHXAN9R8",
+      "videoId": "7kLlHXAN9R8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/7kLlHXAN9R8/mqdefault.jpg",
+      "publishedAt": "2026-03-29T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "h-Y97xErGL8",
+      "title": "BTS (방탄소년단) 'SWIM' Official Performance Video",
+      "url": "https://www.youtube.com/watch?v=h-Y97xErGL8",
+      "videoId": "h-Y97xErGL8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/h-Y97xErGL8/mqdefault.jpg",
+      "publishedAt": "2026-03-24T15:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "hybe-india-audition-official-announcement",
+      "title": "HYBE INDIA AUDITION | Official Announcement",
+      "url": "https://www.youtube.com/shorts/GRctyUbozRY",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-03-24T04:30:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    }
+  ]
 }
