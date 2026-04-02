@@ -1,4 +1,3 @@
-
 {
   "sites": [
     {
@@ -25,7 +24,9 @@
         "buttonBg": "#c084fc",
         "buttonText": "#1a0533",
         "subscribeBar": "#3b1a6e",
-        "subscribeText": "#e9d5ff"
+        "subscribeText": "#e9d5ff",
+        "logoColor": "#c084fc",
+        "taglineColor": "#a78bfa"
       },
       "beehiiv": "armypulse",
       "ga4": "G-PLACEHOLDER"
@@ -54,7 +55,9 @@
         "buttonBg": "#ffffff",
         "buttonText": "#0a0a0a",
         "subscribeBar": "#1a1a1a",
-        "subscribeText": "#e2e8f0"
+        "subscribeText": "#e2e8f0",
+        "logoColor": "#ffffff",
+        "taglineColor": "#6b7280"
       },
       "beehiiv": "bangtanbeat",
       "ga4": "G-PLACEHOLDER"
@@ -83,7 +86,9 @@
         "buttonBg": "#60a5fa",
         "buttonText": "#0d1b3e",
         "subscribeBar": "#0d1b3e",
-        "subscribeText": "#cbd5e1"
+        "subscribeText": "#cbd5e1",
+        "logoColor": "#60a5fa",
+        "taglineColor": "#94a3b8"
       },
       "beehiiv": "hybeworld",
       "ga4": "G-PLACEHOLDER"
@@ -112,7 +117,9 @@
         "buttonBg": "#60a5fa",
         "buttonText": "#0d1b3e",
         "subscribeBar": "#0d1b3e",
-        "subscribeText": "#cbd5e1"
+        "subscribeText": "#cbd5e1",
+        "logoColor": "#60a5fa",
+        "taglineColor": "#94a3b8"
       },
       "beehiiv": "hybeworld",
       "ga4": "G-PLACEHOLDER"
@@ -141,7 +148,9 @@
         "buttonBg": "#60a5fa",
         "buttonText": "#0d1b3e",
         "subscribeBar": "#0d1b3e",
-        "subscribeText": "#cbd5e1"
+        "subscribeText": "#cbd5e1",
+        "logoColor": "#60a5fa",
+        "taglineColor": "#94a3b8"
       },
       "beehiiv": "hybeworld",
       "ga4": "G-PLACEHOLDER"
@@ -170,7 +179,9 @@
         "buttonBg": "#ffffff",
         "buttonText": "#ff2d78",
         "subscribeBar": "#ff2d78",
-        "subscribeText": "#ffffff"
+        "subscribeText": "#ffffff",
+        "logoColor": "#ffffff",
+        "taglineColor": "#ffd6e8"
       },
       "beehiiv": "iheartkpop",
       "ga4": "G-PLACEHOLDER"
@@ -199,7 +210,9 @@
         "buttonBg": "#38bdf8",
         "buttonText": "#0f172a",
         "subscribeBar": "#0f172a",
-        "subscribeText": "#94a3b8"
+        "subscribeText": "#94a3b8",
+        "logoColor": "#38bdf8",
+        "taglineColor": "#94a3b8"
       },
       "beehiiv": "kpoppulse",
       "ga4": "G-PLACEHOLDER"
@@ -228,7 +241,9 @@
         "buttonBg": "#ffffff",
         "buttonText": "#ea580c",
         "subscribeBar": "#ea580c",
-        "subscribeText": "#ffffff"
+        "subscribeText": "#ffffff",
+        "logoColor": "#ffffff",
+        "taglineColor": "#fed7aa"
       },
       "beehiiv": "idolrush",
       "ga4": "G-PLACEHOLDER"
@@ -257,7 +272,9 @@
         "buttonBg": "#2dd4bf",
         "buttonText": "#042f2e",
         "subscribeBar": "#0f766e",
-        "subscribeText": "#ccfbf1"
+        "subscribeText": "#ccfbf1",
+        "logoColor": "#99f6e4",
+        "taglineColor": "#5eead4"
       },
       "beehiiv": "biashaven",
       "ga4": "G-PLACEHOLDER"
@@ -266,7 +283,7 @@
   "groups": [
     { "id": "bts", "name": "BTS", "fandom": "ARMY", "bucket": "bts", "color": "#7c3aed", "searchTerms": ["BTS", "Bangtan", "방탄소년단"] },
     { "id": "txt", "name": "TXT", "fandom": "MOA", "bucket": "hybe", "color": "#a78bfa", "searchTerms": ["TXT", "Tomorrow X Together", "투모로우바이투게더"] },
-    { "id": "cortis", "name": "CORTIS", "fandom": "COER", "bucket": "hybe", "color": "#34d399", "searchTerms": ["CORTIS", "코르티스", "GreenGreen"] },
+    { "id": "cortis", "name": "CORTIS", "fandom": "COER", "bucket": "hybe", "color": "#34d399", "searchTerms": ["CORTIS", "코르티스", "GreenGreen kpop"] },
     { "id": "enhypen", "name": "ENHYPEN", "fandom": "ENGENE", "bucket": "hybe", "color": "#fbbf24", "searchTerms": ["ENHYPEN", "엔하이픈"] },
     { "id": "lesserafim", "name": "LE SSERAFIM", "fandom": "FEARNOT", "bucket": "hybe", "color": "#f472b6", "searchTerms": ["LE SSERAFIM", "르세라핌"] },
     { "id": "illit", "name": "ILLIT", "fandom": "LLIT", "bucket": "hybe", "color": "#fb7185", "searchTerms": ["ILLIT", "아일릿"] },
