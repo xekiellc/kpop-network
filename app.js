@@ -1,4 +1,3 @@
-
 /* ============================================================
    KPOP NETWORK — app.js
    Domain detection, theme loading, content fetching & rendering
@@ -36,7 +35,7 @@ async function init() {
     const config = await fetchJSON(SITES_CONFIG_URL);
     const hostname = getHostname();
     const site = config.sites.find(s => s.domain === hostname)
-      || config.sites.find(s => s.domain === 'armypulse.com'); // fallback for preview
+      || config.sites.find(s => s.domain === 'armypulse.com');
 
     state.site = site;
     state.allGroups = config.groups;
@@ -59,9 +58,8 @@ async function init() {
 // ── HOSTNAME DETECTION ─────────────────────────────────────
 function getHostname() {
   const host = window.location.hostname.replace('www.', '');
-  // Local dev overrides — change this to test different sites
   if (host === 'localhost' || host === '127.0.0.1' || host.includes('netlify.app')) {
-    return 'armypulse.com'; // change to test other domains
+    return 'armypulse.com';
   }
   return host;
 }
@@ -87,20 +85,19 @@ function applyTheme(site) {
   root.style.setProperty('--button-text', t.buttonText);
   root.style.setProperty('--subscribe-bar', t.subscribeBar);
   root.style.setProperty('--subscribe-text', t.subscribeText);
+  root.style.setProperty('--logo-color', t.logoColor || t.primary);
+  root.style.setProperty('--tagline-color', t.taglineColor || t.textMuted);
 
-  // Light theme class for sites with light backgrounds
   if (isLightTheme(t.background)) {
     document.body.classList.add('light-theme');
   }
 
-  // Set favicon color via meta theme-color
   const metaTheme = document.querySelector('meta[name="theme-color"]')
     || (() => { const m = document.createElement('meta'); m.name = 'theme-color'; document.head.appendChild(m); return m; })();
   metaTheme.content = t.headerBg;
 }
 
 function isLightTheme(bg) {
-  // Check if background is light (starts with #fff, #f, etc.)
   return bg.startsWith('#fff') || bg.startsWith('#fef') || bg.startsWith('#fff');
 }
 
@@ -115,9 +112,17 @@ function applyMeta(site) {
 
 // ── HEADER ─────────────────────────────────────────────────
 function renderHeader(site) {
-  document.getElementById('site-logo').textContent = site.name;
-  document.getElementById('site-tagline').textContent = site.tagline;
-  document.getElementById('footer-logo').textContent = site.name;
+  const logoEl = document.getElementById('site-logo');
+  const taglineEl = document.getElementById('site-tagline');
+  const footerLogoEl = document.getElementById('footer-logo');
+
+  logoEl.textContent = site.name;
+  taglineEl.textContent = site.tagline;
+  footerLogoEl.textContent = site.name;
+
+  // Apply logo and tagline colors from theme
+  logoEl.style.color = site.theme.logoColor || site.theme.primary;
+  taglineEl.style.color = site.theme.taglineColor || site.theme.textMuted;
 
   // Newsletter bar
   document.getElementById('newsletter-text').textContent =
@@ -132,18 +137,16 @@ function renderGroupStrip(site, allGroups) {
   const strip = document.getElementById('group-strip');
   const pillsEl = document.getElementById('group-pills');
 
-  // Type A sites don't show the group strip
   if (site.type === 'A') {
     strip.style.display = 'none';
     return;
   }
 
-  // Determine which groups to show
   let groups = [];
   if (site.type === 'HUB') {
     groups = allGroups.filter(g => state.hubeGroups.includes(g.id));
   } else {
-    groups = allGroups; // Type B shows all
+    groups = allGroups;
   }
 
   const allPill = createPill('all', 'All', true);
@@ -184,7 +187,6 @@ function setupTabs() {
     });
   });
 
-  // Load more button
   document.getElementById('load-more-news').addEventListener('click', () => {
     state.articlesPage++;
     renderArticles(state.articles, false);
@@ -202,11 +204,11 @@ function setupMobileMenu() {
 // ── TAB CONTENT LOADER ─────────────────────────────────────
 async function loadTabContent(tab) {
   switch (tab) {
-    case 'news':    await loadNews();      break;
-    case 'videos':  await loadVideos();    break;
+    case 'news':      await loadNews();      break;
+    case 'videos':    await loadVideos();    break;
     case 'community': await loadCommunity(); break;
-    case 'archive': await loadArchive();   break;
-    case 'podcast': renderPodcast();       break;
+    case 'archive':   await loadArchive();   break;
+    case 'podcast':   renderPodcast();       break;
   }
 }
 
@@ -260,7 +262,6 @@ function renderArticles(articles, reset) {
     grid.appendChild(card);
   });
 
-  // Hide load more if no more articles
   const btn = document.getElementById('load-more-news');
   btn.style.display = end >= articles.length ? 'none' : 'block';
 }
@@ -415,7 +416,6 @@ async function loadArchive() {
     const data = await fetchJSON(`${DATA_BASE_URL}/${bucket}-archive.json`);
     const articles = data.articles || [];
 
-    // Build group filter buttons
     const groups = [...new Set(articles.map(a => a.group).filter(Boolean))];
     filtersEl.innerHTML = '';
 
@@ -464,7 +464,6 @@ function renderArchiveGrid(articles, groupId) {
 
 // ── PODCAST ────────────────────────────────────────────────
 function renderPodcast() {
-  // Static for now — will be populated by podcast pipeline in Phase 2
   const episodeList = document.getElementById('episode-list');
   episodeList.innerHTML = `
     <div class="episode-list-label">Episodes</div>
