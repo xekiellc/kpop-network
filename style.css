@@ -1,4 +1,3 @@
-
 /* ============================================================
    KPOP NETWORK — Master Stylesheet
    All themes for all domains live here
@@ -24,6 +23,8 @@
   --button-text: #1a0533;
   --subscribe-bar: #3b1a6e;
   --subscribe-text: #e9d5ff;
+  --logo-color: #c084fc;
+  --tagline-color: #a78bfa;
   --font-main: 'Inter', sans-serif;
   --font-display: 'Bebas Neue', sans-serif;
   --radius: 8px;
@@ -76,13 +77,13 @@ img { max-width: 100%; display: block; }
 .site-logo {
   font-family: var(--font-display);
   font-size: 26px;
-  color: var(--primary);
+  color: var(--logo-color);
   letter-spacing: 2px;
   line-height: 1;
 }
 .site-tagline {
   font-size: 11px;
-  color: var(--text-muted);
+  color: var(--tagline-color);
   margin-top: 2px;
   letter-spacing: 0.3px;
 }
@@ -791,7 +792,7 @@ img { max-width: 100%; display: block; }
 .footer-logo {
   font-family: var(--font-display);
   font-size: 20px;
-  color: var(--primary);
+  color: var(--logo-color);
   letter-spacing: 2px;
 }
 .footer-links {
