@@ -1,4 +1,4 @@
-{
+      {
   "sites": [
     {
       "domain": "armypulse.com",
@@ -153,6 +153,37 @@
         "taglineColor": "#94a3b8"
       },
       "beehiiv": "hybeworld",
+      "ga4": "G-PLACEHOLDER"
+    },
+    {
+      "domain": "hybefandom.com",
+      "name": "HYBE FANDOM",
+      "tagline": "The official home of HYBE fan culture",
+      "type": "HUB",
+      "bucket": "hybe",
+      "featuredGroup": null,
+      "theme": {
+        "primary": "#f59e0b",
+        "primaryDark": "#d97706",
+        "accent": "#f59e0b",
+        "background": "#0a0a0a",
+        "surface": "#141414",
+        "surfaceBorder": "#2a2a2a",
+        "headerBg": "#0a0a0a",
+        "tabBg": "#111111",
+        "text": "#fef3c7",
+        "textMuted": "#fcd34d",
+        "textFaint": "#92400e",
+        "badge": "#1c1408",
+        "badgeText": "#f59e0b",
+        "buttonBg": "#f59e0b",
+        "buttonText": "#0a0a0a",
+        "subscribeBar": "#1c1408",
+        "subscribeText": "#fef3c7",
+        "logoColor": "#f59e0b",
+        "taglineColor": "#d97706"
+      },
+      "beehiiv": "hybefandom",
       "ga4": "G-PLACEHOLDER"
     },
     {
@@ -311,7 +342,7 @@
     { "id": "zerobaseone", "name": "ZEROBASEONE", "fandom": "ZEROBASE", "bucket": "kpop", "color": "#1d4ed8", "searchTerms": ["ZEROBASEONE", "ZB1", "제로베이스원"] }
   ],
   "hubeGroups": ["bts", "txt", "cortis", "enhypen", "lesserafim", "illit", "boynextdoor", "andteam"],
-  "redirectDomains": ["hybefandom.com", "bighitnation.com", "bighitworld.com"],
+  "redirectDomains": ["bighitnation.com", "bighitworld.com"],
   "redirectTarget": "hybeworld.com",
   "podcastDomain": "5x7pod.com",
   "podcastMirror": "5x7podcast.com"
