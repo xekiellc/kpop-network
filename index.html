@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -197,10 +196,38 @@
 
   <!-- DATA -->
   <script>
-    // Site config injected at build time by GitHub Actions
-    // Falls back to a default for local/preview
     window.SITE_CONFIG = null;
     window.SITE_DATA = null;
+  </script>
+
+  <!-- GA4 — dynamically loaded after site config is known -->
+  <script>
+    (function() {
+      async function loadGA4() {
+        try {
+          const res = await fetch('/sites.json');
+          const config = await res.json();
+          const host = window.location.hostname.replace('www.', '');
+          const site = config.sites.find(s => s.domain === host);
+          if (!site || !site.ga4 || site.ga4 === 'G-PLACEHOLDER') return;
+          const id = site.ga4;
+          const script = document.createElement('script');
+          script.async = true;
+          script.src = `https://www.googletagmanager.com/gtag/js?id=${id}`;
+          document.head.appendChild(script);
+          script.onload = function() {
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            window.gtag = gtag;
+            gtag('js', new Date());
+            gtag('config', id);
+          };
+        } catch(e) {
+          console.log('GA4 load error:', e);
+        }
+      }
+      loadGA4();
+    })();
   </script>
 
   <script src="app.js"></script>
