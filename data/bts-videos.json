@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-04-03T08:37:40.938Z",
+  "updatedAt": "2026-04-03T19:56:57.169Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-team-3rd-ep-we-on-fire-track-sampler-d",
+      "title": "&TEAM 3rd EP 'We on Fire' Track Sampler D",
+      "url": "https://www.youtube.com/shorts/IXnY56xJiLY",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-03T11:03:08.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-3rd-ep-we-on-fire-track-sampler-c",
+      "title": "&TEAM 3rd EP 'We on Fire' Track Sampler C",
+      "url": "https://www.youtube.com/shorts/g3nHx2ijpQ4",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-03T11:02:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-3rd-ep-we-on-fire-track-sampler-b",
+      "title": "&TEAM 3rd EP 'We on Fire' Track Sampler B",
+      "url": "https://www.youtube.com/shorts/gKD6ADl35Lw",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-03T11:01:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-3rd-ep-we-on-fire-track-sampler-a",
+      "title": "&TEAM 3rd EP 'We on Fire' Track Sampler A",
+      "url": "https://www.youtube.com/shorts/fq2Uoz62oQY",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-03T11:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "katseye-pinky-up-official-mv-teaser-1",
       "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV Teaser 1",
@@ -32,50 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-02T12:00:24.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-paw-paw-wonhee",
-      "title": "ILLIT (아일릿) ‘MAMIHLAPINATAPAI’ Concept Film PAW PAW 🐾 - #WONHEE",
-      "url": "https://www.youtube.com/shorts/nrQpqCXc_P8",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-02T12:00:19.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-paw-paw-iroha",
-      "title": "ILLIT (아일릿) ‘MAMIHLAPINATAPAI’ Concept Film PAW PAW 🐾 - #IROHA",
-      "url": "https://www.youtube.com/shorts/Y0Ea8cXG8to",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-02T12:00:15.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-paw-paw-yunah",
-      "title": "ILLIT (아일릿) ‘MAMIHLAPINATAPAI’ Concept Film PAW PAW 🐾 - #YUNAH",
-      "url": "https://www.youtube.com/shorts/C7QUbbWx5g4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-02T12:00:11.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-paw-paw-minju",
-      "title": "ILLIT (아일릿) ‘MAMIHLAPINATAPAI’ Concept Film PAW PAW 🐾 - #MINJU",
-      "url": "https://www.youtube.com/shorts/IsdsbmMz9cI",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-02T12:00:08.000Z",
       "group": "bts",
       "bucket": "bts"
     }
