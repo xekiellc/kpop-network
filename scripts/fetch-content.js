@@ -96,6 +96,38 @@ const REDDIT_FEEDS = [
   { subreddit: 'lesserafim',         group: 'lesserafim', bucket: 'hybe' },
 ];
 
+// ── NEWSAPI QUERIES PER BUCKET ─────────────────────────────
+// Each entry: { query, bucket }
+// Queries are spread across buckets so each gets dedicated coverage.
+// Total queries: 5 bts + 8 hybe + 6 kpop = 19 queries × 20 results = up to 380 raw articles.
+// NewsAPI free tier = 100 req/day. Two runs/day = 50 req/run. Safe at 19 queries/run.
+const NEWSAPI_QUERIES = [
+  // BTS bucket
+  { query: 'BTS kpop',               bucket: 'bts' },
+  { query: 'Bangtan Boys',           bucket: 'bts' },
+  { query: 'BTS Jungkook',           bucket: 'bts' },
+  { query: 'BTS Jimin solo',         bucket: 'bts' },
+  { query: 'BTS Jin Suga J-Hope',    bucket: 'bts' },
+
+  // HYBE bucket — one query per group so none get starved
+  { query: 'HYBE kpop',              bucket: 'hybe' },
+  { query: 'TXT Tomorrow X Together', bucket: 'hybe' },
+  { query: 'ENHYPEN kpop',           bucket: 'hybe' },
+  { query: 'LE SSERAFIM kpop',       bucket: 'hybe' },
+  { query: 'ILLIT kpop',             bucket: 'hybe' },
+  { query: 'BOYNEXTDOOR kpop',       bucket: 'hybe' },
+  { query: 'SEVENTEEN kpop',         bucket: 'hybe' },  // HYBE artist, boosts hybe
+  { query: 'NewJeans kpop',          bucket: 'hybe' },  // HYBE artist, boosts hybe
+
+  // KPOP bucket
+  { query: 'kpop music',             bucket: 'kpop' },
+  { query: 'BLACKPINK kpop',         bucket: 'kpop' },
+  { query: 'Stray Kids kpop',        bucket: 'kpop' },
+  { query: 'TWICE kpop',             bucket: 'kpop' },
+  { query: 'ATEEZ kpop',             bucket: 'kpop' },
+  { query: 'aespa kpop',             bucket: 'kpop' },
+];
+
 // ── MAIN ───────────────────────────────────────────────────
 async function main() {
   console.log('🎵 KPop Network content fetch starting...');
@@ -110,22 +142,39 @@ async function main() {
   const rssArticles = await fetchRSSFeeds();
   console.log(`   Found ${rssArticles.length} RSS articles`);
 
-  // Assign articles to buckets based on keyword matching
   for (const article of rssArticles) {
     const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
     article.group = match ? match.id : 'kpop';
     const bucket = match ? match.bucket : 'kpop';
     buckets[bucket].push(article);
-    // All articles also go to kpop bucket if not already there
+    // Mirror non-kpop articles into kpop bucket too
     if (bucket !== 'kpop') buckets['kpop'].push({ ...article });
   }
 
   // ── FETCH NEWSAPI ────────────────────────────────────────
   if (NEWS_API_KEY) {
     console.log('\n📡 Fetching from NewsAPI...');
-    const newsApiArticles = await fetchNewsAPI();
-    console.log(`   Found ${newsApiArticles.length} NewsAPI articles`);
-    for (const article of newsApiArticles) {
+    const newsApiResults = await fetchNewsAPI();
+    console.log(`   Found ${newsApiResults.bts.length} BTS, ${newsApiResults.hybe.length} HYBE, ${newsApiResults.kpop.length} KPOP articles from NewsAPI`);
+
+    // BTS articles go to bts bucket + kpop mirror
+    for (const article of newsApiResults.bts) {
+      const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
+      article.group = match ? match.id : 'bts';
+      buckets['bts'].push(article);
+      buckets['kpop'].push({ ...article });
+    }
+
+    // HYBE articles go to hybe bucket + kpop mirror
+    for (const article of newsApiResults.hybe) {
+      const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
+      article.group = match ? match.id : 'hybe';
+      buckets['hybe'].push(article);
+      buckets['kpop'].push({ ...article });
+    }
+
+    // KPOP articles stay in kpop + try to match into bts/hybe
+    for (const article of newsApiResults.kpop) {
       const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
       article.group = match ? match.id : 'kpop';
       const bucket = match ? match.bucket : 'kpop';
@@ -156,11 +205,11 @@ async function main() {
   if (ANTHROPIC_API_KEY) {
     console.log('\n🤖 Generating AI summaries...');
     for (const bucket of ['bts', 'hybe', 'kpop']) {
-      const articles = buckets[bucket].slice(0, 20); // top 20 per bucket
+      const articles = buckets[bucket].slice(0, 20);
       for (const article of articles) {
         if (!article.summary && article.title) {
           article.summary = await generateSummary(article.title, article.description);
-          await sleep(300); // rate limit
+          await sleep(300);
         }
       }
     }
@@ -185,7 +234,7 @@ async function main() {
     } catch (e) { /* first run */ }
 
     const combined = deduplicateByTitle([...buckets[bucket], ...existing]);
-    const archive = combined.slice(0, 500); // keep last 500
+    const archive = combined.slice(0, 500);
 
     writeJSON(archivePath, {
       updatedAt: new Date().toISOString(),
@@ -248,12 +297,11 @@ async function fetchRSSFeeds() {
   return articles;
 }
 
-// ── FETCH NEWSAPI ──────────────────────────────────────────
+// ── FETCH NEWSAPI — bucket-aware ───────────────────────────
 async function fetchNewsAPI() {
-  const articles = [];
-  const queries = ['kpop', 'BTS bangtan', 'BLACKPINK kpop', 'CORTIS kpop', 'k-pop music'];
+  const results = { bts: [], hybe: [], kpop: [] };
 
-  for (const query of queries) {
+  for (const { query, bucket } of NEWSAPI_QUERIES) {
     try {
       const res = await axios.get('https://newsapi.org/v2/everything', {
         params: {
@@ -268,7 +316,7 @@ async function fetchNewsAPI() {
 
       for (const item of (res.data.articles || [])) {
         if (!item.title || item.title === '[Removed]') continue;
-        articles.push({
+        results[bucket].push({
           id: slugify(item.title),
           title: cleanText(item.title),
           url: item.url || '',
@@ -277,7 +325,7 @@ async function fetchNewsAPI() {
           summary: cleanText(item.description || ''),
           publishedAt: item.publishedAt || new Date().toISOString(),
           author: item.author || '',
-          group: 'kpop',
+          group: bucket,
         });
       }
       await sleep(500);
@@ -285,7 +333,7 @@ async function fetchNewsAPI() {
       console.log(`   ⚠️  NewsAPI query "${query}" failed: ${err.message}`);
     }
   }
-  return articles;
+  return results;
 }
 
 // ── FETCH YOUTUBE RSS ──────────────────────────────────────
@@ -346,7 +394,7 @@ async function fetchRedditFeeds() {
           bucket: feed.bucket,
         });
       }
-      await sleep(1000); // Reddit rate limit
+      await sleep(1000);
     } catch (err) {
       console.log(`   ⚠️  Reddit r/${feed.subreddit} failed: ${err.message}`);
     }
