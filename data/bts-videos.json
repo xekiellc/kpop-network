@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-04-07T18:46:54.961Z",
+  "updatedAt": "2026-04-08T18:27:28.633Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "katseye-pinky-up-official-mv-teaser-3",
+      "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV Teaser 3",
+      "url": "https://www.youtube.com/shorts/SXjeEBCyo7E",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-08T16:00:19.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "7F1ET2XHQfk",
+      "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV",
+      "url": "https://www.youtube.com/watch?v=7F1ET2XHQfk",
+      "videoId": "7F1ET2XHQfk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/7F1ET2XHQfk/mqdefault.jpg",
+      "publishedAt": "2026-04-08T03:31:22.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-bts-hooligan-mv-out-now-bts-arirang-hooligan",
       "title": "#BTS #방탄소년단 ‘Hooligan' MV OUT NOW #BTS_ARIRANG #Hooligan",
@@ -54,39 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-07T12:00:17.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-grwm-wonhee",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film GRWM 💅 - #WONHEE",
-      "url": "https://www.youtube.com/shorts/97_eKW0B6lk",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-07T12:00:10.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-grwm-moka",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film GRWM 💅 - #MOKA",
-      "url": "https://www.youtube.com/shorts/qVb-bO-fb7U",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-07T12:00:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-grwm-yunah",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film GRWM 💅 - #YUNAH",
-      "url": "https://www.youtube.com/shorts/CQj0QFx-2w0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-07T12:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     }
