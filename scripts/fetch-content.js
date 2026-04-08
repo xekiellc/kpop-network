@@ -97,35 +97,31 @@ const REDDIT_FEEDS = [
 ];
 
 // ── NEWSAPI QUERIES PER BUCKET ─────────────────────────────
-// Each entry: { query, bucket }
-// Queries are spread across buckets so each gets dedicated coverage.
-// Total queries: 5 bts + 8 hybe + 6 kpop = 19 queries × 20 results = up to 380 raw articles.
-// NewsAPI free tier = 100 req/day. Two runs/day = 50 req/run. Safe at 19 queries/run.
 const NEWSAPI_QUERIES = [
   // BTS bucket
-  { query: 'BTS kpop',               bucket: 'bts' },
-  { query: 'Bangtan Boys',           bucket: 'bts' },
-  { query: 'BTS Jungkook',           bucket: 'bts' },
-  { query: 'BTS Jimin solo',         bucket: 'bts' },
-  { query: 'BTS Jin Suga J-Hope',    bucket: 'bts' },
+  { query: 'BTS kpop',                bucket: 'bts' },
+  { query: 'Bangtan Boys',            bucket: 'bts' },
+  { query: 'BTS Jungkook',            bucket: 'bts' },
+  { query: 'BTS Jimin solo',          bucket: 'bts' },
+  { query: 'BTS Jin Suga J-Hope',     bucket: 'bts' },
 
-  // HYBE bucket — one query per group so none get starved
-  { query: 'HYBE kpop',              bucket: 'hybe' },
+  // HYBE bucket
+  { query: 'HYBE kpop',               bucket: 'hybe' },
   { query: 'TXT Tomorrow X Together', bucket: 'hybe' },
-  { query: 'ENHYPEN kpop',           bucket: 'hybe' },
-  { query: 'LE SSERAFIM kpop',       bucket: 'hybe' },
-  { query: 'ILLIT kpop',             bucket: 'hybe' },
-  { query: 'BOYNEXTDOOR kpop',       bucket: 'hybe' },
-  { query: 'SEVENTEEN kpop',         bucket: 'hybe' },  // HYBE artist, boosts hybe
-  { query: 'NewJeans kpop',          bucket: 'hybe' },  // HYBE artist, boosts hybe
+  { query: 'ENHYPEN kpop',            bucket: 'hybe' },
+  { query: 'LE SSERAFIM kpop',        bucket: 'hybe' },
+  { query: 'ILLIT kpop',              bucket: 'hybe' },
+  { query: 'BOYNEXTDOOR kpop',        bucket: 'hybe' },
+  { query: 'SEVENTEEN kpop',          bucket: 'hybe' },
+  { query: 'NewJeans kpop',           bucket: 'hybe' },
 
   // KPOP bucket
-  { query: 'kpop music',             bucket: 'kpop' },
-  { query: 'BLACKPINK kpop',         bucket: 'kpop' },
-  { query: 'Stray Kids kpop',        bucket: 'kpop' },
-  { query: 'TWICE kpop',             bucket: 'kpop' },
-  { query: 'ATEEZ kpop',             bucket: 'kpop' },
-  { query: 'aespa kpop',             bucket: 'kpop' },
+  { query: 'kpop music',              bucket: 'kpop' },
+  { query: 'BLACKPINK kpop',          bucket: 'kpop' },
+  { query: 'Stray Kids kpop',         bucket: 'kpop' },
+  { query: 'TWICE kpop',              bucket: 'kpop' },
+  { query: 'ATEEZ kpop',              bucket: 'kpop' },
+  { query: 'aespa kpop',              bucket: 'kpop' },
 ];
 
 // ── MAIN ───────────────────────────────────────────────────
@@ -147,7 +143,6 @@ async function main() {
     article.group = match ? match.id : 'kpop';
     const bucket = match ? match.bucket : 'kpop';
     buckets[bucket].push(article);
-    // Mirror non-kpop articles into kpop bucket too
     if (bucket !== 'kpop') buckets['kpop'].push({ ...article });
   }
 
@@ -157,7 +152,6 @@ async function main() {
     const newsApiResults = await fetchNewsAPI();
     console.log(`   Found ${newsApiResults.bts.length} BTS, ${newsApiResults.hybe.length} HYBE, ${newsApiResults.kpop.length} KPOP articles from NewsAPI`);
 
-    // BTS articles go to bts bucket + kpop mirror
     for (const article of newsApiResults.bts) {
       const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
       article.group = match ? match.id : 'bts';
@@ -165,7 +159,6 @@ async function main() {
       buckets['kpop'].push({ ...article });
     }
 
-    // HYBE articles go to hybe bucket + kpop mirror
     for (const article of newsApiResults.hybe) {
       const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
       article.group = match ? match.id : 'hybe';
@@ -173,7 +166,6 @@ async function main() {
       buckets['kpop'].push({ ...article });
     }
 
-    // KPOP articles stay in kpop + try to match into bts/hybe
     for (const article of newsApiResults.kpop) {
       const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
       article.group = match ? match.id : 'kpop';
@@ -202,16 +194,20 @@ async function main() {
   }
 
   // ── GENERATE AI SUMMARIES ────────────────────────────────
+  // Capped at 5 per bucket (15 total) to keep runtime under 6 minutes
   if (ANTHROPIC_API_KEY) {
-    console.log('\n🤖 Generating AI summaries...');
+    console.log('\n🤖 Generating AI summaries (max 5 per bucket)...');
     for (const bucket of ['bts', 'hybe', 'kpop']) {
-      const articles = buckets[bucket].slice(0, 20);
-      for (const article of articles) {
+      let summaryCount = 0;
+      for (const article of buckets[bucket]) {
+        if (summaryCount >= 5) break;
         if (!article.summary && article.title) {
           article.summary = await generateSummary(article.title, article.description);
+          summaryCount++;
           await sleep(300);
         }
       }
+      console.log(`   ✅ ${bucket}: generated ${summaryCount} summaries`);
     }
   }
 
@@ -421,7 +417,7 @@ async function generateSummary(title, description) {
           'anthropic-version': '2023-06-01',
           'content-type': 'application/json',
         },
-        timeout: 15000,
+        timeout: 8000,
       }
     );
     return res.data?.content?.[0]?.text?.trim() || '';
