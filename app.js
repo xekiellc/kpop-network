@@ -25,6 +25,7 @@ let state = {
   archive: [],
   articlesPage: 1,
   isLoading: false,
+  lastUpdatedAt: null,
 };
 
 // ── INIT ───────────────────────────────────────────────────
@@ -120,11 +121,9 @@ function renderHeader(site) {
   taglineEl.textContent = site.tagline;
   footerLogoEl.textContent = site.name;
 
-  // Apply logo and tagline colors from theme
   logoEl.style.color = site.theme.logoColor || site.theme.primary;
   taglineEl.style.color = site.theme.taglineColor || site.theme.textMuted;
 
-  // Newsletter bar
   document.getElementById('newsletter-text').textContent =
     `Get ${site.name} news in your inbox — free weekly digest`;
   const nbtn = document.getElementById('newsletter-btn');
@@ -500,7 +499,11 @@ function updateStats(data) {
   document.getElementById('stat-groups').textContent = state.allGroups.length || '28';
 
   if (data && data.updatedAt) {
-    document.getElementById('stat-updated').textContent = formatTimeAgo(data.updatedAt);
+    const ago = formatTimeAgo(data.updatedAt);
+    document.getElementById('stat-updated').textContent = ago;
+    state.lastUpdatedAt = data.updatedAt;
+  } else if (state.lastUpdatedAt) {
+    document.getElementById('stat-updated').textContent = formatTimeAgo(state.lastUpdatedAt);
   } else {
     document.getElementById('stat-updated').textContent = 'Daily';
   }
