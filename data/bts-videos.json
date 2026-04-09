@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-08T21:21:29.364Z",
+  "updatedAt": "2026-04-09T07:26:36.665Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "are-you-ready-to-take-that-fearless-step-",
+      "title": "Are you ready to take that FEARLESS step?",
+      "url": "https://www.youtube.com/shorts/HdYlctk_ak4",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-09T00:27:54.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "katseye-pinky-up-official-mv-teaser-3",
       "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV Teaser 3",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-07T12:00:22.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-grwm-iroha",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film GRWM 💅 - #IROHA",
-      "url": "https://www.youtube.com/shorts/1_xiLc1CIoI",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-07T12:00:17.000Z",
       "group": "bts",
       "bucket": "bts"
     }
