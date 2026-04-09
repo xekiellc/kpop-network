@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-04-09T07:26:36.665Z",
+  "updatedAt": "2026-04-09T18:46:52.766Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "pinky-up-song-and-official-video-out-now-katseye-pinkyup-katseye-pinkyup",
+      "title": "PINKY UP!! song and official video out now 🩷 #KATSEYE_PINKYUP #KATSEYE #PINKYUP",
+      "url": "https://www.youtube.com/shorts/-PKlaysylPA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-09T16:04:30.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "7F1ET2XHQfk",
+      "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV",
+      "url": "https://www.youtube.com/watch?v=7F1ET2XHQfk",
+      "videoId": "7F1ET2XHQfk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/7F1ET2XHQfk/mqdefault.jpg",
+      "publishedAt": "2026-04-09T15:59:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "X9eaXA2a-Zw",
+      "title": "&TEAM 'We on Fire' Official MV Teaser",
+      "url": "https://www.youtube.com/watch?v=X9eaXA2a-Zw",
+      "videoId": "X9eaXA2a-Zw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/X9eaXA2a-Zw/mqdefault.jpg",
+      "publishedAt": "2026-04-09T15:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "are-you-ready-to-take-that-fearless-step-",
       "title": "Are you ready to take that FEARLESS step?",
@@ -25,17 +58,6 @@
       "bucket": "bts"
     },
     {
-      "id": "7F1ET2XHQfk",
-      "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV",
-      "url": "https://www.youtube.com/watch?v=7F1ET2XHQfk",
-      "videoId": "7F1ET2XHQfk",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/7F1ET2XHQfk/mqdefault.jpg",
-      "publishedAt": "2026-04-08T03:31:22.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
       "id": "-bts-hooligan-mv-out-now-bts-arirang-hooligan",
       "title": "#BTS #방탄소년단 ‘Hooligan' MV OUT NOW #BTS_ARIRANG #Hooligan",
       "url": "https://www.youtube.com/shorts/BHoSWSU5jfo",
@@ -54,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/diBO0gMuTXo/mqdefault.jpg",
       "publishedAt": "2026-04-07T15:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-grwm-illit",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film GRWM 💅 - #ILLIT",
-      "url": "https://www.youtube.com/shorts/MsISuYnx3Hs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-07T12:00:27.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-grwm-minju",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film GRWM 💅 - #MINJU",
-      "url": "https://www.youtube.com/shorts/NLJJ0gW1AQ4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-07T12:00:22.000Z",
       "group": "bts",
       "bucket": "bts"
     }
