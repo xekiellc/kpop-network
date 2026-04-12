@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-04-12T07:18:02.277Z",
+  "updatedAt": "2026-04-12T18:32:31.974Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "8hU6P7MmRyk",
+      "title": "&TEAM 'We on Fire' Official MV",
+      "url": "https://www.youtube.com/watch?v=8hU6P7MmRyk",
+      "videoId": "8hU6P7MmRyk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/8hU6P7MmRyk/mqdefault.jpg",
+      "publishedAt": "2026-04-12T15:00:04.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "_BdxC8X3548",
+      "title": "LE SSERAFIM (르세라핌) PUREFLOW",
+      "url": "https://www.youtube.com/watch?v=_BdxC8X3548",
+      "videoId": "_BdxC8X3548",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/_BdxC8X3548/mqdefault.jpg",
+      "publishedAt": "2026-04-12T15:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-shinyu",
+      "title": "오늘의 운세 #SHINYU",
+      "url": "https://www.youtube.com/shorts/HzZ_eol46ns",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-12T15:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "Ywg0nhGb2R4",
+      "title": "&TEAM 'We on Fire' Character Film",
+      "url": "https://www.youtube.com/watch?v=Ywg0nhGb2R4",
+      "videoId": "Ywg0nhGb2R4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/Ywg0nhGb2R4/mqdefault.jpg",
+      "publishedAt": "2026-04-12T10:00:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "txt-stick-with-you-official-teaser",
       "title": "TXT (투모로우바이투게더) '하루에 하루만 더 (Stick With You)' Official Teaser",
@@ -32,50 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-09T16:04:30.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "7F1ET2XHQfk",
-      "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV",
-      "url": "https://www.youtube.com/watch?v=7F1ET2XHQfk",
-      "videoId": "7F1ET2XHQfk",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/7F1ET2XHQfk/mqdefault.jpg",
-      "publishedAt": "2026-04-09T15:59:07.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "X9eaXA2a-Zw",
-      "title": "&TEAM 'We on Fire' Official MV Teaser",
-      "url": "https://www.youtube.com/watch?v=X9eaXA2a-Zw",
-      "videoId": "X9eaXA2a-Zw",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/X9eaXA2a-Zw/mqdefault.jpg",
-      "publishedAt": "2026-04-09T15:00:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "are-you-ready-to-take-that-fearless-step-",
-      "title": "Are you ready to take that FEARLESS step?",
-      "url": "https://www.youtube.com/shorts/HdYlctk_ak4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-09T00:27:54.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "katseye-pinky-up-official-mv-teaser-3",
-      "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV Teaser 3",
-      "url": "https://www.youtube.com/shorts/SXjeEBCyo7E",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-08T16:00:19.000Z",
       "group": "bts",
       "bucket": "bts"
     }
