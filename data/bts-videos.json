@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-04-09T18:46:52.766Z",
+  "updatedAt": "2026-04-12T07:18:02.277Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "txt-stick-with-you-official-teaser",
+      "title": "TXT (투모로우바이투게더) '하루에 하루만 더 (Stick With You)' Official Teaser",
+      "url": "https://www.youtube.com/shorts/YpJ5RQIu7_w",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-10T15:00:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "kYknScS9gPc",
+      "title": "TWS (투어스) 'OPENING SONNET : star-cross'd lovers'",
+      "url": "https://www.youtube.com/watch?v=kYknScS9gPc",
+      "videoId": "kYknScS9gPc",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/kYknScS9gPc/mqdefault.jpg",
+      "publishedAt": "2026-04-10T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "pinky-up-song-and-official-video-out-now-katseye-pinkyup-katseye-pinkyup",
       "title": "PINKY UP!! song and official video out now 🩷 #KATSEYE_PINKYUP #KATSEYE #PINKYUP",
@@ -54,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-08T16:00:19.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-bts-hooligan-mv-out-now-bts-arirang-hooligan",
-      "title": "#BTS #방탄소년단 ‘Hooligan' MV OUT NOW #BTS_ARIRANG #Hooligan",
-      "url": "https://www.youtube.com/shorts/BHoSWSU5jfo",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-07T15:01:38.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "diBO0gMuTXo",
-      "title": "BTS (방탄소년단) 'Hooligan' Official MV",
-      "url": "https://www.youtube.com/watch?v=diBO0gMuTXo",
-      "videoId": "diBO0gMuTXo",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/diBO0gMuTXo/mqdefault.jpg",
-      "publishedAt": "2026-04-07T15:00:00.000Z",
       "group": "bts",
       "bucket": "bts"
     }
