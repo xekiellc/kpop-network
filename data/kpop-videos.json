@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T18:32:31.976Z",
+  "updatedAt": "2026-04-13T08:07:50.878Z",
   "bucket": "kpop",
   "videos": [
     {
@@ -47,6 +47,17 @@
       "bucket": "bts"
     },
     {
+      "id": "jOnLqqDRfY4",
+      "title": "TXT (투모로우바이투게더) '하루에 하루만 더 (Stick With You)' Official MV",
+      "url": "https://www.youtube.com/watch?v=jOnLqqDRfY4",
+      "videoId": "jOnLqqDRfY4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/jOnLqqDRfY4/mqdefault.jpg",
+      "publishedAt": "2026-04-11T15:07:53.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
       "id": "txt-stick-with-you-official-teaser",
       "title": "TXT (투모로우바이투게더) '하루에 하루만 더 (Stick With You)' Official Teaser",
       "url": "https://www.youtube.com/shorts/YpJ5RQIu7_w",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/kYknScS9gPc/mqdefault.jpg",
       "publishedAt": "2026-04-10T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "pinky-up-song-and-official-video-out-now-katseye-pinkyup-katseye-pinkyup",
-      "title": "PINKY UP!! song and official video out now 🩷 #KATSEYE_PINKYUP #KATSEYE #PINKYUP",
-      "url": "https://www.youtube.com/shorts/-PKlaysylPA",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-09T16:04:30.000Z",
       "group": "bts",
       "bucket": "bts"
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T18:32:31.975Z",
+  "updatedAt": "2026-04-13T08:07:50.876Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -210,6 +210,17 @@
       "publishedAt": "2026-03-20T10:14:29Z",
       "author": "The Associated Press",
       "group": "bts"
+    },
+    {
+      "id": "podcast-how-valuable-are-agent-skills-conversation-with-larah-vasquez-and-fabriz",
+      "title": "Podcast: How valuable are agent skills? Conversation with Larah Vasquez and Fabrizio Ferri-Benedetti",
+      "url": "https://idratherbewriting.com/blog/ai-skills-agentic-workflows-larah-fabrizio",
+      "source": "Idratherbewriting.com",
+      "description": "In this podcast, I chat with Larah Vasquez and Fabrizio Ferri-Benedetti about using skills to extend AI capabilities, the future of agentic engineering, local models like Qwen and Gemma, and whether the tech writer role is shifting into automation architectur…",
+      "summary": "In this podcast, I chat with Larah Vasquez and Fabrizio Ferri-Benedetti about using skills to extend AI capabilities, the future of agentic engineering, local models like Qwen and Gemma, and whether the tech writer role is shifting into automation architectur…",
+      "publishedAt": "2026-04-12T07:00:00Z",
+      "author": "<a href='/aboutme/'>Tom Johnson</a>",
+      "group": "hybe"
     },
     {
       "id": "kcon-la-lineup-2026-txt-p1harmony-nct-27-more",
@@ -451,17 +462,6 @@
       "summary": "The Boys Season 5 World Premiere was the most-read story on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steeped in a histo…",
       "publishedAt": "2026-03-19T10:57:06Z",
       "author": "Rich Johnston",
-      "group": "hybe"
-    },
-    {
-      "id": "the-official-uk-top-100-singles-chart-2026-03-06-",
-      "title": "The Official UK Top 100 Singles Chart (2026.03.06)",
-      "url": "https://post.rlsbb.to/the-official-uk-top-100-singles-chart-2026-03-06/",
-      "source": "Rlsbb.to",
-      "description": "001. Sam Fender & Olivia Dean - Rein Me In002. Bella Kay - iloveitiloveitiloveit003. Alex Warren - FEVER DREAM [New Entry]004. PinkPantheress - Stateside005. Olivia Dean - So Easy (To Fall In Love)006. Bruno Mars - I Just Might007. sombr - Homewrecker008. Oli…",
-      "summary": "001. Sam Fender & Olivia Dean - Rein Me In002. Bella Kay - iloveitiloveitiloveit003. Alex Warren - FEVER DREAM [New Entry]004. PinkPantheress - Stateside005. Olivia Dean - So Easy (To Fall In Love)006. Bruno Mars - I Just Might007. sombr - Homewrecker008. Oli…",
-      "publishedAt": "2026-03-11T20:21:57Z",
-      "author": "Kingman",
       "group": "hybe"
     },
     {
