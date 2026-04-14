@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-04-13T08:07:50.878Z",
+  "updatedAt": "2026-04-14T07:50:03.103Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-kyungmin",
+      "title": "오늘의 운세 #KYUNGMIN",
+      "url": "https://www.youtube.com/shorts/B5pYzydoMhc",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-13T15:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "IBv4RCuVnkQ",
+      "title": "TOMORROW X TOGETHER '7TH YEAR: 가시덤불에 잠시 바람이 멈췄을 때' COMEBACK SHOWCASE",
+      "url": "https://www.youtube.com/watch?v=IBv4RCuVnkQ",
+      "videoId": "IBv4RCuVnkQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/IBv4RCuVnkQ/mqdefault.jpg",
+      "publishedAt": "2026-04-13T12:29:13.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "txt-stick-with-you-official-mv",
+      "title": "TXT (투모로우바이투게더) '하루에 하루만 더 (Stick With You)' Official MV",
+      "url": "https://www.youtube.com/shorts/iXji_xrrVn8",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-13T09:05:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "8hU6P7MmRyk",
       "title": "&TEAM 'We on Fire' Official MV",
@@ -43,39 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/Ywg0nhGb2R4/mqdefault.jpg",
       "publishedAt": "2026-04-12T10:00:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "jOnLqqDRfY4",
-      "title": "TXT (투모로우바이투게더) '하루에 하루만 더 (Stick With You)' Official MV",
-      "url": "https://www.youtube.com/watch?v=jOnLqqDRfY4",
-      "videoId": "jOnLqqDRfY4",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/jOnLqqDRfY4/mqdefault.jpg",
-      "publishedAt": "2026-04-11T15:07:53.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "txt-stick-with-you-official-teaser",
-      "title": "TXT (투모로우바이투게더) '하루에 하루만 더 (Stick With You)' Official Teaser",
-      "url": "https://www.youtube.com/shorts/YpJ5RQIu7_w",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-10T15:00:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "kYknScS9gPc",
-      "title": "TWS (투어스) 'OPENING SONNET : star-cross'd lovers'",
-      "url": "https://www.youtube.com/watch?v=kYknScS9gPc",
-      "videoId": "kYknScS9gPc",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/kYknScS9gPc/mqdefault.jpg",
-      "publishedAt": "2026-04-10T13:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
