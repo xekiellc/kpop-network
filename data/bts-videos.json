@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-04-15T07:50:48.326Z",
+  "updatedAt": "2026-04-15T18:59:50.692Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-jihoon",
+      "title": "오늘의 운세 #JIHOON",
+      "url": "https://www.youtube.com/shorts/5buDJY7QAA0",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-15T15:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "JFzJcTw4FAk",
+      "title": "&TEAM 3rd EP 『We on Fire』 FAN SHOWCASE (LUNÉ SPECIAL EVENT)",
+      "url": "https://www.youtube.com/watch?v=JFzJcTw4FAk",
+      "videoId": "JFzJcTw4FAk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/JFzJcTw4FAk/mqdefault.jpg",
+      "publishedAt": "2026-04-15T10:50:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "are-you-ready-to-run-together-toward-your-dream-team-has-a-special-message-for-i",
       "title": "Are you ready to run together toward your dream? &TEAM has a special message for India!",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/ZeLWOURKerE/mqdefault.jpg",
       "publishedAt": "2026-04-14T12:00:09.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "yj3rHqebppc",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film FREE RIDER 🏍️ - #YUNAH",
-      "url": "https://www.youtube.com/watch?v=yj3rHqebppc",
-      "videoId": "yj3rHqebppc",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/yj3rHqebppc/mqdefault.jpg",
-      "publishedAt": "2026-04-14T12:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-IGAHVq0idA",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film FREE RIDER 🏍️ - #IROHA",
-      "url": "https://www.youtube.com/watch?v=-IGAHVq0idA",
-      "videoId": "-IGAHVq0idA",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/-IGAHVq0idA/mqdefault.jpg",
-      "publishedAt": "2026-04-14T12:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     }
