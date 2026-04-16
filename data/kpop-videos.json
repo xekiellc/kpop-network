@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-04-16T07:51:01.827Z",
+  "updatedAt": "2026-04-16T18:57:32.874Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-hanjin",
+      "title": "오늘의 운세 #HANJIN",
+      "url": "https://www.youtube.com/shorts/H2RP_f9PYnY",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-16T15:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "EF-1Tm3P2gA",
+      "title": "LE SSERAFIM (르세라핌) 'PUREFLOW' pt.1 TRAILER | We walkin’ here",
+      "url": "https://www.youtube.com/watch?v=EF-1Tm3P2gA",
+      "videoId": "EF-1Tm3P2gA",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/EF-1Tm3P2gA/mqdefault.jpg",
+      "publishedAt": "2026-04-16T15:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-jihoon",
       "title": "오늘의 운세 #JIHOON",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/P1_oBXtNv5Q/mqdefault.jpg",
       "publishedAt": "2026-04-14T12:00:17.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "f-qSIrMq-kM",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film FREE RIDER 🏍️ - #MINJU",
-      "url": "https://www.youtube.com/watch?v=f-qSIrMq-kM",
-      "videoId": "f-qSIrMq-kM",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/f-qSIrMq-kM/mqdefault.jpg",
-      "publishedAt": "2026-04-14T12:00:13.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "ZeLWOURKerE",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film FREE RIDER 🏍️ - #MOKA",
-      "url": "https://www.youtube.com/watch?v=ZeLWOURKerE",
-      "videoId": "ZeLWOURKerE",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/ZeLWOURKerE/mqdefault.jpg",
-      "publishedAt": "2026-04-14T12:00:09.000Z",
       "group": "bts",
       "bucket": "bts"
     },
