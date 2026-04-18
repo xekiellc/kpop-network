@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-04-17T07:50:53.828Z",
+  "updatedAt": "2026-04-18T07:12:08.274Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-youngjae",
+      "title": "오늘의 운세 #YOUNGJAE",
+      "url": "https://www.youtube.com/shorts/r8aBcH0oq0A",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-17T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "cortis-redred-release-date-trailer",
+      "title": "CORTIS (코르티스) 'REDRED' Release Date Trailer",
+      "url": "https://www.youtube.com/shorts/sFba4HIvt-Y",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-17T12:03:57.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-hanjin",
       "title": "오늘의 운세 #HANJIN",
@@ -54,39 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-15T04:30:20.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-dohoon",
-      "title": "오늘의 운세 #DOHOON",
-      "url": "https://www.youtube.com/shorts/h6fcrsLh_n0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-14T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "RQfMznREh34",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film FREE RIDER 🏍️ - #ILLIT",
-      "url": "https://www.youtube.com/watch?v=RQfMznREh34",
-      "videoId": "RQfMznREh34",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/RQfMznREh34/mqdefault.jpg",
-      "publishedAt": "2026-04-14T12:00:21.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "P1_oBXtNv5Q",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film FREE RIDER 🏍️ - #WONHEE",
-      "url": "https://www.youtube.com/watch?v=P1_oBXtNv5Q",
-      "videoId": "P1_oBXtNv5Q",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/P1_oBXtNv5Q/mqdefault.jpg",
-      "publishedAt": "2026-04-14T12:00:17.000Z",
       "group": "bts",
       "bucket": "bts"
     },
