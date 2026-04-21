@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-21T07:55:14.405Z",
+  "updatedAt": "2026-04-21T18:56:06.846Z",
   "bucket": "bts",
   "articles": [
-    {
-      "id": "j-hope-lv-icon-k-pop-s-eternal-sunshine",
-      "title": "j-hope: LV Icon, K-Pop’s Eternal Sunshine",
-      "url": "https://kpoppie.com/j-hope-lv-icon-k-pops-eternal-sunshine/",
-      "source": "Kpoppie",
-      "description": "*Photography courtesy of Esquire Korea, BigHit Music — j-hope, Louis Vuitton. All rights reserved. In the electric glow of Seoul’s neon skyline, j-hope emerges as more than a performer—he’s a beacon. Gracing Esquire Korea’s May 2026 covers in Louis Vuitton finery, the BTS powerhouse redefines K-pop’s fusion of rhythm, rebellion, and runway swagger. From Street Dancer to Global Force Picture a young Jung Ho-seok, threading Gwangju’s bustling streets, body moving like liquid fire to hip-hop beats.",
-      "summary": "J-hope from BTS appears on the cover of Esquire Korea's May 2026 issue wearing Louis Vuitton. The article discusses his journey from street dancer Jung Ho-seok in Gwangju to becoming a global K-pop performer.",
-      "publishedAt": "2026-04-15T08:29:43.000Z",
-      "author": "Kpoppie Editorial Team",
-      "group": "bts"
-    },
     {
       "id": "mega-hits-2026-top-charts-radio-songs-2026-04-17-",
       "title": "Mega Hits 2026 - Top Charts & Radio Songs (2026.04.17)",
@@ -432,6 +421,17 @@
       "group": "bts"
     },
     {
+      "id": "bts-at-metlife-stadium-how-to-get-tickets-for-sold-out-new-york-shows",
+      "title": "BTS at MetLife Stadium: How to Get Tickets for Sold-Out New York Shows",
+      "url": "https://consequence.net/2026/04/bts-metlife-new-york-tickets/",
+      "source": "Consequence.net",
+      "description": "If you missed your chance to buy tickets for BTS's East Rutherford shows, fret not: there are still a few ways to get in before they hit the stage. BTS at MetLife Stadium: How to Get Tickets for Sold-Out New York Shows Consequence Staff",
+      "summary": "If you missed your chance to buy tickets for BTS's East Rutherford shows, fret not: there are still a few ways to get in before they hit the stage. BTS at MetLife Stadium: How to Get Tickets for Sold-Out New York Shows Consequence Staff",
+      "publishedAt": "2026-04-20T13:05:56Z",
+      "author": "Consequence Staff",
+      "group": "bts"
+    },
+    {
       "id": "april-boy-group-member-brand-reputation-rankings-announced",
       "title": "April Boy Group Member Brand Reputation Rankings Announced",
       "url": "http://www.soompi.com/article/1834065wpp/april-boy-group-member-brand-reputation-rankings-announced-8",
@@ -630,17 +630,6 @@
       "group": "bts"
     },
     {
-      "id": "bts-arirang-just-had-the-biggest-group-album-week-since-this-generational-boyban",
-      "title": "BTS ‘Arirang’ Just Had The Biggest Group Album Week Since This Generational Boyband",
-      "url": "https://www.forbes.com/sites/hannahabraham/2026/04/01/bts-arirang-just-had-the-biggest-group-album-week-since-one-direction/",
-      "source": "Forbes",
-      "description": "'Arirang' moved 641,000 equivalent album units in its first week. The last group to come anywhere close did so in 2013.",
-      "summary": "'Arirang' moved 641,000 equivalent album units in its first week. The last group to come anywhere close did so in 2013.",
-      "publishedAt": "2026-04-01T08:41:24Z",
-      "author": "Hannah Abraham, Contributor, \n Hannah Abraham, Contributor\n https://www.forbes.com/sites/hannahabraham/",
-      "group": "bts"
-    },
-    {
       "id": "v-i-gave-my-all-to-create-this-album-",
       "title": "V: ‘I Gave My All to Create This Album’",
       "url": "http://www.rollingstone.com/music/music-features/v-interview-bts-solo-album-1235544831/",
@@ -795,17 +784,6 @@
       "group": "bts"
     },
     {
-      "id": "bts-on-hot-ones-band-sweats-cries-dances-through-hilarious-episode",
-      "title": "BTS on Hot Ones: Band Sweats, Cries, Dances Through Hilarious Episode",
-      "url": "http://www.billboard.com/music/music-news/bts-hot-ones-episode-band-sweats-cries-dances-video-1236218823/",
-      "source": "Billboard",
-      "description": "BTS was on 'Hot Ones,' and the band sweat, cried and danced through the heat of spicy chicken wings on the hilarious episode in this video.",
-      "summary": "BTS was on 'Hot Ones,' and the band sweat, cried and danced through the heat of spicy chicken wings on the hilarious episode in this video.",
-      "publishedAt": "2026-04-09T16:02:19Z",
-      "author": "Hannah Dailey",
-      "group": "bts"
-    },
-    {
       "id": "bts-earns-quintuple-crown-on-circle-weekly-charts-hearts2hearts-tops-streaming-c",
       "title": "BTS Earns Quintuple Crown On Circle Weekly Charts + Hearts2Hearts Tops Streaming Chart",
       "url": "http://www.soompi.com/article/1831321wpp/bts-earns-quintuple-crown-on-circle-weekly-charts-hearts2hearts-tops-streaming-chart",
@@ -869,6 +847,39 @@
       "summary": "Shares in Hybe, the parent company of South Korean boyband BTS, fell 15% on Monday as their much-anticipated comeback drew a smaller crowd than expected.",
       "publishedAt": "2026-03-23T15:55:34Z",
       "author": "Joseph Wilkins",
+      "group": "bts"
+    },
+    {
+      "id": "j-hope-lv-icon-k-pop-s-eternal-sunshine",
+      "title": "j-hope: LV Icon, K-Pop’s Eternal Sunshine",
+      "url": "https://kpoppie.com/j-hope-lv-icon-k-pops-eternal-sunshine/",
+      "source": "Kpoppie",
+      "description": "*Photography courtesy of Esquire Korea, BigHit Music — j-hope, Louis Vuitton. All rights reserved. In the electric glow of Seoul’s neon skyline, j-hope emerges as more than a performer—he’s a beacon. Gracing Esquire Korea’s May 2026 covers in Louis Vuitton finery, the BTS powerhouse redefines K-pop’s fusion of rhythm, rebellion, and runway swagger. From Street Dancer to Global Force Picture a young Jung Ho-seok, threading Gwangju’s bustling streets, body moving like liquid fire to hip-hop beats.",
+      "summary": "J-hope from BTS appears on the cover of Esquire Korea's May 2026 issue wearing Louis Vuitton. The article discusses his journey from street dancer Jung Ho-seok in Gwangju to becoming a global K-pop performer.",
+      "publishedAt": "2026-04-15T08:29:43.000Z",
+      "author": "Kpoppie Editorial Team",
+      "group": "bts"
+    },
+    {
+      "id": "bts-arirang-just-had-the-biggest-group-album-week-since-this-generational-boyban",
+      "title": "BTS ‘Arirang’ Just Had The Biggest Group Album Week Since This Generational Boyband",
+      "url": "https://www.forbes.com/sites/hannahabraham/2026/04/01/bts-arirang-just-had-the-biggest-group-album-week-since-one-direction/",
+      "source": "Forbes",
+      "description": "'Arirang' moved 641,000 equivalent album units in its first week. The last group to come anywhere close did so in 2013.",
+      "summary": "'Arirang' moved 641,000 equivalent album units in its first week. The last group to come anywhere close did so in 2013.",
+      "publishedAt": "2026-04-01T08:41:24Z",
+      "author": "Hannah Abraham, Contributor, \n Hannah Abraham, Contributor\n https://www.forbes.com/sites/hannahabraham/",
+      "group": "bts"
+    },
+    {
+      "id": "bts-on-hot-ones-band-sweats-cries-dances-through-hilarious-episode",
+      "title": "BTS on Hot Ones: Band Sweats, Cries, Dances Through Hilarious Episode",
+      "url": "http://www.billboard.com/music/music-news/bts-hot-ones-episode-band-sweats-cries-dances-video-1236218823/",
+      "source": "Billboard",
+      "description": "BTS was on 'Hot Ones,' and the band sweat, cried and danced through the heat of spicy chicken wings on the hilarious episode in this video.",
+      "summary": "BTS was on 'Hot Ones,' and the band sweat, cried and danced through the heat of spicy chicken wings on the hilarious episode in this video.",
+      "publishedAt": "2026-04-09T16:02:19Z",
+      "author": "Hannah Dailey",
       "group": "bts"
     },
     {
