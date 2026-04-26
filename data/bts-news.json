@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-04-26T07:43:22.672Z",
+  "updatedAt": "2026-04-26T18:36:14.264Z",
   "bucket": "bts",
   "articles": [
+    {
+      "id": "cortis-enhypen-bts-txt-stray-kids-newjeans-ateez-and-p1harmony-sweep-top-spots-o",
+      "title": "CORTIS, ENHYPEN, BTS, TXT, Stray Kids, NewJeans, ATEEZ, And P1Harmony Sweep Top Spots On Billboard World Albums Chart",
+      "url": "https://www.soompi.com/article/1836273wpp/cortis-enhypen-bts-txt-stray-kids-newjeans-ateez-and-p1harmony-sweep-top-spots-on-billboard-world-albums-chart",
+      "source": "Soompi",
+      "description": "Billboard has published its World Albums chart for the week ending on April 25! Seven months after its release, CORTIS topped the World Albums chart for the first time with their debut EP “COLOR OUTSIDE THE LINES,” which rose to No. 1 in its 32nd week. ENHYPEN’s latest mini album “THE SIN : VANISH” stayed… Continue reading CORTIS, ENHYPEN, BTS, TXT, Stray Kids, NewJeans, ATEEZ, And P1Harmony Sweep Top Spots On Billboard World Albums Chart The post CORTIS, ENHYPEN, BTS, TXT, Stray Kids, NewJeans,",
+      "summary": "CORTIS topped the Billboard World Albums chart for the first time with their debut EP \"COLOR OUTSIDE THE LINES\" after 32 weeks, while other K-pop acts including ENHYPEN, BTS, TXT, Stray Kids, NewJeans, ATEEZ, and P1Harmony occupied the remaining top positions for the week ending April 25.",
+      "publishedAt": "2026-04-26T18:00:31.000Z",
+      "author": "E Cha",
+      "group": "bts"
+    },
     {
       "id": "bts-s-swim-rises-to-new-peak-on-billboard-s-pop-radio-airplay-chart-tops-global-",
       "title": "BTS’s “SWIM” Rises To New Peak On Billboard’s Pop Radio Airplay Chart + Tops Global 200 For 4th Week",
       "url": "https://www.soompi.com/article/1836136wpp/btss-swim-rises-to-new-peak-on-billboards-pop-radio-airplay-chart-tops-global-200-for-4th-week",
       "source": "Soompi",
       "description": "BTS’s latest hit is on the rise on U.S. radio! This week, BTS’s title track “SWIM” climbed to a new peak of No. 13 in its fourth week on Billboard’s Pop Airplay chart, which measures weekly plays on mainstream Top 40 radio stations across the United States. “SWIM” also continued to top multiple Billboard charts,… Continue reading BTS’s “SWIM” Rises To New Peak On Billboard’s Pop Radio Airplay Chart + Tops Global 200 For 4th Week The post BTS’s “SWIM” Rises To New Peak On Billboard’s Pop Radio Ai",
-      "summary": "BTS's song \"SWIM\" reached a new peak at No. 13 on Billboard's Pop Airplay chart in its fourth week and continued to top the Global 200 chart for the fourth consecutive week.",
+      "summary": "BTS's song \"SWIM\" reached a new peak at No. 13 on Billboard's Pop Airplay chart in its fourth week while continuing to top the Global 200 chart for the fourth consecutive week.",
       "publishedAt": "2026-04-26T03:48:01.000Z",
       "author": "E Cha",
+      "group": "bts"
+    },
+    {
+      "id": "here-s-every-song-bts-played-at-their-first-u-s-show-in-four-years-full-tampa-ni",
+      "title": "Here’s Every Song BTS Played at Their First U.S. Show In Four Years: Full Tampa Night 1 Setlist",
+      "url": "https://www.billboard.com/lists/bts-setlist-every-song-arirang-tour-tampa/",
+      "source": "Billboard",
+      "description": "The septet brought old hits, a couple of surprises and nearly every track off ARIRANG to Tampa, Fla.",
+      "summary": "BTS performed their first U.S. concert in four years in Tampa, Florida, featuring a setlist that included classic hits, surprise songs, and nearly all tracks from their album ARIRANG.",
+      "publishedAt": "2026-04-26T10:04:32.000Z",
+      "author": "Abigail Webster",
       "group": "bts"
     },
     {
@@ -146,17 +168,6 @@
       "group": "twice"
     },
     {
-      "id": "taylor-swift-leads-2026-american-music-awards-nominations",
-      "title": "Taylor Swift Leads 2026 American Music Awards Nominations",
-      "url": "http://www.rollingstone.com/music/music-news/2026-ama-awards-nominations-1235546448/",
-      "source": "Rolling Stone",
-      "description": "The American Music Awards will return this year for its 52nd iteration and will kick off on May 25.",
-      "summary": "The American Music Awards will return this year for its 52nd iteration and will kick off on May 25.",
-      "publishedAt": "2026-04-14T12:00:00Z",
-      "author": "Charisma Madarang",
-      "group": "twice"
-    },
-    {
       "id": "taylor-swift-leads-american-music-awards-nominations-including-for-artist-of-the",
       "title": "Taylor Swift Leads American Music Awards Nominations Including For Artist Of The Year",
       "url": "http://deadline.com/2026/04/american-music-awards-nominations-2026-1236859560/",
@@ -165,6 +176,17 @@
       "summary": "Taylor Swift, the winningest artist in the history of the American Music Awards with 40 trophies, has been nominated for another eight in categories including Artist of the Year, Album of the Year (The Life of a Showgirl), Song of the Year (“The Fate of Ophel…",
       "publishedAt": "2026-04-14T12:00:00Z",
       "author": "Greg Evans",
+      "group": "twice"
+    },
+    {
+      "id": "taylor-swift-leads-2026-american-music-awards-nominations",
+      "title": "Taylor Swift Leads 2026 American Music Awards Nominations",
+      "url": "http://www.rollingstone.com/music/music-news/2026-ama-awards-nominations-1235546448/",
+      "source": "Rolling Stone",
+      "description": "The American Music Awards will return this year for its 52nd iteration and will kick off on May 25.",
+      "summary": "The American Music Awards will return this year for its 52nd iteration and will kick off on May 25.",
+      "publishedAt": "2026-04-14T12:00:00Z",
+      "author": "Charisma Madarang",
       "group": "twice"
     },
     {
@@ -638,28 +660,6 @@
       "summary": "If you missed your initial chance to buy tickets for BTS's Chicago shows, there are still a few ways to get in before they hit the stage. BTS Is Coming to Chicago and It’s Sold Out: How You Can Still Get Tickets Consequence Staff",
       "publishedAt": "2026-04-07T18:16:29Z",
       "author": "Consequence Staff",
-      "group": "bts"
-    },
-    {
-      "id": "bts-is-coming-to-tampa-and-it-s-sold-out-how-you-can-still-get-tickets",
-      "title": "BTS Is Coming to Tampa and It’s Sold Out: How You Can Still Get Tickets",
-      "url": "https://consequence.net/2026/04/bts-tampa-arirang-tour-tickets/",
-      "source": "Consequence.net",
-      "description": "If you missed your initial chance to buy tickets for BTS's Tampa shows, there are still a few ways to get in before they hit the stage. BTS Is Coming to Tampa and It’s Sold Out: How You Can Still Get Tickets Consequence Staff",
-      "summary": "If you missed your initial chance to buy tickets for BTS's Tampa shows, there are still a few ways to get in before they hit the stage. BTS Is Coming to Tampa and It’s Sold Out: How You Can Still Get Tickets Consequence Staff",
-      "publishedAt": "2026-04-07T16:33:34Z",
-      "author": "Consequence Staff",
-      "group": "bts"
-    },
-    {
-      "id": "bts-back-in-full-force-arirang-album-soars-as-world-tour-kicks-off-amid-massive-",
-      "title": "BTS Back in Full Force: 'Arirang' Album Soars as World Tour Kicks Off Amid Massive ARMY Reunion",
-      "url": "https://www.ibtimes.com.au/bts-back-full-force-arirang-album-soars-world-tour-kicks-off-amid-massive-army-reunion-1865625",
-      "source": "Ibtimes.com.au",
-      "description": "SEOUL, South Korea — After nearly four years of military service, solo projects and eager anticipation from millions of fans worldwide, BTS has officially returned as a full group with the March 20, 2026 release of their highly anticipated fifth studio album …",
-      "summary": "SEOUL, South Korea — After nearly four years of military service, solo projects and eager anticipation from millions of fans worldwide, BTS has officially returned as a full group with the March 20, 2026 release of their highly anticipated fifth studio album …",
-      "publishedAt": "2026-04-07T05:04:49Z",
-      "author": "Esther Chu",
       "group": "bts"
     }
   ]

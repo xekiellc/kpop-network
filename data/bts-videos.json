@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-26T07:43:22.672Z",
+  "updatedAt": "2026-04-26T18:36:14.264Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "MiO16KlMPaU",
+      "title": "TWS (투어스) '널 따라가 (You, You)' Official MV",
+      "url": "https://www.youtube.com/watch?v=MiO16KlMPaU",
+      "videoId": "MiO16KlMPaU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/MiO16KlMPaU/mqdefault.jpg",
+      "publishedAt": "2026-04-25T13:05:14.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "tws-you-you-official-teaser-2",
       "title": "TWS (투어스) '널 따라가 (You, You)' Official Teaser 2",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-24T12:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-it-s-me-illit",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film IT’S ME 🫵 - #ILLIT",
-      "url": "https://www.youtube.com/shorts/cPINQzQTqqM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-24T12:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     }
