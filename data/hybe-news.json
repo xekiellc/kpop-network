@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-04-25T07:21:06.723Z",
+  "updatedAt": "2026-04-26T07:43:22.673Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "txt-makes-history-as-1st-foreign-artist-to-top-oricon-weekly-chart-with-14-conse",
+      "title": "TXT Makes History As 1st Foreign Artist To Top Oricon Weekly Chart With 14 Consecutive Albums",
+      "url": "https://www.soompi.com/article/1836132wpp/txt-makes-history-as-1st-foreign-artist-to-top-oricon-weekly-chart-with-14-consecutive-albums",
+      "source": "Soompi",
+      "description": "TXT has successfully continued their record-breaking streak on Japan’s Oricon charts! This week, Oricon announced that TXT’s latest mini album “7TH YEAR: A Moment of Stillness in the Thorns” had debuted at No. 1 on its weekly album chart. As a result, TXT has now become the first foreign artist in history to top Oricon’s… Continue reading TXT Makes History As 1st Foreign Artist To Top Oricon Weekly Chart With 14 Consecutive Albums The post TXT Makes History As 1st Foreign Artist To Top Oricon We",
+      "summary": "TXT's latest mini album \"7TH YEAR: A Moment of Stillness in the Thorns\" debuted at No. 1 on Japan's Oricon weekly album chart, making them the first foreign artist to achieve 14 consecutive chart-topping albums on the platform.",
+      "publishedAt": "2026-04-26T02:52:39.000Z",
+      "author": "E Cha",
+      "group": "txt"
+    },
+    {
+      "id": "watch-txt-takes-1st-ever-music-core-win-with-stick-with-you-performances-by-le-s",
+      "title": "Watch: TXT Takes 1st-Ever “Music Core” Win With “Stick With You”; Performances By LE SSERAFIM, NCT WISH, CORTIS, And More",
+      "url": "https://www.soompi.com/article/1836115wpp/watch-txt-takes-1st-ever-music-core-win-with-stick-with-you-performances-by-le-sserafim-nct-wish-cortis-and-more",
+      "source": "Soompi",
+      "description": "TXT has won a fourth music show trophy for “Stick With You”! On the April 25 episode of MBC’s “Music Core,” the candidates for first place were AKMU’s “Joy, Sorrow, A Beautiful Heart,” TXT’s “Stick With You,” and PLAVE’s “Born Savage.” TXT ultimately took the win with a total of 8,308 points, marking their very… Continue reading Watch: TXT Takes 1st-Ever “Music Core” Win With “Stick With You”; Performances By LE SSERAFIM, NCT WISH, CORTIS, And More The post Watch: TXT Takes 1st-Ever “Music Core”",
+      "summary": "TXT won their first-ever \"Music Core\" trophy with \"Stick With You\" on the April 25 episode, earning 8,308 points and marking their fourth music show win for the song. The episode also featured performances by LE SSERAFIM, NCT WISH, CORTIS, and other artists.",
+      "publishedAt": "2026-04-25T22:58:24.000Z",
+      "author": "E Cha",
+      "group": "txt"
+    },
     {
       "id": "watch-txt-takes-3rd-win-for-stick-with-you-on-music-bank-performances-by-le-sser",
       "title": "Watch: TXT Takes 3rd Win For “Stick With You” On “Music Bank”; Performances By LE SSERAFIM, UNCHILD, And More",
       "url": "https://www.soompi.com/article/1835915wpp/watch-txt-takes-3rd-win-for-stick-with-you-on-music-bank-performances-by-le-sserafim-unchild-and-more",
       "source": "Soompi",
       "description": "TXT has won their third music show trophy for “Stick With You”! On the April 24 episode of “Music Bank,” the candidates for first place were TXT’s “Stick With You” and PLAVE’s “Born Savage.” TXT ultimately took the prize with a total of 10,515 points. Congratulations to TXT! Watch the winner announcement and encore below! Performers on… Continue reading Watch: TXT Takes 3rd Win For “Stick With You” On “Music Bank”; Performances By LE SSERAFIM, UNCHILD, And More The post Watch: TXT Takes 3rd Win ",
-      "summary": "TXT won their third music show trophy for \"Stick With You\" on the April 24 episode of \"Music Bank,\" defeating PLAVE's \"Born Savage\" with a total of 10,515 points. The episode also featured performances by LE SSERAFIM, UNCHILD, and other artists.",
+      "summary": "TXT won their third music show trophy for \"Stick With You\" on the April 24 episode of \"Music Bank,\" defeating PLAVE's \"Born Savage\" with 10,515 points. The episode also featured performances by LE SSERAFIM, UNCHILD, and other artists.",
       "publishedAt": "2026-04-24T12:08:55.000Z",
       "author": "MLim",
       "group": "txt"
-    },
-    {
-      "id": "le-sserafim-s-celebration-kicks-off-a-new-personal-era-billboard-news",
-      "title": "LE SSERAFIM’s ‘CELEBRATION’ Kicks Off a New & Personal Era | Billboard News",
-      "url": "https://www.billboard.com/video/le-sserafims-celebration-kicks-off-a-new-personal-era/",
-      "source": "Billboard",
-      "description": "Tetris Kelly caught up with LE SSERAFIM in Seoul, South Korea, and the girls have a “CELEBRATION” that launches them into a new era. They tease what to expect from their upcoming studio album, their experience of their first VR concert, the surprise they felt when “SPAGHETTI” popped off, working with BTS’ J-HOPE on the […]",
-      "summary": "LE SSERAFIM discussed their new song \"CELEBRATION\" and upcoming studio album in an interview with Billboard in Seoul, also sharing their experiences with their first VR concert and collaboration with BTS' J-HOPE.",
-      "publishedAt": "2026-04-24T21:19:51.000Z",
-      "author": "Katie Cao",
-      "group": "lesserafim"
-    },
-    {
-      "id": "the-best-ticketing-sites-to-find-affordable-tickets-to-ariana-grande-foo-fighter",
-      "title": "The Best Ticketing Sites to Find Affordable Tickets to Ariana Grande, Foo Fighters & ENHYPEN",
-      "url": "https://www.billboard.com/culture/product-recommendations/best-cheap-tickets-sites-1235380283/",
-      "source": "Billboard",
-      "description": "Whether you're a fan of pop, rock, country or all of the above, these resale sites will have discounted tickets to shows.",
-      "summary": "This article provides recommendations for ticketing resale websites where fans can find discounted tickets to concerts by various artists including Ariana Grande, Foo Fighters, and ENHYPEN across multiple music genres.",
-      "publishedAt": "2026-04-24T20:36:14.000Z",
-      "author": "Kyle Hodge",
-      "group": "enhypen"
     },
     {
       "id": "founder-of-agency-behind-k-pop-s-bts-faces-arrest-over-alleged-fraud",
@@ -107,7 +107,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/coachella-2026-katseye-bini-taemin-shinee-581476",
       "source": "CNA",
       "description": "",
-      "summary": "I cannot provide a summary of this article as only the title is provided and the description is listed as \"N/A,\" meaning there is no article content available to summarize.",
+      "summary": "The article reports on Asian and Asian-adjacent music acts, including SHINee's Taemin, KATSEYE, and BINI, performing at Coachella 2026.",
       "publishedAt": "2026-04-13T02:21:00Z",
       "author": "",
       "group": "hybe"
@@ -220,17 +220,6 @@
       "summary": "KCON LA has dropped its lineup for 2026, featuring P1Harmony, TOMORROW X TOGETHER, NCT 127 and more.",
       "publishedAt": "2026-03-26T22:03:42Z",
       "author": "Hannah Dailey",
-      "group": "txt"
-    },
-    {
-      "id": "tomorrow-x-together-ppulbatu-ppulbatu-cafe-2026-in-japan-",
-      "title": "TOMORROW X TOGETHERの公式キャラクター「PPULBATU」のテーマカフェが今年も開催決定！「PPULBATU CAFE 2026 in JAPAN」期間限定オープン！！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000288.000086964.html",
-      "source": "Prtimes.jp",
-      "description": "[株式会社エルティーアール] [画像1: https://prcdn.freetls.fastly.net/release_image/86964/288/86964-288-19c6f97a27605adf13ce0493c9abcb77-1280x826.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-      "summary": "[株式会社エルティーアール] [画像1: https://prcdn.freetls.fastly.net/release_image/86964/288/86964-288-19c6f97a27605adf13ce0493c9abcb77-1280x826.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-      "publishedAt": "2026-03-25T04:40:42Z",
-      "author": "",
       "group": "txt"
     },
     {
