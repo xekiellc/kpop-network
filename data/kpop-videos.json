@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-26T18:36:14.266Z",
+  "updatedAt": "2026-04-27T08:29:27.533Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-sDDl7IkWOc",
+      "title": "LE SSERAFIM (르세라핌) 'CELEBRATION (Karaoke ver.)' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=-sDDl7IkWOc",
+      "videoId": "-sDDl7IkWOc",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/-sDDl7IkWOc/mqdefault.jpg",
+      "publishedAt": "2026-04-27T04:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "MiO16KlMPaU",
       "title": "TWS (투어스) '널 따라가 (You, You)' Official MV",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-24T12:00:09.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-it-s-me-wonhee",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film IT’S ME 🫵 - #WONHEE",
-      "url": "https://www.youtube.com/shorts/ZMC4LWEDN7A",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-24T12:00:05.000Z",
       "group": "bts",
       "bucket": "bts"
     },
