@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-04-27T08:29:27.533Z",
+  "updatedAt": "2026-04-27T19:03:37.346Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "illit-it-s-me-official-teaser-1",
+      "title": "ILLIT (아일릿) ‘It’s Me’ Official Teaser 1",
+      "url": "https://www.youtube.com/shorts/dA6WLgqp9YA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-27T13:01:11.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "5u8WEe4bkbg",
+      "title": "TWS Comeback Showcase 'NO TRAGEDY'",
+      "url": "https://www.youtube.com/watch?v=5u8WEe4bkbg",
+      "videoId": "5u8WEe4bkbg",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/5u8WEe4bkbg/mqdefault.jpg",
+      "publishedAt": "2026-04-27T12:54:19.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "tws-you-you-official-mv",
+      "title": "TWS (투어스) '널 따라가 (You, You)' Official MV",
+      "url": "https://www.youtube.com/shorts/5U5qBHwDA_M",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-27T09:13:36.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-sDDl7IkWOc",
       "title": "LE SSERAFIM (르세라핌) 'CELEBRATION (Karaoke ver.)' Official Visualizer",
@@ -14,17 +47,6 @@
       "bucket": "bts"
     },
     {
-      "id": "MiO16KlMPaU",
-      "title": "TWS (투어스) '널 따라가 (You, You)' Official MV",
-      "url": "https://www.youtube.com/watch?v=MiO16KlMPaU",
-      "videoId": "MiO16KlMPaU",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/MiO16KlMPaU/mqdefault.jpg",
-      "publishedAt": "2026-04-25T13:05:14.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
       "id": "tws-you-you-official-teaser-2",
       "title": "TWS (투어스) '널 따라가 (You, You)' Official Teaser 2",
       "url": "https://www.youtube.com/shorts/q91OOghNo7Q",
@@ -32,50 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-24T13:01:44.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-it-s-me-iroha",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film IT’S ME 🫵 - #IROHA",
-      "url": "https://www.youtube.com/shorts/g0fN7urHfI4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-24T12:00:26.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-it-s-me-yunah",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film IT’S ME 🫵 - #YUNAH",
-      "url": "https://www.youtube.com/shorts/EQvydLY0mDg",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-24T12:00:20.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-it-s-me-moka",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film IT’S ME 🫵 - #MOKA",
-      "url": "https://www.youtube.com/shorts/LyJgUoW0j-k",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-24T12:00:13.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-mamihlapinatapai-concept-film-it-s-me-minju",
-      "title": "ILLIT (아일릿) 'MAMIHLAPINATAPAI' Concept Film IT’S ME 🫵 - #MINJU",
-      "url": "https://www.youtube.com/shorts/QWTCRAyTUkY",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-24T12:00:09.000Z",
       "group": "bts",
       "bucket": "bts"
     },

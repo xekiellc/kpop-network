@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T08:29:27.531Z",
+  "updatedAt": "2026-04-27T19:03:37.345Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -19,7 +19,7 @@
       "url": "https://www.soompi.com/article/1836207wpp/watch-txt-achieves-music-show-grand-slam-with-5th-win-for-stick-with-you-on-inkigayo-performances-by-le-sserafim-and-more",
       "source": "Soompi",
       "description": "TXT has wrapped up a perfect week of music show wins with a fifth trophy for “Stick With You”! On the April 26 episode of SBS’s “Inkigayo,” the candidates for first place were AKMU’s “Joy, Sorrow, A Beautiful Heart,” AKMU’s “Paradise of Rumors,” and TXT’s “Stick With You.” TXT ultimately took the win with a… Continue reading Watch: TXT Achieves Music Show Grand Slam With 5th Win For “Stick With You” On “Inkigayo”; Performances By LE SSERAFIM And More The post Watch: TXT Achieves Music Show Grand",
-      "summary": "TXT achieved a music show grand slam by winning their fifth trophy for \"Stick With You\" on the April 26 episode of SBS's \"Inkigayo,\" competing against AKMU's songs \"Joy, Sorrow, A Beautiful Heart\" and \"Paradise of Rumors.\"",
+      "summary": "TXT achieved a music show grand slam by winning their fifth trophy for \"Stick With You\" on SBS's \"Inkigayo\" on April 26, completing a perfect week of music show victories. The episode also featured performances by LE SSERAFIM and other artists.",
       "publishedAt": "2026-04-26T14:55:14.000Z",
       "author": "E Cha",
       "group": "txt"
@@ -96,7 +96,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/coachella-2026-katseye-bini-taemin-shinee-581476",
       "source": "CNA",
       "description": "",
-      "summary": "The article reports on Asian and Asian-adjacent music acts, including SHINee's Taemin, Katseye, and Bini, performing at Coachella 2026. However, no specific details are available as the article description is not provided.",
+      "summary": "I cannot provide a summary of this article as no content or description was provided beyond the title, and the article appears to be about a future event (Coachella 2026) that has not yet occurred.",
       "publishedAt": "2026-04-13T02:21:00Z",
       "author": "",
       "group": "hybe"
@@ -441,6 +441,17 @@
       "publishedAt": "2026-03-30T22:20:33Z",
       "author": "Kingman",
       "group": "hybe"
+    },
+    {
+      "id": "ella-langley-s-dandelion-spends-second-week-atop-billboard-200",
+      "title": "Ella Langley’s ‘Dandelion’ Spends Second Week Atop Billboard 200",
+      "url": "http://www.billboard.com/music/chart-beat/ella-langley-dandelion-second-week-number-one-billboard-200-1236231740/",
+      "source": "Billboard",
+      "description": "Ella Langley's \"Dandelion\" is No. 1 for a second week on the Billboard 200, while TOMORROW X TOGETHER nabs the week's top debut.",
+      "summary": "Ella Langley's \"Dandelion\" is No. 1 for a second week on the Billboard 200, while TOMORROW X TOGETHER nabs the week's top debut.",
+      "publishedAt": "2026-04-26T19:02:49Z",
+      "author": "Keith Caulfield",
+      "group": "txt"
     }
   ]
 }
