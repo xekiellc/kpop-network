@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-04-28T08:28:07.663Z",
+  "updatedAt": "2026-04-29T08:22:35.921Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "hwang-min-hyun-sends-a-special-invitation-to-all-of-you-in-india-",
+      "title": "HWANG MIN HYUN sends a special invitation to all of you in India!",
+      "url": "https://www.youtube.com/shorts/qLWRoJt0KDA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-29T04:30:37.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "illit-it-s-me-official-teaser-2",
+      "title": "ILLIT (아일릿) ‘It’s Me’ Official Teaser 2",
+      "url": "https://www.youtube.com/shorts/DlTXlG0iCAM",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-04-28T13:00:19.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "illit-it-s-me-official-teaser-1",
       "title": "ILLIT (아일릿) ‘It’s Me’ Official Teaser 1",
@@ -32,28 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-04-27T09:13:36.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-sDDl7IkWOc",
-      "title": "LE SSERAFIM (르세라핌) 'CELEBRATION (Karaoke ver.)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=-sDDl7IkWOc",
-      "videoId": "-sDDl7IkWOc",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/-sDDl7IkWOc/mqdefault.jpg",
-      "publishedAt": "2026-04-27T04:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-you-you-official-teaser-2",
-      "title": "TWS (투어스) '널 따라가 (You, You)' Official Teaser 2",
-      "url": "https://www.youtube.com/shorts/q91OOghNo7Q",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-04-24T13:01:44.000Z",
       "group": "bts",
       "bucket": "bts"
     }
