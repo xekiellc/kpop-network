@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-29T19:07:25.954Z",
+  "updatedAt": "2026-04-30T08:25:00.099Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "bMhDJ0S0OBA",
+      "title": "ILLIT (아일릿) ‘It’s Me’ Official MV",
+      "url": "https://www.youtube.com/watch?v=bMhDJ0S0OBA",
+      "videoId": "bMhDJ0S0OBA",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/bMhDJ0S0OBA/mqdefault.jpg",
+      "publishedAt": "2026-04-29T09:53:28.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "hwang-min-hyun-sends-a-special-invitation-to-all-of-you-in-india-",
       "title": "HWANG MIN HYUN sends a special invitation to all of you in India!",
