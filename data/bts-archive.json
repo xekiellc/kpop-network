@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-02T07:47:51.889Z",
+  "updatedAt": "2026-05-02T18:41:44.072Z",
   "bucket": "bts",
   "articles": [
+    {
+      "id": "intro-for-may-1-2026",
+      "title": "Intro for May 1, 2026",
+      "url": "https://www.laineygossip.com/will-bts-appear-at-met-gala-ahead-of-shows-in-mexico-city/",
+      "source": "LaineyGossip",
+      "description": "Dear Gossips, More and more celebrities are arriving in New York ahead of the Met Gala on Monday. The main character, however, continues to be Beyoncé, naturally. It seems every outlet is posting Beyoncé Met Gala retrospectives, anticipating what she’ll be w…",
+      "summary": "Dear Gossips, More and more celebrities are arriving in New York ahead of the Met Gala on Monday. The main character, however, continues to be Beyoncé, naturally. It seems every outlet is posting Beyoncé Met Gala retrospectives, anticipating what she’ll be w…",
+      "publishedAt": "2026-05-01T14:13:37Z",
+      "author": "Lainey",
+      "group": "bts"
+    },
     {
       "id": "txt-akmu-and-bts-earn-double-crowns-on-circle-weekly-charts",
       "title": "TXT, AKMU, And BTS Earn Double Crowns On Circle Weekly Charts",
@@ -187,17 +198,6 @@
       "summary": "Other notable nominees include Olivia Dean, Morgan Wallen, Sombr and Sabrina Carpenter",
       "publishedAt": "2026-04-14T14:48:59Z",
       "author": "Casey Cooper-Fiske",
-      "group": "twice"
-    },
-    {
-      "id": "taylor-swift-leads-2026-american-music-awards-nominations",
-      "title": "Taylor Swift Leads 2026 American Music Awards Nominations",
-      "url": "http://www.rollingstone.com/music/music-news/2026-ama-awards-nominations-1235546448/",
-      "source": "Rolling Stone",
-      "description": "The American Music Awards will return this year for its 52nd iteration and will kick off on May 25.",
-      "summary": "The American Music Awards will return this year for its 52nd iteration and will kick off on May 25.",
-      "publishedAt": "2026-04-14T12:00:00Z",
-      "author": "Charisma Madarang",
       "group": "twice"
     },
     {
@@ -771,6 +771,17 @@
       "publishedAt": "2026-04-11T01:58:59Z",
       "author": "Ken Moritsugu And Juwon Park",
       "group": "bts"
+    },
+    {
+      "id": "taylor-swift-leads-2026-american-music-awards-nominations",
+      "title": "Taylor Swift Leads 2026 American Music Awards Nominations",
+      "url": "http://www.rollingstone.com/music/music-news/2026-ama-awards-nominations-1235546448/",
+      "source": "Rolling Stone",
+      "description": "The American Music Awards will return this year for its 52nd iteration and will kick off on May 25.",
+      "summary": "The American Music Awards will return this year for its 52nd iteration and will kick off on May 25.",
+      "publishedAt": "2026-04-14T12:00:00Z",
+      "author": "Charisma Madarang",
+      "group": "twice"
     },
     {
       "id": "bts-returns-after-over-three-years-but-skip-major-market-from-their-world-tour-c",
