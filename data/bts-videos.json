@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-05-02T18:41:44.090Z",
+  "updatedAt": "2026-05-03T18:42:06.581Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "cortis-tnt-official-mv-teaser",
+      "title": "CORTIS (코르티스) 'TNT' Official MV Teaser",
+      "url": "https://www.youtube.com/shorts/WPKaGUHWjvs",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-03T12:02:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "illit-it-s-me-official-mv-iroha-ver-",
+      "title": "ILLIT (아일릿) 'It’s Me’ Official MV (IROHA ver.)",
+      "url": "https://www.youtube.com/shorts/Bl15nY4XVqs",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-03T08:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "kRpaqR5sbf0",
+      "title": "CORTIS (코르티스) 'TNT' Official MV",
+      "url": "https://www.youtube.com/watch?v=kRpaqR5sbf0",
+      "videoId": "kRpaqR5sbf0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/kRpaqR5sbf0/mqdefault.jpg",
+      "publishedAt": "2026-05-03T07:35:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "cortis-blue-lips-mood-sampler",
       "title": "CORTIS (코르티스) 'Blue Lips' Mood Sampler",
