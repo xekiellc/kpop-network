@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-03T18:42:06.581Z",
+  "updatedAt": "2026-05-04T08:32:40.361Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "illit-it-s-me-official-mv-yunah-ver-",
+      "title": "ILLIT (아일릿) 'It’s Me’ Official MV (YUNAH ver.)",
+      "url": "https://www.youtube.com/shorts/yOrggAlABo0",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-04T08:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "cortis-tnt-official-mv-teaser",
       "title": "CORTIS (코르티스) 'TNT' Official MV Teaser",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-02T12:04:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "cortis-tnt-mood-sampler",
-      "title": "CORTIS (코르티스) 'TNT' Mood Sampler",
-      "url": "https://www.youtube.com/shorts/DEkFPe7J458",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-02T12:04:52.000Z",
       "group": "bts",
       "bucket": "bts"
     }
