@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-04T08:32:40.363Z",
+  "updatedAt": "2026-05-04T19:12:56.774Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-tnt-official-mv-out-now-cortis-cortis-tnt",
+      "title": "'TNT' Official MV out now 💥 #CORTIS #코르티스 #CORTIS_TNT",
+      "url": "https://www.youtube.com/shorts/1JWSI6agXfo",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-04T09:12:27.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "kRpaqR5sbf0",
+      "title": "CORTIS (코르티스) 'TNT' Official MV",
+      "url": "https://www.youtube.com/watch?v=kRpaqR5sbf0",
+      "videoId": "kRpaqR5sbf0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/kRpaqR5sbf0/mqdefault.jpg",
+      "publishedAt": "2026-05-04T08:58:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "illit-it-s-me-official-mv-yunah-ver-",
       "title": "ILLIT (아일릿) 'It’s Me’ Official MV (YUNAH ver.)",
@@ -36,17 +58,6 @@
       "bucket": "bts"
     },
     {
-      "id": "kRpaqR5sbf0",
-      "title": "CORTIS (코르티스) 'TNT' Official MV",
-      "url": "https://www.youtube.com/watch?v=kRpaqR5sbf0",
-      "videoId": "kRpaqR5sbf0",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/kRpaqR5sbf0/mqdefault.jpg",
-      "publishedAt": "2026-05-03T07:35:16.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
       "id": "cortis-blue-lips-mood-sampler",
       "title": "CORTIS (코르티스) 'Blue Lips' Mood Sampler",
       "url": "https://www.youtube.com/shorts/NwUL_XSodzY",
@@ -54,28 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-02T12:05:13.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "cortis-wassup-mood-sampler",
-      "title": "CORTIS (코르티스) 'Wassup' Mood Sampler",
-      "url": "https://www.youtube.com/shorts/Nx9lwy7izew",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-02T12:05:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "cortis-acai-mood-sampler",
-      "title": "CORTIS (코르티스) 'ACAI' Mood Sampler",
-      "url": "https://www.youtube.com/shorts/X5J8mMC8cTk",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-02T12:04:58.000Z",
       "group": "bts",
       "bucket": "bts"
     },
