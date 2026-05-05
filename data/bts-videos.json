@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-05T08:13:13.828Z",
+  "updatedAt": "2026-05-05T19:04:03.631Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "tnt-conceptual-performance-film-out-now-cortis-cortis-tnt",
+      "title": "TNT conceptual performance film out now! #CORTIS #코르티스 #CORTIS_TNT",
+      "url": "https://www.youtube.com/shorts/mo9hE_ehOCA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-05T12:02:12.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "XgmdslsEJ1M",
+      "title": "CORTIS (코르티스) 'TNT' Conceptual Performance Film",
+      "url": "https://www.youtube.com/watch?v=XgmdslsEJ1M",
+      "videoId": "XgmdslsEJ1M",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/XgmdslsEJ1M/mqdefault.jpg",
+      "publishedAt": "2026-05-05T12:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "illit-it-s-me-official-mv-moka-ver-",
       "title": "ILLIT (아일릿) 'It’s Me’ Official MV (MOKA ver.)",
@@ -32,39 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/kRpaqR5sbf0/mqdefault.jpg",
       "publishedAt": "2026-05-04T08:58:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-it-s-me-official-mv-yunah-ver-",
-      "title": "ILLIT (아일릿) 'It’s Me’ Official MV (YUNAH ver.)",
-      "url": "https://www.youtube.com/shorts/yOrggAlABo0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-04T08:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "cortis-tnt-official-mv-teaser",
-      "title": "CORTIS (코르티스) 'TNT' Official MV Teaser",
-      "url": "https://www.youtube.com/shorts/WPKaGUHWjvs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-03T12:02:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-it-s-me-official-mv-iroha-ver-",
-      "title": "ILLIT (아일릿) 'It’s Me’ Official MV (IROHA ver.)",
-      "url": "https://www.youtube.com/shorts/Bl15nY4XVqs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-03T08:00:00.000Z",
       "group": "bts",
       "bucket": "bts"
     }
