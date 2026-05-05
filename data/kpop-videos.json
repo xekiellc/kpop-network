@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-04T19:12:56.774Z",
+  "updatedAt": "2026-05-05T08:13:13.830Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "illit-it-s-me-official-mv-moka-ver-",
+      "title": "ILLIT (아일릿) 'It’s Me’ Official MV (MOKA ver.)",
+      "url": "https://www.youtube.com/shorts/1T2yD017UfI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-05T08:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-tnt-official-mv-out-now-cortis-cortis-tnt",
       "title": "'TNT' Official MV out now 💥 #CORTIS #코르티스 #CORTIS_TNT",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-03T08:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "cortis-blue-lips-mood-sampler",
-      "title": "CORTIS (코르티스) 'Blue Lips' Mood Sampler",
-      "url": "https://www.youtube.com/shorts/NwUL_XSodzY",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-02T12:05:13.000Z",
       "group": "bts",
       "bucket": "bts"
     },
