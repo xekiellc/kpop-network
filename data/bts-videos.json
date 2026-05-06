@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-05T19:04:03.631Z",
+  "updatedAt": "2026-05-06T08:29:33.537Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "g-VCwE11ZI4",
+      "title": "LE SSERAFIM (르세라핌) 'CELEBRATION (Sara Landry Remix)' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=g-VCwE11ZI4",
+      "videoId": "g-VCwE11ZI4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/g-VCwE11ZI4/mqdefault.jpg",
+      "publishedAt": "2026-05-06T03:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "tnt-conceptual-performance-film-out-now-cortis-cortis-tnt",
       "title": "TNT conceptual performance film out now! #CORTIS #코르티스 #CORTIS_TNT",
@@ -43,17 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-04T09:12:27.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "kRpaqR5sbf0",
-      "title": "CORTIS (코르티스) 'TNT' Official MV",
-      "url": "https://www.youtube.com/watch?v=kRpaqR5sbf0",
-      "videoId": "kRpaqR5sbf0",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/kRpaqR5sbf0/mqdefault.jpg",
-      "publishedAt": "2026-05-04T08:58:06.000Z",
       "group": "bts",
       "bucket": "bts"
     }
