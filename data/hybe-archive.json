@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-05-06T08:29:33.525Z",
+  "updatedAt": "2026-05-07T19:24:25.650Z",
   "bucket": "hybe",
   "articles": [
-    {
-      "id": "le-sserafim-reveals-comeback-schedule-for-new-album-pureflow-and-title-track-boo",
-      "title": "LE SSERAFIM Reveals Comeback Schedule For New Album “PUREFLOW” And Title Track “BOOMPALA”",
-      "url": "https://www.soompi.com/article/1838271wpp/le-sserafim-reveals-comeback-schedule-for-new-album-pureflow-and-title-track-boompala",
-      "source": "Soompi",
-      "description": "LE SSERAFIM has revealed what fans can look forward to in the weeks leading up to their comeback! On May 6 at midnight KST, LE SSERAFIM released a detailed promotion schedule outlining the teasers they have in store for their upcoming full-length album “PUREFLOW” pt.1 and its title track “BOOMPALA.” After pre-releasing their lead single… Continue reading LE SSERAFIM Reveals Comeback Schedule For New Album “PUREFLOW” And Title Track “BOOMPALA” The post LE SSERAFIM Reveals Comeback Schedule For Ne",
-      "summary": "LE SSERAFIM released a detailed promotion schedule on May 6 for their upcoming full-length album \"PUREFLOW\" pt.1 and title track \"BOOMPALA.\"",
-      "publishedAt": "2026-05-05T15:17:48.000Z",
-      "author": "E Cha",
-      "group": "lesserafim"
-    },
-    {
-      "id": "cortis-s-greengreen-sells-over-1-million-copies-in-one-day",
-      "title": "CORTIS’s “GREENGREEN” Sells Over 1 Million Copies In One Day",
-      "url": "https://www.soompi.com/article/1838228wpp/cortiss-greengreen-sells-over-1-million-copies-in-one-day",
-      "source": "Soompi",
-      "description": "Just one day into their comeback, CORTIS’s new EP is already a “million-seller”! On May 4, CORTIS returned with their second EP “GREENGREEN.” (In what marked the first comeback of their career, the group pre-released the EP’s title track “REDRED” two weeks in advance.) According to Hanteo Chart, “GREENGREEN” sold an impressive total of 1,196,961… Continue reading CORTIS’s “GREENGREEN” Sells Over 1 Million Copies In One Day The post CORTIS’s “GREENGREEN” Sells Over 1 Million Copies In One Day app",
-      "summary": "CORTIS's second EP \"GREENGREEN\" sold over 1.19 million copies on its first day of release on May 4, achieving million-seller status. The comeback featured the pre-released title track \"REDRED\" that was released two weeks prior to the full EP.",
-      "publishedAt": "2026-05-05T01:19:29.000Z",
-      "author": "E Cha",
-      "group": "cortis"
-    },
     {
       "id": "-boycotting-hybe-boy-group-s-low-ticket-sales-spark-backlash",
       "title": "\"Boycotting...\" — HYBE Boy Group's \"Low\" Ticket Sales Spark Backlash",
@@ -107,7 +85,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/coachella-2026-katseye-bini-taemin-shinee-581476",
       "source": "CNA",
       "description": "",
-      "summary": "The article reports on Asian and Asian-adjacent music acts, including Shinee's Taemin, Katseye, and Bini, performing at Coachella 2026.",
+      "summary": "The article reports that SHINee's Taemin, Katseye, and BINI are among the Asian and Asian-adjacent music acts performing at Coachella 2026.",
       "publishedAt": "2026-04-13T02:21:00Z",
       "author": "",
       "group": "hybe"
@@ -289,6 +267,17 @@
       "group": "twice"
     },
     {
+      "id": "nct-wish-txt-akmu-and-bts-top-circle-weekly-charts",
+      "title": "NCT WISH, TXT, AKMU, And BTS Top Circle Weekly Charts",
+      "url": "http://www.soompi.com/article/1838387wpp/nct-wish-txt-akmu-and-bts-top-circle-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of April 19 to 25! Album Chart NCT WISH claimed two of the top five spots on this week’s physical album chart with their first full-length album “Ode to Love.” The regula…",
+      "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of April 19 to 25! Album Chart NCT WISH claimed two of the top five spots on this week’s physical album chart with their first full-length album “Ode to Love.” The regula…",
+      "publishedAt": "2026-05-05T21:48:59Z",
+      "author": "E Cha",
+      "group": "bts"
+    },
+    {
       "id": "txt-akmu-and-bts-earn-double-crowns-on-circle-weekly-charts",
       "title": "TXT, AKMU, And BTS Earn Double Crowns On Circle Weekly Charts",
       "url": "http://www.soompi.com/article/1837137wpp/txt-akmu-and-bts-earn-double-crowns-on-circle-weekly-charts",
@@ -386,6 +375,28 @@
       "publishedAt": "2026-04-09T18:05:42Z",
       "author": "Kingman",
       "group": "bts"
+    },
+    {
+      "id": "le-sserafim-reveals-comeback-schedule-for-new-album-pureflow-and-title-track-boo",
+      "title": "LE SSERAFIM Reveals Comeback Schedule For New Album “PUREFLOW” And Title Track “BOOMPALA”",
+      "url": "https://www.soompi.com/article/1838271wpp/le-sserafim-reveals-comeback-schedule-for-new-album-pureflow-and-title-track-boompala",
+      "source": "Soompi",
+      "description": "LE SSERAFIM has revealed what fans can look forward to in the weeks leading up to their comeback! On May 6 at midnight KST, LE SSERAFIM released a detailed promotion schedule outlining the teasers they have in store for their upcoming full-length album “PUREFLOW” pt.1 and its title track “BOOMPALA.” After pre-releasing their lead single… Continue reading LE SSERAFIM Reveals Comeback Schedule For New Album “PUREFLOW” And Title Track “BOOMPALA” The post LE SSERAFIM Reveals Comeback Schedule For Ne",
+      "summary": "LE SSERAFIM released a detailed promotion schedule on May 6 for their upcoming full-length album \"PUREFLOW\" pt.1 and title track \"BOOMPALA.\"",
+      "publishedAt": "2026-05-05T15:17:48.000Z",
+      "author": "E Cha",
+      "group": "lesserafim"
+    },
+    {
+      "id": "cortis-s-greengreen-sells-over-1-million-copies-in-one-day",
+      "title": "CORTIS’s “GREENGREEN” Sells Over 1 Million Copies In One Day",
+      "url": "https://www.soompi.com/article/1838228wpp/cortiss-greengreen-sells-over-1-million-copies-in-one-day",
+      "source": "Soompi",
+      "description": "Just one day into their comeback, CORTIS’s new EP is already a “million-seller”! On May 4, CORTIS returned with their second EP “GREENGREEN.” (In what marked the first comeback of their career, the group pre-released the EP’s title track “REDRED” two weeks in advance.) According to Hanteo Chart, “GREENGREEN” sold an impressive total of 1,196,961… Continue reading CORTIS’s “GREENGREEN” Sells Over 1 Million Copies In One Day The post CORTIS’s “GREENGREEN” Sells Over 1 Million Copies In One Day app",
+      "summary": "CORTIS's second EP \"GREENGREEN\" sold over 1.19 million copies on its first day of release on May 4, achieving million-seller status. The comeback featured the pre-released title track \"REDRED\" that was released two weeks prior to the full EP.",
+      "publishedAt": "2026-05-05T01:19:29.000Z",
+      "author": "E Cha",
+      "group": "cortis"
     },
     {
       "id": "bts-agency-hybe-appoints-disney-tiktok-vet-kevin-mayer-to-advise-westward-push",

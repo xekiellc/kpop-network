@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-05-06T08:29:33.537Z",
+  "updatedAt": "2026-05-07T19:24:25.663Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "IN-Df071fPI",
+      "title": "LE SSERAFIM (르세라핌) Just BOOMPALA",
+      "url": "https://www.youtube.com/watch?v=IN-Df071fPI",
+      "videoId": "IN-Df071fPI",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/IN-Df071fPI/mqdefault.jpg",
+      "publishedAt": "2026-05-07T15:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "QYm0hg80O8o",
+      "title": "SANTOS BRAVOS - \"WOW\" Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=QYm0hg80O8o",
+      "videoId": "QYm0hg80O8o",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/QYm0hg80O8o/mqdefault.jpg",
+      "publishedAt": "2026-05-07T01:00:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "illit-it-s-me-official-mv-performance-ver-",
+      "title": "ILLIT (아일릿) 'It’s Me’ Official MV (Performance ver.)",
+      "url": "https://www.youtube.com/shorts/el7A_SI7sxs",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-06T13:01:24.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "g-VCwE11ZI4",
       "title": "LE SSERAFIM (르세라핌) 'CELEBRATION (Sara Landry Remix)' Official Visualizer",
@@ -21,39 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-05T12:02:12.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "XgmdslsEJ1M",
-      "title": "CORTIS (코르티스) 'TNT' Conceptual Performance Film",
-      "url": "https://www.youtube.com/watch?v=XgmdslsEJ1M",
-      "videoId": "XgmdslsEJ1M",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/XgmdslsEJ1M/mqdefault.jpg",
-      "publishedAt": "2026-05-05T12:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-it-s-me-official-mv-moka-ver-",
-      "title": "ILLIT (아일릿) 'It’s Me’ Official MV (MOKA ver.)",
-      "url": "https://www.youtube.com/shorts/1T2yD017UfI",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-05T08:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-tnt-official-mv-out-now-cortis-cortis-tnt",
-      "title": "'TNT' Official MV out now 💥 #CORTIS #코르티스 #CORTIS_TNT",
-      "url": "https://www.youtube.com/shorts/1JWSI6agXfo",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-04T09:12:27.000Z",
       "group": "bts",
       "bucket": "bts"
     }

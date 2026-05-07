@@ -1,28 +1,50 @@
 {
-  "updatedAt": "2026-05-06T08:29:33.521Z",
+  "updatedAt": "2026-05-07T19:24:25.646Z",
   "bucket": "bts",
   "articles": [
     {
+      "id": "watch-kim-moo-yeol-and-jin-ki-joo-s-new-drama-teach-you-a-lesson-confirms-premie",
+      "title": "Watch: Kim Moo Yeol And Jin Ki Joo’s New Drama “Teach You A Lesson” Confirms Premiere Date With First Teasers",
+      "url": "https://www.soompi.com/article/1838780wpp/watch-kim-moo-yeol-and-jin-ki-joos-new-drama-teach-you-a-lesson-confirms-premiere-date-with-first-teasers",
+      "source": "Soompi",
+      "description": "Netflix’s upcoming drama “Teach You a Lesson” has unveiled a new poster and teaser! “Teach You a Lesson” is a sharp, cathartic series about the fictional Educational Rights Protection Bureau (ERPB), a government task force created to restore teachers’ authority in an era of unruly students, demanding parents, and struggling schools. The series will be… Continue reading Watch: Kim Moo Yeol And Jin Ki Joo’s New Drama “Teach You A Lesson” Confirms Premiere Date With First Teasers The post Watch: Ki",
+      "summary": "Netflix's upcoming K-drama \"Teach You A Lesson,\" starring Kim Moo Yeol and Jin Ki Joo, has confirmed its premiere date and released first teasers. The series follows a fictional government task force working to restore teachers' authority amid challenging school environments.",
+      "publishedAt": "2026-05-07T04:52:19.000Z",
+      "author": "R Suhaila",
+      "group": "bts"
+    },
+    {
+      "id": "golden-trailer-awards-nominations-it-welcome-to-derry-leads-field-as-disney-domi",
+      "title": "Golden Trailer Awards Nominations: ‘IT: Welcome To Derry’ Leads Field As Disney Dominates Among Studios",
+      "url": "http://deadline.com/2026/05/golden-trailer-awards-2026-nominations-list-1236882204/",
+      "source": "Deadline",
+      "description": "EXCLUSIVE: The nominations are out for the 2026 Golden Trailer Awards, and Disney nearly lapped the field among distributors with a staggering 144 noms, led by FX’s Alien: Earth with eight. But the company doesn’t boast the project with the single biggest hau…",
+      "summary": "EXCLUSIVE: The nominations are out for the 2026 Golden Trailer Awards, and Disney nearly lapped the field among distributors with a staggering 144 noms, led by FX’s Alien: Earth with eight. But the company doesn’t boast the project with the single biggest hau…",
+      "publishedAt": "2026-05-05T23:22:40Z",
+      "author": "Erik Pedersen",
+      "group": "twice"
+    },
+    {
       "id": "nct-wish-txt-akmu-and-bts-top-circle-weekly-charts",
       "title": "NCT WISH, TXT, AKMU, And BTS Top Circle Weekly Charts",
-      "url": "https://www.soompi.com/article/1838387wpp/nct-wish-txt-akmu-and-bts-top-circle-weekly-charts",
-      "source": "Soompi",
-      "description": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of April 19 to 25! Album Chart NCT WISH claimed two of the top five spots on this week’s physical album chart with their first full-length album “Ode to Love.” The regular version of the album debuted at No. 1,… Continue reading NCT WISH, TXT, AKMU, And BTS Top Circle Weekly Charts The post NCT WISH, TXT, AKMU, And BTS Top Circle Weekly Charts appeared first on Soompi.",
-      "summary": "Circle Chart released its rankings for April 19-25, with NCT WISH's debut album \"Ode to Love\" taking two of the top five spots on the physical album chart at No. 1. Multiple K-pop acts including TXT, AKMU, and BTS also secured top positions across various weekly charts.",
-      "publishedAt": "2026-05-05T21:48:59.000Z",
+      "url": "http://www.soompi.com/article/1838387wpp/nct-wish-txt-akmu-and-bts-top-circle-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of April 19 to 25! Album Chart NCT WISH claimed two of the top five spots on this week’s physical album chart with their first full-length album “Ode to Love.” The regula…",
+      "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of April 19 to 25! Album Chart NCT WISH claimed two of the top five spots on this week’s physical album chart with their first full-length album “Ode to Love.” The regula…",
+      "publishedAt": "2026-05-05T21:48:59Z",
       "author": "E Cha",
       "group": "bts"
     },
     {
-      "id": "bts-ateez-and-nct-wish-earn-triple-platinum-and-gold-certifications-in-japan",
-      "title": "BTS, ATEEZ, And NCT WISH Earn Triple Platinum And Gold Certifications In Japan",
-      "url": "https://www.soompi.com/article/1838267wpp/bts-ateez-and-nct-wish-earn-triple-platinum-and-gold-certifications-in-japan",
-      "source": "Soompi",
-      "description": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! BTS’s new Korean album “ARIRANG” earned an official triple platinum certification for over 750,000 units shipped in Japan. According to the RIAJ’s certification thresholds, albums are certified gold at 100,000 units shipped and platinum at 250,000. Meanwhile, both ATEEZ’s latest… Continue reading BTS, ATEEZ, And NCT WISH Earn Triple Platinum And Gold Certifications In Japan The post BTS,",
-      "summary": "The Recording Industry Association of Japan (RIAJ) awarded BTS's Korean album \"ARIRANG\" a triple platinum certification for over 750,000 units shipped, while ATEEZ and NCT WISH also received certifications for their recent releases.",
-      "publishedAt": "2026-05-05T15:52:47.000Z",
-      "author": "E Cha",
-      "group": "bts"
+      "id": "germany-top-100-single-charts-2026-05-02-",
+      "title": "Germany Top 100 Single Charts (2026.05.02)",
+      "url": "https://post.rlsbb.to/germany-top-100-single-charts-2026-05-02/",
+      "source": "Rlsbb.to",
+      "description": "Tracklist: 1. Taylor Swift - The Fate of Ophelia[3:47]2. RAYE - WHERE IS MY HUSBAND![3:18]3. Justin Bieber;Nicki Minaj - Beauty And A Beat[3:49]4. Zara Larsson - Lush Life[3:22]5. Bruno Mars - I Just Might[3:34]6. Olivia Rodrigo - drop dead[3:46]7. Olivia Dea…",
+      "summary": "Tracklist: 1. Taylor Swift - The Fate of Ophelia[3:47]2. RAYE - WHERE IS MY HUSBAND![3:18]3. Justin Bieber;Nicki Minaj - Beauty And A Beat[3:49]4. Zara Larsson - Lush Life[3:22]5. Bruno Mars - I Just Might[3:34]6. Olivia Rodrigo - drop dead[3:46]7. Olivia Dea…",
+      "publishedAt": "2026-05-05T12:24:51Z",
+      "author": "Kingman",
+      "group": "twice"
     },
     {
       "id": "the-2026-creative-100-directors-taking-genre-films-to-the-mainstream",
@@ -201,26 +223,15 @@
       "group": "bts"
     },
     {
-      "id": "here-are-all-the-k-pop-artists-nominated-for-the-2026-american-music-awards",
-      "title": "Here Are All The K-Pop Artists Nominated For The 2026 American Music Awards",
-      "url": "http://www.soompi.com/article/1833088wpp/here-are-all-the-k-pop-artists-nominated-for-the-2026-american-music-awards",
-      "source": "soompi",
-      "description": "The 2026 American Music Awards (AMAs) has revealed this year’s nominees! On April 14 local time, the American Music Awards officially announced its nominations for 2026. The nominees were chosen “based on key fan interactions, including streaming, album and s…",
-      "summary": "The 2026 American Music Awards (AMAs) has revealed this year’s nominees! On April 14 local time, the American Music Awards officially announced its nominations for 2026. The nominees were chosen “based on key fan interactions, including streaming, album and s…",
-      "publishedAt": "2026-04-14T19:14:34Z",
-      "author": "E Cha",
-      "group": "twice"
-    },
-    {
-      "id": "taylor-swift-tops-2026-american-music-award-nominations",
-      "title": "Taylor Swift Tops 2026 American Music Award Nominations",
-      "url": "https://extratv.com/2026/04/14/taylor-swift-tops-2026-american-music-award-nominations/",
-      "source": "Extra",
-      "description": "Taylor Swift is leading the nominations at the 2026 American Music Awards! Swift has eight noms, including Artist of the Year, Best Female Pop Artist, and Album of the Year for \"The Life of a Showgirl.” Her lead single “The Fate of Ophelia” was nominated fo…",
-      "summary": "Taylor Swift is leading the nominations at the 2026 American Music Awards! Swift has eight noms, including Artist of the Year, Best Female Pop Artist, and Album of the Year for \"The Life of a Showgirl.” Her lead single “The Fate of Ophelia” was nominated fo…",
-      "publishedAt": "2026-04-14T18:47:56Z",
-      "author": "",
-      "group": "twice"
+      "id": "bts-v-is-in-his-beyonce-cowboy-carter-era-during-texas-tour-stop",
+      "title": "BTS' V Is in His Beyonce 'Cowboy Carter' Era During Texas Tour Stop",
+      "url": "http://www.billboard.com/music/music-news/bts-v-beyonce-cowboy-carter-era-texas-tour-stop-1236240374/",
+      "source": "Billboard",
+      "description": "BTS' V revealed he's in his Beyonce 'Cowboy Carter' era during the boy band's Texas tour stop.",
+      "summary": "BTS' V revealed he's in his Beyonce 'Cowboy Carter' era during the boy band's Texas tour stop.",
+      "publishedAt": "2026-05-06T16:12:45Z",
+      "author": "Hannah Dailey",
+      "group": "bts"
     },
     {
       "id": "bts-j-hope-explains-his-role-in-the-band-it-just-comes-naturally-",
@@ -319,6 +330,17 @@
       "summary": "BTS' SUGA just revealed the real story behind his stage name that even his bandmates, much less ARMY, never knew.",
       "publishedAt": "2026-04-06T17:04:53Z",
       "author": "Hannah Dailey",
+      "group": "bts"
+    },
+    {
+      "id": "individual-idol-brand-reputation-rankings-announced",
+      "title": "Individual Idol Brand Reputation Rankings Announced",
+      "url": "http://www.soompi.com/article/1838257wpp/individual-idol-brand-reputation-rankings-announced-3",
+      "source": "soompi",
+      "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for individual idols! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community awareness indexes of 1,…",
+      "summary": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for individual idols! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community awareness indexes of 1,…",
+      "publishedAt": "2026-05-05T14:05:05Z",
+      "author": "E Cha",
       "group": "bts"
     },
     {
@@ -531,17 +553,6 @@
       "group": "bts"
     },
     {
-      "id": "bts-at-gillette-stadium-in-foxborough-how-to-still-get-tickets",
-      "title": "BTS at Gillette Stadium in Foxborough: How to Still Get Tickets",
-      "url": "https://consequence.net/2026/04/bts-arirang-foxborough-tickets/",
-      "source": "Consequence.net",
-      "description": "If you missed your initial chance to buy tickets for BTS's Foxborough shows, fear not: there are still a few ways to get in before they hit the stage. BTS at Gillette Stadium in Foxborough: How to Still Get Tickets Consequence Staff",
-      "summary": "If you missed your initial chance to buy tickets for BTS's Foxborough shows, fear not: there are still a few ways to get in before they hit the stage. BTS at Gillette Stadium in Foxborough: How to Still Get Tickets Consequence Staff",
-      "publishedAt": "2026-04-09T18:11:28Z",
-      "author": "Consequence Staff",
-      "group": "bts"
-    },
-    {
       "id": "bts-arirang-album-pdogg-on-bts-2-0-swim-solo-growth-v-jin-and-grammys",
       "title": "BTS Arirang album: Pdogg on BTS 2.0, SWIM, solo growth, V, Jin, and Grammys",
       "url": "https://www.indiatoday.in/entertainment/music/story/bts-arirang-album-pdogg-on-bts-2-0-swim-solo-growth-and-grammys-2903555-2026-04-30",
@@ -685,6 +696,28 @@
       "group": "bts"
     },
     {
+      "id": "bts-to-visit-mexico-s-national-palace-ahead-of-shows-president-says",
+      "title": "BTS' to Visit Mexico's National Palace Ahead of Shows, President Says",
+      "url": "http://www.billboard.com/music/latin/bts-visit-mexico-national-palace-before-shows-president-1236240615/",
+      "source": "Billboard",
+      "description": "BTS is set to visit Mexico's National Palace ahead of the group's Mexico City shows, President Claudia Sheinbaum announced.",
+      "summary": "BTS is set to visit Mexico's National Palace ahead of the group's Mexico City shows, President Claudia Sheinbaum announced.",
+      "publishedAt": "2026-05-06T18:09:36Z",
+      "author": "Natalia Cano",
+      "group": "bts"
+    },
+    {
+      "id": "how-bts-s-tour-in-mexico-became-a-matter-of-state",
+      "title": "How BTS's Tour in Mexico Became a Matter of State",
+      "url": "http://www.billboard.com/music/latin/bts-mexico-how-the-k-pop-giants-tour-became-a-state-affair-1236240489/",
+      "source": "Billboard",
+      "description": "BTS finally arrives in Mexico: How the K-pop giant's tour became a matter of state.",
+      "summary": "BTS finally arrives in Mexico: How the K-pop giant's tour became a matter of state.",
+      "publishedAt": "2026-05-06T16:32:08Z",
+      "author": "Natalia Cano",
+      "group": "bts"
+    },
+    {
       "id": "fans-think-bts-are-making-their-met-gala-debut-on-monday-night",
       "title": "Fans Think BTS Are Making Their Met Gala Debut on Monday Night",
       "url": "https://www.cosmopolitan.com/entertainment/celebs/a71174425/will-bts-be-at-the-2026-met-gala/",
@@ -740,17 +773,6 @@
       "group": "bts"
     },
     {
-      "id": "where-to-find-bts-tickets-for-the-2026-world-tour-prices-and-dates",
-      "title": "Where to find BTS tickets for the 2026 world tour, prices, and dates",
-      "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-bts-concert-tickets-world-tour-2026",
-      "source": "Business Insider",
-      "description": "BTS' 2026 world tour is selling out fast. Here's how to find tickets, updated prices, and the best resale sites for sold-out dates.",
-      "summary": "BTS' 2026 world tour is selling out fast. Here's how to find tickets, updated prices, and the best resale sites for sold-out dates.",
-      "publishedAt": "2026-04-23T19:26:31Z",
-      "author": "ssaril@insider.com (Sarah Saril)",
-      "group": "bts"
-    },
-    {
       "id": "china-s-k-pop-worries-the-reasons-why-a-ban-on-korean-entertainment-has-lasted-a",
       "title": "China’s K-pop worries: The reasons why a ban on Korean entertainment has lasted a decade",
       "url": "https://digital-stage.wavy.com/news/world/ap-chinas-k-pop-worries-the-reasons-why-a-ban-on-korean-entertainment-has-lasted-a-decade/",
@@ -759,6 +781,61 @@
       "summary": "BEIJING (AP) — As mega K-pop group BTS returns to the stage after a hiatus of more than three years, one major market is conspicuously missing from its 12-month world tour: China. The omission of one of the group’s biggest fan bases comes as no surprise. In f…",
       "publishedAt": "2026-04-11T01:58:59Z",
       "author": "Ken Moritsugu And Juwon Park",
+      "group": "bts"
+    },
+    {
+      "id": "bts-ateez-and-nct-wish-earn-triple-platinum-and-gold-certifications-in-japan",
+      "title": "BTS, ATEEZ, And NCT WISH Earn Triple Platinum And Gold Certifications In Japan",
+      "url": "https://www.soompi.com/article/1838267wpp/bts-ateez-and-nct-wish-earn-triple-platinum-and-gold-certifications-in-japan",
+      "source": "Soompi",
+      "description": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! BTS’s new Korean album “ARIRANG” earned an official triple platinum certification for over 750,000 units shipped in Japan. According to the RIAJ’s certification thresholds, albums are certified gold at 100,000 units shipped and platinum at 250,000. Meanwhile, both ATEEZ’s latest… Continue reading BTS, ATEEZ, And NCT WISH Earn Triple Platinum And Gold Certifications In Japan The post BTS,",
+      "summary": "The Recording Industry Association of Japan (RIAJ) awarded BTS's Korean album \"ARIRANG\" a triple platinum certification for over 750,000 units shipped, while ATEEZ and NCT WISH also received certifications for their recent releases.",
+      "publishedAt": "2026-05-05T15:52:47.000Z",
+      "author": "E Cha",
+      "group": "bts"
+    },
+    {
+      "id": "here-are-all-the-k-pop-artists-nominated-for-the-2026-american-music-awards",
+      "title": "Here Are All The K-Pop Artists Nominated For The 2026 American Music Awards",
+      "url": "http://www.soompi.com/article/1833088wpp/here-are-all-the-k-pop-artists-nominated-for-the-2026-american-music-awards",
+      "source": "soompi",
+      "description": "The 2026 American Music Awards (AMAs) has revealed this year’s nominees! On April 14 local time, the American Music Awards officially announced its nominations for 2026. The nominees were chosen “based on key fan interactions, including streaming, album and s…",
+      "summary": "The 2026 American Music Awards (AMAs) has revealed this year’s nominees! On April 14 local time, the American Music Awards officially announced its nominations for 2026. The nominees were chosen “based on key fan interactions, including streaming, album and s…",
+      "publishedAt": "2026-04-14T19:14:34Z",
+      "author": "E Cha",
+      "group": "twice"
+    },
+    {
+      "id": "taylor-swift-tops-2026-american-music-award-nominations",
+      "title": "Taylor Swift Tops 2026 American Music Award Nominations",
+      "url": "https://extratv.com/2026/04/14/taylor-swift-tops-2026-american-music-award-nominations/",
+      "source": "Extra",
+      "description": "Taylor Swift is leading the nominations at the 2026 American Music Awards! Swift has eight noms, including Artist of the Year, Best Female Pop Artist, and Album of the Year for \"The Life of a Showgirl.” Her lead single “The Fate of Ophelia” was nominated fo…",
+      "summary": "Taylor Swift is leading the nominations at the 2026 American Music Awards! Swift has eight noms, including Artist of the Year, Best Female Pop Artist, and Album of the Year for \"The Life of a Showgirl.” Her lead single “The Fate of Ophelia” was nominated fo…",
+      "publishedAt": "2026-04-14T18:47:56Z",
+      "author": "",
+      "group": "twice"
+    },
+    {
+      "id": "bts-at-gillette-stadium-in-foxborough-how-to-still-get-tickets",
+      "title": "BTS at Gillette Stadium in Foxborough: How to Still Get Tickets",
+      "url": "https://consequence.net/2026/04/bts-arirang-foxborough-tickets/",
+      "source": "Consequence.net",
+      "description": "If you missed your initial chance to buy tickets for BTS's Foxborough shows, fear not: there are still a few ways to get in before they hit the stage. BTS at Gillette Stadium in Foxborough: How to Still Get Tickets Consequence Staff",
+      "summary": "If you missed your initial chance to buy tickets for BTS's Foxborough shows, fear not: there are still a few ways to get in before they hit the stage. BTS at Gillette Stadium in Foxborough: How to Still Get Tickets Consequence Staff",
+      "publishedAt": "2026-04-09T18:11:28Z",
+      "author": "Consequence Staff",
+      "group": "bts"
+    },
+    {
+      "id": "where-to-find-bts-tickets-for-the-2026-world-tour-prices-and-dates",
+      "title": "Where to find BTS tickets for the 2026 world tour, prices, and dates",
+      "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-bts-concert-tickets-world-tour-2026",
+      "source": "Business Insider",
+      "description": "BTS' 2026 world tour is selling out fast. Here's how to find tickets, updated prices, and the best resale sites for sold-out dates.",
+      "summary": "BTS' 2026 world tour is selling out fast. Here's how to find tickets, updated prices, and the best resale sites for sold-out dates.",
+      "publishedAt": "2026-04-23T19:26:31Z",
+      "author": "ssaril@insider.com (Sarah Saril)",
       "group": "bts"
     },
     {
