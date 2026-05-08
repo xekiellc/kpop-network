@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-05-07T19:24:25.664Z",
+  "updatedAt": "2026-05-08T19:02:41.717Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "boynextdoor-announces-comeback-date-with-teaser-for-1st-studio-album-home-",
+      "title": "BOYNEXTDOOR Announces Comeback Date With Teaser For 1st Studio Album “HOME”",
+      "url": "https://www.soompi.com/article/1839535wpp/boynextdoor-announces-comeback-date-with-teaser-for-1st-studio-album-home",
+      "source": "Soompi",
+      "description": "BOYNEXTDOOR’s comeback date has been revealed! On May 8, a teaser was revealed announcing the group’s upcoming first studio album “HOME.” The album is set to be released on June 8 at 6 p.m. KST. Check out the teaser image below: Stay tuned for more updates on BOYNEXTDOOR’s comeback! The post BOYNEXTDOOR Announces Comeback Date With Teaser For 1st Studio Album “HOME” appeared first on Soompi.",
+      "summary": "BOYNEXTDOOR announced their comeback with their first studio album \"HOME,\" set to release on June 8 at 6 p.m. KST. The announcement was made through a teaser released on May 8.",
+      "publishedAt": "2026-05-08T13:12:00.000Z",
+      "author": "D Kim",
+      "group": "boynextdoor"
+    },
+    {
+      "id": "watch-tws-takes-1st-win-for-you-you-on-music-bank-performances-by-billlie-cortis",
+      "title": "Watch: TWS Takes 1st Win For “You, You” On “Music Bank”; Performances By Billlie, CORTIS, And More",
+      "url": "https://www.soompi.com/article/1839352wpp/watch-tws-takes-1st-win-for-you-you-on-music-bank-performances-by-billlie-cortis-and-more",
+      "source": "Soompi",
+      "description": "TWS has won their first music show trophy for “You, You“! On the May 8 episode of “Music Bank,” the candidates for first place were NEXZ’s “Mmchk” and TWS’s “You, You.” TWS ultimately took the prize with a total of 9,538 points. Congratulations to TWS! Watch the winner announcement below! Performers on today’s show included TWS, CORTIS,… Continue reading Watch: TWS Takes 1st Win For “You, You” On “Music Bank”; Performances By Billlie, CORTIS, And More The post Watch: TWS Takes 1st Win For “You, ",
+      "summary": "TWS won their first music show trophy for \"You, You\" on the May 8 episode of \"Music Bank,\" defeating NEXZ's \"Mmchk\" with 9,538 points. The episode also featured performances by other artists including Billlie and CORTIS.",
+      "publishedAt": "2026-05-08T12:40:32.000Z",
+      "author": "MLim",
+      "group": "cortis"
+    },
+    {
+      "id": "watch-cortis-takes-2nd-win-for-redred-on-m-countdown-",
+      "title": "Watch: CORTIS Takes 2nd Win For “REDRED” On “M Countdown”",
+      "url": "https://www.soompi.com/article/1839139wpp/watch-cortis-takes-2nd-win-for-redred-on-m-countdown",
+      "source": "Soompi",
+      "description": "CORTIS has won the second music show trophy of their career! The May 7 episode of Mnet’s “M Countdown” was a special episode with replays of past performances instead of the usual live broadcast. At the end of the show, it was announced that this week’s candidates for first place were ILLIT’s “It’s Me” and… Continue reading Watch: CORTIS Takes 2nd Win For “REDRED” On “M Countdown” The post Watch: CORTIS Takes 2nd Win For “REDRED” On “M Countdown” appeared first on Soompi.",
+      "summary": "CORTIS won their second music show trophy with \"REDRED\" on the May 7 episode of Mnet's \"M Countdown,\" competing against ILLIT's \"It's Me\" for first place.",
+      "publishedAt": "2026-05-07T22:55:14.000Z",
+      "author": "E Cha",
+      "group": "cortis"
+    },
     {
       "id": "-boycotting-hybe-boy-group-s-low-ticket-sales-spark-backlash",
       "title": "\"Boycotting...\" — HYBE Boy Group's \"Low\" Ticket Sales Spark Backlash",
@@ -85,7 +118,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/coachella-2026-katseye-bini-taemin-shinee-581476",
       "source": "CNA",
       "description": "",
-      "summary": "The article reports that SHINee's Taemin, Katseye, and BINI are among the Asian and Asian-adjacent music acts performing at Coachella 2026.",
+      "summary": "I cannot provide a summary of this article as no content or description was provided, only a title referencing Asian music acts performing at Coachella 2026.",
       "publishedAt": "2026-04-13T02:21:00Z",
       "author": "",
       "group": "hybe"
@@ -100,6 +133,17 @@
       "publishedAt": "2026-04-11T06:53:51Z",
       "author": "Althea Legaspi",
       "group": "hybe"
+    },
+    {
+      "id": "tomorrow-x-together-drop-trailer-for-2026-txt-moa-con-concert-film",
+      "title": "TOMORROW X TOGETHER Drop Trailer For '2026 TXT MOA CON' Concert Film",
+      "url": "http://www.billboard.com/music/pop/tomorrow-x-together-trailer-2026-txt-moa-con-concert-film-watch-1236241331/",
+      "source": "Billboard",
+      "description": "TOMORROW X TOGETHER dropped the first trailer for their upcoming '2026 TXT MOA CON IN JAPAN: LIVE VIEWING' concert film; watch it here.",
+      "summary": "TOMORROW X TOGETHER dropped the first trailer for their upcoming '2026 TXT MOA CON IN JAPAN: LIVE VIEWING' concert film; watch it here.",
+      "publishedAt": "2026-05-07T15:09:55Z",
+      "author": "Gil Kaufman",
+      "group": "txt"
     },
     {
       "id": "05-01-2026",
@@ -265,6 +309,17 @@
       "publishedAt": "2026-04-14T05:00:00Z",
       "author": "",
       "group": "twice"
+    },
+    {
+      "id": "kpop-demon-hunters-star-ejae-says-songwriting-pulled-her-out-of-depression-after",
+      "title": "KPop Demon Hunters star Ejae says songwriting pulled her out of depression after idol dreams ended",
+      "url": "https://cnalifestyle.channelnewsasia.com/entertainment/ejae-golden-kpop-demon-hunters-depression-582811",
+      "source": "CNA",
+      "description": "The 34-year-old Golden singer said she fell into depression after constant rejection and ageing out of the K‑pop system, but songwriting helped her recover.",
+      "summary": "The 34-year-old Golden singer said she fell into depression after constant rejection and ageing out of the K‑pop system, but songwriting helped her recover.",
+      "publishedAt": "2026-05-07T02:11:14Z",
+      "author": "",
+      "group": "hybe"
     },
     {
       "id": "nct-wish-txt-akmu-and-bts-top-circle-weekly-charts",
