@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-09T07:59:33.902Z",
+  "updatedAt": "2026-05-10T08:10:07.027Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "MQs0-TRkGXQ",
+      "title": "&TEAM 'Bewitched' Official MV Teaser | 'The Witch of Yerasah' Animated Film Teaser",
+      "url": "https://www.youtube.com/watch?v=MQs0-TRkGXQ",
+      "videoId": "MQs0-TRkGXQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/MQs0-TRkGXQ/mqdefault.jpg",
+      "publishedAt": "2026-05-09T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "WxGWMI2B7r8",
+      "title": "똑똑똑",
+      "url": "https://www.youtube.com/watch?v=WxGWMI2B7r8",
+      "videoId": "WxGWMI2B7r8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/WxGWMI2B7r8/mqdefault.jpg",
+      "publishedAt": "2026-05-09T09:16:21.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "IN-Df071fPI",
       "title": "LE SSERAFIM (르세라핌) Just BOOMPALA",
