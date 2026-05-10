@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T08:10:07.027Z",
+  "updatedAt": "2026-05-10T18:44:30.906Z",
   "bucket": "bts",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://kpoppie.com/time-is-his-jungkook-commands-the-cover-in-harpers-bazaar-korea-x-hublot/",
       "source": "Kpoppie",
       "description": "정국. Jungkook. Just the Name Is the Story There is a moment — quiet, almost imperceptible — that separates a global superstar from a cultural force. For Jeon Jungkook, that moment has long passed. What remains is something rarer: a man becoming the full version of himself in real time, and an entire generation holding their breath, watching. Harper’s BAZAAR Korea’s June 2026 issue calls it exactly what it is — “Extraordinarily pure and instinctively different.” That’s the promise on the cover. An",
-      "summary": "BTS member Jungkook appears on the cover of Harper's BAZAAR Korea's June 2026 issue in collaboration with luxury watch brand Hublot. The magazine describes him as \"extraordinarily pure and instinctively different\" while highlighting his evolution as a global superstar and cultural influence.",
+      "summary": "Jungkook appears on the cover of Harper's BAZAAR Korea's June 2026 issue in collaboration with Hublot. The magazine describes the BTS member as \"extraordinarily pure and instinctively different\" while highlighting his evolution as a global cultural force.",
       "publishedAt": "2026-05-09T21:56:41.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "bts"
@@ -264,39 +264,6 @@
       "summary": "BTS' concert setlist features 23 songs. Here's every track the band played on the 'ARIRANG' tour kickoff.",
       "publishedAt": "2026-04-09T22:52:57Z",
       "author": "Katie Atkinson",
-      "group": "bts"
-    },
-    {
-      "id": "bts-jin-reflects-on-arirang-tour-kickoff-show",
-      "title": "BTS' Jin Reflects on ARIRANG Tour Kickoff Show",
-      "url": "http://www.billboard.com/music/music-news/bts-jin-reflects-arirang-tour-kickoff-show-1236218974/",
-      "source": "Billboard",
-      "description": "BTS' Jin reflected on the band's ARIRANG Tour kickoff show, saying, \"I feel like I'm back home.\"",
-      "summary": "BTS' Jin reflected on the band's ARIRANG Tour kickoff show, saying, \"I feel like I'm back home.\"",
-      "publishedAt": "2026-04-09T17:57:39Z",
-      "author": "Hannah Dailey",
-      "group": "bts"
-    },
-    {
-      "id": "bts-reunites-on-arirang-world-tour-after-solo-endeavors-road-work",
-      "title": "BTS Reunites on Arirang World Tour After Solo Endeavors: Road Work",
-      "url": "http://www.billboard.com/lists/bts-world-tour-arirang-road-work/",
-      "source": "Billboard",
-      "description": "BTS WORLD TOUR 'ARIRANG' kicks off tonight after all seven members impacted the charts on their own.",
-      "summary": "BTS WORLD TOUR 'ARIRANG' kicks off tonight after all seven members impacted the charts on their own.",
-      "publishedAt": "2026-04-09T14:45:37Z",
-      "author": "Eric Frankenberg",
-      "group": "bts"
-    },
-    {
-      "id": "k-pop-supergroup-bts-kick-off-world-tour-in-south-korea-after-4-year-hiatus",
-      "title": "K-pop supergroup BTS kick off world tour in South Korea after 4-year hiatus",
-      "url": "https://www.cbc.ca/news/entertainment/bts-world-tour-begins-9.7157375",
-      "source": "CBC News",
-      "description": "The boys of BTS are returning to the stage after a nearly four-year hiatus, during which the members completed their mandatory military service. Despite pouring rain in Seoul, fans packed a stadium to watch the K-pop group kick off their long-awaited world to…",
-      "summary": "The boys of BTS are returning to the stage after a nearly four-year hiatus, during which the members completed their mandatory military service. Despite pouring rain in Seoul, fans packed a stadium to watch the K-pop group kick off their long-awaited world to…",
-      "publishedAt": "2026-04-09T13:54:13Z",
-      "author": "",
       "group": "bts"
     },
     {
@@ -660,6 +627,39 @@
       "summary": "BTS are getting more candid than ever. The Arirang boy band spoke out in a new cover story for Rolling Stone UK, which will also be published in 16 international editions of the magazine. Keep reading to find out more… During the conversation, the band discus…",
       "publishedAt": "2026-04-13T17:46:07Z",
       "author": "Just Jared",
+      "group": "bts"
+    },
+    {
+      "id": "bts-is-back-on-top-we-have-to-push-it-to-the-edge-",
+      "title": "BTS Is Back on Top: ‘We Have to Push It to the Edge’",
+      "url": "http://www.rollingstone.com/music/music-features/bts-reuniting-new-album-arirang-interview-1235544625/",
+      "source": "Rolling Stone",
+      "description": "BTS, the world’s biggest band, open up on their comeback: how they overcame doubt and reclaimed their roots with adventurous new album ‘Arirang’",
+      "summary": "BTS, the world’s biggest band, open up on their comeback: how they overcame doubt and reclaimed their roots with adventurous new album ‘Arirang’",
+      "publishedAt": "2026-04-13T15:00:00Z",
+      "author": "Jason Maxey",
+      "group": "bts"
+    },
+    {
+      "id": "are-bts-arih-noodles-drinks-worth-the-hype-i-tried-them-all",
+      "title": "Are BTS' ARIH Noodles & Drinks Worth The Hype? I Tried Them All",
+      "url": "https://www.elitedaily.com/lifestyle/bts-arih-noodle-drink-review",
+      "source": "Elite Daily",
+      "description": "I tried every BTS ARIH noodle, energy drink, and soda. From Gochujang Butter to Positive Orange, see which flavors are biases and which are skips in my review.",
+      "summary": "I tried every BTS ARIH noodle, energy drink, and soda. From Gochujang Butter to Positive Orange, see which flavors are biases and which are skips in my review.",
+      "publishedAt": "2026-05-08T21:04:23Z",
+      "author": "Rachel Chapman",
+      "group": "bts"
+    },
+    {
+      "id": "hybe-launches-new-label-abd-set-to-debut-new-girl-group",
+      "title": "HYBE Launches New Label ‘ABD,’ Set To Debut New Girl Group",
+      "url": "https://www.forbes.com/sites/laurasirikul/2026/05/07/hybe-launches-new-label-abd-set-to-debut-new-girl-group/",
+      "source": "Forbes",
+      "description": "HYBE has announced the launch of their new label dedicated to girl group production, ABD (\"A Bold Dream\"). ABD will debut a girl group later this year.",
+      "summary": "HYBE has announced the launch of their new label dedicated to girl group production, ABD (\"A Bold Dream\"). ABD will debut a girl group later this year.",
+      "publishedAt": "2026-05-08T00:19:38Z",
+      "author": "Laura Sirikul, Contributor, \n Laura Sirikul, Contributor\n https://www.forbes.com/sites/laurasirikul/",
       "group": "bts"
     }
   ]

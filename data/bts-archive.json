@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T08:10:07.010Z",
+  "updatedAt": "2026-05-10T18:44:30.893Z",
   "bucket": "bts",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://kpoppie.com/time-is-his-jungkook-commands-the-cover-in-harpers-bazaar-korea-x-hublot/",
       "source": "Kpoppie",
       "description": "정국. Jungkook. Just the Name Is the Story There is a moment — quiet, almost imperceptible — that separates a global superstar from a cultural force. For Jeon Jungkook, that moment has long passed. What remains is something rarer: a man becoming the full version of himself in real time, and an entire generation holding their breath, watching. Harper’s BAZAAR Korea’s June 2026 issue calls it exactly what it is — “Extraordinarily pure and instinctively different.” That’s the promise on the cover. An",
-      "summary": "BTS member Jungkook appears on the cover of Harper's BAZAAR Korea's June 2026 issue in collaboration with luxury watch brand Hublot. The magazine describes him as \"extraordinarily pure and instinctively different\" while highlighting his evolution as a global superstar and cultural influence.",
+      "summary": "Jungkook appears on the cover of Harper's BAZAAR Korea's June 2026 issue in collaboration with Hublot. The magazine describes the BTS member as \"extraordinarily pure and instinctively different\" while highlighting his evolution as a global cultural force.",
       "publishedAt": "2026-05-09T21:56:41.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "bts"
@@ -264,39 +264,6 @@
       "summary": "BTS' concert setlist features 23 songs. Here's every track the band played on the 'ARIRANG' tour kickoff.",
       "publishedAt": "2026-04-09T22:52:57Z",
       "author": "Katie Atkinson",
-      "group": "bts"
-    },
-    {
-      "id": "bts-jin-reflects-on-arirang-tour-kickoff-show",
-      "title": "BTS' Jin Reflects on ARIRANG Tour Kickoff Show",
-      "url": "http://www.billboard.com/music/music-news/bts-jin-reflects-arirang-tour-kickoff-show-1236218974/",
-      "source": "Billboard",
-      "description": "BTS' Jin reflected on the band's ARIRANG Tour kickoff show, saying, \"I feel like I'm back home.\"",
-      "summary": "BTS' Jin reflected on the band's ARIRANG Tour kickoff show, saying, \"I feel like I'm back home.\"",
-      "publishedAt": "2026-04-09T17:57:39Z",
-      "author": "Hannah Dailey",
-      "group": "bts"
-    },
-    {
-      "id": "bts-reunites-on-arirang-world-tour-after-solo-endeavors-road-work",
-      "title": "BTS Reunites on Arirang World Tour After Solo Endeavors: Road Work",
-      "url": "http://www.billboard.com/lists/bts-world-tour-arirang-road-work/",
-      "source": "Billboard",
-      "description": "BTS WORLD TOUR 'ARIRANG' kicks off tonight after all seven members impacted the charts on their own.",
-      "summary": "BTS WORLD TOUR 'ARIRANG' kicks off tonight after all seven members impacted the charts on their own.",
-      "publishedAt": "2026-04-09T14:45:37Z",
-      "author": "Eric Frankenberg",
-      "group": "bts"
-    },
-    {
-      "id": "k-pop-supergroup-bts-kick-off-world-tour-in-south-korea-after-4-year-hiatus",
-      "title": "K-pop supergroup BTS kick off world tour in South Korea after 4-year hiatus",
-      "url": "https://www.cbc.ca/news/entertainment/bts-world-tour-begins-9.7157375",
-      "source": "CBC News",
-      "description": "The boys of BTS are returning to the stage after a nearly four-year hiatus, during which the members completed their mandatory military service. Despite pouring rain in Seoul, fans packed a stadium to watch the K-pop group kick off their long-awaited world to…",
-      "summary": "The boys of BTS are returning to the stage after a nearly four-year hiatus, during which the members completed their mandatory military service. Despite pouring rain in Seoul, fans packed a stadium to watch the K-pop group kick off their long-awaited world to…",
-      "publishedAt": "2026-04-09T13:54:13Z",
-      "author": "",
       "group": "bts"
     },
     {
@@ -781,6 +748,39 @@
       "summary": "BEIJING (AP) — As mega K-pop group BTS returns to the stage after a hiatus of more than three years, one major market is conspicuously missing from its 12-month world tour: China. The omission of one of the group’s biggest fan bases comes as no surprise. In f…",
       "publishedAt": "2026-04-11T01:58:59Z",
       "author": "Ken Moritsugu And Juwon Park",
+      "group": "bts"
+    },
+    {
+      "id": "bts-jin-reflects-on-arirang-tour-kickoff-show",
+      "title": "BTS' Jin Reflects on ARIRANG Tour Kickoff Show",
+      "url": "http://www.billboard.com/music/music-news/bts-jin-reflects-arirang-tour-kickoff-show-1236218974/",
+      "source": "Billboard",
+      "description": "BTS' Jin reflected on the band's ARIRANG Tour kickoff show, saying, \"I feel like I'm back home.\"",
+      "summary": "BTS' Jin reflected on the band's ARIRANG Tour kickoff show, saying, \"I feel like I'm back home.\"",
+      "publishedAt": "2026-04-09T17:57:39Z",
+      "author": "Hannah Dailey",
+      "group": "bts"
+    },
+    {
+      "id": "bts-reunites-on-arirang-world-tour-after-solo-endeavors-road-work",
+      "title": "BTS Reunites on Arirang World Tour After Solo Endeavors: Road Work",
+      "url": "http://www.billboard.com/lists/bts-world-tour-arirang-road-work/",
+      "source": "Billboard",
+      "description": "BTS WORLD TOUR 'ARIRANG' kicks off tonight after all seven members impacted the charts on their own.",
+      "summary": "BTS WORLD TOUR 'ARIRANG' kicks off tonight after all seven members impacted the charts on their own.",
+      "publishedAt": "2026-04-09T14:45:37Z",
+      "author": "Eric Frankenberg",
+      "group": "bts"
+    },
+    {
+      "id": "k-pop-supergroup-bts-kick-off-world-tour-in-south-korea-after-4-year-hiatus",
+      "title": "K-pop supergroup BTS kick off world tour in South Korea after 4-year hiatus",
+      "url": "https://www.cbc.ca/news/entertainment/bts-world-tour-begins-9.7157375",
+      "source": "CBC News",
+      "description": "The boys of BTS are returning to the stage after a nearly four-year hiatus, during which the members completed their mandatory military service. Despite pouring rain in Seoul, fans packed a stadium to watch the K-pop group kick off their long-awaited world to…",
+      "summary": "The boys of BTS are returning to the stage after a nearly four-year hiatus, during which the members completed their mandatory military service. Despite pouring rain in Seoul, fans packed a stadium to watch the K-pop group kick off their long-awaited world to…",
+      "publishedAt": "2026-04-09T13:54:13Z",
+      "author": "",
       "group": "bts"
     },
     {
