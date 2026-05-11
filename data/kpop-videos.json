@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-05-11T09:43:11.188Z",
+  "updatedAt": "2026-05-11T19:26:29.339Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "gXnLt2jwUpk",
+      "title": "LE SSERAFIM (르세라핌) BIRCH SCAR🍃👁️",
+      "url": "https://www.youtube.com/watch?v=gXnLt2jwUpk",
+      "videoId": "gXnLt2jwUpk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/gXnLt2jwUpk/mqdefault.jpg",
+      "publishedAt": "2026-05-11T15:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-acai-official-mv-out-now-cortis-cortis-acai",
+      "title": "'ACAI' Official MV out now 🫏 #CORTIS #코르티스 #CORTIS_ACAI",
+      "url": "https://www.youtube.com/shorts/UqLbzINEAu4",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-11T12:06:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "nCElUD0jvgo",
+      "title": "CORTIS (코르티스) 'ACAI' Official MV",
+      "url": "https://www.youtube.com/watch?v=nCElUD0jvgo",
+      "videoId": "nCElUD0jvgo",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/nCElUD0jvgo/mqdefault.jpg",
+      "publishedAt": "2026-05-11T11:58:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "lo91xyoJNWY",
       "title": "Monday Spotlight | Interview with Picheolin, Herald of Heung (Hype)",
@@ -32,61 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/jWzX6-Zlz8k/mqdefault.jpg",
       "publishedAt": "2026-05-10T15:00:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "WxGWMI2B7r8",
-      "title": "BOYNEXTDOOR (보이넥스트도어) '똑똑똑' Official MV",
-      "url": "https://www.youtube.com/watch?v=WxGWMI2B7r8",
-      "videoId": "WxGWMI2B7r8",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/WxGWMI2B7r8/mqdefault.jpg",
-      "publishedAt": "2026-05-10T14:59:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "cortis-acai-official-mv-teaser-cortis-cortis-acai",
-      "title": "CORTIS (코르티스) 'ACAI' Official MV Teaser #CORTIS #코르티스 #CORTIS_ACAI",
-      "url": "https://www.youtube.com/shorts/8ViHwZEA5CM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-10T12:05:32.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "XWB2CWTKylE",
-      "title": "CORTIS (코르티스) 'ACAI' Official MV Teaser",
-      "url": "https://www.youtube.com/watch?v=XWB2CWTKylE",
-      "videoId": "XWB2CWTKylE",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/XWB2CWTKylE/mqdefault.jpg",
-      "publishedAt": "2026-05-10T12:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "MQs0-TRkGXQ",
-      "title": "&TEAM 'Bewitched' Official MV Teaser | 'The Witch of Yerasah' Animated Film Teaser",
-      "url": "https://www.youtube.com/watch?v=MQs0-TRkGXQ",
-      "videoId": "MQs0-TRkGXQ",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/MQs0-TRkGXQ/mqdefault.jpg",
-      "publishedAt": "2026-05-09T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "nCElUD0jvgo",
-      "title": "CORTIS (코르티스) 'ACAI' Official MV",
-      "url": "https://www.youtube.com/watch?v=nCElUD0jvgo",
-      "videoId": "nCElUD0jvgo",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/nCElUD0jvgo/mqdefault.jpg",
-      "publishedAt": "2026-05-09T06:37:29.000Z",
       "group": "bts",
       "bucket": "bts"
     },
