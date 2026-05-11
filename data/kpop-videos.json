@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-10T18:44:30.908Z",
+  "updatedAt": "2026-05-11T09:43:11.188Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "lo91xyoJNWY",
+      "title": "Monday Spotlight | Interview with Picheolin, Herald of Heung (Hype)",
+      "url": "https://www.youtube.com/watch?v=lo91xyoJNWY",
+      "videoId": "lo91xyoJNWY",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/lo91xyoJNWY/mqdefault.jpg",
+      "publishedAt": "2026-05-10T22:59:57.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "boynextdoor-official-mv-boynextdoor-bnd-home-",
       "title": "BOYNEXTDOOR '똑똑똑' Official MV #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #똑똑똑",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/nCElUD0jvgo/mqdefault.jpg",
       "publishedAt": "2026-05-09T06:37:29.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "IN-Df071fPI",
-      "title": "LE SSERAFIM (르세라핌) Just BOOMPALA",
-      "url": "https://www.youtube.com/watch?v=IN-Df071fPI",
-      "videoId": "IN-Df071fPI",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/IN-Df071fPI/mqdefault.jpg",
-      "publishedAt": "2026-05-07T15:00:03.000Z",
       "group": "bts",
       "bucket": "bts"
     },
