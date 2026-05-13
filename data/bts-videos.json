@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-13T08:47:08.379Z",
+  "updatedAt": "2026-05-13T19:30:02.831Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "NvG61LZ0-Yg",
+      "title": "LE SSERAFIM (르세라핌) PEONY ROOM🚪🎈",
+      "url": "https://www.youtube.com/watch?v=NvG61LZ0-Yg",
+      "videoId": "NvG61LZ0-Yg",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/NvG61LZ0-Yg/mqdefault.jpg",
+      "publishedAt": "2026-05-13T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "you-re-special-just-the-way-you-are-",
       "title": "You’re special just the way you are!",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/SSVT8bLjguY/mqdefault.jpg",
       "publishedAt": "2026-05-12T12:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-performance-video-boynextdoor-bnd-home-",
-      "title": "BOYNEXTDOOR '똑똑똑' Performance Video #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #똑똑똑",
-      "url": "https://www.youtube.com/shorts/hB4ITKEZI9o",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-12T09:00:51.000Z",
       "group": "bts",
       "bucket": "bts"
     }
