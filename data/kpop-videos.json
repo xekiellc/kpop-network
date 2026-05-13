@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-12T19:27:20.751Z",
+  "updatedAt": "2026-05-13T08:47:08.381Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "you-re-special-just-the-way-you-are-",
+      "title": "You’re special just the way you are!",
+      "url": "https://www.youtube.com/shorts/kWnx-bUjlsc",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-13T05:22:42.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "lcddJ4g7aqI",
       "title": "LE SSERAFIM (르세라핌) YUSU LILY🪷🩵",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-12T09:00:51.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "RfU7tsX69eE",
-      "title": "BOYNEXTDOOR (보이넥스트도어) '똑똑똑' Performance Video",
-      "url": "https://www.youtube.com/watch?v=RfU7tsX69eE",
-      "videoId": "RfU7tsX69eE",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/RfU7tsX69eE/mqdefault.jpg",
-      "publishedAt": "2026-05-12T09:00:03.000Z",
       "group": "bts",
       "bucket": "bts"
     },

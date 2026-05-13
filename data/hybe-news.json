@@ -1,14 +1,36 @@
 {
-  "updatedAt": "2026-05-12T19:27:20.750Z",
+  "updatedAt": "2026-05-13T08:47:08.379Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "boynextdoor-announces-stops-for-2026-27-tour-knock-on-vol-2-",
+      "title": "BOYNEXTDOOR Announces Stops For 2026–27 Tour “KNOCK ON Vol.2”",
+      "url": "https://www.soompi.com/article/1840703wpp/boynextdoor-announces-stops-for-2026-27-tour-knock-on-vol-2",
+      "source": "Soompi",
+      "description": "BOYNEXTDOOR is going on tour! On May 13, BOYNEXTDOOR announced their new 2026-27 tour “KNOCK ON Vol.2.” After kicking off their tour in Korea with stops in Seoul and Busan, BOYNEXTDOOR will visit Kanagawa, Saga, Osaka, Miyagi, Nagano, Chiba, Dallas, Pompano, Chicago, New York, Toronto, Vancouver, Seattle, San Francisco, Los Angeles, Mexico City, Jakarta, Kuala… Continue reading BOYNEXTDOOR Announces Stops For 2026–27 Tour “KNOCK ON Vol.2” The post BOYNEXTDOOR Announces Stops For 2026–27 Tour “KN",
+      "summary": "BOYNEXTDOOR announced their 2026-27 world tour \"KNOCK ON Vol.2\" on May 13, which will begin in Korea with Seoul and Busan before expanding to multiple cities across Asia, North America, and other international locations.",
+      "publishedAt": "2026-05-13T05:30:28.000Z",
+      "author": "S Nam",
+      "group": "boynextdoor"
+    },
+    {
+      "id": "kazuha-of-le-sserafim-motion-as-manifesto",
+      "title": "Kazuha of LE SSERAFIM: Motion as Manifesto",
+      "url": "https://kpoppie.com/kazuha-of-le-sserafim-motion-as-manifesto/",
+      "source": "Kpoppie",
+      "description": "“She moves like punctuation — every gesture makes the sentence matter.” Opening moment She appears in the frame like a secret the camera was never meant to know — a silhouette unspooling into motion, a single long limb drawing a line through a sunlit studio. Kazuha’s movement is the punctuation mark in Marie Claire Korea’s lululemon pictorial: a handshake between athleticism and couture where breath and fabric negotiate meaning. In that instant she is less a pop star and more an argument — that ",
+      "summary": "The article features Kazuha from LE SSERAFIM in a Marie Claire Korea pictorial collaboration with lululemon, focusing on her dance movements and athletic aesthetic.",
+      "publishedAt": "2026-05-12T22:26:17.000Z",
+      "author": "Kpoppie Editorial Team",
+      "group": "lesserafim"
+    },
     {
       "id": "the-line-breakers-cortis-w-korea-june-2026",
       "title": "THE LINE BREAKERS — CORTIS, W Korea June 2026",
       "url": "https://kpoppie.com/the-line-breakers-cortis-w-korea-june-2026/",
       "source": "Kpoppie",
       "description": "CORTIS don’t follow the script. They wrote one that didn’t exist yet — and the world is still catching up. They are five teenagers who produce their own music, choreograph their own moves, co-direct their own visuals, and still somehow have time to reshape K-pop’s global identity. Meet CORTIS — BigHit Music’s most radical act since the letters BTS first appeared on a lightstick. The Room Where It Happens February in Los Angeles. The Kia Forum roars with the particular electricity of NBA All-Star",
-      "summary": "CORTIS, a five-member group from BigHit Music, is featured in W Korea's June 2026 issue as \"The Line Breakers\" for their self-produced approach to music, choreography, and visuals. The article highlights them as BigHit's most radical act since BTS, noting their influence on K-pop's global identity.",
+      "summary": "CORTIS, a five-member teenage group under BigHit Music, is featured in W Korea's June 2026 issue for their self-produced approach to music, choreography, and visuals. The article highlights them as BigHit's most significant act since BTS, noting their impact on reshaping K-pop's global identity.",
       "publishedAt": "2026-05-11T09:00:41.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "cortis"
@@ -96,7 +118,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/coachella-2026-katseye-bini-taemin-shinee-581476",
       "source": "CNA",
       "description": "",
-      "summary": "I cannot provide a summary as no article content was provided, only a title referencing Shinee's Taemin, Katseye, and Bini performing at Coachella 2026, with the description listed as \"N/A.\"",
+      "summary": "Based on the title provided, several Asian and Asian-adjacent music acts including SHINee's Taemin, Katseye, and Bini are set to perform at Coachella 2026. No additional details are available as the article description was not provided.",
       "publishedAt": "2026-04-13T02:21:00Z",
       "author": "",
       "group": "hybe"
@@ -234,17 +256,6 @@
       "group": "txt"
     },
     {
-      "id": "podcast-how-valuable-are-agent-skills-conversation-with-larah-vasquez-and-fabriz",
-      "title": "Podcast: How valuable are agent skills? Conversation with Larah Vasquez and Fabrizio Ferri-Benedetti",
-      "url": "https://idratherbewriting.com/blog/ai-skills-agentic-workflows-larah-fabrizio",
-      "source": "Idratherbewriting.com",
-      "description": "In this podcast, I chat with Larah Vasquez and Fabrizio Ferri-Benedetti about using skills to extend AI capabilities, the future of agentic engineering, local models like Qwen and Gemma, and whether the tech writer role is shifting into automation architectur…",
-      "summary": "In this podcast, I chat with Larah Vasquez and Fabrizio Ferri-Benedetti about using skills to extend AI capabilities, the future of agentic engineering, local models like Qwen and Gemma, and whether the tech writer role is shifting into automation architectur…",
-      "publishedAt": "2026-04-12T07:00:00Z",
-      "author": "<a href='/aboutme/'>Tom Johnson</a>",
-      "group": "hybe"
-    },
-    {
       "id": "here-are-all-the-k-pop-artists-nominated-for-the-2026-american-music-awards",
       "title": "Here Are All The K-Pop Artists Nominated For The 2026 American Music Awards",
       "url": "http://www.soompi.com/article/1833088wpp/here-are-all-the-k-pop-artists-nominated-for-the-2026-american-music-awards",
@@ -276,6 +287,17 @@
       "publishedAt": "2026-04-14T05:00:00Z",
       "author": "",
       "group": "twice"
+    },
+    {
+      "id": "its-a-kpop-summerween-",
+      "title": "its a kpop summerween!",
+      "url": "https://ohnotheydidnt.livejournal.com/132328508.html",
+      "source": "Livejournal.com",
+      "description": "So technically it's only May, and it's two groups, but still.First is aespa, who have released their new single, 'WDA (Whole Different Animal) ft G-Dragon'. Creepy vid, monster-wise and also like a haunted house music vid.Second is Le Sserafim, who have relea…",
+      "summary": "So technically it's only May, and it's two groups, but still.First is aespa, who have released their new single, 'WDA (Whole Different Animal) ft G-Dragon'. Creepy vid, monster-wise and also like a haunted house music vid.Second is Le Sserafim, who have relea…",
+      "publishedAt": "2026-05-11T21:25:10Z",
+      "author": "ladychips",
+      "group": "lesserafim"
     },
     {
       "id": "kpop-demon-hunters-star-ejae-says-songwriting-pulled-her-out-of-depression-after",
