@@ -98,14 +98,11 @@ const REDDIT_FEEDS = [
 
 // ── NEWSAPI QUERIES PER BUCKET ─────────────────────────────
 const NEWSAPI_QUERIES = [
-  // BTS bucket
   { query: 'BTS kpop',                bucket: 'bts' },
   { query: 'Bangtan Boys',            bucket: 'bts' },
   { query: 'BTS Jungkook',            bucket: 'bts' },
   { query: 'BTS Jimin solo',          bucket: 'bts' },
   { query: 'BTS Jin Suga J-Hope',     bucket: 'bts' },
-
-  // HYBE bucket
   { query: 'HYBE kpop',               bucket: 'hybe' },
   { query: 'TXT Tomorrow X Together', bucket: 'hybe' },
   { query: 'ENHYPEN kpop',            bucket: 'hybe' },
@@ -114,8 +111,6 @@ const NEWSAPI_QUERIES = [
   { query: 'BOYNEXTDOOR kpop',        bucket: 'hybe' },
   { query: 'SEVENTEEN kpop',          bucket: 'hybe' },
   { query: 'NewJeans kpop',           bucket: 'hybe' },
-
-  // KPOP bucket
   { query: 'kpop music',              bucket: 'kpop' },
   { query: 'BLACKPINK kpop',          bucket: 'kpop' },
   { query: 'Stray Kids kpop',         bucket: 'kpop' },
@@ -133,7 +128,6 @@ async function main() {
   const videoBuckets = { bts: [], hybe: [], kpop: [] };
   const communityBuckets = { bts: [], hybe: [], kpop: [] };
 
-  // ── FETCH NEWS RSS ───────────────────────────────────────
   console.log('\n📰 Fetching RSS news feeds...');
   const rssArticles = await fetchRSSFeeds();
   console.log(`   Found ${rssArticles.length} RSS articles`);
@@ -146,7 +140,6 @@ async function main() {
     if (bucket !== 'kpop') buckets['kpop'].push({ ...article });
   }
 
-  // ── FETCH NEWSAPI ────────────────────────────────────────
   if (NEWS_API_KEY) {
     console.log('\n📡 Fetching from NewsAPI...');
     const newsApiResults = await fetchNewsAPI();
@@ -158,14 +151,12 @@ async function main() {
       buckets['bts'].push(article);
       buckets['kpop'].push({ ...article });
     }
-
     for (const article of newsApiResults.hybe) {
       const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
       article.group = match ? match.id : 'hybe';
       buckets['hybe'].push(article);
       buckets['kpop'].push({ ...article });
     }
-
     for (const article of newsApiResults.kpop) {
       const match = matchGroupFromText(article.title + ' ' + (article.summary || ''));
       article.group = match ? match.id : 'kpop';
@@ -175,7 +166,6 @@ async function main() {
     }
   }
 
-  // ── FETCH YOUTUBE RSS ────────────────────────────────────
   console.log('\n🎬 Fetching YouTube RSS feeds...');
   const allVideos = await fetchYouTubeFeeds();
   console.log(`   Found ${allVideos.length} videos`);
@@ -184,7 +174,6 @@ async function main() {
     if (video.bucket !== 'kpop') videoBuckets['kpop'].push({ ...video });
   }
 
-  // ── FETCH REDDIT ─────────────────────────────────────────
   console.log('\n💬 Fetching Reddit feeds...');
   const allPosts = await fetchRedditFeeds();
   console.log(`   Found ${allPosts.length} community posts`);
@@ -193,8 +182,6 @@ async function main() {
     if (post.bucket !== 'kpop') communityBuckets['kpop'].push({ ...post });
   }
 
-  // ── GENERATE AI SUMMARIES ────────────────────────────────
-  // Capped at 5 per bucket (15 total) to keep runtime under 6 minutes
   if (ANTHROPIC_API_KEY) {
     console.log('\n🤖 Generating AI summaries (max 5 per bucket)...');
     for (const bucket of ['bts', 'hybe', 'kpop']) {
@@ -211,7 +198,6 @@ async function main() {
     }
   }
 
-  // ── DEDUPLICATE ──────────────────────────────────────────
   console.log('\n🔄 Deduplicating...');
   for (const bucket of ['bts', 'hybe', 'kpop']) {
     buckets[bucket] = deduplicateByTitle(buckets[bucket]);
@@ -219,7 +205,6 @@ async function main() {
     communityBuckets[bucket] = deduplicateByTitle(communityBuckets[bucket]);
   }
 
-  // ── LOAD EXISTING ARCHIVES ───────────────────────────────
   console.log('\n📦 Updating archives...');
   for (const bucket of ['bts', 'hybe', 'kpop']) {
     const archivePath = path.join(DATA_DIR, `${bucket}-archive.json`);
@@ -239,7 +224,6 @@ async function main() {
     });
   }
 
-  // ── WRITE NEWS FILES ─────────────────────────────────────
   console.log('\n💾 Writing data files...');
   for (const bucket of ['bts', 'hybe', 'kpop']) {
     writeJSON(path.join(DATA_DIR, `${bucket}-news.json`), {
@@ -247,19 +231,16 @@ async function main() {
       bucket,
       articles: buckets[bucket].slice(0, 60)
     });
-
     writeJSON(path.join(DATA_DIR, `${bucket}-videos.json`), {
       updatedAt: new Date().toISOString(),
       bucket,
       videos: videoBuckets[bucket].slice(0, 40)
     });
-
     writeJSON(path.join(DATA_DIR, `${bucket}-community.json`), {
       updatedAt: new Date().toISOString(),
       bucket,
       posts: communityBuckets[bucket].slice(0, 40)
     });
-
     console.log(`   ✅ ${bucket}: ${buckets[bucket].length} articles, ${videoBuckets[bucket].length} videos, ${communityBuckets[bucket].length} posts`);
   }
 
@@ -293,10 +274,9 @@ async function fetchRSSFeeds() {
   return articles;
 }
 
-// ── FETCH NEWSAPI — bucket-aware ───────────────────────────
+// ── FETCH NEWSAPI ──────────────────────────────────────────
 async function fetchNewsAPI() {
   const results = { bts: [], hybe: [], kpop: [] };
-
   for (const { query, bucket } of NEWSAPI_QUERIES) {
     try {
       const res = await axios.get('https://newsapi.org/v2/everything', {
@@ -309,7 +289,6 @@ async function fetchNewsAPI() {
         },
         timeout: 10000,
       });
-
       for (const item of (res.data.articles || [])) {
         if (!item.title || item.title === '[Removed]') continue;
         results[bucket].push({
@@ -404,7 +383,7 @@ async function generateSummary(title, description) {
     const res = await axios.post(
       'https://api.anthropic.com/v1/messages',
       {
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-haiku-4-5-20251001',
         max_tokens: 100,
         messages: [{
           role: 'user',
