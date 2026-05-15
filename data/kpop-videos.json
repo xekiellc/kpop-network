@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-13T19:30:02.833Z",
+  "updatedAt": "2026-05-15T08:51:32.983Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "YS3lKDJqbx8",
+      "title": "LE SSERAFIM (르세라핌) COMPACT 🕶️💫",
+      "url": "https://www.youtube.com/watch?v=YS3lKDJqbx8",
+      "videoId": "YS3lKDJqbx8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/YS3lKDJqbx8/mqdefault.jpg",
+      "publishedAt": "2026-05-14T15:00:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "NvG61LZ0-Yg",
       "title": "LE SSERAFIM (르세라핌) PEONY ROOM🚪🎈",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-12T12:03:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "SSVT8bLjguY",
-      "title": "CORTIS (코르티스) 'ACAI' Conceptual Performance Film",
-      "url": "https://www.youtube.com/watch?v=SSVT8bLjguY",
-      "videoId": "SSVT8bLjguY",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/SSVT8bLjguY/mqdefault.jpg",
-      "publishedAt": "2026-05-12T12:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
