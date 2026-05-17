@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-16T18:46:58.037Z",
+  "updatedAt": "2026-05-17T18:52:28.346Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "W6qpKvWqOh8",
+      "title": "TWS (투어스) '너의 모든 가능성이 되어 줄게' Official Teaser",
+      "url": "https://www.youtube.com/watch?v=W6qpKvWqOh8",
+      "videoId": "W6qpKvWqOh8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/W6qpKvWqOh8/mqdefault.jpg",
+      "publishedAt": "2026-05-17T15:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "le-sserafim-boompala-preview",
+      "title": "LE SSERAFIM (르세라핌) BOOMPALA PREVIEW",
+      "url": "https://www.youtube.com/shorts/RiLQQgGR-0k",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-17T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "XdumyvpHPZM",
       "title": "[HYBE x Geffen] World Scout: The Final Piece ‘WE RIDE’ Live Performance",
@@ -65,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/ofI7CPSvk60/mqdefault.jpg",
       "publishedAt": "2026-05-12T13:00:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "acai-conceptual-performance-film-out-now-cortis-cortis-acai",
-      "title": "ACAI conceptual performance film out now! #CORTIS #코르티스 #CORTIS_ACAI",
-      "url": "https://www.youtube.com/shorts/6ywIkMsJuNs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-12T12:03:00.000Z",
       "group": "bts",
       "bucket": "bts"
     },
