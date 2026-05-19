@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-19T09:48:09.076Z",
+  "updatedAt": "2026-05-19T19:41:30.023Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "V9ttgoD6fDw",
+      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA' MV TEASER 1",
+      "url": "https://www.youtube.com/watch?v=V9ttgoD6fDw",
+      "videoId": "V9ttgoD6fDw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/V9ttgoD6fDw/mqdefault.jpg",
+      "publishedAt": "2026-05-19T15:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "tws-official-mv",
       "title": "TWS (투어스) '너의 모든 가능성이 되어 줄게' Official MV",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-18T15:02:25.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-pureflow-pt-1-highlight-medley-",
-      "title": "LE SSERAFIM (르세라핌) ‘PUREFLOW’ pt.1 HIGHLIGHT MEDLEY - 우리 어떻게 더 사귈 수 있을까",
-      "url": "https://www.youtube.com/shorts/7MujqlNPoOg",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-18T15:02:08.000Z",
       "group": "bts",
       "bucket": "bts"
     }
