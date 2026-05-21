@@ -37,3 +37,15 @@ jobs:
           git add data/
           git diff --staged --quiet || git commit -m "Update content $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+
+      - name: Post to Voxxee
+        run: |
+          curl -s -X POST https://xenchee.netlify.app/.netlify/functions/pipeline-post \
+            -H "Content-Type: application/json" \
+            -H "x-pipeline-secret: ${{ secrets.PIPELINE_SECRET }}" \
+            -d '{
+              "slug": "k-pop-network",
+              "title": "🎵 K-Pop Network — Latest K-Pop News",
+              "summary": "Fresh K-pop news, comebacks, and updates from your favorite artists and groups.",
+              "url": "https://kpop-network.com"
+            }'
