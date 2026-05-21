@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-19T19:41:30.025Z",
+  "updatedAt": "2026-05-21T09:44:19.676Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "eY2JASSgF-s",
+      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA' MV TEASER 2",
+      "url": "https://www.youtube.com/watch?v=eY2JASSgF-s",
+      "videoId": "eY2JASSgF-s",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/eY2JASSgF-s/mqdefault.jpg",
+      "publishedAt": "2026-05-20T15:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "are-you-ready-to-make-your-moment-eternal-with-aoen-",
+      "title": "Are you ready to make your moment eternal with AOEN?",
+      "url": "https://www.youtube.com/shorts/pGZg3L1nbIg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-20T12:01:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "V9ttgoD6fDw",
       "title": "LE SSERAFIM (르세라핌) 'BOOMPALA' MV TEASER 1",
@@ -54,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-18T15:02:37.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-pureflow-pt-1-highlight-medley-saki-feat-aliyah-s-interlude-",
-      "title": "LE SSERAFIM (르세라핌) ‘PUREFLOW’ pt.1 HIGHLIGHT MEDLEY - Saki (feat. Aliyah's Interlude)",
-      "url": "https://www.youtube.com/shorts/jpWDME0D5E0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-18T15:02:31.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-pureflow-pt-1-highlight-medley-sonder",
-      "title": "LE SSERAFIM (르세라핌) ‘PUREFLOW’ pt.1 HIGHLIGHT MEDLEY - Sonder",
-      "url": "https://www.youtube.com/shorts/pI8yun1-rOY",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-18T15:02:25.000Z",
       "group": "bts",
       "bucket": "bts"
     },
