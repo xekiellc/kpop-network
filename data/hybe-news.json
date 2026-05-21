@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T09:44:19.675Z",
+  "updatedAt": "2026-05-21T19:41:59.830Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -34,6 +34,28 @@
       "publishedAt": "2026-04-21T03:32:17Z",
       "author": "",
       "group": "bts"
+    },
+    {
+      "id": "2026-05-20-df-53-14-released",
+      "title": "2026-05-20: DF 53.14 Released",
+      "url": "http://www.bay12games.com/dwarves/index.html#R2026-05-20",
+      "source": "Bay12games.com",
+      "description": "DF Version 53.14 has been released.",
+      "summary": "DF Version 53.14 has been released.",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "author": "",
+      "group": "hybe"
+    },
+    {
+      "id": "05-20-2026",
+      "title": "05/20/2026",
+      "url": "http://www.bay12games.com/dwarves/index.html#2026-05-20",
+      "source": "Bay12games.com",
+      "description": "(Toady One) This small patch fixes a crash to do with the changes to announcements from last time.",
+      "summary": "(Toady One) This small patch fixes a crash to do with the changes to announcements from last time.",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "author": "",
+      "group": "hybe"
     },
     {
       "id": "05-13-2026",
@@ -198,6 +220,17 @@
       "summary": "The 34-year-old Golden singer said she fell into depression after constant rejection and ageing out of the K‑pop system, but songwriting helped her recover.",
       "publishedAt": "2026-05-07T02:11:14Z",
       "author": "",
+      "group": "hybe"
+    },
+    {
+      "id": "just-hits-2026-05-16-",
+      "title": "Just Hits (2026.05.16)",
+      "url": "https://post.rlsbb.to/just-hits-2026-05-16/",
+      "source": "Rlsbb.to",
+      "description": "Tracklist: 01. Zara Larsson - Midnight Sun [03:07]02. Olivia Rodrigo - drop dead [04:10]03. Bruno Mars - Risk It All [03:30]04. Calvin Harris, Jazzy - Satisfy [03:06]05. Sabrina Carpenter - House Tour [03:34]06. Harry Styles - American Girls [03:47]07. Justin…",
+      "summary": "Tracklist: 01. Zara Larsson - Midnight Sun [03:07]02. Olivia Rodrigo - drop dead [04:10]03. Bruno Mars - Risk It All [03:30]04. Calvin Harris, Jazzy - Satisfy [03:06]05. Sabrina Carpenter - House Tour [03:34]06. Harry Styles - American Girls [03:47]07. Justin…",
+      "publishedAt": "2026-05-20T15:24:33Z",
+      "author": "Kingman",
       "group": "hybe"
     },
     {
