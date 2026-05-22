@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-21T19:41:59.832Z",
+  "updatedAt": "2026-05-22T09:29:04.413Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "V1Lr-_AxeR8",
+      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA' OFFICIAL MV",
+      "url": "https://www.youtube.com/watch?v=V1Lr-_AxeR8",
+      "videoId": "V1Lr-_AxeR8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/V1Lr-_AxeR8/mqdefault.jpg",
+      "publishedAt": "2026-05-22T03:58:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "eY2JASSgF-s",
       "title": "LE SSERAFIM (르세라핌) 'BOOMPALA' MV TEASER 2",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-18T15:02:43.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-pureflow-pt-1-highlight-medley-irony",
-      "title": "LE SSERAFIM (르세라핌) ‘PUREFLOW’ pt.1 HIGHLIGHT MEDLEY - Irony",
-      "url": "https://www.youtube.com/shorts/325j7YSy7E0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-18T15:02:37.000Z",
       "group": "bts",
       "bucket": "bts"
     },
