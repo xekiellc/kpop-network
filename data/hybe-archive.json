@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-22T09:29:04.398Z",
+  "updatedAt": "2026-05-22T19:21:40.046Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "watch-nmixx-takes-2nd-win-for-heavy-serenade-on-music-bank-performances-by-le-ss",
+      "title": "Watch: NMIXX Takes 2nd Win For “Heavy Serenade” On “Music Bank”; Performances By LE SSERAFIM, ZEROBASEONE, And More",
+      "url": "https://www.soompi.com/article/1843103wpp/watch-nmixx-takes-2nd-win-for-heavy-serenade-on-music-bank-performances-by-le-sserafim-zerobaseone-and-more",
+      "source": "Soompi",
+      "description": "NMIXX has won their second music show trophy for “Heavy Serenade”! On the May 22 episode of “Music Bank,” the candidates for first place were ILLIT’s “It’s Me” and NMIXX’s “Heavy Serenade.” NMIXX ultimately took the prize with a total of 9,582 points. Congratulations to NMIXX! Watch the winner announcement and full encore below! Performers on… Continue reading Watch: NMIXX Takes 2nd Win For “Heavy Serenade” On “Music Bank”; Performances By LE SSERAFIM, ZEROBASEONE, And More The post Watch: NMIXX",
+      "summary": "NMIXX won their second music show trophy for \"Heavy Serenade\" on the May 22 episode of \"Music Bank,\" defeating ILLIT's \"It's Me\" with 9,582 points.",
+      "publishedAt": "2026-05-22T12:14:08.000Z",
+      "author": "MLim",
+      "group": "lesserafim"
+    },
     {
       "id": "-boycotting-hybe-boy-group-s-low-ticket-sales-spark-backlash",
       "title": "\"Boycotting...\" — HYBE Boy Group's \"Low\" Ticket Sales Spark Backlash",
@@ -12,28 +23,6 @@
       "publishedAt": "2026-04-28T18:20:34Z",
       "author": "Koreaboo",
       "group": "hybe"
-    },
-    {
-      "id": "founder-of-agency-behind-k-pop-s-bts-faces-arrest-over-alleged-fraud",
-      "title": "Founder of agency behind K-pop's BTS faces arrest over alleged fraud",
-      "url": "https://www.nbcnews.com/world/asia/founder-k-pop-agency-bts-faces-arrest-alleged-fraud-rcna341156",
-      "source": "NBC News",
-      "description": "South Korean police have requested a detention warrant for Bang Si-hyuk, the chairman of Kpop agency HYBE, over alleged illegal trading tied to the company’s initial public offering.",
-      "summary": "South Korean police have requested a detention warrant for Bang Si-hyuk, the chairman of Kpop agency HYBE, over alleged illegal trading tied to the company’s initial public offering.",
-      "publishedAt": "2026-04-21T08:25:56Z",
-      "author": "Reuters",
-      "group": "bts"
-    },
-    {
-      "id": "south-korea-police-seek-detention-warrant-for-bts-agency-founder-bang",
-      "title": "South Korea police seek detention warrant for BTS agency founder Bang",
-      "url": "https://japantoday.com/category/world/south-korea-police-seek-detention-warrant-for-bts-agency-founder-bang",
-      "source": "Japan Today",
-      "description": "South Korean police have requested a detention warrant ‌for Bang Si-hyuk, the chairman of Kpop agency HYBE, over alleged illegal trading tied to the company's initial public offering. The ‌Seoul Metropolitan Police Agency said Bang is ⁠suspected of violating …",
-      "summary": "South Korean police have requested a detention warrant ‌for Bang Si-hyuk, the chairman of Kpop agency HYBE, over alleged illegal trading tied to the company's initial public offering. The ‌Seoul Metropolitan Police Agency said Bang is ⁠suspected of violating …",
-      "publishedAt": "2026-04-21T03:32:17Z",
-      "author": "",
-      "group": "bts"
     },
     {
       "id": "2026-05-20-df-53-14-released",
@@ -309,6 +298,28 @@
       "publishedAt": "2026-04-23T12:21:46Z",
       "author": "Kingman",
       "group": "hybe"
+    },
+    {
+      "id": "founder-of-agency-behind-k-pop-s-bts-faces-arrest-over-alleged-fraud",
+      "title": "Founder of agency behind K-pop's BTS faces arrest over alleged fraud",
+      "url": "https://www.nbcnews.com/world/asia/founder-k-pop-agency-bts-faces-arrest-alleged-fraud-rcna341156",
+      "source": "NBC News",
+      "description": "South Korean police have requested a detention warrant for Bang Si-hyuk, the chairman of Kpop agency HYBE, over alleged illegal trading tied to the company’s initial public offering.",
+      "summary": "South Korean police have requested a detention warrant for Bang Si-hyuk, the chairman of Kpop agency HYBE, over alleged illegal trading tied to the company’s initial public offering.",
+      "publishedAt": "2026-04-21T08:25:56Z",
+      "author": "Reuters",
+      "group": "bts"
+    },
+    {
+      "id": "south-korea-police-seek-detention-warrant-for-bts-agency-founder-bang",
+      "title": "South Korea police seek detention warrant for BTS agency founder Bang",
+      "url": "https://japantoday.com/category/world/south-korea-police-seek-detention-warrant-for-bts-agency-founder-bang",
+      "source": "Japan Today",
+      "description": "South Korean police have requested a detention warrant ‌for Bang Si-hyuk, the chairman of Kpop agency HYBE, over alleged illegal trading tied to the company's initial public offering. The ‌Seoul Metropolitan Police Agency said Bang is ⁠suspected of violating …",
+      "summary": "South Korean police have requested a detention warrant ‌for Bang Si-hyuk, the chairman of Kpop agency HYBE, over alleged illegal trading tied to the company's initial public offering. The ‌Seoul Metropolitan Police Agency said Bang is ⁠suspected of violating …",
+      "publishedAt": "2026-04-21T03:32:17Z",
+      "author": "",
+      "group": "bts"
     },
     {
       "id": "le-sserafim-s-kim-chaewon-to-take-break-from-activities-due-to-health",
