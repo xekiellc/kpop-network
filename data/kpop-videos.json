@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-23T18:53:14.841Z",
+  "updatedAt": "2026-05-24T18:59:11.003Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "OA8P1IDeQ44",
+      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME] Concept Film : WEAVER ver.",
+      "url": "https://www.youtube.com/watch?v=OA8P1IDeQ44",
+      "videoId": "OA8P1IDeQ44",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/OA8P1IDeQ44/mqdefault.jpg",
+      "publishedAt": "2026-05-24T13:00:24.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "boynextdoor-home-concept-film-weaver-ver-boynextdoor-bnd-home",
+      "title": "BOYNEXTDOOR [HOME] Concept Film : WEAVER ver. #BOYNEXTDOOR #보이넥스트도어 #BND #HOME",
+      "url": "https://www.youtube.com/shorts/KE3C0Bwt9Ug",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-24T13:00:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "dJ0s1r4cfs0",
       "title": "BOYNEXTDOOR (보이넥스트도어) [HOME] Concept Film : NAVIGATOR ver.",
@@ -65,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/V9ttgoD6fDw/mqdefault.jpg",
       "publishedAt": "2026-05-19T15:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-official-mv",
-      "title": "TWS (투어스) '너의 모든 가능성이 되어 줄게' Official MV",
-      "url": "https://www.youtube.com/shorts/YqJTL5PxeTk",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-19T09:00:40.000Z",
       "group": "bts",
       "bucket": "bts"
     },
