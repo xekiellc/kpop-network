@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-26T09:59:21.908Z",
+  "updatedAt": "2026-05-26T19:53:55.500Z",
   "bucket": "hybe",
   "articles": [
-    {
-      "id": "-team-riize-txt-and-more-earn-platinum-and-gold-certifications-in-japan",
-      "title": "&TEAM, RIIZE, TXT, And More Earn Platinum And Gold Certifications In Japan",
-      "url": "https://www.soompi.com/article/1843422wpp/team-riize-txt-and-more-earn-platinum-and-gold-certifications-in-japan",
-      "source": "Soompi",
-      "description": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! This month, &TEAM’s new Japanese EP “We on Fire” earned an official triple platinum certification for over 750,000 units shipped in Japan. According to the RIAJ’s certification thresholds, albums are certified gold at 100,000 units shipped and platinum at 250,000.… Continue reading &TEAM, RIIZE, TXT, And More Earn Platinum And Gold Certifications In Japan The post &TEAM, RIIZE, TXT, And ",
-      "summary": "The Recording Industry Association of Japan announced new certifications, with &TEAM's Japanese EP \"We on Fire\" earning triple platinum status for over 750,000 units shipped, while RIIZE, TXT, and other artists also received platinum and gold certifications.",
-      "publishedAt": "2026-05-24T20:45:47.000Z",
-      "author": "E Cha",
-      "group": "txt"
-    },
     {
       "id": "inaugural-k-entertainment-summit-shares-k-pop-business-strategies-insights",
       "title": "Inaugural K-Entertainment Summit Shares K-Pop Business Strategies, Insights",
@@ -276,6 +265,17 @@
       "publishedAt": "2026-04-29T19:54:58Z",
       "author": "E Cha",
       "group": "bts"
+    },
+    {
+      "id": "-team-riize-txt-and-more-earn-platinum-and-gold-certifications-in-japan",
+      "title": "&TEAM, RIIZE, TXT, And More Earn Platinum And Gold Certifications In Japan",
+      "url": "https://www.soompi.com/article/1843422wpp/team-riize-txt-and-more-earn-platinum-and-gold-certifications-in-japan",
+      "source": "Soompi",
+      "description": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! This month, &TEAM’s new Japanese EP “We on Fire” earned an official triple platinum certification for over 750,000 units shipped in Japan. According to the RIAJ’s certification thresholds, albums are certified gold at 100,000 units shipped and platinum at 250,000.… Continue reading &TEAM, RIIZE, TXT, And More Earn Platinum And Gold Certifications In Japan The post &TEAM, RIIZE, TXT, And ",
+      "summary": "The Recording Industry Association of Japan announced new certifications, with &TEAM's Japanese EP \"We on Fire\" earning triple platinum status for over 750,000 units shipped, while RIIZE, TXT, and other artists also received platinum and gold certifications.",
+      "publishedAt": "2026-05-24T20:45:47.000Z",
+      "author": "E Cha",
+      "group": "txt"
     },
     {
       "id": "watch-cortis-takes-9th-win-for-redred-on-inkigayo-performances-by-i-o-i-itzy-le-",

@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-26T09:59:21.919Z",
+  "updatedAt": "2026-05-26T19:53:55.513Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "l9vlcK5QQa0",
+      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME] Concept Film : SWEET HOME ver.",
+      "url": "https://www.youtube.com/watch?v=l9vlcK5QQa0",
+      "videoId": "l9vlcK5QQa0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/l9vlcK5QQa0/mqdefault.jpg",
+      "publishedAt": "2026-05-26T13:00:29.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "boynextdoor-home-concept-film-sweet-home-ver-boynextdoor-bnd-home",
+      "title": "BOYNEXTDOOR [HOME] Concept Film : SWEET HOME ver. #BOYNEXTDOOR #보이넥스트도어 #BND #HOME",
+      "url": "https://www.youtube.com/shorts/6qy-rak1MgU",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-26T13:00:12.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "6IFeGqSqrKs",
       "title": "LE SSERAFIM (르세라핌) ‘BOOMPALA' OFFICIAL PERFORMANCE FILM @ THE QUARRY",
@@ -9,7 +31,7 @@
       "videoId": "6IFeGqSqrKs",
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/6IFeGqSqrKs/mqdefault.jpg",
-      "publishedAt": "2026-05-26T06:14:10.000Z",
+      "publishedAt": "2026-05-26T12:58:06.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/1EA757U8XCY/mqdefault.jpg",
       "publishedAt": "2026-05-25T07:14:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "czhqgJcpOYI",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (HUH YUNJIN ver.)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=czhqgJcpOYI",
-      "videoId": "czhqgJcpOYI",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/czhqgJcpOYI/mqdefault.jpg",
-      "publishedAt": "2026-05-25T07:09:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "s-8A--HHx8U",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (SAKURA ver.)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=s-8A--HHx8U",
-      "videoId": "s-8A--HHx8U",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/s-8A--HHx8U/mqdefault.jpg",
-      "publishedAt": "2026-05-25T07:04:58.000Z",
       "group": "bts",
       "bucket": "bts"
     }
