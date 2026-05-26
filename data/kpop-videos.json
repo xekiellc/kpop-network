@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-25T19:14:03.571Z",
+  "updatedAt": "2026-05-26T09:59:21.921Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "6IFeGqSqrKs",
+      "title": "LE SSERAFIM (르세라핌) ‘BOOMPALA' OFFICIAL PERFORMANCE FILM @ THE QUARRY",
+      "url": "https://www.youtube.com/watch?v=6IFeGqSqrKs",
+      "videoId": "6IFeGqSqrKs",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/6IFeGqSqrKs/mqdefault.jpg",
+      "publishedAt": "2026-05-26T06:14:10.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "MfXDnkug92c",
       "title": "BOYNEXTDOOR (보이넥스트도어) [HOME] Concept Film : BUNKER ver.",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/s-8A--HHx8U/mqdefault.jpg",
       "publishedAt": "2026-05-25T07:04:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "AozBX9OJ_C8",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (KIM CHAEWON ver.)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=AozBX9OJ_C8",
-      "videoId": "AozBX9OJ_C8",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/AozBX9OJ_C8/mqdefault.jpg",
-      "publishedAt": "2026-05-25T06:59:59.000Z",
       "group": "bts",
       "bucket": "bts"
     },
