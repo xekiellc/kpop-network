@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-26T19:53:55.513Z",
+  "updatedAt": "2026-05-27T09:54:23.597Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "hit-it-base-2026-",
+      "title": "HIT IT BASE 2026🎤 빅히트 뮤직만의 힙합 전문 트레이닝 프로그램.",
+      "url": "https://www.youtube.com/shorts/T8HHBs61ArY",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-27T03:00:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "l9vlcK5QQa0",
       "title": "BOYNEXTDOOR (보이넥스트도어) [HOME] Concept Film : SWEET HOME ver.",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/CzTFM0mpw-E/mqdefault.jpg",
       "publishedAt": "2026-05-25T07:19:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "1EA757U8XCY",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (KAZUHA ver.)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=1EA757U8XCY",
-      "videoId": "1EA757U8XCY",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/1EA757U8XCY/mqdefault.jpg",
-      "publishedAt": "2026-05-25T07:14:58.000Z",
       "group": "bts",
       "bucket": "bts"
     }
