@@ -1,17 +1,39 @@
 {
-  "updatedAt": "2026-05-27T09:54:23.598Z",
+  "updatedAt": "2026-05-27T19:57:47.251Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "cortis-s-greengreen-becomes-their-1st-album-to-spend-2-weeks-in-top-30-of-billbo",
+      "title": "CORTIS’s “GREENGREEN” Becomes Their 1st Album To Spend 2 Weeks In Top 30 Of Billboard 200",
+      "url": "https://www.soompi.com/article/1844218wpp/cortiss-greengreen-becomes-their-1st-album-to-spend-2-weeks-in-top-30-of-billboard-200",
+      "source": "Soompi",
+      "description": "CORTIS’s “GREENGREEN” is enjoying a strong second week on the Billboard charts! On May 27 local time, Billboard revealed that CORTIS’s latest EP “GREENGREEN” was now spending its second consecutive week at No. 30 on the Top 200 Albums chart, which ranks the most popular albums in the United States. “GREENGREEN” debuted at No. 3… Continue reading CORTIS’s “GREENGREEN” Becomes Their 1st Album To Spend 2 Weeks In Top 30 Of Billboard 200 The post CORTIS’s “GREENGREEN” Becomes Their 1st Album To Spen",
+      "summary": "CORTIS's EP \"GREENGREEN\" has spent its second consecutive week in the top 30 of the Billboard 200 chart, marking the group's first album to achieve this milestone after debuting at No. 3.",
+      "publishedAt": "2026-05-27T17:16:53.000Z",
+      "author": "E Cha",
+      "group": "cortis"
+    },
     {
       "id": "-team-enters-billboard-200-for-1st-time-with-we-on-fire-",
       "title": "&TEAM Enters Billboard 200 For 1st Time With “We On Fire”",
       "url": "https://www.soompi.com/article/1843939wpp/team-enters-billboard-200-for-1st-time-with-we-on-fire",
       "source": "Soompi",
       "description": "&TEAM has made their debut on the Billboard 200! On May 26 local time, Billboard officially announced that &TEAM had entered its Top 200 Albums chart (which ranks the most popular albums in the United States) for the very first time. For the week ending on May 30, &TEAM’s new EP “We on Fire” debuted… Continue reading &TEAM Enters Billboard 200 For 1st Time With “We On Fire” The post &TEAM Enters Billboard 200 For 1st Time With “We On Fire” appeared first on Soompi.",
-      "summary": "&TEAM made their debut on the Billboard 200 chart on May 26, with their new EP \"We On Fire\" entering the top 200 albums list for the first time.",
+      "summary": "&TEAM debuted on the Billboard 200 chart for the first time with their EP \"We on Fire\" for the week ending May 30. Billboard officially announced the achievement on May 26.",
       "publishedAt": "2026-05-26T20:43:05.000Z",
       "author": "E Cha",
       "group": "andteam"
+    },
+    {
+      "id": "2026-amas-bts-kpop-demon-hunters-and-other-korean-cultural-moments",
+      "title": "2026 AMAs: BTS, ‘KPop Demon Hunters’ And Other Korean Cultural Moments",
+      "url": "https://www.forbes.com/sites/reginakim/2026/05/26/2026-amas-bts-kpop-demon-hunters-and-other-korean-cultural-moments/",
+      "source": "Forbes",
+      "description": "The 2026 American Music Awards showed the power of K-pop fandoms and K-culture with BTS, 'KPop Demon Hunters' and Yoonchae of KATSEYE representing Korean culture onstage.",
+      "summary": "The 2026 American Music Awards showed the power of K-pop fandoms and K-culture with BTS, 'KPop Demon Hunters' and Yoonchae of KATSEYE representing Korean culture onstage.",
+      "publishedAt": "2026-05-26T18:31:56Z",
+      "author": "Regina Kim, Contributor, \n Regina Kim, Contributor\n https://www.forbes.com/sites/reginakim/",
+      "group": "bts"
     },
     {
       "id": "katseye-at-american-music-awards-2026-girl-group-performs-pinky-up-",
@@ -56,6 +78,17 @@
       "publishedAt": "2026-04-28T18:20:34Z",
       "author": "Koreaboo",
       "group": "hybe"
+    },
+    {
+      "id": "bts-and-twice-wins-american-music-award-s-best-k-pop-artists",
+      "title": "BTS And TWICE Wins American Music Award’s Best K-Pop Artists",
+      "url": "https://www.forbes.com/sites/laurasirikul/2026/05/26/bts-and-twice-wins-american-music-awards-best-k-pop-artists/",
+      "source": "Forbes",
+      "description": "Global superstars BTS have just won the American Music Award's Best Male K-Pop Artist at this year’s event held at the MGM Grand Garden Arena in Las Vegas.",
+      "summary": "Global superstars BTS have just won the American Music Award's Best Male K-Pop Artist at this year’s event held at the MGM Grand Garden Arena in Las Vegas.",
+      "publishedAt": "2026-05-26T16:34:39Z",
+      "author": "Laura Sirikul, Contributor, \n Laura Sirikul, Contributor\n https://www.forbes.com/sites/laurasirikul/",
+      "group": "bts"
     },
     {
       "id": "2026-05-20-df-53-14-released",
