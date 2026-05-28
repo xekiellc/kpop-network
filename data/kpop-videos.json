@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-27T19:57:47.252Z",
+  "updatedAt": "2026-05-28T10:05:36.776Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "JF7GH1Kebc8",
+      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (Karaoke ver.)' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=JF7GH1Kebc8",
+      "videoId": "JF7GH1Kebc8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/JF7GH1Kebc8/mqdefault.jpg",
+      "publishedAt": "2026-05-28T04:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "hit-it-base-2026-",
       "title": "HIT IT BASE 2026🎤 빅히트 뮤직만의 힙합 전문 트레이닝 프로그램.",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/Gnn4GRSzRXI/mqdefault.jpg",
       "publishedAt": "2026-05-25T12:58:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "CzTFM0mpw-E",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (HONG EUNCHAE ver.)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=CzTFM0mpw-E",
-      "videoId": "CzTFM0mpw-E",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/CzTFM0mpw-E/mqdefault.jpg",
-      "publishedAt": "2026-05-25T07:19:58.000Z",
       "group": "bts",
       "bucket": "bts"
     },
