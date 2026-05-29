@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-29T09:56:08.665Z",
+  "updatedAt": "2026-05-29T20:06:37.901Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "hOIY3OhvD94",
+      "title": "CORTIS (코르티스) 'Blue Lips' Official MV",
+      "url": "https://www.youtube.com/watch?v=hOIY3OhvD94",
+      "videoId": "hOIY3OhvD94",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/hOIY3OhvD94/mqdefault.jpg",
+      "publishedAt": "2026-05-29T08:22:19.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "hit-it-base-2026-",
       "title": "HIT IT BASE 2026🎤 빅히트 뮤직만의 힙합 전문 트레이닝 프로그램",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/6IFeGqSqrKs/mqdefault.jpg",
       "publishedAt": "2026-05-26T12:58:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "MfXDnkug92c",
-      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME] Concept Film : BUNKER ver.",
-      "url": "https://www.youtube.com/watch?v=MfXDnkug92c",
-      "videoId": "MfXDnkug92c",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/MfXDnkug92c/mqdefault.jpg",
-      "publishedAt": "2026-05-25T13:00:31.000Z",
       "group": "bts",
       "bucket": "bts"
     },
