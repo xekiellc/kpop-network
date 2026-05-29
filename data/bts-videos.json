@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-28T10:05:36.774Z",
+  "updatedAt": "2026-05-29T09:56:08.663Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "hit-it-base-2026-",
+      "title": "HIT IT BASE 2026🎤 빅히트 뮤직만의 힙합 전문 트레이닝 프로그램",
+      "url": "https://www.youtube.com/shorts/hSv2_YUU2lI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-29T03:00:04.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "GcMRbnZlhpA",
+      "title": "SANTOS BRAVOS - \"MHM\" (Portuguese Version) Lyric Video",
+      "url": "https://www.youtube.com/watch?v=GcMRbnZlhpA",
+      "videoId": "GcMRbnZlhpA",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/GcMRbnZlhpA/mqdefault.jpg",
+      "publishedAt": "2026-05-29T01:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "JF7GH1Kebc8",
       "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (Karaoke ver.)' Official Visualizer",
@@ -10,17 +32,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/JF7GH1Kebc8/mqdefault.jpg",
       "publishedAt": "2026-05-28T04:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "hit-it-base-2026-",
-      "title": "HIT IT BASE 2026🎤 빅히트 뮤직만의 힙합 전문 트레이닝 프로그램.",
-      "url": "https://www.youtube.com/shorts/T8HHBs61ArY",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-27T03:00:06.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -65,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/MfXDnkug92c/mqdefault.jpg",
       "publishedAt": "2026-05-25T13:00:31.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-concept-film-bunker-ver-boynextdoor-bnd-home",
-      "title": "BOYNEXTDOOR [HOME] Concept Film : BUNKER ver. #BOYNEXTDOOR #보이넥스트도어 #BND #HOME",
-      "url": "https://www.youtube.com/shorts/SzreqmlNlK0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-25T13:00:30.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "Gnn4GRSzRXI",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA' OFFICIAL PERFORMANCE FILM",
-      "url": "https://www.youtube.com/watch?v=Gnn4GRSzRXI",
-      "videoId": "Gnn4GRSzRXI",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/Gnn4GRSzRXI/mqdefault.jpg",
-      "publishedAt": "2026-05-25T12:58:06.000Z",
       "group": "bts",
       "bucket": "bts"
     }
