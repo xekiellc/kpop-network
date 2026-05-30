@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-30T08:30:12.133Z",
+  "updatedAt": "2026-05-30T18:57:53.327Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-blue-lips-official-mv-out-now-cortis-cortis-bluelips",
+      "title": "'Blue Lips' Official MV out now 💧 #CORTIS #코르티스 #CORTIS_BlueLips",
+      "url": "https://www.youtube.com/shorts/QlmB0G_PUzI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-05-30T15:03:39.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "hOIY3OhvD94",
       "title": "CORTIS (코르티스) 'Blue Lips' Official MV",
@@ -9,7 +20,7 @@
       "videoId": "hOIY3OhvD94",
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/hOIY3OhvD94/mqdefault.jpg",
-      "publishedAt": "2026-05-29T08:22:19.000Z",
+      "publishedAt": "2026-05-30T14:58:06.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-26T13:00:12.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "6IFeGqSqrKs",
-      "title": "LE SSERAFIM (르세라핌) ‘BOOMPALA' OFFICIAL PERFORMANCE FILM @ THE QUARRY",
-      "url": "https://www.youtube.com/watch?v=6IFeGqSqrKs",
-      "videoId": "6IFeGqSqrKs",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/6IFeGqSqrKs/mqdefault.jpg",
-      "publishedAt": "2026-05-26T12:58:06.000Z",
       "group": "bts",
       "bucket": "bts"
     }

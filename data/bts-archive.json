@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-05-30T08:30:12.115Z",
+  "updatedAt": "2026-05-30T18:57:53.306Z",
   "bucket": "bts",
   "articles": [
+    {
+      "id": "show-hn-simple-news-aggregator-with-source-bias-meters",
+      "title": "Show HN: Simple news aggregator with source bias meters",
+      "url": "https://unbiasthenews.com",
+      "source": "Unbiasthenews.com",
+      "description": "Article URL: https://unbiasthenews.com Comments URL: https://news.ycombinator.com/item?id=48327194 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://unbiasthenews.com Comments URL: https://news.ycombinator.com/item?id=48327194 Points: 2 # Comments: 0",
+      "publishedAt": "2026-05-29T18:21:24Z",
+      "author": "sammy0910",
+      "group": "bts"
+    },
+    {
+      "id": "why-korean-film-hope-became-one-of-cannes-most-talked-about-movies",
+      "title": "Why Korean Film ‘Hope’ Became One Of Cannes’ Most Talked-About Movies",
+      "url": "https://www.forbes.com/sites/reginakim/2026/05/29/why-korean-film-hope-became-one-of-cannes-most-talked-about-movies/",
+      "source": "Forbes",
+      "description": "Na Hong-jin’s Korean film 'Hope' drew major attention at Cannes with its ambitious scale, star-studded international cast and unexpected controversy. Here's what to know.",
+      "summary": "Na Hong-jin’s Korean film 'Hope' drew major attention at Cannes with its ambitious scale, star-studded international cast and unexpected controversy. Here's what to know.",
+      "publishedAt": "2026-05-29T15:10:31Z",
+      "author": "Regina Kim, Contributor, \n Regina Kim, Contributor\n https://www.forbes.com/sites/reginakim/",
+      "group": "bts"
+    },
     {
       "id": "-project-hail-mary-dominates-golden-trailer-awards-with-5-wins-including-best-of",
       "title": "‘Project Hail Mary’ Dominates Golden Trailer Awards With 5 Wins, Including Best of Show",
@@ -176,28 +198,6 @@
       "summary": "Frontman John Rzeznik proudly posed with his nine-year-old daughter Liliana and bassist-vocalist Robby Takac brought along his 14-year-old daughter Hana",
       "publishedAt": "2026-05-26T03:55:38Z",
       "author": "Cassie Carpenter",
-      "group": "bts"
-    },
-    {
-      "id": "bts-wins-artiste-of-the-year-at-fan-voted-american-music-awards",
-      "title": "BTS wins Artiste of the Year at fan-voted American Music Awards",
-      "url": "https://cnalifestyle.channelnewsasia.com/entertainment/bts-wins-artiste-year-american-music-awards-583676",
-      "source": "CNA",
-      "description": "",
-      "summary": "BTS won the Artiste of the Year award at the American Music Awards, which is determined by fan voting.",
-      "publishedAt": "2026-05-26T03:46:00Z",
-      "author": "",
-      "group": "bts"
-    },
-    {
-      "id": "2026-amas-live-updates-new-kids-on-the-block-and-keith-urban-bring-the-nostalgia",
-      "title": "2026 AMAs live updates: New Kids on the Block and Keith Urban bring the nostalgia while BTS wins Artist of the Year - Yahoo",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183395742",
-      "source": "Slashdot.org",
-      "description": "2026 AMAs live updates: New Kids on the Block and Keith Urban bring the nostalgia while BTS wins Artist of the YearYahoo 2026 American Music Awards Winners: BTS, Sombr, KPop Demon HuntersForbes It's time for Nvidia to take a page out of Apple's playbook and d…",
-      "summary": "2026 AMAs live updates: New Kids on the Block and Keith Urban bring the nostalgia while BTS wins Artist of the YearYahoo 2026 American Music Awards Winners: BTS, Sombr, KPop Demon HuntersForbes It's time for Nvidia to take a page out of Apple's playbook and d…",
-      "publishedAt": "2026-05-26T03:32:25Z",
-      "author": "feedfeeder",
       "group": "bts"
     },
     {
@@ -470,7 +470,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/bts-singapore-concert-ticket-sale-prices-jun-3-583541",
       "source": "CNA",
       "description": "",
-      "summary": "BTS concert tickets for their Singapore show will go on sale starting June 3, with prices beginning at S$148.",
+      "summary": "BTS concert tickets for their Singapore performance will go on sale starting June 3, with prices beginning at S$148.",
       "publishedAt": "2026-05-22T05:49:18Z",
       "author": "",
       "group": "bts"
@@ -514,7 +514,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/style-beauty/jungkook-calvin-klein-collection-583401",
       "source": "CNA",
       "description": "",
-      "summary": "Jungkook from BTS has released a fashion collection for Calvin Klein that includes hidden details designed for ARMY, the group's fanbase.",
+      "summary": "Jungkook from BTS has released a fashion collection for Calvin Klein that includes hidden details designed for ARMY, the group's fanbase. The collection combines the artist's personal style with the luxury brand's aesthetic.",
       "publishedAt": "2026-05-20T07:20:48Z",
       "author": "",
       "group": "bts"
@@ -825,6 +825,28 @@
       "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of April 12 to 18! Album Chart TXT achieved a double crown on this week’s Circle charts, topping both the physical album chart and the digital download chart with their n…",
       "publishedAt": "2026-04-29T19:54:58Z",
       "author": "E Cha",
+      "group": "bts"
+    },
+    {
+      "id": "bts-wins-artiste-of-the-year-at-fan-voted-american-music-awards",
+      "title": "BTS wins Artiste of the Year at fan-voted American Music Awards",
+      "url": "https://cnalifestyle.channelnewsasia.com/entertainment/bts-wins-artiste-year-american-music-awards-583676",
+      "source": "CNA",
+      "description": "",
+      "summary": "BTS won the Artiste of the Year award at the American Music Awards, which is determined by fan voting.",
+      "publishedAt": "2026-05-26T03:46:00Z",
+      "author": "",
+      "group": "bts"
+    },
+    {
+      "id": "2026-amas-live-updates-new-kids-on-the-block-and-keith-urban-bring-the-nostalgia",
+      "title": "2026 AMAs live updates: New Kids on the Block and Keith Urban bring the nostalgia while BTS wins Artist of the Year - Yahoo",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183395742",
+      "source": "Slashdot.org",
+      "description": "2026 AMAs live updates: New Kids on the Block and Keith Urban bring the nostalgia while BTS wins Artist of the YearYahoo 2026 American Music Awards Winners: BTS, Sombr, KPop Demon HuntersForbes It's time for Nvidia to take a page out of Apple's playbook and d…",
+      "summary": "2026 AMAs live updates: New Kids on the Block and Keith Urban bring the nostalgia while BTS wins Artist of the YearYahoo 2026 American Music Awards Winners: BTS, Sombr, KPop Demon HuntersForbes It's time for Nvidia to take a page out of Apple's playbook and d…",
+      "publishedAt": "2026-05-26T03:32:25Z",
+      "author": "feedfeeder",
       "group": "bts"
     },
     {
