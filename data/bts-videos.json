@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-01T11:38:11.819Z",
+  "updatedAt": "2026-06-01T21:20:04.818Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "aACMriE7Z4I",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.1 : I Wonder",
+      "url": "https://www.youtube.com/watch?v=aACMriE7Z4I",
+      "videoId": "aACMriE7Z4I",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/aACMriE7Z4I/mqdefault.jpg",
+      "publishedAt": "2026-06-01T13:00:04.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "boynextdoor-home-track-spoiler-homecomingtrack-2-viral",
       "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 2. VIRAL",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-31T13:03:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-track-spoiler-homecomingtrack-1-06070",
-      "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 1. 06070",
-      "url": "https://www.youtube.com/shorts/S-yOuvUCqdQ",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-31T13:02:13.000Z",
       "group": "bts",
       "bucket": "bts"
     }
