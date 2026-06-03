@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-02T20:34:00.677Z",
+  "updatedAt": "2026-06-03T11:02:31.132Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "yyH4eOF_8p8",
+      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (Champions Remix)' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=yyH4eOF_8p8",
+      "videoId": "yyH4eOF_8p8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/yyH4eOF_8p8/mqdefault.jpg",
+      "publishedAt": "2026-06-03T09:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "aACMriE7Z4I",
       "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.1 : I Wonder",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-31T13:03:33.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-track-spoiler-homecomingtrack-4-adios-",
-      "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 4. ADIOS!",
-      "url": "https://www.youtube.com/shorts/4R5ZV8vSU1c",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-31T13:03:02.000Z",
       "group": "bts",
       "bucket": "bts"
     },
