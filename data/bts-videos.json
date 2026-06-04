@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-06-04T09:58:22.019Z",
+  "updatedAt": "2026-06-04T19:53:01.004Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "Zv6JKobJyFY",
+      "title": "BTS (방탄소년단) 'Hooligan' Official Performance Video",
+      "url": "https://www.youtube.com/watch?v=Zv6JKobJyFY",
+      "videoId": "Zv6JKobJyFY",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/Zv6JKobJyFY/mqdefault.jpg",
+      "publishedAt": "2026-06-04T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-boynextdoor-home-boynextdoor-bnd-home",
+      "title": "🗣️ BOYNEXTDOOR가 말하는 [HOME] #BOYNEXTDOOR #보이넥스트도어 #BND #HOME",
+      "url": "https://www.youtube.com/shorts/7reBfXez8SQ",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-04T14:00:44.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "cgAPVz3Jf3o",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.2 : HOME",
+      "url": "https://www.youtube.com/watch?v=cgAPVz3Jf3o",
+      "videoId": "cgAPVz3Jf3o",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/cgAPVz3Jf3o/mqdefault.jpg",
+      "publishedAt": "2026-06-04T14:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "yyH4eOF_8p8",
       "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (Champions Remix)' Official Visualizer",
@@ -54,39 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-31T13:04:49.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-track-spoiler-homecomingtrack-7-",
-      "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 7. 기억해줘요",
-      "url": "https://www.youtube.com/shorts/PVjqUTCaZkU",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-31T13:04:23.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-track-spoiler-homecomingtrack-6-dive",
-      "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 6. DIVE",
-      "url": "https://www.youtube.com/shorts/U7PF_fxUrzo",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-31T13:03:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-track-spoiler-homecomingtrack-5-upside-down",
-      "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 5. Upside Down",
-      "url": "https://www.youtube.com/shorts/rfO5mtUtW0g",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-31T13:03:33.000Z",
       "group": "bts",
       "bucket": "bts"
     }
