@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-06-05T09:53:58.164Z",
+  "updatedAt": "2026-06-05T19:29:46.800Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "boynextdoor-viral-official-mv-teaser-boynextdoor-bnd-home-viral",
+      "title": "BOYNEXTDOOR 'VIRAL' Official MV Teaser #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #VIRAL",
+      "url": "https://www.youtube.com/shorts/5qr9rk-dx4o",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-05T13:03:24.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-SqyHDIznEE",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV Teaser",
+      "url": "https://www.youtube.com/watch?v=-SqyHDIznEE",
+      "videoId": "-SqyHDIznEE",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/-SqyHDIznEE/mqdefault.jpg",
+      "publishedAt": "2026-06-05T13:00:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "1dmmtkfS0PU",
       "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. SANTOS BRAVOS)' Official Visualizer",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/aACMriE7Z4I/mqdefault.jpg",
       "publishedAt": "2026-06-01T13:00:04.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-track-spoiler-homecomingtrack-2-viral",
-      "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 2. VIRAL",
-      "url": "https://www.youtube.com/shorts/iEeEE1dmLUE",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-31T13:05:53.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-track-spoiler-homecomingtrack-9-i-wonder-always-cd-only-",
-      "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 9. I Wonder, Always (CD Only)",
-      "url": "https://www.youtube.com/shorts/3uB4JMUkF-4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-31T13:05:17.000Z",
       "group": "bts",
       "bucket": "bts"
     }

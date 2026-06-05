@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T09:53:58.154Z",
+  "updatedAt": "2026-06-05T19:29:46.790Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -12,17 +12,6 @@
       "publishedAt": "2026-06-04T11:57:02.000Z",
       "author": "MLim",
       "group": "lesserafim"
-    },
-    {
-      "id": "quiz-answer-these-personality-questions-and-we-ll-tell-you-which-cortis-member-y",
-      "title": "QUIZ: Answer These Personality Questions And We’ll Tell You Which CORTIS Member You’re Most Like",
-      "url": "https://www.soompi.com/article/1845198wpp/quiz-answer-these-personality-questions-and-well-tell-you-which-cortis-member-youre-most-like",
-      "source": "Soompi",
-      "description": "The “C” in CORTIS stands for chaos—in the best way possible! A group that never takes itself too seriously, there’s something so fresh and fun about every song and every performance. Ever wondered which CORTIS member you’re similar to? Answer these questions and we’ll let you know! The post QUIZ: Answer These Personality Questions And We’ll Tell You Which CORTIS Member You’re Most Like appeared first on Soompi.",
-      "summary": "",
-      "publishedAt": "2026-06-04T02:24:40.000Z",
-      "author": "sammilee",
-      "group": "cortis"
     },
     {
       "id": "burn-bright-burn-free-team-step-into-the-light",
@@ -375,6 +364,17 @@
       "publishedAt": "2026-05-30T03:15:37Z",
       "author": "Jeff Benjamin, Senior Contributor, \n Jeff Benjamin, Senior Contributor\n https://www.forbes.com/sites/jeffbenjamin/",
       "group": "hybe"
+    },
+    {
+      "id": "quiz-answer-these-personality-questions-and-we-ll-tell-you-which-cortis-member-y",
+      "title": "QUIZ: Answer These Personality Questions And We’ll Tell You Which CORTIS Member You’re Most Like",
+      "url": "https://www.soompi.com/article/1845198wpp/quiz-answer-these-personality-questions-and-well-tell-you-which-cortis-member-youre-most-like",
+      "source": "Soompi",
+      "description": "The “C” in CORTIS stands for chaos—in the best way possible! A group that never takes itself too seriously, there’s something so fresh and fun about every song and every performance. Ever wondered which CORTIS member you’re similar to? Answer these questions and we’ll let you know! The post QUIZ: Answer These Personality Questions And We’ll Tell You Which CORTIS Member You’re Most Like appeared first on Soompi.",
+      "summary": "",
+      "publishedAt": "2026-06-04T02:24:40.000Z",
+      "author": "sammilee",
+      "group": "cortis"
     },
     {
       "id": "le-sserafim-lands-third-no-1-on-top-album-sales-chart-with-pureflow-",
