@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-04T19:53:01.006Z",
+  "updatedAt": "2026-06-05T09:53:58.166Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "1dmmtkfS0PU",
+      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. SANTOS BRAVOS)' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=1dmmtkfS0PU",
+      "videoId": "1dmmtkfS0PU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/1dmmtkfS0PU/mqdefault.jpg",
+      "publishedAt": "2026-06-05T09:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "Zv6JKobJyFY",
       "title": "BTS (방탄소년단) 'Hooligan' Official Performance Video",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-05-31T13:05:17.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-track-spoiler-homecomingtrack-8-i-wonder",
-      "title": "BOYNEXTDOOR [HOME] Track Spoiler: HomecomingTrack 8. I Wonder",
-      "url": "https://www.youtube.com/shorts/c3qU_VvOCvY",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-05-31T13:04:49.000Z",
       "group": "bts",
       "bucket": "bts"
     },

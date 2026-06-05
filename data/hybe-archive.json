@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T19:53:00.994Z",
+  "updatedAt": "2026-06-05T09:53:58.154Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -25,6 +25,17 @@
       "group": "cortis"
     },
     {
+      "id": "burn-bright-burn-free-team-step-into-the-light",
+      "title": "BURN Bright, Burn Free – &TEAM step into the light",
+      "url": "https://kpoppie.com/burn-bright-burn-free-team-step-into-the-light/",
+      "source": "Kpoppie",
+      "description": "The Howl That Became a Flame Before they were icons, they were contestants. Before the sold-out arenas and the million-copy albums, there were audition rooms and survival show cameras and the brutal arithmetic of elimination. For EJ, Nicholas, and Jo of &TEAM — three of the nine members spotlighted in Singles Japan’s June 2026 pictorial — the road to the cover began with a howl. That howl is now We on Fire. Released April 13, 2026, &TEAM‘s third mini-album broke the group’s own first-week sales ",
+      "summary": "",
+      "publishedAt": "2026-06-04T22:32:04.000Z",
+      "author": "Kpoppie Editorial Team",
+      "group": "andteam"
+    },
+    {
       "id": "cortis-s-martin-the-new-weight-of-the-world",
       "title": "CORTIS’s MARTIN: The New Weight of the World",
       "url": "https://kpoppie.com/cortiss-martin-the-new-weight-of-the-world/",
@@ -34,17 +45,6 @@
       "publishedAt": "2026-05-29T22:00:47.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "cortis"
-    },
-    {
-      "id": "le-sserafim-lands-third-no-1-on-top-album-sales-chart-with-pureflow-",
-      "title": "LE SSERAFIM Lands Third No. 1 on Top Album Sales Chart With ‘PUREFLOW’",
-      "url": "https://www.billboard.com/music/chart-beat/le-sserafim-pureflow-number-1-top-album-sales-chart-1236263839/",
-      "source": "Billboard",
-      "description": "Plus, J. Cole’s The Fall-Off returns after vinyl drop, while Bleachers and Maisie Peters debut in top 10.",
-      "summary": "",
-      "publishedAt": "2026-06-04T18:27:36.000Z",
-      "author": "Keith Caulfield",
-      "group": "lesserafim"
     },
     {
       "id": "what-is-k-pop-and-why-is-it-so-popular-",
@@ -256,6 +256,17 @@
       "group": "hybe"
     },
     {
+      "id": "le-sserafim-and-zerobaseone-top-circle-weekly-charts-cortis-and-bts-earn-double-",
+      "title": "LE SSERAFIM And ZEROBASEONE Top Circle Weekly Charts + CORTIS And BTS Earn Double Crowns",
+      "url": "http://www.soompi.com/article/1845533wpp/le-sserafim-and-zerobaseone-top-circle-weekly-charts-cortis-and-bts-earn-double-crowns",
+      "source": "soompi",
+      "description": "Circle Chart has revealed its chart rankings for the week of May 17 to 23! Album Chart This week’s physical album chart was dominated by new releases, with LE SSERAFIM’s new album “PUREFLOW” pt.1 debuting at the top of the chart. ZEROBASEONE’s first mini albu…",
+      "summary": "Circle Chart has revealed its chart rankings for the week of May 17 to 23! Album Chart This week’s physical album chart was dominated by new releases, with LE SSERAFIM’s new album “PUREFLOW” pt.1 debuting at the top of the chart. ZEROBASEONE’s first mini albu…",
+      "publishedAt": "2026-06-03T21:16:22Z",
+      "author": "E Cha",
+      "group": "bts"
+    },
+    {
       "id": "txt-akmu-bts-tws-nexz-and-illit-top-circle-monthly-and-weekly-charts",
       "title": "TXT, AKMU, BTS, TWS, NEXZ, And ILLIT Top Circle Monthly And Weekly Charts",
       "url": "http://www.soompi.com/article/1840569wpp/txt-akmu-bts-tws-nexz-and-illit-top-circle-monthly-and-weekly-charts",
@@ -364,6 +375,17 @@
       "publishedAt": "2026-05-30T03:15:37Z",
       "author": "Jeff Benjamin, Senior Contributor, \n Jeff Benjamin, Senior Contributor\n https://www.forbes.com/sites/jeffbenjamin/",
       "group": "hybe"
+    },
+    {
+      "id": "le-sserafim-lands-third-no-1-on-top-album-sales-chart-with-pureflow-",
+      "title": "LE SSERAFIM Lands Third No. 1 on Top Album Sales Chart With ‘PUREFLOW’",
+      "url": "https://www.billboard.com/music/chart-beat/le-sserafim-pureflow-number-1-top-album-sales-chart-1236263839/",
+      "source": "Billboard",
+      "description": "Plus, J. Cole’s The Fall-Off returns after vinyl drop, while Bleachers and Maisie Peters debut in top 10.",
+      "summary": "",
+      "publishedAt": "2026-06-04T18:27:36.000Z",
+      "author": "Keith Caulfield",
+      "group": "lesserafim"
     },
     {
       "id": "cortis-breaks-personal-record-as-greengreen-spends-3rd-week-on-billboard-200",
