@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T19:29:46.784Z",
+  "updatedAt": "2026-06-06T19:03:11.794Z",
   "bucket": "bts",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.soompi.com/article/1845654wpp/3-reasons-to-look-forward-to-kim-moo-yeol-lee-sung-min-jin-ki-joo-and-p-os-new-netflix-series-teach-you-a-lesson",
       "source": "Soompi",
       "description": "Netflix’s upcoming series “Teach You a Lesson” has unveiled three reasons the drama is a must-watch! Based on the popular webtoon of the same name, “Teach You a Lesson” is a series about the fictional Educational Rights Protection Bureau (ERPB), a government task force created to restore teachers’ authority in an era of unruly students,… Continue reading 3 Reasons To Look Forward To Kim Moo Yeol, Lee Sung Min, Jin Ki Joo, And P.O’s New Netflix Series “Teach You A Lesson” The post 3 Reasons To Lo",
-      "summary": "",
+      "summary": "Netflix's upcoming series \"Teach You a Lesson,\" starring Kim Moo Yeol, Lee Sung Min, Jin Ki Joo, and P.O, is based on a popular webtoon and follows a fictional government task force dedicated to restoring teachers' authority. The article highlights three reasons why the drama is worth watching.",
       "publishedAt": "2026-06-04T07:40:03.000Z",
       "author": "MLim",
       "group": "bts"
@@ -547,7 +547,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/bts-singapore-concert-ticket-sale-prices-jun-3-583541",
       "source": "CNA",
       "description": "",
-      "summary": "",
+      "summary": "BTS announced ticket sales for their Singapore concert beginning June 3, with prices starting from S$148.",
       "publishedAt": "2026-05-22T05:49:18Z",
       "author": "",
       "group": "bts"
@@ -627,6 +627,17 @@
       "summary": "MEXICO CITY — Global K-pop superstars BTS received a high-level welcome from Mexican President Claudia Sheinbaum on Wednesday, meeting at the National Palace before stepping onto the balcony to greet an estimated 50,000 ecstatic fans gathered in the historic …",
       "publishedAt": "2026-05-08T07:23:46Z",
       "author": "Jason Taylor",
+      "group": "bts"
+    },
+    {
+      "id": "bts-drop-new-trailer-for-bts-world-tour-arirang-in-busan-watch",
+      "title": "BTS Drop New Trailer For 'BTS WORLD TOUR 'ARIRANG' IN BUSAN': Watch",
+      "url": "http://www.billboard.com/music/pop/bts-world-tour-arirang-in-busan-live-viewing-swim-new-trailer-1236265039/",
+      "source": "Billboard",
+      "description": "BTS dropped a new 30-second trailer for their upcoming live global cinema event 'BTS WORLD TOUR 'ARIRANG' IN BUSAN: LIVE VIEWING; watch it here.",
+      "summary": "BTS dropped a new 30-second trailer for their upcoming live global cinema event 'BTS WORLD TOUR 'ARIRANG' IN BUSAN: LIVE VIEWING; watch it here.",
+      "publishedAt": "2026-06-05T14:54:58Z",
+      "author": "Gil Kaufman",
       "group": "bts"
     },
     {
@@ -762,17 +773,6 @@
       "group": "bts"
     },
     {
-      "id": "bts-jimin-edits-amas-artist-of-the-year-card-to-say-army-won-instead",
-      "title": "BTS' Jimin Edits AMAs Artist of the Year Card to Say ARMY Won Instead",
-      "url": "http://www.billboard.com/music/awards/bts-jimin-amas-artist-of-year-winner-card-army-won-1236256810/",
-      "source": "Billboard",
-      "description": "BTS' Jimin edited the boy band's AMAs artist of the year winner card to say ARMY won the prize instead of him and his bandmates.",
-      "summary": "BTS' Jimin edited the boy band's AMAs artist of the year winner card to say ARMY won the prize instead of him and his bandmates.",
-      "publishedAt": "2026-05-26T17:18:01Z",
-      "author": "Hannah Dailey",
-      "group": "bts"
-    },
-    {
       "id": "-beef-is-a-rare-tv-series-its-korean-cast-and-creator-reflect-on-its-importance-",
       "title": "'Beef' Is A Rare TV Series. Its Korean Cast And Creator Reflect On Its Importance.",
       "url": "https://www.huffpost.com/entry/beef-netflix-korean-culture-korean-actors_n_6a0ccc67e4b0d1a142e1b79f",
@@ -825,6 +825,17 @@
       "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of April 19 to 25! Album Chart NCT WISH claimed two of the top five spots on this week’s physical album chart with their first full-length album “Ode to Love.” The regula…",
       "publishedAt": "2026-05-05T21:48:59Z",
       "author": "E Cha",
+      "group": "bts"
+    },
+    {
+      "id": "bts-jimin-edits-amas-artist-of-the-year-card-to-say-army-won-instead",
+      "title": "BTS' Jimin Edits AMAs Artist of the Year Card to Say ARMY Won Instead",
+      "url": "http://www.billboard.com/music/awards/bts-jimin-amas-artist-of-year-winner-card-army-won-1236256810/",
+      "source": "Billboard",
+      "description": "BTS' Jimin edited the boy band's AMAs artist of the year winner card to say ARMY won the prize instead of him and his bandmates.",
+      "summary": "BTS' Jimin edited the boy band's AMAs artist of the year winner card to say ARMY won the prize instead of him and his bandmates.",
+      "publishedAt": "2026-05-26T17:18:01Z",
+      "author": "Hannah Dailey",
       "group": "bts"
     },
     {

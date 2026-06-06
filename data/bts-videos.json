@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-05T19:29:46.800Z",
+  "updatedAt": "2026-06-06T19:03:11.812Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "0CEg8nz_I9U",
+      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. GURU RANDHAWA)' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=0CEg8nz_I9U",
+      "videoId": "0CEg8nz_I9U",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/0CEg8nz_I9U/mqdefault.jpg",
+      "publishedAt": "2026-06-06T14:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "boynextdoor-viral-official-mv-teaser-boynextdoor-bnd-home-viral",
       "title": "BOYNEXTDOOR 'VIRAL' Official MV Teaser #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #VIRAL",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/yyH4eOF_8p8/mqdefault.jpg",
       "publishedAt": "2026-06-03T09:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "aACMriE7Z4I",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.1 : I Wonder",
-      "url": "https://www.youtube.com/watch?v=aACMriE7Z4I",
-      "videoId": "aACMriE7Z4I",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/aACMriE7Z4I/mqdefault.jpg",
-      "publishedAt": "2026-06-01T13:00:04.000Z",
       "group": "bts",
       "bucket": "bts"
     }

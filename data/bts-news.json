@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T19:29:46.800Z",
+  "updatedAt": "2026-06-06T19:03:11.811Z",
   "bucket": "bts",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.soompi.com/article/1845654wpp/3-reasons-to-look-forward-to-kim-moo-yeol-lee-sung-min-jin-ki-joo-and-p-os-new-netflix-series-teach-you-a-lesson",
       "source": "Soompi",
       "description": "Netflix’s upcoming series “Teach You a Lesson” has unveiled three reasons the drama is a must-watch! Based on the popular webtoon of the same name, “Teach You a Lesson” is a series about the fictional Educational Rights Protection Bureau (ERPB), a government task force created to restore teachers’ authority in an era of unruly students,… Continue reading 3 Reasons To Look Forward To Kim Moo Yeol, Lee Sung Min, Jin Ki Joo, And P.O’s New Netflix Series “Teach You A Lesson” The post 3 Reasons To Lo",
-      "summary": "",
+      "summary": "Netflix's upcoming series \"Teach You a Lesson,\" starring Kim Moo Yeol, Lee Sung Min, Jin Ki Joo, and P.O, is based on a popular webtoon and follows a fictional government task force dedicated to restoring teachers' authority. The article highlights three reasons why the drama is worth watching.",
       "publishedAt": "2026-06-04T07:40:03.000Z",
       "author": "MLim",
       "group": "bts"
@@ -547,7 +547,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/bts-singapore-concert-ticket-sale-prices-jun-3-583541",
       "source": "CNA",
       "description": "",
-      "summary": "",
+      "summary": "BTS announced ticket sales for their Singapore concert beginning June 3, with prices starting from S$148.",
       "publishedAt": "2026-05-22T05:49:18Z",
       "author": "",
       "group": "bts"
@@ -630,6 +630,17 @@
       "group": "bts"
     },
     {
+      "id": "bts-drop-new-trailer-for-bts-world-tour-arirang-in-busan-watch",
+      "title": "BTS Drop New Trailer For 'BTS WORLD TOUR 'ARIRANG' IN BUSAN': Watch",
+      "url": "http://www.billboard.com/music/pop/bts-world-tour-arirang-in-busan-live-viewing-swim-new-trailer-1236265039/",
+      "source": "Billboard",
+      "description": "BTS dropped a new 30-second trailer for their upcoming live global cinema event 'BTS WORLD TOUR 'ARIRANG' IN BUSAN: LIVE VIEWING; watch it here.",
+      "summary": "BTS dropped a new 30-second trailer for their upcoming live global cinema event 'BTS WORLD TOUR 'ARIRANG' IN BUSAN: LIVE VIEWING; watch it here.",
+      "publishedAt": "2026-06-05T14:54:58Z",
+      "author": "Gil Kaufman",
+      "group": "bts"
+    },
+    {
       "id": "where-to-buy-tickets-to-bts-arirang-homecoming-show-live-screening",
       "title": "Where to Buy Tickets to BTS' 'ARIRANG' Homecoming Show Live Screening",
       "url": "http://www.billboard.com/culture/product-recommendations/bts-arirang-tour-homecoming-concert-livestream-buy-tickets-1236262250/",
@@ -649,17 +660,6 @@
       "summary": "A roundup of the surprise songs performed by BTS on their 2026 ARIRANG World Tour in cities like Tampa, Las Vegas, El Paso, and Tokyo.",
       "publishedAt": "2026-06-03T16:18:53Z",
       "author": "Rachel Chapman",
-      "group": "bts"
-    },
-    {
-      "id": "bts-add-extra-melbourne-show-to-australian-leg-of-arirang-tour",
-      "title": "BTS Add Extra Melbourne Show to Australian Leg of ARIRANG Tour",
-      "url": "http://www.billboard.com/music/pop/bts-worls-tour-arirang-australia-2027-1236262025/",
-      "source": "Billboard",
-      "description": "BTS have added a third Melbourne show to their Australian tour leg of BTS World Tour 'ARIRANG,' responding to overwhelming presale demand.",
-      "summary": "BTS have added a third Melbourne show to their Australian tour leg of BTS World Tour 'ARIRANG,' responding to overwhelming presale demand.",
-      "publishedAt": "2026-06-02T06:53:49Z",
-      "author": "Jessica Lynch",
       "group": "bts"
     }
   ]
