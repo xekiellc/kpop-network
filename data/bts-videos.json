@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-06-07T08:57:54.613Z",
+  "updatedAt": "2026-06-07T19:04:16.120Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "set-the-",
+      "title": "set the 𝗩𝟴",
+      "url": "https://www.youtube.com/shorts/IZ5Y_k2ye4k",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-07T15:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "Ulg0OIOeVOM",
+      "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Logo Motion",
+      "url": "https://www.youtube.com/watch?v=Ulg0OIOeVOM",
+      "videoId": "Ulg0OIOeVOM",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/Ulg0OIOeVOM/mqdefault.jpg",
+      "publishedAt": "2026-06-07T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "z-Icu3Uooi0",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.3 : VIRAL",
+      "url": "https://www.youtube.com/watch?v=z-Icu3Uooi0",
+      "videoId": "z-Icu3Uooi0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/z-Icu3Uooi0/mqdefault.jpg",
+      "publishedAt": "2026-06-07T13:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "0CEg8nz_I9U",
       "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. GURU RANDHAWA)' Official Visualizer",
@@ -54,39 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/Zv6JKobJyFY/mqdefault.jpg",
       "publishedAt": "2026-06-04T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-boynextdoor-home-boynextdoor-bnd-home",
-      "title": "🗣️ BOYNEXTDOOR가 말하는 [HOME] #BOYNEXTDOOR #보이넥스트도어 #BND #HOME",
-      "url": "https://www.youtube.com/shorts/7reBfXez8SQ",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-06-04T14:00:44.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "cgAPVz3Jf3o",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.2 : HOME",
-      "url": "https://www.youtube.com/watch?v=cgAPVz3Jf3o",
-      "videoId": "cgAPVz3Jf3o",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/cgAPVz3Jf3o/mqdefault.jpg",
-      "publishedAt": "2026-06-04T14:00:03.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "yyH4eOF_8p8",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (Champions Remix)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=yyH4eOF_8p8",
-      "videoId": "yyH4eOF_8p8",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/yyH4eOF_8p8/mqdefault.jpg",
-      "publishedAt": "2026-06-03T09:00:00.000Z",
       "group": "bts",
       "bucket": "bts"
     }
