@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-06-07T19:04:16.120Z",
+  "updatedAt": "2026-06-09T09:47:39.250Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "nNE8TmNG10o",
+      "title": "peek at 𝗩𝟴",
+      "url": "https://www.youtube.com/watch?v=nNE8TmNG10o",
+      "videoId": "nNE8TmNG10o",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/nNE8TmNG10o/mqdefault.jpg",
+      "publishedAt": "2026-06-09T05:07:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "le-sserafim-x-illit-x-katseye-iconic-by-mistake-official-mv-teaser",
+      "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Official MV Teaser",
+      "url": "https://www.youtube.com/shorts/sbIFVs9FoTg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-08T15:01:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "gzgw6j-OwU8",
+      "title": "BOYNEXTDOOR 1st Studio Album [HOME] COMEBACK SHOWCASE",
+      "url": "https://www.youtube.com/watch?v=gzgw6j-OwU8",
+      "videoId": "gzgw6j-OwU8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/gzgw6j-OwU8/mqdefault.jpg",
+      "publishedAt": "2026-06-08T13:31:26.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "boynextdoor-viral-official-mv-boynextdoor-bnd-home-viral",
+      "title": "BOYNEXTDOOR 'VIRAL' Official MV #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #VIRAL",
+      "url": "https://www.youtube.com/shorts/m2uO4FD5csM",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-08T09:00:25.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "zGsj0fDHB_s",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV",
+      "url": "https://www.youtube.com/watch?v=zGsj0fDHB_s",
+      "videoId": "zGsj0fDHB_s",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/zGsj0fDHB_s/mqdefault.jpg",
+      "publishedAt": "2026-06-08T08:59:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "set-the-",
       "title": "set the 𝗩𝟴",
@@ -21,72 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/Ulg0OIOeVOM/mqdefault.jpg",
       "publishedAt": "2026-06-07T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "z-Icu3Uooi0",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.3 : VIRAL",
-      "url": "https://www.youtube.com/watch?v=z-Icu3Uooi0",
-      "videoId": "z-Icu3Uooi0",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/z-Icu3Uooi0/mqdefault.jpg",
-      "publishedAt": "2026-06-07T13:00:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "0CEg8nz_I9U",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. GURU RANDHAWA)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=0CEg8nz_I9U",
-      "videoId": "0CEg8nz_I9U",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/0CEg8nz_I9U/mqdefault.jpg",
-      "publishedAt": "2026-06-06T14:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-viral-official-mv-teaser-boynextdoor-bnd-home-viral",
-      "title": "BOYNEXTDOOR 'VIRAL' Official MV Teaser #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #VIRAL",
-      "url": "https://www.youtube.com/shorts/5qr9rk-dx4o",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-06-05T13:03:24.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-SqyHDIznEE",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV Teaser",
-      "url": "https://www.youtube.com/watch?v=-SqyHDIznEE",
-      "videoId": "-SqyHDIznEE",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/-SqyHDIznEE/mqdefault.jpg",
-      "publishedAt": "2026-06-05T13:00:18.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "1dmmtkfS0PU",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. SANTOS BRAVOS)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=1dmmtkfS0PU",
-      "videoId": "1dmmtkfS0PU",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/1dmmtkfS0PU/mqdefault.jpg",
-      "publishedAt": "2026-06-05T09:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "Zv6JKobJyFY",
-      "title": "BTS (방탄소년단) 'Hooligan' Official Performance Video",
-      "url": "https://www.youtube.com/watch?v=Zv6JKobJyFY",
-      "videoId": "Zv6JKobJyFY",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/Zv6JKobJyFY/mqdefault.jpg",
-      "publishedAt": "2026-06-04T15:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     }
