@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-10T10:04:25.119Z",
+  "updatedAt": "2026-06-10T20:09:25.925Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "le-sserafim-x-illit-x-katseye-iconic-by-mistake-official-mv",
+      "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Official MV",
+      "url": "https://www.youtube.com/shorts/VyYmeg2IUZI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-10T15:01:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "nNE8TmNG10o",
       "title": "peek at 𝗩𝟴",
@@ -10,17 +21,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/nNE8TmNG10o/mqdefault.jpg",
       "publishedAt": "2026-06-09T05:07:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "27C4pfRsf9g",
-      "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Official MV",
-      "url": "https://www.youtube.com/watch?v=27C4pfRsf9g",
-      "videoId": "27C4pfRsf9g",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/27C4pfRsf9g/mqdefault.jpg",
-      "publishedAt": "2026-06-09T04:10:57.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -65,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/zGsj0fDHB_s/mqdefault.jpg",
       "publishedAt": "2026-06-08T08:59:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "set-the-",
-      "title": "set the 𝗩𝟴",
-      "url": "https://www.youtube.com/shorts/IZ5Y_k2ye4k",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-06-07T15:00:02.000Z",
       "group": "bts",
       "bucket": "bts"
     }
