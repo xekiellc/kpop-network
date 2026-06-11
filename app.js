@@ -55,7 +55,7 @@ async function init() {
 // ── HOSTNAME ───────────────────────────────────────────────
 function getHostname() {
   const host = window.location.hostname.replace('www.', '');
-  if (host === 'localhost' || host === '127.0.0.1' || host.includes('netlify.app')) {
+  if (host === 'localhost' || host === '127.0.0.1' || host.includes('netlify.app') || host.includes('pages.dev')) {
     return 'armypulse.com';
   }
   return host;
@@ -88,8 +88,6 @@ async function initLayout(site, config) {
     return;
   }
 
-  // Standard layouts: magazine, musicblog, luxury, nation, world,
-  // hype, breakingnews, social, pinterest, timeline
   if (type !== 'magazine' && type !== 'musicblog') {
     renderGroupStrip(site, config.groups);
   } else {
@@ -115,75 +113,36 @@ function hideStandardLayout() {
 // ── ENTRY ANIMATIONS ───────────────────────────────────────
 function runEntryAnimation(site) {
   const type = site.type;
-
   if (type === 'magazine' || type === 'luxury' || type === 'nation') {
-    // Elegant slow reveal
     document.body.style.opacity = '0';
     document.body.style.transform = 'translateY(10px)';
     document.body.style.transition = 'opacity 1s ease, transform 1s ease';
-    setTimeout(() => {
-      document.body.style.opacity = '1';
-      document.body.style.transform = 'translateY(0)';
-    }, 100);
-
+    setTimeout(() => { document.body.style.opacity = '1'; document.body.style.transform = 'translateY(0)'; }, 100);
   } else if (type === 'terminal') {
-    // Terminal boot sequence
     runTerminalBoot();
-
   } else if (type === 'musicblog') {
-    // Flash cut — stark
     document.body.style.opacity = '0';
     document.body.style.transition = 'opacity 0.3s ease';
     setTimeout(() => { document.body.style.opacity = '1'; }, 50);
-
   } else if (type === 'hype' || type === 'social') {
-    // Bouncy pop
     document.body.style.opacity = '0';
-    document.body.style.transform = 'scale(0.96)';
+    document.body.style.transform = 'scale(0.97)';
     document.body.style.transition = 'opacity 0.5s cubic-bezier(0.34,1.56,0.64,1), transform 0.5s cubic-bezier(0.34,1.56,0.64,1)';
-    setTimeout(() => {
-      document.body.style.opacity = '1';
-      document.body.style.transform = 'scale(1)';
-    }, 60);
-
+    setTimeout(() => { document.body.style.opacity = '1'; document.body.style.transform = 'scale(1)'; }, 60);
   } else if (type === 'breakingnews') {
-    // Urgent flash
     document.body.style.opacity = '0';
     document.body.style.transition = 'opacity 0.2s ease';
     setTimeout(() => { document.body.style.opacity = '1'; }, 30);
-
   } else if (type === 'world') {
-    // Zoom in from far
     document.body.style.opacity = '0';
-    document.body.style.transform = 'scale(1.04)';
+    document.body.style.transform = 'scale(1.03)';
     document.body.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
-    setTimeout(() => {
-      document.body.style.opacity = '1';
-      document.body.style.transform = 'scale(1)';
-    }, 80);
-
+    setTimeout(() => { document.body.style.opacity = '1'; document.body.style.transform = 'scale(1)'; }, 80);
   } else if (type === 'pinterest') {
-    // Cards rain down
     document.body.style.opacity = '0';
-    document.body.style.transition = 'opacity 0.6s ease';
-    setTimeout(() => { document.body.style.opacity = '1'; }, 80);
-
-  } else if (type === 'timeline') {
-    // Draw in from top
-    document.body.style.opacity = '0';
-    document.body.style.transform = 'translateY(-8px)';
+    document.body.style.transform = 'translateY(8px)';
     document.body.style.transition = 'opacity 0.7s ease, transform 0.7s ease';
-    setTimeout(() => {
-      document.body.style.opacity = '1';
-      document.body.style.transform = 'translateY(0)';
-    }, 80);
-
-  } else if (type === 'splitscreen') {
-    // Slide left panel in
-    document.body.style.opacity = '0';
-    document.body.style.transition = 'opacity 0.5s ease';
-    setTimeout(() => { document.body.style.opacity = '1'; }, 80);
-
+    setTimeout(() => { document.body.style.opacity = '1'; document.body.style.transform = 'translateY(0)'; }, 80);
   } else {
     document.body.style.opacity = '0';
     document.body.style.transition = 'opacity 0.5s ease';
@@ -194,52 +153,33 @@ function runEntryAnimation(site) {
 function runTerminalBoot() {
   const overlay = document.createElement('div');
   overlay.id = 'terminal-overlay';
-  overlay.style.cssText = `
-    position:fixed;inset:0;z-index:9999;
-    background:#000;display:flex;flex-direction:column;
-    align-items:center;justify-content:center;
-    font-family:'Space Mono',monospace;
-    padding:40px;
-  `;
-  const primary = getComputedStyle(document.documentElement)
-    .getPropertyValue('--primary').trim() || '#60a5fa';
-  const lines = [
-    '> INITIALIZING HYBE NETWORK...',
-    '> CONNECTING TO DATA FEEDS...',
-    '> LOADING GROUP PROFILES...',
-    '> SYNCING LIVE CONTENT...',
-    '> ALL SYSTEMS ONLINE.',
-  ];
+  overlay.style.cssText = 'position:fixed;inset:0;z-index:9999;background:#000;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:\'Space Mono\',monospace;padding:40px;';
+  const primary = getComputedStyle(document.documentElement).getPropertyValue('--primary').trim() || '#60a5fa';
+  const lines = ['> INITIALIZING HYBE NETWORK...','> CONNECTING TO DATA FEEDS...','> LOADING GROUP PROFILES...','> SYNCING LIVE CONTENT...','> ALL SYSTEMS ONLINE.'];
   const pre = document.createElement('pre');
   pre.style.cssText = `color:${primary};line-height:2;text-align:left;max-width:420px;font-size:13px;`;
   overlay.appendChild(pre);
   document.body.appendChild(overlay);
   document.body.style.opacity = '0';
-
   let lineIndex = 0;
   const typeNextLine = () => {
     if (lineIndex >= lines.length) {
       setTimeout(() => {
-        overlay.style.transition = 'opacity 0.5s ease';
-        overlay.style.opacity = '0';
-        document.body.style.transition = 'opacity 0.5s ease';
-        document.body.style.opacity = '1';
+        overlay.style.transition = 'opacity 0.5s ease'; overlay.style.opacity = '0';
+        document.body.style.transition = 'opacity 0.5s ease'; document.body.style.opacity = '1';
         setTimeout(() => overlay.remove(), 500);
       }, 300);
       return;
     }
-    const line = lines[lineIndex];
-    let charIndex = 0;
+    const line = lines[lineIndex]; let charIndex = 0;
     const typeLine = () => {
       if (charIndex <= line.length) {
         const prevLines = lines.slice(0, lineIndex).join('\n');
         pre.textContent = (prevLines ? prevLines + '\n' : '') + line.slice(0, charIndex) + '█';
-        charIndex++;
-        setTimeout(typeLine, 16);
+        charIndex++; setTimeout(typeLine, 16);
       } else {
         pre.textContent = lines.slice(0, lineIndex + 1).join('\n');
-        lineIndex++;
-        setTimeout(typeNextLine, 100);
+        lineIndex++; setTimeout(typeNextLine, 100);
       }
     };
     typeLine();
@@ -251,32 +191,24 @@ function runTerminalBoot() {
 function initTerminalLayout(site, allGroups) {
   const groups = allGroups.filter(g => state.hubeGroups.includes(g.id));
   const sidebarPills = document.getElementById('hub-sidebar-pills');
-
   const allBtn = createHubPill('ALL FEEDS', true, () => {
     document.querySelectorAll('.hub-pill').forEach(p => p.classList.remove('active'));
-    allBtn.classList.add('active');
-    state.activeGroup = 'all';
-    loadTerminalFeed();
+    allBtn.classList.add('active'); state.activeGroup = 'all'; loadTerminalFeed();
   });
   sidebarPills.appendChild(allBtn);
-
   groups.forEach(group => {
     const btn = createHubPill(group.name, false, () => {
       document.querySelectorAll('.hub-pill').forEach(p => p.classList.remove('active'));
-      btn.classList.add('active');
-      state.activeGroup = group.id;
-      loadTerminalFeed();
+      btn.classList.add('active'); state.activeGroup = group.id; loadTerminalFeed();
     });
     sidebarPills.appendChild(btn);
   });
-
   document.getElementById('hub-stats').innerHTML = `
     <div class="hub-stat-row"><span class="hub-stat-label">STATUS</span><span class="hub-stat-val hub-online">● ONLINE</span></div>
     <div class="hub-stat-row"><span class="hub-stat-label">GROUPS</span><span class="hub-stat-val" id="hub-stat-groups">—</span></div>
     <div class="hub-stat-row"><span class="hub-stat-label">UPDATED</span><span class="hub-stat-val" id="hub-stat-updated">—</span></div>
     <div class="hub-stat-row"><span class="hub-stat-label">PODCAST</span><span class="hub-stat-val">5×7</span></div>
   `;
-
   loadTerminalFeed();
 }
 
@@ -291,44 +223,30 @@ function createHubPill(label, active, onClick) {
 async function loadTerminalFeed() {
   const hubMain = document.getElementById('hub-main');
   hubMain.innerHTML = `<div class="hub-loading"><span class="hub-cursor">█</span> LOADING FEED...</div>`;
-
   try {
     const data = await fetchJSON(`${DATA_BASE_URL}/hybe-news.json`);
     state.articles = filterByGroup(data.articles || [], state.activeGroup);
-
     const updEl = document.getElementById('hub-stat-updated');
     if (updEl && data.updatedAt) updEl.textContent = formatTimeAgo(data.updatedAt);
     const grpEl = document.getElementById('hub-stat-groups');
     if (grpEl) grpEl.textContent = state.allGroups.length;
-
     hubMain.innerHTML = '';
-
     const header = document.createElement('div');
     header.className = 'hub-feed-header';
-    header.innerHTML = `
-      <span class="hub-feed-title">> LIVE FEED</span>
-      <span class="hub-feed-count">${state.articles.length} ENTRIES</span>
-      <span class="hub-feed-time">${new Date().toLocaleTimeString()}</span>
-    `;
+    header.innerHTML = `<span class="hub-feed-title">> LIVE FEED</span><span class="hub-feed-count">${state.articles.length} ENTRIES</span><span class="hub-feed-time">${new Date().toLocaleTimeString()}</span>`;
     hubMain.appendChild(header);
-
     if (state.articles.length > 0) {
       const ticker = document.createElement('div');
       ticker.className = 'hub-ticker';
       const inner = state.articles.slice(0, 8).map(a =>
         `<span class="hub-ticker-item" onclick="window.open('${escHtml(a.url)}','_blank')">${escHtml(truncate(a.title, 60))}</span><span class="hub-ticker-sep">///</span>`
       ).join('');
-      ticker.innerHTML = `
-        <span class="hub-ticker-label">TRENDING</span>
-        <div class="hub-ticker-track"><div class="hub-ticker-inner">${inner}${inner}</div></div>
-      `;
+      ticker.innerHTML = `<span class="hub-ticker-label">TRENDING</span><div class="hub-ticker-track"><div class="hub-ticker-inner">${inner}${inner}</div></div>`;
       hubMain.appendChild(ticker);
     }
-
     const feed = document.createElement('div');
     feed.className = 'hub-feed';
     hubMain.appendChild(feed);
-
     state.articles.forEach((article, idx) => {
       const row = document.createElement('div');
       row.className = 'hub-row';
@@ -340,16 +258,10 @@ async function loadTerminalFeed() {
         <span class="hub-row-source">${escHtml(article.source || '')}</span>
         <span class="hub-row-time">${escHtml(formatTimeAgo(article.publishedAt))}</span>
       `;
-      row.style.opacity = '0';
-      row.style.transform = 'translateX(-16px)';
+      row.style.opacity = '0'; row.style.transform = 'translateX(-16px)';
       feed.appendChild(row);
-      setTimeout(() => {
-        row.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
-        row.style.opacity = '1';
-        row.style.transform = 'translateX(0)';
-      }, idx * 25);
+      setTimeout(() => { row.style.transition = 'opacity 0.3s ease, transform 0.3s ease'; row.style.opacity = '1'; row.style.transform = 'translateX(0)'; }, idx * 25);
     });
-
   } catch (err) {
     hubMain.innerHTML = `<div class="hub-loading">ERROR: FEED UNAVAILABLE</div>`;
   }
@@ -363,22 +275,17 @@ function initSplitLayout(site, allGroups) {
 async function loadSplitFeed() {
   const splitLeft = document.getElementById('split-left');
   splitLeft.innerHTML = `<div class="split-loading">Loading...</div>`;
-
   try {
     const data = await fetchJSON(`${DATA_BASE_URL}/hybe-news.json`);
     state.articles = data.articles || [];
-
     splitLeft.innerHTML = '';
-
     const header = document.createElement('div');
     header.className = 'split-header';
     header.innerHTML = `<span class="split-header-title">HYBE NEWS</span><span class="split-header-count">${state.articles.length} articles</span>`;
     splitLeft.appendChild(header);
-
     const list = document.createElement('div');
     list.className = 'split-list';
     splitLeft.appendChild(list);
-
     state.articles.forEach((article, idx) => {
       const item = document.createElement('div');
       item.className = 'split-item';
@@ -391,31 +298,17 @@ async function loadSplitFeed() {
         <div class="split-item-title">${escHtml(article.title)}</div>
         <div class="split-item-source">${escHtml(article.source || '')}</div>
       `;
-      item.style.opacity = '0';
-      item.style.transform = 'translateX(-12px)';
+      item.style.opacity = '0'; item.style.transform = 'translateX(-12px)';
       list.appendChild(item);
-
       item.addEventListener('click', () => {
         document.querySelectorAll('.split-item').forEach(i => i.classList.remove('active'));
-        item.classList.add('active');
-        showSplitPreview(article);
+        item.classList.add('active'); showSplitPreview(article);
       });
-
-      setTimeout(() => {
-        item.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
-        item.style.opacity = '1';
-        item.style.transform = 'translateX(0)';
-      }, idx * 30);
+      setTimeout(() => { item.style.transition = 'opacity 0.3s ease, transform 0.3s ease'; item.style.opacity = '1'; item.style.transform = 'translateX(0)'; }, idx * 30);
     });
-
-    // Auto-select first article
     if (state.articles.length > 0) {
-      setTimeout(() => {
-        const firstItem = list.querySelector('.split-item');
-        if (firstItem) { firstItem.classList.add('active'); showSplitPreview(state.articles[0]); }
-      }, 500);
+      setTimeout(() => { const firstItem = list.querySelector('.split-item'); if (firstItem) { firstItem.classList.add('active'); showSplitPreview(state.articles[0]); } }, 500);
     }
-
   } catch (err) {
     splitLeft.innerHTML = `<div class="split-loading">Error loading feed</div>`;
   }
@@ -433,16 +326,11 @@ function showSplitPreview(article) {
       </div>
       <h2 class="split-preview-title">${escHtml(article.title)}</h2>
       ${article.summary ? `<p class="split-preview-summary">${escHtml(article.summary)}</p>` : ''}
-      <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener" class="split-preview-btn">
-        Read Full Story →
-      </a>
+      <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener" class="split-preview-btn">Read Full Story →</a>
     </div>
   `;
   right.style.opacity = '0';
-  setTimeout(() => {
-    right.style.transition = 'opacity 0.3s ease';
-    right.style.opacity = '1';
-  }, 10);
+  setTimeout(() => { right.style.transition = 'opacity 0.3s ease'; right.style.opacity = '1'; }, 10);
 }
 
 // ── THEME ──────────────────────────────────────────────────
@@ -468,9 +356,7 @@ function applyTheme(site) {
   root.style.setProperty('--subscribe-text', t.subscribeText);
   root.style.setProperty('--logo-color', t.logoColor || t.primary);
   root.style.setProperty('--tagline-color', t.taglineColor || t.textMuted);
-
   if (isLightTheme(t.background)) document.body.classList.add('light-theme');
-
   const metaTheme = document.querySelector('meta[name="theme-color"]')
     || (() => { const m = document.createElement('meta'); m.name = 'theme-color'; document.head.appendChild(m); return m; })();
   metaTheme.content = t.headerBg;
@@ -494,33 +380,25 @@ function renderHeader(site) {
   const logoEl = document.getElementById('site-logo');
   const taglineEl = document.getElementById('site-tagline');
   const footerLogoEl = document.getElementById('footer-logo');
-
   logoEl.textContent = site.name;
   taglineEl.textContent = site.tagline;
   if (footerLogoEl) footerLogoEl.textContent = site.name;
-
   logoEl.style.color = site.theme.logoColor || site.theme.primary;
   taglineEl.style.color = site.theme.taglineColor || site.theme.textMuted;
-
   const newsletterText = document.getElementById('newsletter-text');
   if (newsletterText) newsletterText.textContent = `Get ${site.name} news in your inbox — free weekly digest`;
   const nbtn = document.getElementById('newsletter-btn');
-  if (nbtn) {
-    nbtn.href = `https://${site.beehiiv}.beehiiv.com`;
-    nbtn.textContent = 'Subscribe Free';
-  }
+  if (nbtn) { nbtn.href = `https://${site.beehiiv}.beehiiv.com`; nbtn.textContent = 'Subscribe Free'; }
 }
 
 // ── GROUP STRIP ────────────────────────────────────────────
 function renderGroupStrip(site, allGroups) {
   const strip = document.getElementById('group-strip');
   const pillsEl = document.getElementById('group-pills');
-
   let groups = allGroups;
   if (site.type === 'terminal' || site.type === 'splitscreen') {
     groups = allGroups.filter(g => state.hubeGroups.includes(g.id));
   }
-
   const allPill = createPill('all', 'All', true);
   pillsEl.appendChild(allPill);
   groups.forEach(group => pillsEl.appendChild(createPill(group.id, group.name, false)));
@@ -533,9 +411,7 @@ function createPill(id, name, active) {
   btn.dataset.group = id;
   btn.addEventListener('click', () => {
     document.querySelectorAll('.group-pill').forEach(p => p.classList.remove('active'));
-    btn.classList.add('active');
-    state.activeGroup = id;
-    state.articlesPage = 1;
+    btn.classList.add('active'); state.activeGroup = id; state.articlesPage = 1;
     loadTabContent(state.activeTab);
   });
   return btn;
@@ -550,29 +426,16 @@ function setupTabs() {
       btn.classList.add('active');
       const tab = btn.dataset.tab;
       document.getElementById(`tab-${tab}`).classList.add('active');
-      state.activeTab = tab;
-      loadTabContent(tab);
+      state.activeTab = tab; loadTabContent(tab);
     });
   });
-
   const loadMoreBtn = document.getElementById('load-more-news');
-  if (loadMoreBtn) {
-    loadMoreBtn.addEventListener('click', () => {
-      state.articlesPage++;
-      renderArticles(state.articles, false);
-    });
-  }
+  if (loadMoreBtn) { loadMoreBtn.addEventListener('click', () => { state.articlesPage++; renderArticles(state.articles, false); }); }
 }
 
-// ── MOBILE MENU ────────────────────────────────────────────
 function setupMobileMenu() {
   const btn = document.getElementById('mobile-menu-btn');
-  if (btn) {
-    btn.addEventListener('click', () => {
-      const tabBar = document.getElementById('tab-bar');
-      if (tabBar) tabBar.style.display = tabBar.style.display === 'none' ? 'block' : '';
-    });
-  }
+  if (btn) { btn.addEventListener('click', () => { const tabBar = document.getElementById('tab-bar'); if (tabBar) tabBar.style.display = tabBar.style.display === 'none' ? 'block' : ''; }); }
 }
 
 // ── TAB LOADER ─────────────────────────────────────────────
@@ -590,42 +453,28 @@ async function loadTabContent(tab) {
 async function loadNews() {
   if (state.isLoading) return;
   state.isLoading = true;
-
   const grid = document.getElementById('articles-grid');
-  if (state.articlesPage === 1 && grid) {
-    grid.innerHTML = loadingHTML('Fetching latest K-pop news...');
-  }
-
+  if (state.articlesPage === 1 && grid) grid.innerHTML = loadingHTML('Fetching latest K-pop news...');
   try {
     const bucket = state.site.bucket;
     const data = await fetchJSON(`${DATA_BASE_URL}/${bucket}-news.json`);
     state.articles = filterByGroup(data.articles || [], state.activeGroup);
-
     const type = state.site.type;
 
-    // Show hero for magazine, nation, world
     if (['magazine', 'nation', 'world'].includes(type) && state.articles.length > 0) {
       const heroSection = document.getElementById('hero-section');
-      if (heroSection) {
-        heroSection.style.display = 'block';
-        renderHero(state.articles[0]);
-      }
+      if (heroSection) { heroSection.style.display = 'block'; renderHero(state.articles[0]); }
       renderArticles(state.articles.slice(1), true);
     } else {
       renderArticles(state.articles, true);
     }
 
-    // Breaking news ticker
-    if (type === 'breakingnews') {
-      renderBreakingTicker(state.articles);
-    }
-
+    if (type === 'breakingnews') renderBreakingTicker(state.articles);
     renderTrending(state.articles);
     updateStats(data);
   } catch (err) {
     if (grid) grid.innerHTML = emptyHTML('No articles found yet — check back soon!');
   }
-
   state.isLoading = false;
 }
 
@@ -634,28 +483,18 @@ function renderHero(article) {
   const hero = document.getElementById('hero-article');
   if (!hero) return;
   const groupId = article.group || 'kpop';
-  const timeAgo = formatTimeAgo(article.publishedAt);
-
   hero.innerHTML = `
     <div class="hero-eyebrow">
       <span class="hero-badge group-tag-${groupId}">${escHtml(getGroupName(groupId))}</span>
       <span class="hero-source">${escHtml(article.source || '')}</span>
-      <span class="hero-time">${escHtml(timeAgo)}</span>
+      <span class="hero-time">${escHtml(formatTimeAgo(article.publishedAt))}</span>
     </div>
-    <h1 class="hero-title">
-      <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener">${escHtml(article.title)}</a>
-    </h1>
+    <h1 class="hero-title"><a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener">${escHtml(article.title)}</a></h1>
     ${article.summary ? `<p class="hero-summary">${escHtml(article.summary)}</p>` : ''}
     <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener" class="hero-read-btn">Read Full Story →</a>
   `;
-
-  hero.style.opacity = '0';
-  hero.style.transform = 'translateY(20px)';
-  setTimeout(() => {
-    hero.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
-    hero.style.opacity = '1';
-    hero.style.transform = 'translateY(0)';
-  }, 300);
+  hero.style.opacity = '0'; hero.style.transform = 'translateY(20px)';
+  setTimeout(() => { hero.style.transition = 'opacity 0.8s ease, transform 0.8s ease'; hero.style.opacity = '1'; hero.style.transform = 'translateY(0)'; }, 300);
 }
 
 // ── BREAKING TICKER ────────────────────────────────────────
@@ -678,83 +517,165 @@ function renderArticles(articles, reset) {
   const grid = document.getElementById('articles-grid');
   if (!grid) return;
 
+  const type = state.site ? state.site.type : 'hype';
   const start = reset ? 0 : (state.articlesPage - 1) * ARTICLES_PER_PAGE;
   const end = state.articlesPage * ARTICLES_PER_PAGE;
   const slice = articles.slice(start, end);
 
   if (reset) grid.innerHTML = '';
+  if (articles.length === 0) { grid.innerHTML = emptyHTML('No articles found for this group yet.'); return; }
 
-  if (articles.length === 0) {
-    grid.innerHTML = emptyHTML('No articles found for this group yet.');
+  // ── HYPE: banner featured + waterfall wrapper ──────────
+  if (type === 'hype') {
+    if (reset) {
+      // Featured banner
+      if (slice.length > 0) {
+        const featuredCard = createArticleCard(slice[0], true);
+        animateCard(featuredCard, 'hype', 0);
+        grid.appendChild(featuredCard);
+      }
+      // Waterfall wrapper for rest
+      const waterfall = document.createElement('div');
+      waterfall.className = 'hype-waterfall';
+      grid.appendChild(waterfall);
+      slice.slice(1).forEach((article, idx) => {
+        const card = createArticleCard(article, false);
+        animateCard(card, 'hype', idx + 1);
+        waterfall.appendChild(card);
+      });
+    } else {
+      let waterfall = grid.querySelector('.hype-waterfall');
+      if (!waterfall) { waterfall = document.createElement('div'); waterfall.className = 'hype-waterfall'; grid.appendChild(waterfall); }
+      slice.forEach((article, idx) => {
+        const card = createArticleCard(article, false);
+        animateCard(card, 'hype', idx);
+        waterfall.appendChild(card);
+      });
+    }
+    const btn = document.getElementById('load-more-news');
+    if (btn) btn.style.display = end >= articles.length ? 'none' : 'block';
     return;
   }
 
-  const type = state.site ? state.site.type : 'hype';
+  // ── BREAKINGNEWS: left feed + right panel ──────────────
+  if (type === 'breakingnews') {
+    const tabNews = document.getElementById('tab-news');
 
+    if (reset) {
+      // Clear and rebuild two-column structure
+      grid.innerHTML = '';
+      // Remove existing right panel if any
+      const existing = tabNews.querySelector('.bn-right-panel');
+      if (existing) existing.remove();
+
+      // Build right panel with top story
+      const rightPanel = document.createElement('div');
+      rightPanel.className = 'bn-right-panel';
+      if (articles.length > 0) {
+        const top = articles[0];
+        const groupId = top.group || 'kpop';
+        rightPanel.innerHTML = `
+          <div style="padding:20px;border-bottom:1px solid #111;">
+            <div style="font-family:'Oswald',sans-serif;font-size:10px;letter-spacing:3px;color:var(--primary);margin-bottom:12px;text-transform:uppercase;">TOP STORY</div>
+            <span class="article-group-badge group-tag-${groupId}" style="font-size:9px;padding:2px 8px;margin-bottom:10px;display:inline-block;">${escHtml(getGroupName(groupId))}</span>
+            <div style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;color:var(--text);line-height:1.3;margin-bottom:12px;">${escHtml(top.title)}</div>
+            ${top.summary ? `<div style="font-size:13px;color:var(--text-muted);line-height:1.7;margin-bottom:16px;">${escHtml(top.summary)}</div>` : ''}
+            <a href="${escHtml(top.url || '#')}" target="_blank" rel="noopener" style="display:inline-block;background:var(--primary);color:#000;font-family:'Oswald',sans-serif;font-size:12px;font-weight:700;padding:10px 20px;letter-spacing:2px;text-transform:uppercase;">READ STORY →</a>
+          </div>
+          <div style="padding:16px 20px;border-bottom:1px solid #111;">
+            <div style="font-family:'Oswald',sans-serif;font-size:9px;letter-spacing:2px;color:#333;text-transform:uppercase;margin-bottom:10px;">TRENDING NOW</div>
+            ${articles.slice(1,6).map(a => `
+              <div onclick="window.open('${escHtml(a.url)}','_blank')" style="padding:8px 0;border-bottom:1px solid #0d1b2a;cursor:pointer;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color='var(--text-muted)'">
+                <div style="font-family:'Oswald',sans-serif;font-size:12px;color:inherit;line-height:1.4;">${escHtml(truncate(a.title, 70))}</div>
+                <div style="font-size:10px;color:#2a4a6a;margin-top:2px;">${escHtml(formatTimeAgo(a.publishedAt))}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+      tabNews.appendChild(rightPanel);
+    }
+
+    // Fill left feed
+    slice.forEach((article, idx) => {
+      const card = createArticleCard(article, reset && idx === 0);
+      animateCard(card, 'breakingnews', idx);
+      grid.appendChild(card);
+    });
+    const btn = document.getElementById('load-more-news');
+    if (btn) btn.style.display = end >= articles.length ? 'none' : 'block';
+    return;
+  }
+
+  // ── SOCIAL: square tile grid ───────────────────────────
+  if (type === 'social') {
+    slice.forEach((article, idx) => {
+      const card = createArticleCard(article, reset && idx === 0);
+      animateCard(card, 'social', idx);
+      grid.appendChild(card);
+    });
+    const btn = document.getElementById('load-more-news');
+    if (btn) btn.style.display = end >= articles.length ? 'none' : 'block';
+    return;
+  }
+
+  // ── PINTEREST/COZY BLOG: single column ─────────────────
+  if (type === 'pinterest') {
+    slice.forEach((article, idx) => {
+      const card = createArticleCard(article, reset && idx === 0);
+      card.style.opacity = '0';
+      card.style.transform = 'translateX(-12px)';
+      grid.appendChild(card);
+      setTimeout(() => {
+        card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+        card.style.opacity = '1';
+        card.style.transform = 'translateX(0)';
+      }, idx * 60);
+    });
+    const btn = document.getElementById('load-more-news');
+    if (btn) btn.style.display = end >= articles.length ? 'none' : 'block';
+    return;
+  }
+
+  // ── DEFAULT: all other layouts ─────────────────────────
   slice.forEach((article, idx) => {
-    const featured = reset && idx === 0 && !['magazine', 'nation', 'world', 'timeline', 'pinterest', 'musicblog'].includes(type);
+    const featured = reset && idx === 0 && !['magazine', 'nation', 'world', 'timeline', 'musicblog'].includes(type);
     const card = createArticleCard(article, featured);
-    card.style.opacity = '0';
-    card.style.transform = getEntryTransform(type, idx);
+    animateCard(card, type, idx);
     grid.appendChild(card);
-
-    setTimeout(() => {
-      card.style.transition = getEntryTransition(type);
-      card.style.opacity = '1';
-      card.style.transform = 'none';
-    }, idx * getEntryDelay(type));
   });
-
   const btn = document.getElementById('load-more-news');
   if (btn) btn.style.display = end >= articles.length ? 'none' : 'block';
 }
 
-function getEntryTransform(type, idx) {
-  switch (type) {
-    case 'magazine':     return 'translateY(20px)';
-    case 'musicblog':    return 'translateX(30px)';
-    case 'terminal':     return 'translateX(-20px)';
-    case 'splitscreen':  return 'translateX(-12px)';
-    case 'timeline':     return 'translateY(16px)';
-    case 'luxury':       return 'translateY(24px)';
-    case 'nation':       return 'translateY(16px)';
-    case 'world':        return 'scale(0.96) translateY(16px)';
-    case 'hype':         {
-      const d = ['translateX(40px)', 'translateX(-40px)', 'translateY(40px)', 'translateX(30px) translateY(-20px)'];
-      return d[idx % d.length];
-    }
-    case 'breakingnews': return 'translateY(-10px)';
-    case 'social':       return 'scale(0.92)';
-    case 'pinterest':    return idx % 2 === 0 ? 'translateX(-20px)' : 'translateX(20px)';
-    default:             return 'translateY(16px)';
+function animateCard(card, type, idx) {
+  card.style.opacity = '0';
+  if (type === 'magazine') card.style.transform = 'translateY(20px)';
+  else if (type === 'musicblog') card.style.transform = 'translateX(30px)';
+  else if (type === 'hype') {
+    const d = ['translateX(40px)','translateX(-40px)','translateY(40px)','translateX(30px) translateY(-20px)'];
+    card.style.transform = d[idx % d.length];
+  } else if (type === 'social') {
+    card.style.transform = 'scale(0.85)';
+  } else if (type === 'breakingnews') {
+    card.style.transform = 'translateX(-10px)';
+  } else {
+    card.style.transform = 'translateY(16px)';
   }
-}
-
-function getEntryTransition(type) {
-  if (type === 'hype' || type === 'social') {
-    return 'opacity 0.4s cubic-bezier(0.34,1.56,0.64,1), transform 0.4s cubic-bezier(0.34,1.56,0.64,1)';
-  }
-  if (type === 'magazine' || type === 'luxury' || type === 'nation') {
-    return 'opacity 0.7s ease, transform 0.7s ease';
-  }
-  return 'opacity 0.4s ease, transform 0.4s ease';
-}
-
-function getEntryDelay(type) {
-  if (type === 'magazine' || type === 'luxury') return 90;
-  if (type === 'breakingnews') return 20;
-  return 45;
+  const delay = type === 'magazine' ? idx * 90 : type === 'breakingnews' ? idx * 20 : idx * 45;
+  const easing = (type === 'hype' || type === 'social')
+    ? 'opacity 0.4s cubic-bezier(0.34,1.56,0.64,1), transform 0.4s cubic-bezier(0.34,1.56,0.64,1)'
+    : 'opacity 0.4s ease, transform 0.4s ease';
+  setTimeout(() => { card.style.transition = easing; card.style.opacity = '1'; card.style.transform = 'none'; }, delay);
 }
 
 function createArticleCard(article, featured) {
   const card = document.createElement('div');
   card.className = `article-card${featured ? ' featured' : ''}`;
-
   const groupId = article.group || 'default';
   const groupName = getGroupName(groupId);
   const sourceClass = getSourceClass(article.source);
   const timeAgo = formatTimeAgo(article.publishedAt);
-
   card.innerHTML = `
     ${featured ? '<div class="featured-label">Top Story</div>' : ''}
     <div class="article-card-top">
@@ -770,7 +691,6 @@ function createArticleCard(article, featured) {
       ${article.author ? `<span>· ${escHtml(article.author)}</span>` : ''}
     </div>
   `;
-
   return card;
 }
 
@@ -779,29 +699,19 @@ async function loadVideos() {
   const grid = document.getElementById('videos-grid');
   if (!grid) return;
   grid.innerHTML = loadingHTML('Loading videos...');
-
   try {
     const bucket = state.site.bucket;
     const data = await fetchJSON(`${DATA_BASE_URL}/${bucket}-videos.json`);
     const videos = filterByGroup(data.videos || [], state.activeGroup);
-
     if (videos.length === 0) { grid.innerHTML = emptyHTML('No videos found yet.'); return; }
-
     grid.innerHTML = '';
     videos.slice(0, 12).forEach((video, idx) => {
       const card = createVideoCard(video);
-      card.style.opacity = '0';
-      card.style.transform = 'translateY(16px)';
+      card.style.opacity = '0'; card.style.transform = 'translateY(16px)';
       grid.appendChild(card);
-      setTimeout(() => {
-        card.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
-        card.style.opacity = '1';
-        card.style.transform = 'none';
-      }, idx * 50);
+      setTimeout(() => { card.style.transition = 'opacity 0.4s ease, transform 0.4s ease'; card.style.opacity = '1'; card.style.transform = 'none'; }, idx * 50);
     });
-  } catch (err) {
-    grid.innerHTML = emptyHTML('Videos coming soon!');
-  }
+  } catch (err) { grid.innerHTML = emptyHTML('Videos coming soon!'); }
 }
 
 function createVideoCard(video) {
@@ -810,13 +720,10 @@ function createVideoCard(video) {
   const groupId = video.group || 'default';
   const timeAgo = formatTimeAgo(video.publishedAt);
   const thumb = video.thumbnail || `https://img.youtube.com/vi/${video.videoId}/mqdefault.jpg`;
-
   card.innerHTML = `
     <div class="video-thumbnail">
       <img src="${escHtml(thumb)}" alt="${escHtml(video.title)}" loading="lazy" onerror="this.style.display='none'" />
-      <div class="video-play-overlay">
-        <div class="play-btn-circle"><div class="play-triangle"></div></div>
-      </div>
+      <div class="video-play-overlay"><div class="play-btn-circle"><div class="play-triangle"></div></div></div>
     </div>
     <div class="video-info">
       ${groupId !== 'default' ? `<span class="video-group-badge group-tag-${groupId}">${escHtml(getGroupName(groupId))}</span>` : ''}
@@ -824,11 +731,7 @@ function createVideoCard(video) {
       <div class="video-meta"><span>${escHtml(video.channelName || 'YouTube')}</span><span>· ${escHtml(timeAgo)}</span></div>
     </div>
   `;
-
-  card.addEventListener('click', () => {
-    window.open(video.url || `https://www.youtube.com/watch?v=${video.videoId}`, '_blank', 'noopener');
-  });
-
+  card.addEventListener('click', () => { window.open(video.url || `https://www.youtube.com/watch?v=${video.videoId}`, '_blank', 'noopener'); });
   return card;
 }
 
@@ -837,41 +740,32 @@ async function loadCommunity() {
   const grid = document.getElementById('community-grid');
   if (!grid) return;
   grid.innerHTML = loadingHTML('Loading community posts...');
-
   try {
     const bucket = state.site.bucket;
     const data = await fetchJSON(`${DATA_BASE_URL}/${bucket}-community.json`);
     const posts = filterByGroup(data.posts || [], state.activeGroup);
-
     if (posts.length === 0) { grid.innerHTML = emptyHTML('No community posts yet.'); return; }
-
     grid.innerHTML = '';
     posts.slice(0, 12).forEach(post => grid.appendChild(createCommunityCard(post)));
-  } catch (err) {
-    grid.innerHTML = emptyHTML('Community content coming soon!');
-  }
+  } catch (err) { grid.innerHTML = emptyHTML('Community content coming soon!'); }
 }
 
 function createCommunityCard(post) {
   const card = document.createElement('div');
   card.className = 'community-card';
   const timeAgo = formatTimeAgo(post.publishedAt);
-
   card.innerHTML = `
     <div class="community-card-top">
       <span class="subreddit-badge">r/${escHtml(post.subreddit || 'kpop')}</span>
       ${post.upvotes ? `<span class="upvote-count">▲ ${formatNum(post.upvotes)}</span>` : ''}
     </div>
-    <div class="community-title">
-      <a href="${escHtml(post.url || '#')}" target="_blank" rel="noopener">${escHtml(post.title || 'Untitled')}</a>
-    </div>
+    <div class="community-title"><a href="${escHtml(post.url || '#')}" target="_blank" rel="noopener">${escHtml(post.title || 'Untitled')}</a></div>
     <div class="community-meta">
       <span>${escHtml(timeAgo)}</span>
       ${post.comments ? `<span>· ${formatNum(post.comments)} comments</span>` : ''}
       ${post.author ? `<span>· u/${escHtml(post.author)}</span>` : ''}
     </div>
   `;
-
   return card;
 }
 
@@ -881,42 +775,28 @@ async function loadArchive() {
   const filtersEl = document.getElementById('archive-filters');
   if (!grid) return;
   grid.innerHTML = loadingHTML('Loading archive...');
-
   try {
     const bucket = state.site.bucket;
     const data = await fetchJSON(`${DATA_BASE_URL}/${bucket}-archive.json`);
     const articles = data.articles || [];
     const groups = [...new Set(articles.map(a => a.group).filter(Boolean))];
-
     if (filtersEl) {
       filtersEl.innerHTML = '';
       const allBtn = document.createElement('button');
       allBtn.className = 'archive-filter-btn active';
       allBtn.textContent = 'All';
-      allBtn.addEventListener('click', () => {
-        document.querySelectorAll('.archive-filter-btn').forEach(b => b.classList.remove('active'));
-        allBtn.classList.add('active');
-        renderArchiveGrid(articles, 'all');
-      });
+      allBtn.addEventListener('click', () => { document.querySelectorAll('.archive-filter-btn').forEach(b => b.classList.remove('active')); allBtn.classList.add('active'); renderArchiveGrid(articles, 'all'); });
       filtersEl.appendChild(allBtn);
-
       groups.slice(0, 10).forEach(gId => {
         const btn = document.createElement('button');
         btn.className = 'archive-filter-btn';
         btn.textContent = getGroupName(gId);
-        btn.addEventListener('click', () => {
-          document.querySelectorAll('.archive-filter-btn').forEach(b => b.classList.remove('active'));
-          btn.classList.add('active');
-          renderArchiveGrid(articles, gId);
-        });
+        btn.addEventListener('click', () => { document.querySelectorAll('.archive-filter-btn').forEach(b => b.classList.remove('active')); btn.classList.add('active'); renderArchiveGrid(articles, gId); });
         filtersEl.appendChild(btn);
       });
     }
-
     renderArchiveGrid(articles, 'all');
-  } catch (err) {
-    grid.innerHTML = emptyHTML('Archive coming soon!');
-  }
+  } catch (err) { grid.innerHTML = emptyHTML('Archive coming soon!'); }
 }
 
 function renderArchiveGrid(articles, groupId) {
@@ -957,14 +837,11 @@ function updateStats(data) {
   const articles = data ? (data.articles || []) : state.articles;
   const today = new Date().toDateString();
   const todayCount = articles.filter(a => a.publishedAt && new Date(a.publishedAt).toDateString() === today).length;
-
   const sa = document.getElementById('stat-articles');
   const sg = document.getElementById('stat-groups');
   const su = document.getElementById('stat-updated');
-
   if (sa) sa.textContent = todayCount || articles.length || '—';
   if (sg) sg.textContent = state.allGroups.length || '28';
-
   if (data && data.updatedAt) {
     if (su) su.textContent = formatTimeAgo(data.updatedAt);
     state.lastUpdatedAt = data.updatedAt;
@@ -1024,11 +901,8 @@ function truncate(str, len) {
 function escHtml(str) {
   if (!str) return '';
   return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#039;');
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/'/g, '&#039;');
 }
 
 function loadingHTML(msg) {
