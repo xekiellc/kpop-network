@@ -1,6 +1,6 @@
 /* ============================================================
    KPOP NETWORK — app.js
-   Domain detection, theme loading, content fetching & rendering
+   Three completely different experiences by site type
    ============================================================ */
 
 'use strict';
@@ -43,12 +43,19 @@ async function init() {
     applyMeta(site);
     applyLayoutType(site);
     renderHeader(site);
-    renderGroupStrip(site, config.groups);
-    setupTabs();
-    setupMobileMenu();
+
+    if (site.type === 'HUB') {
+      initHubLayout(site, config.groups);
+    } else {
+      renderGroupStrip(site, config.groups);
+      setupTabs();
+      setupMobileMenu();
+    }
+
     runEntryAnimation(site);
     await loadTabContent('news');
     updateStats();
+
   } catch (err) {
     console.error('Init error:', err);
     renderError();
@@ -74,111 +81,233 @@ function applyLayoutType(site) {
 
 // ── ENTRY ANIMATIONS ───────────────────────────────────────
 function runEntryAnimation(site) {
-  if (site.type === 'A') runParticleEntry();
-  else if (site.type === 'HUB') runScanlineEntry();
-  else runCascadeEntry();
+  if (site.type === 'A') runMagazineEntry();
+  else if (site.type === 'HUB') runTerminalEntry();
+  else runHypeEntry();
 }
 
-function runParticleEntry() {
-  const canvas = document.createElement('canvas');
-  canvas.id = 'entry-canvas';
-  canvas.style.cssText = `
-    position:fixed;inset:0;z-index:9999;pointer-events:none;
-    width:100%;height:100%;opacity:1;transition:opacity 1.2s ease;
-  `;
-  document.body.appendChild(canvas);
+// Type A — elegant magazine reveal
+function runMagazineEntry() {
+  document.body.style.opacity = '0';
+  document.body.style.transform = 'translateY(12px)';
+  document.body.style.transition = 'opacity 0.9s ease, transform 0.9s ease';
+  requestAnimationFrame(() => {
+    setTimeout(() => {
+      document.body.style.opacity = '1';
+      document.body.style.transform = 'translateY(0)';
+    }, 80);
+  });
+}
 
-  const ctx = canvas.getContext('2d');
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
+// Type HUB — terminal boot sequence
+function runTerminalEntry() {
+  const overlay = document.createElement('div');
+  overlay.id = 'terminal-overlay';
+  overlay.style.cssText = `
+    position:fixed;inset:0;z-index:9999;
+    background:#000;display:flex;flex-direction:column;
+    align-items:center;justify-content:center;
+    font-family:'Space Mono',monospace;color:#00ff88;
+    font-size:13px;padding:40px;
+  `;
 
   const primary = getComputedStyle(document.documentElement)
-    .getPropertyValue('--primary').trim() || '#c084fc';
+    .getPropertyValue('--primary').trim() || '#60a5fa';
 
-  const particles = Array.from({ length: 80 }, () => ({
-    x: Math.random() * canvas.width,
-    y: canvas.height + Math.random() * 200,
-    size: Math.random() * 3 + 1,
-    speed: Math.random() * 2 + 0.5,
-    opacity: Math.random() * 0.8 + 0.2,
-    drift: (Math.random() - 0.5) * 0.5,
-  }));
+  const lines = [
+    '> INITIALIZING HYBE NETWORK...',
+    '> CONNECTING TO DATA FEEDS...',
+    '> LOADING GROUP PROFILES...',
+    '> SYNCING LIVE CONTENT...',
+    '> SYSTEM READY.',
+  ];
 
-  let frame = 0;
-  const animate = () => {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    ctx.fillStyle = `rgba(15,1,32,${Math.max(0, 0.85 - frame * 0.008)})`;
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
+  let lineIndex = 0;
+  const pre = document.createElement('pre');
+  pre.style.cssText = `color:${primary};line-height:2;text-align:left;max-width:400px;`;
+  overlay.appendChild(pre);
+  document.body.appendChild(overlay);
+  document.body.style.opacity = '0';
 
-    particles.forEach(p => {
-      p.y -= p.speed;
-      p.x += p.drift;
-      ctx.beginPath();
-      ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
-      ctx.fillStyle = primary;
-      ctx.globalAlpha = p.opacity * Math.max(0, 1 - frame / 80);
-      ctx.fill();
-      ctx.globalAlpha = 1;
-      if (p.y < -10) {
-        p.y = canvas.height + 10;
-        p.x = Math.random() * canvas.width;
+  const typeNextLine = () => {
+    if (lineIndex >= lines.length) {
+      setTimeout(() => {
+        overlay.style.transition = 'opacity 0.5s ease';
+        overlay.style.opacity = '0';
+        document.body.style.transition = 'opacity 0.5s ease';
+        document.body.style.opacity = '1';
+        setTimeout(() => overlay.remove(), 500);
+      }, 300);
+      return;
+    }
+    const line = lines[lineIndex];
+    let charIndex = 0;
+    const typeLine = () => {
+      if (charIndex <= line.length) {
+        pre.textContent = pre.textContent.split('\n').slice(0, lineIndex).join('\n')
+          + (lineIndex > 0 ? '\n' : '') + line.slice(0, charIndex) + '█';
+        charIndex++;
+        setTimeout(typeLine, 18);
+      } else {
+        pre.textContent = pre.textContent.slice(0, -1);
+        lineIndex++;
+        setTimeout(typeNextLine, 120);
       }
+    };
+    typeLine();
+  };
+  typeNextLine();
+}
+
+// Type B — hype explosion entry
+function runHypeEntry() {
+  document.body.style.opacity = '0';
+  document.body.style.transform = 'scale(0.97)';
+  document.body.style.transition = 'opacity 0.5s cubic-bezier(0.34,1.56,0.64,1), transform 0.5s cubic-bezier(0.34,1.56,0.64,1)';
+  requestAnimationFrame(() => {
+    setTimeout(() => {
+      document.body.style.opacity = '1';
+      document.body.style.transform = 'scale(1)';
+    }, 60);
+  });
+}
+
+// ── HUB LAYOUT (sidebar + feed) ────────────────────────────
+function initHubLayout(site, allGroups) {
+  // Hide standard layout elements
+  document.getElementById('group-strip').style.display = 'none';
+  document.getElementById('tab-bar').style.display = 'none';
+  document.getElementById('main-content').style.display = 'none';
+
+  // Show hub layout
+  const hubLayout = document.getElementById('hub-layout');
+  hubLayout.style.display = 'flex';
+
+  // Build sidebar
+  const groups = allGroups.filter(g => state.hubeGroups.includes(g.id));
+  const sidebarPills = document.getElementById('hub-sidebar-pills');
+
+  const allBtn = document.createElement('button');
+  allBtn.className = 'hub-pill active';
+  allBtn.textContent = 'ALL FEEDS';
+  allBtn.addEventListener('click', () => {
+    document.querySelectorAll('.hub-pill').forEach(p => p.classList.remove('active'));
+    allBtn.classList.add('active');
+    state.activeGroup = 'all';
+    loadHubFeed();
+  });
+  sidebarPills.appendChild(allBtn);
+
+  groups.forEach(group => {
+    const btn = document.createElement('button');
+    btn.className = 'hub-pill';
+    btn.textContent = group.name;
+    btn.dataset.group = group.id;
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.hub-pill').forEach(p => p.classList.remove('active'));
+      btn.classList.add('active');
+      state.activeGroup = group.id;
+      loadHubFeed();
+    });
+    sidebarPills.appendChild(btn);
+  });
+
+  // Hub stats
+  const hubStats = document.getElementById('hub-stats');
+  hubStats.innerHTML = `
+    <div class="hub-stat-row"><span class="hub-stat-label">STATUS</span><span class="hub-stat-val hub-online">● ONLINE</span></div>
+    <div class="hub-stat-row"><span class="hub-stat-label">GROUPS</span><span class="hub-stat-val" id="hub-stat-groups">—</span></div>
+    <div class="hub-stat-row"><span class="hub-stat-label">UPDATED</span><span class="hub-stat-val" id="hub-stat-updated">—</span></div>
+    <div class="hub-stat-row"><span class="hub-stat-label">PODCAST</span><span class="hub-stat-val">5×7</span></div>
+  `;
+
+  loadHubFeed();
+}
+
+async function loadHubFeed() {
+  const hubMain = document.getElementById('hub-main');
+  hubMain.innerHTML = `<div class="hub-loading">
+    <span class="hub-cursor">█</span> LOADING FEED...
+  </div>`;
+
+  try {
+    const data = await fetchJSON(`${DATA_BASE_URL}/hybe-news.json`);
+    state.articles = filterByGroup(data.articles || [], state.activeGroup);
+
+    if (data.updatedAt) {
+      const el = document.getElementById('hub-stat-updated');
+      if (el) el.textContent = formatTimeAgo(data.updatedAt);
+      state.lastUpdatedAt = data.updatedAt;
+    }
+    const grpEl = document.getElementById('hub-stat-groups');
+    if (grpEl) grpEl.textContent = state.allGroups.length;
+
+    hubMain.innerHTML = '';
+
+    // Hub header bar
+    const headerBar = document.createElement('div');
+    headerBar.className = 'hub-feed-header';
+    headerBar.innerHTML = `
+      <span class="hub-feed-title">> LIVE FEED</span>
+      <span class="hub-feed-count">${state.articles.length} ENTRIES</span>
+      <span class="hub-feed-time">${new Date().toLocaleTimeString()}</span>
+    `;
+    hubMain.appendChild(headerBar);
+
+    // Trending ticker
+    if (state.articles.length > 0) {
+      const ticker = document.createElement('div');
+      ticker.className = 'hub-ticker';
+      ticker.innerHTML = `<span class="hub-ticker-label">TRENDING</span>
+        <div class="hub-ticker-track">
+          <div class="hub-ticker-inner">
+            ${state.articles.slice(0, 8).map(a =>
+              `<span class="hub-ticker-item" onclick="window.open('${escHtml(a.url)}','_blank')">${escHtml(truncate(a.title, 60))}</span>`
+            ).join('<span class="hub-ticker-sep">///</span>')}
+          </div>
+        </div>`;
+      hubMain.appendChild(ticker);
+    }
+
+    // Feed rows
+    const feed = document.createElement('div');
+    feed.className = 'hub-feed';
+    hubMain.appendChild(feed);
+
+    state.articles.forEach((article, idx) => {
+      const row = createHubRow(article, idx);
+      row.style.opacity = '0';
+      row.style.transform = 'translateX(-20px)';
+      feed.appendChild(row);
+      setTimeout(() => {
+        row.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+        row.style.opacity = '1';
+        row.style.transform = 'translateX(0)';
+      }, idx * 30);
     });
 
-    frame++;
-    if (frame < 120) requestAnimationFrame(animate);
-    else {
-      canvas.style.opacity = '0';
-      setTimeout(() => canvas.remove(), 1200);
-    }
-  };
-  requestAnimationFrame(animate);
-
-  // Stagger article cards on load
-  document.body.style.opacity = '0';
-  setTimeout(() => {
-    document.body.style.transition = 'opacity 0.8s ease';
-    document.body.style.opacity = '1';
-  }, 300);
+  } catch (err) {
+    hubMain.innerHTML = `<div class="hub-loading">ERROR: FEED UNAVAILABLE</div>`;
+  }
 }
 
-function runScanlineEntry() {
-  const overlay = document.createElement('div');
-  overlay.id = 'scanline-overlay';
-  overlay.style.cssText = `
-    position:fixed;inset:0;z-index:9999;pointer-events:none;
-    background:var(--bg);overflow:hidden;
+function createHubRow(article, idx) {
+  const row = document.createElement('div');
+  row.className = 'hub-row';
+  const groupId = article.group || 'kpop';
+  const groupName = getGroupName(groupId);
+  const timeAgo = formatTimeAgo(article.publishedAt);
+
+  row.innerHTML = `
+    <span class="hub-row-index">${String(idx + 1).padStart(3, '0')}</span>
+    <span class="hub-row-group group-tag-${groupId}">${escHtml(groupName)}</span>
+    <span class="hub-row-title">
+      <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener">${escHtml(article.title)}</a>
+    </span>
+    <span class="hub-row-source">${escHtml(article.source || '')}</span>
+    <span class="hub-row-time">${escHtml(timeAgo)}</span>
   `;
-
-  const line = document.createElement('div');
-  line.style.cssText = `
-    position:absolute;top:0;left:-100%;width:100%;height:100%;
-    background:linear-gradient(90deg,transparent 0%,var(--primary) 50%,transparent 100%);
-    opacity:0.15;transition:left 0.6s cubic-bezier(0.4,0,0.2,1);
-  `;
-  overlay.appendChild(line);
-  document.body.appendChild(overlay);
-
-  document.body.style.opacity = '0';
-
-  setTimeout(() => { line.style.left = '100%'; }, 50);
-  setTimeout(() => {
-    document.body.style.transition = 'opacity 0.5s ease';
-    document.body.style.opacity = '1';
-  }, 400);
-  setTimeout(() => {
-    overlay.style.transition = 'opacity 0.4s ease';
-    overlay.style.opacity = '0';
-    setTimeout(() => overlay.remove(), 400);
-  }, 700);
-}
-
-function runCascadeEntry() {
-  document.body.style.opacity = '0';
-  setTimeout(() => {
-    document.body.style.transition = 'opacity 0.4s ease';
-    document.body.style.opacity = '1';
-  }, 100);
+  return row;
 }
 
 // ── THEME ──────────────────────────────────────────────────
@@ -255,13 +384,7 @@ function renderGroupStrip(site, allGroups) {
     return;
   }
 
-  let groups = [];
-  if (site.type === 'HUB') {
-    groups = allGroups.filter(g => state.hubeGroups.includes(g.id));
-  } else {
-    groups = allGroups;
-  }
-
+  const groups = allGroups;
   const allPill = createPill('all', 'All', true);
   pillsEl.appendChild(allPill);
   groups.forEach(group => pillsEl.appendChild(createPill(group.id, group.name, false)));
@@ -335,7 +458,17 @@ async function loadNews() {
     const bucket = state.site.bucket;
     const data = await fetchJSON(`${DATA_BASE_URL}/${bucket}-news.json`);
     state.articles = filterByGroup(data.articles || [], state.activeGroup);
-    renderArticles(state.articles, true);
+
+    // Type A — show hero section
+    if (state.site.type === 'A' && state.articles.length > 0) {
+      const heroSection = document.getElementById('hero-section');
+      heroSection.style.display = 'block';
+      renderHero(state.articles[0]);
+      renderArticles(state.articles.slice(1), true);
+    } else {
+      renderArticles(state.articles, true);
+    }
+
     renderTrending(state.articles);
     updateStats(data);
   } catch (err) {
@@ -345,6 +478,41 @@ async function loadNews() {
   state.isLoading = false;
 }
 
+// ── TYPE A HERO ────────────────────────────────────────────
+function renderHero(article) {
+  const hero = document.getElementById('hero-article');
+  const groupId = article.group || 'kpop';
+  const groupName = getGroupName(groupId);
+  const timeAgo = formatTimeAgo(article.publishedAt);
+
+  hero.innerHTML = `
+    <div class="hero-eyebrow">
+      <span class="hero-badge group-tag-${groupId}">${escHtml(groupName)}</span>
+      <span class="hero-source">${escHtml(article.source || 'News')}</span>
+      <span class="hero-time">${escHtml(timeAgo)}</span>
+    </div>
+    <h1 class="hero-title">
+      <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener">
+        ${escHtml(article.title)}
+      </a>
+    </h1>
+    ${article.summary ? `<p class="hero-summary">${escHtml(article.summary)}</p>` : ''}
+    <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener" class="hero-read-btn">
+      Read Full Story →
+    </a>
+  `;
+
+  // Animate hero in
+  hero.style.opacity = '0';
+  hero.style.transform = 'translateY(30px)';
+  setTimeout(() => {
+    hero.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
+    hero.style.opacity = '1';
+    hero.style.transform = 'translateY(0)';
+  }, 200);
+}
+
+// ── ARTICLES ───────────────────────────────────────────────
 function filterByGroup(articles, groupId) {
   if (groupId === 'all') return articles;
   return articles.filter(a => a.group === groupId || (a.groups && a.groups.includes(groupId)));
@@ -363,15 +531,33 @@ function renderArticles(articles, reset) {
     return;
   }
 
+  const type = state.site ? state.site.type : 'B';
+
   slice.forEach((article, idx) => {
-    const card = createArticleCard(article, reset && idx === 0);
+    const card = createArticleCard(article, reset && idx === 0 && type !== 'A');
     card.style.opacity = '0';
-    card.style.transform = getCardEntryTransform();
+
+    if (type === 'A') {
+      card.style.transform = 'translateY(24px)';
+    } else if (type === 'B') {
+      const dirs = [
+        'translateX(40px) translateY(20px)',
+        'translateX(-40px) translateY(20px)',
+        'translateY(40px) scale(0.95)',
+        'translateX(30px) translateY(-20px)',
+      ];
+      card.style.transform = dirs[idx % dirs.length];
+    }
+
     grid.appendChild(card);
 
-    const delay = idx * 40;
+    const delay = type === 'A' ? idx * 80 : idx * 45;
     setTimeout(() => {
-      card.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+      if (type === 'A') {
+        card.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+      } else if (type === 'B') {
+        card.style.transition = 'opacity 0.4s cubic-bezier(0.34,1.56,0.64,1), transform 0.4s cubic-bezier(0.34,1.56,0.64,1)';
+      }
       card.style.opacity = '1';
       card.style.transform = 'none';
     }, delay);
@@ -379,15 +565,6 @@ function renderArticles(articles, reset) {
 
   const btn = document.getElementById('load-more-news');
   btn.style.display = end >= articles.length ? 'none' : 'block';
-}
-
-function getCardEntryTransform() {
-  const type = state.site ? state.site.type : 'B';
-  if (type === 'A') return 'translateY(20px)';
-  if (type === 'HUB') return 'translateX(-16px)';
-  // Type B — random cascade direction
-  const dirs = ['translateY(30px)', 'translateX(20px)', 'translateX(-20px)', 'translateY(-20px) scale(0.95)'];
-  return dirs[Math.floor(Math.random() * dirs.length)];
 }
 
 function createArticleCard(article, featured) {
@@ -439,13 +616,13 @@ async function loadVideos() {
     videos.slice(0, VIDEOS_PER_PAGE).forEach((video, idx) => {
       const card = createVideoCard(video);
       card.style.opacity = '0';
-      card.style.transform = 'translateY(16px)';
+      card.style.transform = 'translateY(20px)';
       grid.appendChild(card);
       setTimeout(() => {
         card.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
         card.style.opacity = '1';
         card.style.transform = 'none';
-      }, idx * 50);
+      }, idx * 60);
     });
   } catch (err) {
     grid.innerHTML = emptyHTML('Videos coming soon!');
@@ -589,6 +766,7 @@ function renderArchiveGrid(articles, groupId) {
 // ── PODCAST ────────────────────────────────────────────────
 function renderPodcast() {
   const episodeList = document.getElementById('episode-list');
+  if (!episodeList) return;
   episodeList.innerHTML = `
     <div class="episode-list-label">Episodes</div>
     <div class="empty-state">
@@ -603,6 +781,7 @@ function renderPodcast() {
 // ── TRENDING ───────────────────────────────────────────────
 function renderTrending(articles) {
   const el = document.getElementById('trending-items');
+  if (!el) return;
   const top = articles.slice(0, 6);
   if (top.length === 0) return;
   el.innerHTML = top.map(a =>
@@ -619,16 +798,20 @@ function updateStats(data) {
     return new Date(a.publishedAt).toDateString() === today;
   }).length;
 
-  document.getElementById('stat-articles').textContent = todayCount || articles.length || '—';
-  document.getElementById('stat-groups').textContent = state.allGroups.length || '28';
+  const statArticles = document.getElementById('stat-articles');
+  const statGroups = document.getElementById('stat-groups');
+  const statUpdated = document.getElementById('stat-updated');
+
+  if (statArticles) statArticles.textContent = todayCount || articles.length || '—';
+  if (statGroups) statGroups.textContent = state.allGroups.length || '28';
 
   if (data && data.updatedAt) {
-    document.getElementById('stat-updated').textContent = formatTimeAgo(data.updatedAt);
+    if (statUpdated) statUpdated.textContent = formatTimeAgo(data.updatedAt);
     state.lastUpdatedAt = data.updatedAt;
   } else if (state.lastUpdatedAt) {
-    document.getElementById('stat-updated').textContent = formatTimeAgo(state.lastUpdatedAt);
+    if (statUpdated) statUpdated.textContent = formatTimeAgo(state.lastUpdatedAt);
   } else {
-    document.getElementById('stat-updated').textContent = 'Daily';
+    if (statUpdated) statUpdated.textContent = 'Daily';
   }
 }
 
@@ -701,6 +884,6 @@ function emptyHTML(msg) {
 }
 
 function renderError() {
-  document.getElementById('articles-grid').innerHTML =
-    emptyHTML('Something went wrong loading the site. Please try again shortly.');
+  const grid = document.getElementById('articles-grid');
+  if (grid) grid.innerHTML = emptyHTML('Something went wrong loading the site. Please try again shortly.');
 }
