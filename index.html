@@ -13,10 +13,16 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" id="og-url" content="" />
 
-  <!-- Google Fonts -->
+  <!-- Type A fonts: Playfair Display + Lora -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Bebas+Neue&display=swap" rel="stylesheet" />
+  <link id="fonts-a" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lora:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <!-- Type HUB fonts: Space Mono -->
+  <link id="fonts-hub" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+
+  <!-- Type B fonts: Fredoka One + Nunito -->
+  <link id="fonts-b" href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
 
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -39,6 +45,16 @@
   <!-- GROUP STRIP (Type B and HUB only) -->
   <div class="group-strip" id="group-strip">
     <div class="group-strip-inner" id="group-pills"></div>
+  </div>
+
+  <!-- HUB SIDEBAR LAYOUT WRAPPER -->
+  <div class="hub-layout" id="hub-layout" style="display:none">
+    <aside class="hub-sidebar" id="hub-sidebar">
+      <div class="hub-sidebar-label">Groups</div>
+      <div class="hub-sidebar-pills" id="hub-sidebar-pills"></div>
+      <div class="hub-stats" id="hub-stats"></div>
+    </aside>
+    <div class="hub-main" id="hub-main"></div>
   </div>
 
   <!-- TAB BAR -->
@@ -81,6 +97,11 @@
       <div class="trending-items" id="trending-items">
         <span class="trending-item">Loading trending stories...</span>
       </div>
+    </div>
+
+    <!-- TYPE A HERO (shown only for layout-a) -->
+    <div class="hero-section" id="hero-section" style="display:none">
+      <div class="hero-article" id="hero-article"></div>
     </div>
 
     <!-- NEWS TAB -->
@@ -200,7 +221,7 @@
     window.SITE_DATA = null;
   </script>
 
-  <!-- GA4 — dynamically loaded after site config is known -->
+  <!-- GA4 -->
   <script>
     (function() {
       async function loadGA4() {
