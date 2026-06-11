@@ -5,14 +5,12 @@
 
 'use strict';
 
-// ── CONSTANTS ──────────────────────────────────────────────
 const SITES_CONFIG_URL = '/sites.json';
 const DATA_BASE_URL = '/data';
 const ARTICLES_PER_PAGE = 12;
 const VIDEOS_PER_PAGE = 12;
 const COMMUNITY_PER_PAGE = 12;
 
-// ── STATE ──────────────────────────────────────────────────
 let state = {
   site: null,
   allGroups: [],
@@ -28,7 +26,6 @@ let state = {
   lastUpdatedAt: null,
 };
 
-// ── INIT ───────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', init);
 
 async function init() {
@@ -44,10 +41,12 @@ async function init() {
 
     applyTheme(site);
     applyMeta(site);
+    applyLayoutType(site);
     renderHeader(site);
     renderGroupStrip(site, config.groups);
     setupTabs();
     setupMobileMenu();
+    runEntryAnimation(site);
     await loadTabContent('news');
     updateStats();
   } catch (err) {
@@ -56,7 +55,7 @@ async function init() {
   }
 }
 
-// ── HOSTNAME DETECTION ─────────────────────────────────────
+// ── HOSTNAME ───────────────────────────────────────────────
 function getHostname() {
   const host = window.location.hostname.replace('www.', '');
   if (host === 'localhost' || host === '127.0.0.1' || host.includes('netlify.app')) {
@@ -65,7 +64,124 @@ function getHostname() {
   return host;
 }
 
-// ── THEME APPLICATION ──────────────────────────────────────
+// ── LAYOUT TYPE ────────────────────────────────────────────
+function applyLayoutType(site) {
+  document.body.classList.remove('layout-a', 'layout-hub', 'layout-b');
+  if (site.type === 'A') document.body.classList.add('layout-a');
+  else if (site.type === 'HUB') document.body.classList.add('layout-hub');
+  else document.body.classList.add('layout-b');
+}
+
+// ── ENTRY ANIMATIONS ───────────────────────────────────────
+function runEntryAnimation(site) {
+  if (site.type === 'A') runParticleEntry();
+  else if (site.type === 'HUB') runScanlineEntry();
+  else runCascadeEntry();
+}
+
+function runParticleEntry() {
+  const canvas = document.createElement('canvas');
+  canvas.id = 'entry-canvas';
+  canvas.style.cssText = `
+    position:fixed;inset:0;z-index:9999;pointer-events:none;
+    width:100%;height:100%;opacity:1;transition:opacity 1.2s ease;
+  `;
+  document.body.appendChild(canvas);
+
+  const ctx = canvas.getContext('2d');
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  const primary = getComputedStyle(document.documentElement)
+    .getPropertyValue('--primary').trim() || '#c084fc';
+
+  const particles = Array.from({ length: 80 }, () => ({
+    x: Math.random() * canvas.width,
+    y: canvas.height + Math.random() * 200,
+    size: Math.random() * 3 + 1,
+    speed: Math.random() * 2 + 0.5,
+    opacity: Math.random() * 0.8 + 0.2,
+    drift: (Math.random() - 0.5) * 0.5,
+  }));
+
+  let frame = 0;
+  const animate = () => {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = `rgba(15,1,32,${Math.max(0, 0.85 - frame * 0.008)})`;
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    particles.forEach(p => {
+      p.y -= p.speed;
+      p.x += p.drift;
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+      ctx.fillStyle = primary;
+      ctx.globalAlpha = p.opacity * Math.max(0, 1 - frame / 80);
+      ctx.fill();
+      ctx.globalAlpha = 1;
+      if (p.y < -10) {
+        p.y = canvas.height + 10;
+        p.x = Math.random() * canvas.width;
+      }
+    });
+
+    frame++;
+    if (frame < 120) requestAnimationFrame(animate);
+    else {
+      canvas.style.opacity = '0';
+      setTimeout(() => canvas.remove(), 1200);
+    }
+  };
+  requestAnimationFrame(animate);
+
+  // Stagger article cards on load
+  document.body.style.opacity = '0';
+  setTimeout(() => {
+    document.body.style.transition = 'opacity 0.8s ease';
+    document.body.style.opacity = '1';
+  }, 300);
+}
+
+function runScanlineEntry() {
+  const overlay = document.createElement('div');
+  overlay.id = 'scanline-overlay';
+  overlay.style.cssText = `
+    position:fixed;inset:0;z-index:9999;pointer-events:none;
+    background:var(--bg);overflow:hidden;
+  `;
+
+  const line = document.createElement('div');
+  line.style.cssText = `
+    position:absolute;top:0;left:-100%;width:100%;height:100%;
+    background:linear-gradient(90deg,transparent 0%,var(--primary) 50%,transparent 100%);
+    opacity:0.15;transition:left 0.6s cubic-bezier(0.4,0,0.2,1);
+  `;
+  overlay.appendChild(line);
+  document.body.appendChild(overlay);
+
+  document.body.style.opacity = '0';
+
+  setTimeout(() => { line.style.left = '100%'; }, 50);
+  setTimeout(() => {
+    document.body.style.transition = 'opacity 0.5s ease';
+    document.body.style.opacity = '1';
+  }, 400);
+  setTimeout(() => {
+    overlay.style.transition = 'opacity 0.4s ease';
+    overlay.style.opacity = '0';
+    setTimeout(() => overlay.remove(), 400);
+  }, 700);
+}
+
+function runCascadeEntry() {
+  document.body.style.opacity = '0';
+  setTimeout(() => {
+    document.body.style.transition = 'opacity 0.4s ease';
+    document.body.style.opacity = '1';
+  }, 100);
+}
+
+// ── THEME ──────────────────────────────────────────────────
 function applyTheme(site) {
   const t = site.theme;
   const root = document.documentElement;
@@ -89,9 +205,7 @@ function applyTheme(site) {
   root.style.setProperty('--logo-color', t.logoColor || t.primary);
   root.style.setProperty('--tagline-color', t.taglineColor || t.textMuted);
 
-  if (isLightTheme(t.background)) {
-    document.body.classList.add('light-theme');
-  }
+  if (isLightTheme(t.background)) document.body.classList.add('light-theme');
 
   const metaTheme = document.querySelector('meta[name="theme-color"]')
     || (() => { const m = document.createElement('meta'); m.name = 'theme-color'; document.head.appendChild(m); return m; })();
@@ -99,10 +213,10 @@ function applyTheme(site) {
 }
 
 function isLightTheme(bg) {
-  return bg.startsWith('#fff') || bg.startsWith('#fef') || bg.startsWith('#fff');
+  return bg.startsWith('#fff') || bg.startsWith('#fef');
 }
 
-// ── META TAGS ──────────────────────────────────────────────
+// ── META ───────────────────────────────────────────────────
 function applyMeta(site) {
   document.getElementById('page-title').textContent = `${site.name} — K-Pop News`;
   document.getElementById('page-desc').content = site.tagline;
@@ -150,11 +264,7 @@ function renderGroupStrip(site, allGroups) {
 
   const allPill = createPill('all', 'All', true);
   pillsEl.appendChild(allPill);
-
-  groups.forEach(group => {
-    const pill = createPill(group.id, group.name, false);
-    pillsEl.appendChild(pill);
-  });
+  groups.forEach(group => pillsEl.appendChild(createPill(group.id, group.name, false)));
 }
 
 function createPill(id, name, active) {
@@ -200,7 +310,7 @@ function setupMobileMenu() {
   });
 }
 
-// ── TAB CONTENT LOADER ─────────────────────────────────────
+// ── TAB LOADER ─────────────────────────────────────────────
 async function loadTabContent(tab) {
   switch (tab) {
     case 'news':      await loadNews();      break;
@@ -237,10 +347,7 @@ async function loadNews() {
 
 function filterByGroup(articles, groupId) {
   if (groupId === 'all') return articles;
-  return articles.filter(a =>
-    a.group === groupId ||
-    (a.groups && a.groups.includes(groupId))
-  );
+  return articles.filter(a => a.group === groupId || (a.groups && a.groups.includes(groupId)));
 }
 
 function renderArticles(articles, reset) {
@@ -258,11 +365,29 @@ function renderArticles(articles, reset) {
 
   slice.forEach((article, idx) => {
     const card = createArticleCard(article, reset && idx === 0);
+    card.style.opacity = '0';
+    card.style.transform = getCardEntryTransform();
     grid.appendChild(card);
+
+    const delay = idx * 40;
+    setTimeout(() => {
+      card.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+      card.style.opacity = '1';
+      card.style.transform = 'none';
+    }, delay);
   });
 
   const btn = document.getElementById('load-more-news');
   btn.style.display = end >= articles.length ? 'none' : 'block';
+}
+
+function getCardEntryTransform() {
+  const type = state.site ? state.site.type : 'B';
+  if (type === 'A') return 'translateY(20px)';
+  if (type === 'HUB') return 'translateX(-16px)';
+  // Type B — random cascade direction
+  const dirs = ['translateY(30px)', 'translateX(20px)', 'translateX(-20px)', 'translateY(-20px) scale(0.95)'];
+  return dirs[Math.floor(Math.random() * dirs.length)];
 }
 
 function createArticleCard(article, featured) {
@@ -311,8 +436,16 @@ async function loadVideos() {
     }
 
     grid.innerHTML = '';
-    videos.slice(0, VIDEOS_PER_PAGE).forEach(video => {
-      grid.appendChild(createVideoCard(video));
+    videos.slice(0, VIDEOS_PER_PAGE).forEach((video, idx) => {
+      const card = createVideoCard(video);
+      card.style.opacity = '0';
+      card.style.transform = 'translateY(16px)';
+      grid.appendChild(card);
+      setTimeout(() => {
+        card.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+        card.style.opacity = '1';
+        card.style.transform = 'none';
+      }, idx * 50);
     });
   } catch (err) {
     grid.innerHTML = emptyHTML('Videos coming soon!');
@@ -348,8 +481,7 @@ function createVideoCard(video) {
   `;
 
   card.addEventListener('click', () => {
-    const url = video.url || `https://www.youtube.com/watch?v=${video.videoId}`;
-    window.open(url, '_blank', 'noopener');
+    window.open(video.url || `https://www.youtube.com/watch?v=${video.videoId}`, '_blank', 'noopener');
   });
 
   return card;
@@ -371,9 +503,7 @@ async function loadCommunity() {
     }
 
     grid.innerHTML = '';
-    posts.slice(0, COMMUNITY_PER_PAGE).forEach(post => {
-      grid.appendChild(createCommunityCard(post));
-    });
+    posts.slice(0, COMMUNITY_PER_PAGE).forEach(post => grid.appendChild(createCommunityCard(post)));
   } catch (err) {
     grid.innerHTML = emptyHTML('Community content coming soon!');
   }
@@ -414,10 +544,9 @@ async function loadArchive() {
     const bucket = state.site.bucket;
     const data = await fetchJSON(`${DATA_BASE_URL}/${bucket}-archive.json`);
     const articles = data.articles || [];
-
     const groups = [...new Set(articles.map(a => a.group).filter(Boolean))];
-    filtersEl.innerHTML = '';
 
+    filtersEl.innerHTML = '';
     const allBtn = document.createElement('button');
     allBtn.className = 'archive-filter-btn active';
     allBtn.textContent = 'All';
@@ -450,15 +579,11 @@ function renderArchiveGrid(articles, groupId) {
   const grid = document.getElementById('archive-grid');
   const filtered = filterByGroup(articles, groupId);
   grid.innerHTML = '';
-
   if (filtered.length === 0) {
     grid.innerHTML = emptyHTML('No archived articles yet.');
     return;
   }
-
-  filtered.forEach(article => {
-    grid.appendChild(createArticleCard(article, false));
-  });
+  filtered.forEach(article => grid.appendChild(createArticleCard(article, false)));
 }
 
 // ── PODCAST ────────────────────────────────────────────────
@@ -480,7 +605,6 @@ function renderTrending(articles) {
   const el = document.getElementById('trending-items');
   const top = articles.slice(0, 6);
   if (top.length === 0) return;
-
   el.innerHTML = top.map(a =>
     `<span class="trending-item" onclick="window.open('${escHtml(a.url || '#')}','_blank')">${escHtml(truncate(a.title, 60))}</span>`
   ).join('');
@@ -499,8 +623,7 @@ function updateStats(data) {
   document.getElementById('stat-groups').textContent = state.allGroups.length || '28';
 
   if (data && data.updatedAt) {
-    const ago = formatTimeAgo(data.updatedAt);
-    document.getElementById('stat-updated').textContent = ago;
+    document.getElementById('stat-updated').textContent = formatTimeAgo(data.updatedAt);
     state.lastUpdatedAt = data.updatedAt;
   } else if (state.lastUpdatedAt) {
     document.getElementById('stat-updated').textContent = formatTimeAgo(state.lastUpdatedAt);
