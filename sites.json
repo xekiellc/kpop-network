@@ -4,71 +4,70 @@
       "domain": "armypulse.com",
       "name": "ARMY PULSE",
       "tagline": "Your home for all things BTS",
-      "type": "A",
+      "type": "magazine",
       "bucket": "bts",
-      "featuredGroup": "BTS",
+      "ga4": "G-NBWGYLLVBZ",
+      "beehiiv": "armypulse",
       "theme": {
-        "primary": "#c084fc",
-        "primaryDark": "#a855f7",
-        "accent": "#7c3aed",
+        "primary": "#a855f7",
+        "primaryDark": "#7c3aed",
+        "accent": "#6d28d9",
         "background": "#0f0120",
         "surface": "#1e0a3c",
         "surfaceBorder": "#3b1a6e",
         "headerBg": "#1a0533",
         "tabBg": "#12022a",
         "text": "#e9d5ff",
-        "textMuted": "#a78bfa",
+        "textMuted": "#c084fc",
         "textFaint": "#7c3aed",
         "badge": "#3b1a6e",
         "badgeText": "#c084fc",
-        "buttonBg": "#c084fc",
-        "buttonText": "#1a0533",
-        "subscribeBar": "#3b1a6e",
+        "buttonBg": "#a855f7",
+        "buttonText": "#ffffff",
+        "subscribeBar": "#2d1058",
         "subscribeText": "#e9d5ff",
         "logoColor": "#c084fc",
         "taglineColor": "#a78bfa"
-      },
-      "beehiiv": "armypulse",
-      "ga4": "G-NBWGYLLVBZ"
+      }
     },
     {
       "domain": "bangtanbeat.com",
       "name": "BANGTAN BEAT",
       "tagline": "BTS music, discography & releases",
-      "type": "A",
+      "type": "musicblog",
       "bucket": "bts",
-      "featuredGroup": "BTS",
-      "theme": {
-        "primary": "#ffffff",
-        "primaryDark": "#e2e8f0",
-        "accent": "#ffffff",
-        "background": "#0a0a0a",
-        "surface": "#1a1a1a",
-        "surfaceBorder": "#2d2d2d",
-        "headerBg": "#0a0a0a",
-        "tabBg": "#111111",
-        "text": "#f1f5f9",
-        "textMuted": "#e2e8f0",
-        "textFaint": "#6b7280",
-        "badge": "#2d2d2d",
-        "badgeText": "#e2e8f0",
-        "buttonBg": "#ffffff",
-        "buttonText": "#0a0a0a",
-        "subscribeBar": "#1a1a1a",
-        "subscribeText": "#e2e8f0",
-        "logoColor": "#ffffff",
-        "taglineColor": "#6b7280"
-      },
+      "ga4": "G-XDG5Y0S2KG",
       "beehiiv": "bangtanbeat",
-      "ga4": "G-XDG5Y0S2KG"
+      "theme": {
+        "primary": "#7c3aed",
+        "primaryDark": "#5b21b6",
+        "accent": "#7c3aed",
+        "background": "#050505",
+        "surface": "#111111",
+        "surfaceBorder": "#2a2a2a",
+        "headerBg": "#000000",
+        "tabBg": "#0a0a0a",
+        "text": "#f1f5f9",
+        "textMuted": "#a78bfa",
+        "textFaint": "#4c1d95",
+        "badge": "#1a0a3c",
+        "badgeText": "#a78bfa",
+        "buttonBg": "#7c3aed",
+        "buttonText": "#ffffff",
+        "subscribeBar": "#1a0a3c",
+        "subscribeText": "#e9d5ff",
+        "logoColor": "#a78bfa",
+        "taglineColor": "#4c1d95"
+      }
     },
     {
       "domain": "hybeworld.com",
       "name": "HYBE WORLD",
       "tagline": "The HYBE family — BTS, TXT, CORTIS & more",
-      "type": "HUB",
+      "type": "terminal",
       "bucket": "hybe",
-      "featuredGroup": null,
+      "ga4": "G-51FEFY3K69",
+      "beehiiv": "hybeworld",
       "theme": {
         "primary": "#60a5fa",
         "primaryDark": "#3b82f6",
@@ -89,17 +88,16 @@
         "subscribeText": "#cbd5e1",
         "logoColor": "#60a5fa",
         "taglineColor": "#94a3b8"
-      },
-      "beehiiv": "hybeworld",
-      "ga4": "G-51FEFY3K69"
+      }
     },
     {
       "domain": "btstxt.com",
       "name": "HYBE WORLD",
       "tagline": "The HYBE family — BTS, TXT, CORTIS & more",
-      "type": "HUB",
+      "type": "splitscreen",
       "bucket": "hybe",
-      "featuredGroup": null,
+      "ga4": "G-D73Q1ET8BN",
+      "beehiiv": "hybeworld",
       "theme": {
         "primary": "#60a5fa",
         "primaryDark": "#3b82f6",
@@ -120,17 +118,16 @@
         "subscribeText": "#cbd5e1",
         "logoColor": "#60a5fa",
         "taglineColor": "#94a3b8"
-      },
-      "beehiiv": "hybeworld",
-      "ga4": "G-D73Q1ET8BN"
+      }
     },
     {
       "domain": "txtbts.com",
       "name": "HYBE WORLD",
       "tagline": "The HYBE family — BTS, TXT, CORTIS & more",
-      "type": "HUB",
+      "type": "timeline",
       "bucket": "hybe",
-      "featuredGroup": null,
+      "ga4": "G-9P5SYTXT30",
+      "beehiiv": "hybeworld",
       "theme": {
         "primary": "#60a5fa",
         "primaryDark": "#3b82f6",
@@ -151,17 +148,16 @@
         "subscribeText": "#cbd5e1",
         "logoColor": "#60a5fa",
         "taglineColor": "#94a3b8"
-      },
-      "beehiiv": "hybeworld",
-      "ga4": "G-9P5SYTXT30"
+      }
     },
     {
       "domain": "hybefandom.com",
       "name": "HYBE FANDOM",
       "tagline": "The official home of HYBE fan culture",
-      "type": "HUB",
+      "type": "luxury",
       "bucket": "hybe",
-      "featuredGroup": null,
+      "ga4": "G-FTRL3T2DQ3",
+      "beehiiv": "hybefandom",
       "theme": {
         "primary": "#f59e0b",
         "primaryDark": "#d97706",
@@ -182,17 +178,76 @@
         "subscribeText": "#fef3c7",
         "logoColor": "#f59e0b",
         "taglineColor": "#d97706"
-      },
-      "beehiiv": "hybefandom",
-      "ga4": "G-FTRL3T2DQ3"
+      }
+    },
+    {
+      "domain": "bighitnation.com",
+      "name": "BIG HIT NATION",
+      "tagline": "The empire of K-pop — HYBE artists worldwide",
+      "type": "nation",
+      "bucket": "hybe",
+      "ga4": "G-PLACEHOLDER",
+      "beehiiv": "bighitnation",
+      "theme": {
+        "primary": "#fbbf24",
+        "primaryDark": "#f59e0b",
+        "accent": "#dc2626",
+        "background": "#0c0a00",
+        "surface": "#1a1400",
+        "surfaceBorder": "#3d2e00",
+        "headerBg": "#0c0a00",
+        "tabBg": "#110e00",
+        "text": "#fef9e7",
+        "textMuted": "#fde68a",
+        "textFaint": "#92400e",
+        "badge": "#3d2e00",
+        "badgeText": "#fbbf24",
+        "buttonBg": "#fbbf24",
+        "buttonText": "#0c0a00",
+        "subscribeBar": "#1a1400",
+        "subscribeText": "#fef9e7",
+        "logoColor": "#fbbf24",
+        "taglineColor": "#fde68a"
+      }
+    },
+    {
+      "domain": "bighitworld.com",
+      "name": "BIG HIT WORLD",
+      "tagline": "HYBE artists — connecting fans across the globe",
+      "type": "world",
+      "bucket": "hybe",
+      "ga4": "G-PLACEHOLDER",
+      "beehiiv": "bighitworld",
+      "theme": {
+        "primary": "#2dd4bf",
+        "primaryDark": "#14b8a6",
+        "accent": "#0d9488",
+        "background": "#020f0e",
+        "surface": "#041f1e",
+        "surfaceBorder": "#0d3d3a",
+        "headerBg": "#031614",
+        "tabBg": "#021110",
+        "text": "#e0fdfa",
+        "textMuted": "#5eead4",
+        "textFaint": "#0f766e",
+        "badge": "#0d3d3a",
+        "badgeText": "#2dd4bf",
+        "buttonBg": "#2dd4bf",
+        "buttonText": "#020f0e",
+        "subscribeBar": "#041f1e",
+        "subscribeText": "#e0fdfa",
+        "logoColor": "#2dd4bf",
+        "taglineColor": "#5eead4"
+      }
     },
     {
       "domain": "iheartkpop.com",
       "name": "I HEART KPOP",
       "tagline": "All your favorite groups, one place",
-      "type": "B",
+      "type": "hype",
       "bucket": "kpop",
-      "featuredGroup": null,
+      "ga4": "G-5D9TKKS4MN",
+      "beehiiv": "iheartkpop",
       "theme": {
         "primary": "#ff2d78",
         "primaryDark": "#cc1f5e",
@@ -213,17 +268,16 @@
         "subscribeText": "#ffffff",
         "logoColor": "#ffffff",
         "taglineColor": "#ffd6e8"
-      },
-      "beehiiv": "iheartkpop",
-      "ga4": "G-5D9TKKS4MN"
+      }
     },
     {
       "domain": "kpoppulse.com",
       "name": "KPOP PULSE",
       "tagline": "Breaking K-pop news — updated every 12 hours",
-      "type": "B",
+      "type": "breakingnews",
       "bucket": "kpop",
-      "featuredGroup": null,
+      "ga4": "G-FEX77NWV1K",
+      "beehiiv": "kpoppulse",
       "theme": {
         "primary": "#38bdf8",
         "primaryDark": "#0ea5e9",
@@ -244,17 +298,16 @@
         "subscribeText": "#94a3b8",
         "logoColor": "#38bdf8",
         "taglineColor": "#94a3b8"
-      },
-      "beehiiv": "kpoppulse",
-      "ga4": "G-FEX77NWV1K"
+      }
     },
     {
       "domain": "idolrush.com",
       "name": "IDOL RUSH",
       "tagline": "Idol culture, variety shows & fan moments",
-      "type": "B",
+      "type": "social",
       "bucket": "kpop",
-      "featuredGroup": null,
+      "ga4": "G-0XSQC9LCNS",
+      "beehiiv": "idolrush",
       "theme": {
         "primary": "#ea580c",
         "primaryDark": "#c2410c",
@@ -275,17 +328,16 @@
         "subscribeText": "#ffffff",
         "logoColor": "#ffffff",
         "taglineColor": "#fed7aa"
-      },
-      "beehiiv": "idolrush",
-      "ga4": "G-0XSQC9LCNS"
+      }
     },
     {
       "domain": "biashaven.com",
       "name": "BIAS HAVEN",
       "tagline": "Your safe space for K-pop stan culture",
-      "type": "B",
+      "type": "pinterest",
       "bucket": "kpop",
-      "featuredGroup": null,
+      "ga4": "G-0GSWQED3H2",
+      "beehiiv": "biashaven",
       "theme": {
         "primary": "#2dd4bf",
         "primaryDark": "#14b8a6",
@@ -306,9 +358,67 @@
         "subscribeText": "#ccfbf1",
         "logoColor": "#99f6e4",
         "taglineColor": "#5eead4"
-      },
-      "beehiiv": "biashaven",
-      "ga4": "G-0GSWQED3H2"
+      }
+    },
+    {
+      "domain": "5x7pod.com",
+      "name": "5×7 PODCAST",
+      "tagline": "The AI K-pop podcast — every Monday",
+      "type": "podcast",
+      "bucket": "kpop",
+      "ga4": "G-V5814311N4",
+      "beehiiv": "5x7pod",
+      "theme": {
+        "primary": "#a855f7",
+        "primaryDark": "#7c3aed",
+        "accent": "#6d28d9",
+        "background": "#0a0014",
+        "surface": "#130026",
+        "surfaceBorder": "#2d0060",
+        "headerBg": "#0a0014",
+        "tabBg": "#0d001a",
+        "text": "#f3e8ff",
+        "textMuted": "#c084fc",
+        "textFaint": "#6d28d9",
+        "badge": "#2d0060",
+        "badgeText": "#a855f7",
+        "buttonBg": "#a855f7",
+        "buttonText": "#ffffff",
+        "subscribeBar": "#130026",
+        "subscribeText": "#f3e8ff",
+        "logoColor": "#a855f7",
+        "taglineColor": "#c084fc"
+      }
+    },
+    {
+      "domain": "5x7podcast.com",
+      "name": "5×7 PODCAST",
+      "tagline": "The AI K-pop podcast — every Monday",
+      "type": "podcast",
+      "bucket": "kpop",
+      "ga4": "G-PLACEHOLDER",
+      "beehiiv": "5x7pod",
+      "theme": {
+        "primary": "#a855f7",
+        "primaryDark": "#7c3aed",
+        "accent": "#6d28d9",
+        "background": "#0a0014",
+        "surface": "#130026",
+        "surfaceBorder": "#2d0060",
+        "headerBg": "#0a0014",
+        "tabBg": "#0d001a",
+        "text": "#f3e8ff",
+        "textMuted": "#c084fc",
+        "textFaint": "#6d28d9",
+        "badge": "#2d0060",
+        "badgeText": "#a855f7",
+        "buttonBg": "#a855f7",
+        "buttonText": "#ffffff",
+        "subscribeBar": "#130026",
+        "subscribeText": "#f3e8ff",
+        "logoColor": "#a855f7",
+        "taglineColor": "#c084fc"
+      }
     }
   ],
   "groups": [
@@ -342,8 +452,6 @@
     { "id": "zerobaseone", "name": "ZEROBASEONE", "fandom": "ZEROBASE", "bucket": "kpop", "color": "#1d4ed8", "searchTerms": ["ZEROBASEONE", "ZB1", "제로베이스원"] }
   ],
   "hubeGroups": ["bts", "txt", "cortis", "enhypen", "lesserafim", "illit", "boynextdoor", "andteam"],
-  "redirectDomains": ["bighitnation.com", "bighitworld.com"],
-  "redirectTarget": "hybeworld.com",
   "podcastDomain": "5x7pod.com",
   "podcastMirror": "5x7podcast.com"
 }
