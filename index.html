@@ -13,16 +13,10 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" id="og-url" content="" />
 
-  <!-- Type A fonts: Playfair Display + Lora -->
+  <!-- Fonts — all 16 layout types -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link id="fonts-a" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lora:wght@400;500;600&display=swap" rel="stylesheet" />
-
-  <!-- Type HUB fonts: Space Mono -->
-  <link id="fonts-hub" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
-
-  <!-- Type B fonts: Fredoka One + Nunito -->
-  <link id="fonts-b" href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Bebas+Neue&family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Fredoka+One&family=Nunito:wght@400;600;700;800;900&family=Oswald:wght@400;500;600;700&family=Rajdhani:wght@400;500;600;700&family=Cinzel:wght@400;600;700;900&family=Exo+2:ital,wght@0,300;0,400;0,600;0,700;1,300&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
 
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -42,12 +36,12 @@
     </div>
   </header>
 
-  <!-- GROUP STRIP (Type B and HUB only) -->
+  <!-- GROUP STRIP -->
   <div class="group-strip" id="group-strip">
     <div class="group-strip-inner" id="group-pills"></div>
   </div>
 
-  <!-- HUB SIDEBAR LAYOUT WRAPPER -->
+  <!-- TERMINAL SIDEBAR LAYOUT (terminal type) -->
   <div class="hub-layout" id="hub-layout" style="display:none">
     <aside class="hub-sidebar" id="hub-sidebar">
       <div class="hub-sidebar-label">Groups</div>
@@ -55,6 +49,22 @@
       <div class="hub-stats" id="hub-stats"></div>
     </aside>
     <div class="hub-main" id="hub-main"></div>
+  </div>
+
+  <!-- SPLIT SCREEN LAYOUT (splitscreen type) -->
+  <div class="split-layout" id="split-layout" style="display:none">
+    <div class="split-left" id="split-left"></div>
+    <div class="split-right" id="split-right">
+      <div class="split-placeholder">
+        <div class="split-placeholder-text">← Select an article</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- BREAKING NEWS TICKER (breakingnews type) -->
+  <div class="breaking-ticker" id="breaking-ticker" style="display:none">
+    <div class="breaking-label">BREAKING</div>
+    <div class="breaking-scroll" id="breaking-scroll"></div>
   </div>
 
   <!-- TAB BAR -->
@@ -99,7 +109,7 @@
       </div>
     </div>
 
-    <!-- TYPE A HERO (shown only for layout-a) -->
+    <!-- HERO SECTION (magazine, nation, world types) -->
     <div class="hero-section" id="hero-section" style="display:none">
       <div class="hero-article" id="hero-article"></div>
     </div>
@@ -191,7 +201,7 @@
       </div>
     </div>
 
-    <!-- NEWSLETTER SIGNUP -->
+    <!-- NEWSLETTER -->
     <div class="newsletter-bar" id="newsletter-bar">
       <div class="newsletter-text" id="newsletter-text">Get the latest K-pop news in your inbox</div>
       <a href="#" class="newsletter-btn" id="newsletter-btn" target="_blank">Subscribe Free</a>
@@ -209,13 +219,10 @@
         <a href="https://armypulse.com" target="_blank">Army Pulse</a>
         <a href="https://5x7pod.com" target="_blank">5×7 Podcast</a>
       </div>
-      <div class="footer-meta">
-        Powered by AI • Updated daily
-      </div>
+      <div class="footer-meta">Powered by AI • Updated daily</div>
     </div>
   </footer>
 
-  <!-- DATA -->
   <script>
     window.SITE_CONFIG = null;
     window.SITE_DATA = null;
@@ -243,9 +250,7 @@
             gtag('js', new Date());
             gtag('config', id);
           };
-        } catch(e) {
-          console.log('GA4 load error:', e);
-        }
+        } catch(e) {}
       }
       loadGA4();
     })();
