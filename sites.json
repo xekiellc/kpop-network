@@ -9,9 +9,9 @@
       "ga4": "G-NBWGYLLVBZ",
       "beehiiv": "armypulse",
       "theme": {
-        "primary": "#a855f7",
-        "primaryDark": "#7c3aed",
-        "accent": "#6d28d9",
+        "primary": "#c084fc",
+        "primaryDark": "#a855f7",
+        "accent": "#7c3aed",
         "background": "#0f0120",
         "surface": "#1e0a3c",
         "surfaceBorder": "#3b1a6e",
@@ -22,12 +22,12 @@
         "textFaint": "#7c3aed",
         "badge": "#3b1a6e",
         "badgeText": "#c084fc",
-        "buttonBg": "#a855f7",
-        "buttonText": "#ffffff",
+        "buttonBg": "#c084fc",
+        "buttonText": "#1a0533",
         "subscribeBar": "#2d1058",
         "subscribeText": "#e9d5ff",
-        "logoColor": "#c084fc",
-        "taglineColor": "#a78bfa"
+        "logoColor": "#e879f9",
+        "taglineColor": "#c084fc"
       }
     },
     {
@@ -39,25 +39,25 @@
       "ga4": "G-XDG5Y0S2KG",
       "beehiiv": "bangtanbeat",
       "theme": {
-        "primary": "#7c3aed",
-        "primaryDark": "#5b21b6",
-        "accent": "#7c3aed",
+        "primary": "#a855f7",
+        "primaryDark": "#7c3aed",
+        "accent": "#9333ea",
         "background": "#050505",
         "surface": "#111111",
-        "surfaceBorder": "#2a2a2a",
+        "surfaceBorder": "#2a1a4a",
         "headerBg": "#000000",
         "tabBg": "#0a0a0a",
         "text": "#f1f5f9",
-        "textMuted": "#a78bfa",
-        "textFaint": "#4c1d95",
+        "textMuted": "#c084fc",
+        "textFaint": "#6d28d9",
         "badge": "#1a0a3c",
-        "badgeText": "#a78bfa",
-        "buttonBg": "#7c3aed",
+        "badgeText": "#c084fc",
+        "buttonBg": "#a855f7",
         "buttonText": "#ffffff",
         "subscribeBar": "#1a0a3c",
         "subscribeText": "#e9d5ff",
-        "logoColor": "#a78bfa",
-        "taglineColor": "#4c1d95"
+        "logoColor": "#c084fc",
+        "taglineColor": "#7c3aed"
       }
     },
     {
