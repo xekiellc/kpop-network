@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-10T20:09:25.925Z",
+  "updatedAt": "2026-06-12T10:16:22.327Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "H-Y4C3luNCY",
+      "title": "𝗥𝗔𝗧𝗦 𝗡𝗘𝗦𝗧, Wasted Youth",
+      "url": "https://www.youtube.com/watch?v=H-Y4C3luNCY",
+      "videoId": "H-Y4C3luNCY",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/H-Y4C3luNCY/mqdefault.jpg",
+      "publishedAt": "2026-06-11T12:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "le-sserafim-x-illit-x-katseye-iconic-by-mistake-official-mv",
       "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Official MV",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-06-08T09:00:25.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "zGsj0fDHB_s",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV",
-      "url": "https://www.youtube.com/watch?v=zGsj0fDHB_s",
-      "videoId": "zGsj0fDHB_s",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/zGsj0fDHB_s/mqdefault.jpg",
-      "publishedAt": "2026-06-08T08:59:06.000Z",
       "group": "bts",
       "bucket": "bts"
     }
