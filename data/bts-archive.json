@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T19:06:11.157Z",
+  "updatedAt": "2026-06-14T09:37:27.062Z",
   "bucket": "bts",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.soompi.com/article/1847432wpp/lee-jun-young-turns-the-tables-on-jeon-hye-jin-in-reborn-rookie",
       "source": "Soompi",
       "description": "Get ready for an unexpected change in Lee Jun Young and Jeon Hye Jin’s dynamic on “Reborn Rookie”! JTBC’s “Reborn Rookie” is a new drama that tells the story of Kang Yong Ho (Son Hyun Joo), the powerful chairman of leading conglomerate Choiseong Group. After an accident, he unexpectedly finds himself living an unwanted second… Continue reading Lee Jun Young Turns The Tables On Jeon Hye Jin In “Reborn Rookie” The post Lee Jun Young Turns The Tables On Jeon Hye Jin In “Reborn Rookie” appeared firs",
-      "summary": "Lee Jun Young and Jeon Hye Jin's dynamic shifts in JTBC's \"Reborn Rookie,\" a drama about a conglomerate chairman who unexpectedly begins a second life following an accident.",
+      "summary": "In JTBC's drama \"Reborn Rookie,\" Lee Jun Young shifts the dynamic with Jeon Hye Jin as the story follows a powerful conglomerate chairman who experiences an unexpected second life after an accident.",
       "publishedAt": "2026-06-13T06:09:44.000Z",
       "author": "E Cha",
       "group": "bts"
@@ -19,7 +19,7 @@
       "url": "https://www.soompi.com/article/1847422wpp/bts-dominates-itunes-charts-all-over-the-world-with-come-over",
       "source": "Soompi",
       "description": "BTS is sweeping iTunes charts across the globe with their latest single! On June 12 at 1 p.m. KST, BTS officially released their song “Come Over” as a digital single. The song was first included as a surprise track on the Deluxe Vinyl edition of their latest album “ARIRANG” back in April. Immediately upon its… Continue reading BTS Dominates iTunes Charts All Over The World With “Come Over” The post BTS Dominates iTunes Charts All Over The World With “Come Over” appeared first on Soompi.",
-      "summary": "BTS released their digital single \"Come Over\" on June 12 and achieved top placements on iTunes charts worldwide, with the song having previously appeared as a surprise track on the deluxe vinyl edition of their album \"ARIRANG\" in April.",
+      "summary": "BTS released their digital single \"Come Over\" on June 12, which had previously appeared as a surprise track on the deluxe vinyl edition of their album \"ARIRANG\" in April. The song has been dominating iTunes charts globally following its release.",
       "publishedAt": "2026-06-13T03:27:21.000Z",
       "author": "E Cha",
       "group": "bts"
@@ -30,10 +30,21 @@
       "url": "https://kpoppie.com/west-of-seoul-how-hyunjin-made-melrose-avenue-his-own/",
       "source": "Kpoppie",
       "description": "Where American heritage finds its new voice — Stray Kids’ Hyunjin takes Melrose Avenue and rewrites what GUESS means to a generation that never knew borders. The Intersection of Two Worlds On a Thursday afternoon in West Hollywood, something remarkable happened on Melrose Avenue. Fans had been gathering since the night before — sleeping outside, forming lines that snaked past San Vicente and beyond — not for a concert, not for a film premiere, but for a two-hour pop-up at a denim store. At the c",
-      "summary": "Stray Kids' Hyunjin held a pop-up event at a GUESS denim store on Melrose Avenue in West Hollywood, where fans gathered overnight to meet him and experience the intersection of American heritage and K-pop culture.",
+      "summary": "Stray Kids' Hyunjin hosted a pop-up event at a denim store on Melrose Avenue in West Hollywood, where fans gathered overnight to participate in what was described as a meeting point between American heritage and a new generation of K-pop followers. The event showcased Hyunjin's collaboration with the GUESS brand and drew significant fan attendance.",
       "publishedAt": "2026-06-06T22:01:59.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "bts"
+    },
+    {
+      "id": "blackpink-s-lisa-headlines-fifa-world-cup-opening-ceremony-in-us-the-korea-times",
+      "title": "BLACKPINK's Lisa headlines FIFA World Cup opening ceremony in US - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/20260613/blackpinks-lisa-headlines-fifa-world-cup-opening-ceremony-in-us",
+      "source": "코리아타임스",
+      "description": "Lisa of BLACKPINK delivered a spectacular performance at the opening ceremony of the 2026 FIFA World Cup in North America. Lisa took the stage ahea...",
+      "summary": "Lisa of BLACKPINK delivered a spectacular performance at the opening ceremony of the 2026 FIFA World Cup in North America. Lisa took the stage ahea...",
+      "publishedAt": "2026-06-13T06:19:03Z",
+      "author": "Hankookilbo",
+      "group": "blackpink"
     },
     {
       "id": "world-cup-ejae",
@@ -234,17 +245,6 @@
       "group": "bts"
     },
     {
-      "id": "jennie-joins-her-blackpink-bandmates-ros-and-lisa-in-a-chart-feat",
-      "title": "Jennie Joins Her Blackpink Bandmates Rosé And Lisa In A Chart Feat",
-      "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/01/jennie-joins-her-blackpink-bandmates-ros-and-lisa-in-a-chart-feat/",
-      "source": "Forbes",
-      "description": "Jennie becomes only the fourth K-pop solo female musician to score a hit on Billboard's Dance/Mix Show Airplay chart as her \"Dracula\" remix debuts.",
-      "summary": "Jennie becomes only the fourth K-pop solo female musician to score a hit on Billboard's Dance/Mix Show Airplay chart as her \"Dracula\" remix debuts.",
-      "publishedAt": "2026-06-01T19:00:13Z",
-      "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
-      "group": "blackpink"
-    },
-    {
       "id": "niall-horan-praises-bts-explains-how-k-pop-band-is-different-from-1d",
       "title": "Niall Horan Praises BTS, Explains How K-Pop Band Is 'Different' From 1D",
       "url": "http://www.billboard.com/music/music-news/niall-horan-praises-bts-k-pop-group-different-one-direction-1236264220/",
@@ -421,6 +421,17 @@
       "group": "bts"
     },
     {
+      "id": "jennie-joins-her-blackpink-bandmates-ros-and-lisa-in-a-chart-feat",
+      "title": "Jennie Joins Her Blackpink Bandmates Rosé And Lisa In A Chart Feat",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/01/jennie-joins-her-blackpink-bandmates-ros-and-lisa-in-a-chart-feat/",
+      "source": "Forbes",
+      "description": "Jennie becomes only the fourth K-pop solo female musician to score a hit on Billboard's Dance/Mix Show Airplay chart as her \"Dracula\" remix debuts.",
+      "summary": "Jennie becomes only the fourth K-pop solo female musician to score a hit on Billboard's Dance/Mix Show Airplay chart as her \"Dracula\" remix debuts.",
+      "publishedAt": "2026-06-01T19:00:13Z",
+      "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
+      "group": "blackpink"
+    },
+    {
       "id": "after-decades-risking-arrest-south-korea-s-tattoo-artists-step-into-the-limeligh",
       "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
       "url": "https://www.bbc.com/news/articles/cg4pwdn6130o",
@@ -580,7 +591,7 @@
       "url": "https://cnalifestyle.channelnewsasia.com/entertainment/bts-singapore-concert-ticket-sale-prices-jun-3-583541",
       "source": "CNA",
       "description": "",
-      "summary": "BTS concert tickets for their Singapore performance will begin selling on June 3, with prices starting from S$148.",
+      "summary": "BTS will begin selling concert tickets for their Singapore performance on June 3, with prices starting at S$148.",
       "publishedAt": "2026-05-22T05:49:18Z",
       "author": "",
       "group": "bts"
@@ -828,17 +839,6 @@
       "group": "bts"
     },
     {
-      "id": "akmu-earns-circle-triple-crown-cortis-bts-and-illit-top-weekly-charts",
-      "title": "AKMU Earns Circle Triple Crown + CORTIS, BTS, And ILLIT Top Weekly Charts",
-      "url": "http://www.soompi.com/article/1842714wpp/akmu-earns-circle-triple-crown-cortis-bts-and-illit-top-weekly-charts",
-      "source": "soompi",
-      "description": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of May 3 to 9! Album Chart CORTIS swept the top two spots on this week’s physical album chart with their new EP “GREENGREEN.” The regular version of the EP debuted at No.…",
-      "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of May 3 to 9! Album Chart CORTIS swept the top two spots on this week’s physical album chart with their new EP “GREENGREEN.” The regular version of the EP debuted at No.…",
-      "publishedAt": "2026-05-20T21:23:52Z",
-      "author": "E Cha",
-      "group": "bts"
-    },
-    {
       "id": "bts-beats-taylor-swift-to-win-artist-of-the-year-at-american-music-awards-check-",
       "title": "BTS beats Taylor Swift to win Artist of the Year at American Music Awards. Check the full winners list",
       "url": "https://economictimes.indiatimes.com/magazines/panache/bts-beats-taylor-swift-to-win-artist-of-the-year-at-american-music-awards-check-the-full-winners-list/articleshow/131339903.cms",
@@ -868,6 +868,17 @@
       "description": "Circle Chart (formerly known as Gaon Chart) has revealed its latest monthly and weekly chart rankings! Monthly Album Chart TXT achieved a double crown on this month’s Circle charts, topping both the overall physical album chart and the digital download chart …",
       "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its latest monthly and weekly chart rankings! Monthly Album Chart TXT achieved a double crown on this month’s Circle charts, topping both the overall physical album chart and the digital download chart …",
       "publishedAt": "2026-05-12T20:17:07Z",
+      "author": "E Cha",
+      "group": "bts"
+    },
+    {
+      "id": "akmu-earns-circle-triple-crown-cortis-bts-and-illit-top-weekly-charts",
+      "title": "AKMU Earns Circle Triple Crown + CORTIS, BTS, And ILLIT Top Weekly Charts",
+      "url": "http://www.soompi.com/article/1842714wpp/akmu-earns-circle-triple-crown-cortis-bts-and-illit-top-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of May 3 to 9! Album Chart CORTIS swept the top two spots on this week’s physical album chart with their new EP “GREENGREEN.” The regular version of the EP debuted at No.…",
+      "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of May 3 to 9! Album Chart CORTIS swept the top two spots on this week’s physical album chart with their new EP “GREENGREEN.” The regular version of the EP debuted at No.…",
+      "publishedAt": "2026-05-20T21:23:52Z",
       "author": "E Cha",
       "group": "bts"
     },

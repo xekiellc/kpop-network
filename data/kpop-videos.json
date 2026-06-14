@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-13T19:06:11.180Z",
+  "updatedAt": "2026-06-14T09:37:27.084Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "v8CawAk8iIg",
+      "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' MY SISTERHOODIE",
+      "url": "https://www.youtube.com/watch?v=v8CawAk8iIg",
+      "videoId": "v8CawAk8iIg",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/v8CawAk8iIg/mqdefault.jpg",
+      "publishedAt": "2026-06-14T09:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "2rA2K0gwjoo",
       "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Dance Practice",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-06-08T15:01:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "gzgw6j-OwU8",
-      "title": "BOYNEXTDOOR 1st Studio Album [HOME] COMEBACK SHOWCASE",
-      "url": "https://www.youtube.com/watch?v=gzgw6j-OwU8",
-      "videoId": "gzgw6j-OwU8",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/gzgw6j-OwU8/mqdefault.jpg",
-      "publishedAt": "2026-06-08T13:31:26.000Z",
       "group": "bts",
       "bucket": "bts"
     },
