@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2026-06-15T12:18:09.687Z",
+  "updatedAt": "2026-06-15T20:43:47.187Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "txt-s-yeonjun-announces-release-date-for-solo-comeback-album-no-labels-part-02-",
+      "title": "TXT’s Yeonjun Announces Release Date For Solo Comeback Album “NO LABELS: PART 02”",
+      "url": "https://www.soompi.com/article/1847886wpp/txts-yeonjun-announces-release-date-for-solo-comeback-album-no-labels-part-02",
+      "source": "Soompi",
+      "description": "Yeonjun’s solo comeback date has been revealed! On June 16, TXT’s agency share the following statement: Hello.This is BIGHIT MUSIC. Yeonjun’s 2nd Mini Album, “NO LABELS: PART 02,” will be released on Friday, July 10. “NO LABELS: PART 02” is an album that completes Yeonjun’s debut as a solo artist. It vividly showcases his distinctive… Continue reading TXT’s Yeonjun Announces Release Date For Solo Comeback Album “NO LABELS: PART 02” The post TXT’s Yeonjun Announces Release Date For Solo Comeback ",
+      "summary": "TXT member Yeonjun has announced his second solo mini album \"NO LABELS: PART 02\" will be released on July 10. The album is described as completing his debut as a solo artist and will showcase his distinctive style.",
+      "publishedAt": "2026-06-15T15:25:37.000Z",
+      "author": "D Kim",
+      "group": "txt"
+    },
     {
       "id": "watch-boynextdoor-s-moves-are-viral-in-new-dance-practice-video",
       "title": "Watch: BOYNEXTDOOR’s Moves Are “VIRAL” In New Dance Practice Video",
       "url": "https://www.soompi.com/article/1847567wpp/watch-boynextdoors-moves-are-viral-in-new-dance-practice-video",
       "source": "Soompi",
       "description": "BOYNEXTDOOR has revealed a closer look at the fast-paced choreography for their latest “VIRAL” hit! On June 14, BOYNEXTDOOR released the official dance practice video for “VIRAL,” the title track of their new full-length album “HOME.” The new video offers a full view of all six members’ powerful dance moves throughout the song, along with… Continue reading Watch: BOYNEXTDOOR’s Moves Are “VIRAL” In New Dance Practice Video The post Watch: BOYNEXTDOOR’s Moves Are “VIRAL” In New Dance Practice Vide",
-      "summary": "BOYNEXTDOOR released an official dance practice video for \"VIRAL,\" the title track from their new full-length album \"HOME,\" showcasing the choreography and all six members' dance moves. The video was released on June 14.",
+      "summary": "BOYNEXTDOOR released an official dance practice video on June 14 for \"VIRAL,\" the title track from their new full-length album \"HOME,\" showcasing the choreography performed by all six members.",
       "publishedAt": "2026-06-14T14:38:13.000Z",
       "author": "E Cha",
       "group": "boynextdoor"
@@ -19,7 +30,7 @@
       "url": "https://kpoppie.com/iconic-by-mistake-how-le-sserafim-illit-katseye-are-rewriting-k-pops-future/",
       "source": "Kpoppie",
       "description": "A three-space narrative across a graveyard, a dental clinic, and a stage becomes the defining moment of HYBE’s girl group dynasty The flames are burning. The wreckage is everywhere. And in the center of it all, 14 women stand unbroken, staring straight ahead with a defiant gaze that says everything will change. This is the ‘AS ONE’ version concept photo for “ICONIC BY MISTAKE” — the first-ever collaborative digital single between LE SSERAFIM, ILLIT, and KATSEYE. Released on June 10, 2026, across",
-      "summary": "LE SSERAFIM, ILLIT, and KATSEYE have released \"ICONIC BY MISTAKE,\" their first collaborative digital single, featuring a three-part narrative concept and concept photos released on June 10, 2026. The collaboration marks a significant moment for HYBE's girl group lineup.",
+      "summary": "LE SSERAFIM, ILLIT, and KATSEYE have released their first-ever collaborative digital single \"ICONIC BY MISTAKE\" on June 10, 2026, featuring a concept photo with a three-part narrative across different settings. The collaboration represents a significant moment for HYBE's girl group lineup.",
       "publishedAt": "2026-06-10T23:16:27.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "lesserafim"
@@ -30,7 +41,7 @@
       "url": "https://kpoppie.com/enhypens-jay-between-two-worlds/",
       "source": "Kpoppie",
       "description": "Park Jong-seong has always occupied the beautiful, uncomfortable space between identities. Now, in Polo Ralph Lauren and on the cover of Vogue Korea, he makes that tension look like destiny. There is a particular gravity that settles over Jay when he enters a room dressed well. Not arrogance — something quieter. A kind of settled certainty that his body, his clothes, and the space around him have arrived at an agreement. Standing in front of the Vogue Korea lens in Polo Ralph Lauren for the maga",
-      "summary": "ENHYPEN member Jay is featured on the cover of Vogue Korea wearing Polo Ralph Lauren, where he embodies a composed confidence that reflects his experience navigating multiple cultural identities.",
+      "summary": "ENHYPEN member Jay is featured on the cover of Vogue Korea wearing Polo Ralph Lauren, where he embodies a composed confidence that reflects his identity between cultures. The article explores how Jay's personal style and presence convey a sense of settled certainty and grace.",
       "publishedAt": "2026-06-09T04:34:43.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "enhypen"
@@ -209,17 +220,6 @@
       "summary": "CBS and Paramount+ are wasting little time kicking off the summer season, with tonight's 52nd American Music Awards (AMAs) set to honor the most influential artists and songs of today – and let's not forget the unforgettable performances and once-in-a-lifetim…",
       "publishedAt": "2026-05-25T22:07:10Z",
       "author": "Ray Flook",
-      "group": "hybe"
-    },
-    {
-      "id": "netflix-announces-kpop-demon-hunters-global-concert-tour",
-      "title": "Netflix Announces ‘KPop Demon Hunters’ Global Concert Tour",
-      "url": "http://www.hollywoodreporter.com/music/film-tv-music-news/kpop-demon-hunters-netflix-aeg-global-concert-tour-1236595086/",
-      "source": "Hollywood Reporter",
-      "description": "Huntrix in your area! Netflix has teamed up with AEG Presents for a global concert tour.",
-      "summary": "Huntrix in your area! Netflix has teamed up with AEG Presents for a global concert tour.",
-      "publishedAt": "2026-05-13T19:35:39Z",
-      "author": "Nicole Fell",
       "group": "hybe"
     },
     {
@@ -418,6 +418,17 @@
       "summary": "Anderson .Paak's 'K-POPS!' movie hits Netflix May 30 with an 88% Certified Fresh Rotten Tomatoes score but a mixed 60 on Metacritic. Why the gap is so wide from reviews.",
       "publishedAt": "2026-05-30T03:15:37Z",
       "author": "Jeff Benjamin, Senior Contributor, \n Jeff Benjamin, Senior Contributor\n https://www.forbes.com/sites/jeffbenjamin/",
+      "group": "hybe"
+    },
+    {
+      "id": "netflix-announces-kpop-demon-hunters-global-concert-tour",
+      "title": "Netflix Announces ‘KPop Demon Hunters’ Global Concert Tour",
+      "url": "http://www.hollywoodreporter.com/music/film-tv-music-news/kpop-demon-hunters-netflix-aeg-global-concert-tour-1236595086/",
+      "source": "Hollywood Reporter",
+      "description": "Huntrix in your area! Netflix has teamed up with AEG Presents for a global concert tour.",
+      "summary": "Huntrix in your area! Netflix has teamed up with AEG Presents for a global concert tour.",
+      "publishedAt": "2026-05-13T19:35:39Z",
+      "author": "Nicole Fell",
       "group": "hybe"
     },
     {
