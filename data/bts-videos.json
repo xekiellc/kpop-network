@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-14T19:07:05.513Z",
+  "updatedAt": "2026-06-15T12:18:09.697Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-hoshi-snapback-performance-film",
+      "title": "호시 (HOSHI) 'SNAPBACK' Performance Film",
+      "url": "https://www.youtube.com/shorts/ZDiriUQgMKg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-15T09:07:22.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "v8CawAk8iIg",
       "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' MY SISTERHOODIE",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/nNE8TmNG10o/mqdefault.jpg",
       "publishedAt": "2026-06-09T05:07:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-x-illit-x-katseye-iconic-by-mistake-official-mv-teaser",
-      "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Official MV Teaser",
-      "url": "https://www.youtube.com/shorts/sbIFVs9FoTg",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-06-08T15:01:02.000Z",
       "group": "bts",
       "bucket": "bts"
     }
