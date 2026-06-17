@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-16T20:35:53.363Z",
+  "updatedAt": "2026-06-17T19:57:30.526Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "y_d_e6J1BkQ",
+      "title": "TWS (투어스) 'SODA SODA' Concept Film A",
+      "url": "https://www.youtube.com/watch?v=y_d_e6J1BkQ",
+      "videoId": "y_d_e6J1BkQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/y_d_e6J1BkQ/mqdefault.jpg",
+      "publishedAt": "2026-06-17T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "0-frA5FwJhA",
       "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.4 : 기억해줘요",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/2rA2K0gwjoo/mqdefault.jpg",
       "publishedAt": "2026-06-13T15:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "H-Y4C3luNCY",
-      "title": "𝗥𝗔𝗧𝗦 𝗡𝗘𝗦𝗧, Wasted Youth",
-      "url": "https://www.youtube.com/watch?v=H-Y4C3luNCY",
-      "videoId": "H-Y4C3luNCY",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/H-Y4C3luNCY/mqdefault.jpg",
-      "publishedAt": "2026-06-11T12:59:58.000Z",
       "group": "bts",
       "bucket": "bts"
     }
