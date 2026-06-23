@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-06-23T09:42:15.333Z",
+  "updatedAt": "2026-06-23T19:48:24.846Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "boynextdoor-adios-official-mv-boynextdoor-bnd-home-adios",
+      "title": "BOYNEXTDOOR 'ADIOS!' Official MV #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #ADIOS",
+      "url": "https://www.youtube.com/shorts/S4AJrCpBrHY",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-23T13:00:30.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "dTWxjbJZ238",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'ADIOS!' Official MV",
+      "url": "https://www.youtube.com/watch?v=dTWxjbJZ238",
+      "videoId": "dTWxjbJZ238",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/dTWxjbJZ238/mqdefault.jpg",
+      "publishedAt": "2026-06-23T13:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "are-you-ready-to-make-your-moment-eternal-",
       "title": "Are you ready to make your moment eternal?",
