@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-06-23T19:48:24.846Z",
+  "updatedAt": "2026-06-24T09:33:10.718Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "are-you-ready-to-become-a-global-icon-",
+      "title": "Are you ready to become a global icon?",
+      "url": "https://www.youtube.com/shorts/ux4lSPEJ7ys",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-24T02:00:26.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "m1qlPvpADdU",
+      "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Dance Practice (Fix ver.)",
+      "url": "https://www.youtube.com/watch?v=m1qlPvpADdU",
+      "videoId": "m1qlPvpADdU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/m1qlPvpADdU/mqdefault.jpg",
+      "publishedAt": "2026-06-24T01:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "boynextdoor-adios-official-mv-boynextdoor-bnd-home-adios",
       "title": "BOYNEXTDOOR 'ADIOS!' Official MV #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #ADIOS",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/EjcEwYJ85gQ/mqdefault.jpg",
       "publishedAt": "2026-06-22T13:00:04.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "o46rtETECD0",
-      "title": "𝗥𝗘𝗩 the engine",
-      "url": "https://www.youtube.com/watch?v=o46rtETECD0",
-      "videoId": "o46rtETECD0",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/o46rtETECD0/mqdefault.jpg",
-      "publishedAt": "2026-06-22T12:59:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "evan-ride-or-die-official-mv",
-      "title": "EVAN (에반) 'Ride or Die' Official MV",
-      "url": "https://www.youtube.com/shorts/UX3K4KE1mRs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-06-22T09:21:51.000Z",
       "group": "bts",
       "bucket": "bts"
     }
