@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-24T09:33:10.720Z",
+  "updatedAt": "2026-06-24T19:25:12.143Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "oBkcJkecIps",
+      "title": "TWS (투어스) 'SODA SODA' Concept Film B",
+      "url": "https://www.youtube.com/watch?v=oBkcJkecIps",
+      "videoId": "oBkcJkecIps",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/oBkcJkecIps/mqdefault.jpg",
+      "publishedAt": "2026-06-24T13:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "are-you-ready-to-become-a-global-icon-",
       "title": "Are you ready to become a global icon?",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-06-22T13:01:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "EjcEwYJ85gQ",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'ADIOS!' Official MV Teaser",
-      "url": "https://www.youtube.com/watch?v=EjcEwYJ85gQ",
-      "videoId": "EjcEwYJ85gQ",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/EjcEwYJ85gQ/mqdefault.jpg",
-      "publishedAt": "2026-06-22T13:00:04.000Z",
       "group": "bts",
       "bucket": "bts"
     },
