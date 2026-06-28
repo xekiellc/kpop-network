@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-28T08:54:34.384Z",
+  "updatedAt": "2026-06-28T19:00:26.436Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "n2bzA-ksXZI",
+      "title": "ENHYPEN (엔하이픈) ‘We'll Be Fine’ Official MV",
+      "url": "https://www.youtube.com/watch?v=n2bzA-ksXZI",
+      "videoId": "n2bzA-ksXZI",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/n2bzA-ksXZI/mqdefault.jpg",
+      "publishedAt": "2026-06-28T15:00:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "enhypen-renewal-dual-symbol-motion",
       "title": "ENHYPEN (엔하이픈) Renewal Dual Symbol Motion",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-06-25T09:00:23.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "oBkcJkecIps",
-      "title": "TWS (투어스) 'SODA SODA' Concept Film B",
-      "url": "https://www.youtube.com/watch?v=oBkcJkecIps",
-      "videoId": "oBkcJkecIps",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/oBkcJkecIps/mqdefault.jpg",
-      "publishedAt": "2026-06-24T13:00:05.000Z",
       "group": "bts",
       "bucket": "bts"
     }
