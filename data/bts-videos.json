@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-06-26T09:30:21.081Z",
+  "updatedAt": "2026-06-28T08:54:34.384Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "enhypen-renewal-dual-symbol-motion",
+      "title": "ENHYPEN (엔하이픈) Renewal Dual Symbol Motion",
+      "url": "https://www.youtube.com/shorts/v2YH2NjJ5no",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-28T03:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-singasong-official-mv-teaser",
+      "title": "𝗩𝟴 'singasong' Official MV Teaser",
+      "url": "https://www.youtube.com/shorts/jnNIScFQ3h0",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-06-27T13:00:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "kQrWWRx2d_8",
+      "title": "ILLIT (아일릿) 'I Got Your Back' Concept Film - Armor Ver.",
+      "url": "https://www.youtube.com/watch?v=kQrWWRx2d_8",
+      "videoId": "kQrWWRx2d_8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/kQrWWRx2d_8/mqdefault.jpg",
+      "publishedAt": "2026-06-27T08:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "tFmLIC7i4a0",
+      "title": "ENHYPEN (엔하이픈) Brand Renewal Film",
+      "url": "https://www.youtube.com/watch?v=tFmLIC7i4a0",
+      "videoId": "tFmLIC7i4a0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/tFmLIC7i4a0/mqdefault.jpg",
+      "publishedAt": "2026-06-27T02:59:30.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "G4TlZssGB5A",
+      "title": "ENHYPEN (엔하이픈) ‘We'll Be Fine’ Official MV Teaser",
+      "url": "https://www.youtube.com/watch?v=G4TlZssGB5A",
+      "videoId": "G4TlZssGB5A",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/G4TlZssGB5A/mqdefault.jpg",
+      "publishedAt": "2026-06-26T12:59:55.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "are-you-ready-to-become-a-global-icon-",
       "title": "Are you ready to become a global icon?",
@@ -21,61 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/oBkcJkecIps/mqdefault.jpg",
       "publishedAt": "2026-06-24T13:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "m1qlPvpADdU",
-      "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Dance Practice (Fix ver.)",
-      "url": "https://www.youtube.com/watch?v=m1qlPvpADdU",
-      "videoId": "m1qlPvpADdU",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/m1qlPvpADdU/mqdefault.jpg",
-      "publishedAt": "2026-06-24T01:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-adios-official-mv-boynextdoor-bnd-home-adios",
-      "title": "BOYNEXTDOOR 'ADIOS!' Official MV #BOYNEXTDOOR #보이넥스트도어 #BND #HOME #ADIOS",
-      "url": "https://www.youtube.com/shorts/S4AJrCpBrHY",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-06-23T13:00:30.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "dTWxjbJZ238",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'ADIOS!' Official MV",
-      "url": "https://www.youtube.com/watch?v=dTWxjbJZ238",
-      "videoId": "dTWxjbJZ238",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/dTWxjbJZ238/mqdefault.jpg",
-      "publishedAt": "2026-06-23T13:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "are-you-ready-to-make-your-moment-eternal-",
-      "title": "Are you ready to make your moment eternal?",
-      "url": "https://www.youtube.com/shorts/nE38DVm6e4E",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-06-23T07:49:36.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "enhypen-brand-renewal-mood-teaser-1",
-      "title": "ENHYPEN (엔하이픈) Brand Renewal Mood Teaser 1",
-      "url": "https://www.youtube.com/shorts/KgDXAh1RGYs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-06-23T04:00:06.000Z",
       "group": "bts",
       "bucket": "bts"
     }
