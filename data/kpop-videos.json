@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-04T08:39:09.572Z",
+  "updatedAt": "2026-07-05T08:54:16.233Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "blJD4MsgZeM",
+      "title": "HYBE JAPAN AUDITION 2026",
+      "url": "https://www.youtube.com/watch?v=blJD4MsgZeM",
+      "videoId": "blJD4MsgZeM",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/blJD4MsgZeM/mqdefault.jpg",
+      "publishedAt": "2026-07-05T03:00:27.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "hybe-japan-audition-2026-hybejapan-audition-2026-hybejapan-andteam-aoen",
+      "title": "HYBE JAPAN AUDITION 2026 #未完成募集 #HYBEJAPAN_AUDITION_2026 #HYBEJAPAN #andTEAM #aoen",
+      "url": "https://www.youtube.com/shorts/m5y3wubl9QI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-05T03:00:11.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "QqwNAIJMYTU",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : BLISS' Promotion Calendar",
+      "url": "https://www.youtube.com/watch?v=QqwNAIJMYTU",
+      "videoId": "QqwNAIJMYTU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/QqwNAIJMYTU/mqdefault.jpg",
+      "publishedAt": "2026-07-05T03:00:04.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "APWheR-XcHo",
+      "title": "TXT (투모로우바이투게더) セツナハナビ (Setsuna Hanabi) - Concept Clip 'Sparks'",
+      "url": "https://www.youtube.com/watch?v=APWheR-XcHo",
+      "videoId": "APWheR-XcHo",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/APWheR-XcHo/mqdefault.jpg",
+      "publishedAt": "2026-07-04T09:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "yeonjun-no-labels-part-02-preview-long-way-long-ride-",
       "title": "YEONJUN (연준) NO LABELS: PART 02 Preview 'Long Way Long Ride'",
@@ -43,50 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-03T15:00:18.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "yeonjun-no-labels-part-02-preview-ice-cream-",
-      "title": "YEONJUN (연준) NO LABELS: PART 02 Preview 'Ice Cream'",
-      "url": "https://www.youtube.com/shorts/wVbrm9AJi4w",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-03T15:00:13.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "yeonjun-no-labels-part-02-preview-vanilla-",
-      "title": "YEONJUN (연준) NO LABELS: PART 02 Preview 'Vanilla'",
-      "url": "https://www.youtube.com/shorts/ugSvS9ersqQ",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-03T15:00:08.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "jfxUEdNHmdA",
-      "title": "YEONJUN (연준) NO LABELS: PART 02 Preview",
-      "url": "https://www.youtube.com/watch?v=jfxUEdNHmdA",
-      "videoId": "jfxUEdNHmdA",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/jfxUEdNHmdA/mqdefault.jpg",
-      "publishedAt": "2026-07-03T15:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "_4agPXoBoBI",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. GURU RANDHAWA)' Official Film",
-      "url": "https://www.youtube.com/watch?v=_4agPXoBoBI",
-      "videoId": "_4agPXoBoBI",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/_4agPXoBoBI/mqdefault.jpg",
-      "publishedAt": "2026-07-03T13:00:00.000Z",
       "group": "bts",
       "bucket": "bts"
     },
