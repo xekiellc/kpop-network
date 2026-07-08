@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-07-07T09:43:48.507Z",
+  "updatedAt": "2026-07-08T08:30:47.228Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-official-film",
+      "title": "𝗩𝗘𝗥𝗡𝗢𝗡 '미아' Official Film",
+      "url": "https://www.youtube.com/shorts/ab7oDTHpvho",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-08T05:00:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "6_roe46FAhs",
+      "title": "YEONJUN (연준) 'Ice Cream' Official MV Teaser",
+      "url": "https://www.youtube.com/watch?v=6_roe46FAhs",
+      "videoId": "6_roe46FAhs",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/6_roe46FAhs/mqdefault.jpg",
+      "publishedAt": "2026-07-07T15:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "hybe-japan-audition-2026-hybejapan-audition-2026-hybejapan-andteam-aoen",
       "title": "HYBE JAPAN AUDITION 2026 #未完成募集 #HYBEJAPAN_AUDITION_2026 #HYBEJAPAN #andTEAM #aoen",
@@ -32,17 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-06T13:00:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-viral-aina-the-end-remix-official-visualizer",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL (AiNA THE END Remix)' Official Visualizer",
-      "url": "https://www.youtube.com/shorts/4g2e9QDAHuU",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-05T15:02:07.000Z",
       "group": "bts",
       "bucket": "bts"
     },
