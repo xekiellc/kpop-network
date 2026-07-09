@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-07-08T08:30:47.227Z",
+  "updatedAt": "2026-07-09T09:41:33.721Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "vPw7QeLJzXU",
+      "title": "ILLIT (아일릿) 'I Got Your Back' Concept Film - FRUiTS Ver.",
+      "url": "https://www.youtube.com/watch?v=vPw7QeLJzXU",
+      "videoId": "vPw7QeLJzXU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/vPw7QeLJzXU/mqdefault.jpg",
+      "publishedAt": "2026-07-09T07:59:57.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "OOfj5ceFqVA",
+      "title": "TXT (투모로우바이투게더) セツナハナビ (Setsuna Hanabi) - Concept Clip 'Bloom'",
+      "url": "https://www.youtube.com/watch?v=OOfj5ceFqVA",
+      "videoId": "OOfj5ceFqVA",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/OOfj5ceFqVA/mqdefault.jpg",
+      "publishedAt": "2026-07-08T09:01:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-official-film",
       "title": "𝗩𝗘𝗥𝗡𝗢𝗡 '미아' Official Film",
