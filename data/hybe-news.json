@@ -1,17 +1,50 @@
 {
-  "updatedAt": "2026-07-09T09:41:33.721Z",
+  "updatedAt": "2026-07-10T09:37:24.641Z",
   "bucket": "hybe",
   "articles": [
     {
-      "id": "ateez-and-cortis-earn-double-crowns-on-circle-weekly-charts",
-      "title": "ATEEZ And CORTIS Earn Double Crowns On Circle Weekly Charts",
-      "url": "https://www.soompi.com/article/1853322wpp/ateez-and-cortis-earn-double-crowns-on-circle-weekly-charts",
+      "id": "watch-le-sserafim-illit-and-katseye-take-2nd-win-for-iconic-by-mistake-on-m-coun",
+      "title": "Watch: LE SSERAFIM, ILLIT, And KATSEYE Take 2nd Win For “ICONIC BY MISTAKE” On “M Countdown”; Performances By i-dle, And More",
+      "url": "https://www.soompi.com/article/1853509wpp/watch-le-sserafim-illit-and-katseye-takes-2nd-win-for-iconic-by-mistake-on-m-countdown-performances-by-i-dle-and-more",
       "source": "Soompi",
-      "description": "Circle Chart has revealed its chart rankings for the week of June 21 to 27! Album Chart ATEEZ achieved a double crown on this week’s charts, topping both the physical album chart and the digital download chart with their new mini album “GOLDEN HOUR : Part.5” and its title track “BAD.” ATEEZ swept two of… Continue reading ATEEZ And CORTIS Earn Double Crowns On Circle Weekly Charts The post ATEEZ And CORTIS Earn Double Crowns On Circle Weekly Charts appeared first on Soompi.",
-      "summary": "ATEEZ topped both the physical album and digital download charts on Circle Chart for the week of June 21-27 with their mini album \"GOLDEN HOUR : Part.5\" and its title track \"BAD,\" while CORTIS also achieved a double crown on the charts.",
-      "publishedAt": "2026-07-08T21:02:27.000Z",
-      "author": "E Cha",
+      "description": "LE SSERAFIM, ILLIT, and KATSEYE have won their second music show trophy for their collab single “ICONIC BY MISTAKE“! On the July 9 episode of “M Countdown,” the candidates for first place were LE SSERAFIM, ILLIT, and KATSEYE’s “ICONIC BY MISTAKE” and SEVENTEEN’s V8’s “singasong.” LE SSERAFIM, ILLIT, and KATSEYE ultimately took the prize with a total of 6,876… Continue reading Watch: LE SSERAFIM, ILLIT, And KATSEYE Take 2nd Win For “ICONIC BY MISTAKE” On “M Countdown”; Performances By i-dle, And ",
+      "summary": "LE SSERAFIM, ILLIT, and KATSEYE won their second music show trophy for their collaborative single \"ICONIC BY MISTAKE\" on the July 9 episode of \"M Countdown,\" defeating SEVENTEEN's V8's \"singasong.\" The episode also featured performances by other artists including i-dle.",
+      "publishedAt": "2026-07-09T12:20:45.000Z",
+      "author": "MLim",
+      "group": "lesserafim"
+    },
+    {
+      "id": "cortis-s-james-martin-wear-saint-laurent-like-an-argument",
+      "title": "CORTIS’s James & Martin Wear Saint Laurent Like an Argument",
+      "url": "https://kpoppie.com/cortiss-james-martin-wear-saint-laurent-like-an-argument/",
+      "source": "Kpoppie",
+      "description": "GQ Korea’s August 2026 digital cover doesn’t dress up two rookies. It hands the mic to two young creatives who’ve been building the language of “color outside the lines” since before the world knew their names. By Kpoppie Magazine Editorial · Cover: CORTIS’s James & Martin, GQ Korea x YSL, August 2026 Digital Issue · July 2026 Some collaborations feel inevitable in hindsight — like the fashion house and the artist had been circling each other for years before anyone put them in the same room. GQ",
+      "summary": "CORTIS members James and Martin are featured on GQ Korea's August 2026 digital cover wearing Saint Laurent, showcasing two young creatives who have been pioneering their distinctive style since before gaining widespread recognition. The collaboration between the K-pop rookies and the fashion house highlights their creative partnership and influence in both music and fashion.",
+      "publishedAt": "2026-07-05T21:20:44.000Z",
+      "author": "Kpoppie Editorial Team",
       "group": "cortis"
+    },
+    {
+      "id": "2026-q3-release-calendar-of-new-kpop-albums-singles-and-comebacks",
+      "title": "2026 Q3 Release Calendar Of New KPop Albums, Singles And Comebacks",
+      "url": "https://www.forbes.com/sites/jeffbenjamin/2026/07/08/2026-q3-release-calendar-of-new-kpop-albums-singles-and-comebacks/",
+      "source": "Forbes",
+      "description": "New Kpop album, comebacks and singles, plus rumored releases in 2026 including BIGBANG, Stray Kids, KATSEYE and new boy groups from HYBE, SM, A2O and YG Entertainment.",
+      "summary": "New Kpop album, comebacks and singles, plus rumored releases in 2026 including BIGBANG, Stray Kids, KATSEYE and new boy groups from HYBE, SM, A2O and YG Entertainment.",
+      "publishedAt": "2026-07-08T19:30:33Z",
+      "author": "Jeff Benjamin, Senior Contributor, \n Jeff Benjamin, Senior Contributor\n https://www.forbes.com/sites/jeffbenjamin/",
+      "group": "straykids"
+    },
+    {
+      "id": "winwin-heeseung-and-more-every-kpop-idol-departure-in-2026",
+      "title": "WinWin, Heeseung And More: Every KPop Idol Departure In 2026",
+      "url": "https://www.forbes.com/sites/hannahabraham/2026/07/08/winwin-heeseung-and-more-every-kpop-idol-departure-in-2026/",
+      "source": "Forbes",
+      "description": "K-pop's inherently transient nature is especially on display this year with a series of significant idol departures, including multiple from NCT.",
+      "summary": "K-pop's inherently transient nature is especially on display this year with a series of significant idol departures, including multiple from NCT.",
+      "publishedAt": "2026-07-08T12:58:56Z",
+      "author": "Hannah Abraham, Contributor, \n Hannah Abraham, Contributor\n https://www.forbes.com/sites/hannahabraham/",
+      "group": "hybe"
     },
     {
       "id": "comments-black-women-are-being-abused-for-the-sake-of-kpop-marketing",
@@ -157,6 +190,17 @@
       "group": "hybe"
     },
     {
+      "id": "ateez-and-cortis-earn-double-crowns-on-circle-weekly-charts",
+      "title": "ATEEZ And CORTIS Earn Double Crowns On Circle Weekly Charts",
+      "url": "http://www.soompi.com/article/1853322wpp/ateez-and-cortis-earn-double-crowns-on-circle-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart has revealed its chart rankings for the week of June 21 to 27! Album Chart ATEEZ achieved a double crown on this week’s charts, topping both the physical album chart and the digital download chart with their new mini album “GOLDEN HOUR : Part.5” …",
+      "summary": "Circle Chart has revealed its chart rankings for the week of June 21 to 27! Album Chart ATEEZ achieved a double crown on this week’s charts, topping both the physical album chart and the digital download chart with their new mini album “GOLDEN HOUR : Part.5” …",
+      "publishedAt": "2026-07-08T21:02:27Z",
+      "author": "E Cha",
+      "group": "cortis"
+    },
+    {
       "id": "riize-i-o-i-cortis-bts-and-illit-top-circle-weekly-charts",
       "title": "RIIZE, I.O.I, CORTIS, BTS, And ILLIT Top Circle Weekly Charts",
       "url": "http://www.soompi.com/article/1851733wpp/riize-i-o-i-cortis-bts-and-illit-top-circle-weekly-charts",
@@ -243,6 +287,17 @@
       "publishedAt": "2026-06-24T17:07:05Z",
       "author": "E Cha",
       "group": "bts"
+    },
+    {
+      "id": "kpop-demon-hunters-rumi-jinu-dolls-in-the-daily-litg-9th-july-2026",
+      "title": "KPop Demon Hunters Rumi & Jinu Dolls in The Daily LITG, 9th July 2026",
+      "url": "https://bleedingcool.com/collectibles/kpop-demon-hunters-rumi-jinu-dolls-in-the-daily-litg-9th-july-2026/",
+      "source": "Bleeding Cool News",
+      "description": "KPop Demon Hunters Rumi & Jinu Dolls was the most-read story on Bleeding Cool yesterday, again, and you can find even more Kpop Demon Hunters scoops and breaking news with this handy dandy Bleeding Cool tag. And as all the comics publisher solicitations fall …",
+      "summary": "KPop Demon Hunters Rumi & Jinu Dolls was the most-read story on Bleeding Cool yesterday, again, and you can find even more Kpop Demon Hunters scoops and breaking news with this handy dandy Bleeding Cool tag. And as all the comics publisher solicitations fall …",
+      "publishedAt": "2026-07-09T09:22:08Z",
+      "author": "Rich Johnston",
+      "group": "hybe"
     },
     {
       "id": "kpop-demon-hunters-huntr-x-mira-in-the-daily-litg-8th-july-2026",
@@ -428,28 +483,6 @@
       "description": "Jim Lee's Absolute Batman/Superman/Wonder Woman San Diego Comic-Con Variants in Colour was the most-read story on Bleeding Cool, finally taking Kpop Demon Hunters off its throne. Lying In The Gutters is the daily runaround for the most-read stories the day be…",
       "summary": "Jim Lee's Absolute Batman/Superman/Wonder Woman San Diego Comic-Con Variants in Colour was the most-read story on Bleeding Cool, finally taking Kpop Demon Hunters off its throne. Lying In The Gutters is the daily runaround for the most-read stories the day be…",
       "publishedAt": "2026-06-16T08:33:10Z",
-      "author": "Rich Johnston",
-      "group": "hybe"
-    },
-    {
-      "id": "barbara-gordon-is-the-absolute-bat-the-daily-litg-15th-of-june-2026",
-      "title": "Barbara Gordon Is The Absolute Bat: The Daily LITG, 15th of June 2026",
-      "url": "https://bleedingcool.com/comics/barbara-gordon-is-the-absolute-bat-the-daily-litg-15th-of-june-2026/",
-      "source": "Bleeding Cool News",
-      "description": "Barbara Gordon Is The Absolute Bat in Absolute Batman #24 was the most-read story on Bleeding Cool, finally taking Kpop Demon Hunters off its throne. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the pas…",
-      "summary": "Barbara Gordon Is The Absolute Bat in Absolute Batman #24 was the most-read story on Bleeding Cool, finally taking Kpop Demon Hunters off its throne. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the pas…",
-      "publishedAt": "2026-06-15T07:47:09Z",
-      "author": "Rich Johnston",
-      "group": "hybe"
-    },
-    {
-      "id": "kennedy-center-removes-agent-orange-the-daily-litg-14th-of-june-2026",
-      "title": "Kennedy Center Removes Agent Orange: The Daily LITG, 14th of June 2026",
-      "url": "https://bleedingcool.com/pop-culture/kennedy-center-removes-agent-orange-the-daily-litg-14th-of-june-2026/",
-      "source": "Bleeding Cool News",
-      "description": "Kennedy Center Board Confirms: Trump's Name Now Officially Removed was the most-read story on Bleeding Cool, finally taking Kpop Demon Hunters off its throne. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as ove…",
-      "summary": "Kennedy Center Board Confirms: Trump's Name Now Officially Removed was the most-read story on Bleeding Cool, finally taking Kpop Demon Hunters off its throne. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as ove…",
-      "publishedAt": "2026-06-14T09:52:09Z",
       "author": "Rich Johnston",
       "group": "hybe"
     }

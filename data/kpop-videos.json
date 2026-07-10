@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-07-09T09:41:33.722Z",
+  "updatedAt": "2026-07-10T09:37:24.643Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-ice-cream-official-mv-out-now-yeonjun-icecream-yeonjun-icecream-nolabels-part02",
+      "title": "'Ice Cream' Official MV out now 🍦 #YEONJUN #연준 #IceCream #YEONJUN_IceCream #NOLABELS_PART02",
+      "url": "https://www.youtube.com/shorts/FnAVSByhHr8",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-10T04:00:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "ihvuwqlGHXs",
+      "title": "YEONJUN (연준) 'Ice Cream' Official MV",
+      "url": "https://www.youtube.com/watch?v=ihvuwqlGHXs",
+      "videoId": "ihvuwqlGHXs",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/ihvuwqlGHXs/mqdefault.jpg",
+      "publishedAt": "2026-07-10T03:58:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "aoen-",
+      "title": "aoenからメッセージが到着 ✉✨ みなさんのご応募、お待ちしています🫧",
+      "url": "https://www.youtube.com/shorts/U5cAs_Anups",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-10T03:35:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "vPw7QeLJzXU",
       "title": "ILLIT (아일릿) 'I Got Your Back' Concept Film - FRUiTS Ver.",
@@ -43,39 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/6_roe46FAhs/mqdefault.jpg",
       "publishedAt": "2026-07-07T15:00:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "hybe-japan-audition-2026-hybejapan-audition-2026-hybejapan-andteam-aoen",
-      "title": "HYBE JAPAN AUDITION 2026 #未完成募集 #HYBEJAPAN_AUDITION_2026 #HYBEJAPAN #andTEAM #aoen",
-      "url": "https://www.youtube.com/shorts/KnUjdA1JF3E",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-07T03:20:40.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "E-vwpiOkxe4",
-      "title": "HYBE JAPAN AUDITION 2026",
-      "url": "https://www.youtube.com/watch?v=E-vwpiOkxe4",
-      "videoId": "E-vwpiOkxe4",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/E-vwpiOkxe4/mqdefault.jpg",
-      "publishedAt": "2026-07-07T03:17:51.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-girlsnboys-official-visualizer",
-      "title": "𝗩𝟴 'girlsnboys' Official Visualizer",
-      "url": "https://www.youtube.com/shorts/hnarMa_VaGM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-06T13:00:06.000Z",
       "group": "bts",
       "bucket": "bts"
     },
