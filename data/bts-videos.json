@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-13T09:29:43.167Z",
+  "updatedAt": "2026-07-13T19:09:25.614Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-picheolin-narr-official-mv-teaser",
+      "title": "피철인 (Picheolin) '아프지 않은 이별은 없다 (narr. 이문세)' Official MV Teaser",
+      "url": "https://www.youtube.com/shorts/U0omUHK0QJ8",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-13T15:00:10.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-ice-cream-official-mv-out-now-yeonjun-icecream-yeonjun-icecream-nolabels-part02",
       "title": "'Ice Cream' Official MV out now 🍦 #YEONJUN #연준 #IceCream #YEONJUN_IceCream #NOLABELS_PART02",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-08T05:00:07.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "6_roe46FAhs",
-      "title": "YEONJUN (연준) 'Ice Cream' Official MV Teaser",
-      "url": "https://www.youtube.com/watch?v=6_roe46FAhs",
-      "videoId": "6_roe46FAhs",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/6_roe46FAhs/mqdefault.jpg",
-      "publishedAt": "2026-07-07T15:00:02.000Z",
       "group": "bts",
       "bucket": "bts"
     }
