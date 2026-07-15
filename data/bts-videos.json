@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-15T08:13:02.989Z",
+  "updatedAt": "2026-07-15T18:53:15.544Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "5ZLMJyoJIsk",
+      "title": "BTS (방탄소년단) ‘NORMAL’ Official Teaser",
+      "url": "https://www.youtube.com/watch?v=5ZLMJyoJIsk",
+      "videoId": "5ZLMJyoJIsk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/5ZLMJyoJIsk/mqdefault.jpg",
+      "publishedAt": "2026-07-15T15:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "aoen-gaku-",
+      "title": "aoen GAKUのオーディションエピソードを公開✨ みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
+      "url": "https://www.youtube.com/shorts/v0vDf4q7HkU",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-15T10:00:21.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-picheolin-narr-official-mv",
+      "title": "피철인 (Picheolin) '아프지 않은 이별은 없다 (narr. 이문세)' Official MV",
+      "url": "https://www.youtube.com/shorts/pibuMprWvfg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-15T09:16:32.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "yD-f74AkR8s",
+      "title": "YEONJUN (연준) 'Ice Cream' Official MV (Performance Ver.)",
+      "url": "https://www.youtube.com/watch?v=yD-f74AkR8s",
+      "videoId": "yD-f74AkR8s",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/yD-f74AkR8s/mqdefault.jpg",
+      "publishedAt": "2026-07-15T09:00:11.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "ZUwci10mUn8",
       "title": "SANTOS BRAVOS - \"VELOCIDADE\" (Special Performance Video) | TEASER",
@@ -10,72 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/ZUwci10mUn8/mqdefault.jpg",
       "publishedAt": "2026-07-15T02:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-picheolin-narr-official-mv-teaser",
-      "title": "피철인 (Picheolin) '아프지 않은 이별은 없다 (narr. 이문세)' Official MV Teaser",
-      "url": "https://www.youtube.com/shorts/U0omUHK0QJ8",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-13T15:00:10.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-ice-cream-official-mv-out-now-yeonjun-icecream-yeonjun-icecream-nolabels-part02",
-      "title": "'Ice Cream' Official MV out now 🍦 #YEONJUN #연준 #IceCream #YEONJUN_IceCream #NOLABELS_PART02",
-      "url": "https://www.youtube.com/shorts/FnAVSByhHr8",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-10T04:00:07.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "ihvuwqlGHXs",
-      "title": "YEONJUN (연준) 'Ice Cream' Official MV",
-      "url": "https://www.youtube.com/watch?v=ihvuwqlGHXs",
-      "videoId": "ihvuwqlGHXs",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/ihvuwqlGHXs/mqdefault.jpg",
-      "publishedAt": "2026-07-10T03:58:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "aoen-",
-      "title": "aoenからメッセージが到着 ✉✨ みなさんのご応募、お待ちしています🫧",
-      "url": "https://www.youtube.com/shorts/U5cAs_Anups",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-10T03:35:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "vPw7QeLJzXU",
-      "title": "ILLIT (아일릿) 'I Got Your Back' Concept Film - FRUiTS Ver.",
-      "url": "https://www.youtube.com/watch?v=vPw7QeLJzXU",
-      "videoId": "vPw7QeLJzXU",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/vPw7QeLJzXU/mqdefault.jpg",
-      "publishedAt": "2026-07-09T07:59:57.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "OOfj5ceFqVA",
-      "title": "TXT (투모로우바이투게더) セツナハナビ (Setsuna Hanabi) - Concept Clip 'Bloom'",
-      "url": "https://www.youtube.com/watch?v=OOfj5ceFqVA",
-      "videoId": "OOfj5ceFqVA",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/OOfj5ceFqVA/mqdefault.jpg",
-      "publishedAt": "2026-07-08T09:01:16.000Z",
       "group": "bts",
       "bucket": "bts"
     }
