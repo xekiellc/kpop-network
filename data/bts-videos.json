@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-14T18:59:41.201Z",
+  "updatedAt": "2026-07-15T08:13:02.989Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "ZUwci10mUn8",
+      "title": "SANTOS BRAVOS - \"VELOCIDADE\" (Special Performance Video) | TEASER",
+      "url": "https://www.youtube.com/watch?v=ZUwci10mUn8",
+      "videoId": "ZUwci10mUn8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/ZUwci10mUn8/mqdefault.jpg",
+      "publishedAt": "2026-07-15T02:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-picheolin-narr-official-mv-teaser",
       "title": "피철인 (Picheolin) '아프지 않은 이별은 없다 (narr. 이문세)' Official MV Teaser",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/OOfj5ceFqVA/mqdefault.jpg",
       "publishedAt": "2026-07-08T09:01:16.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-official-film",
-      "title": "𝗩𝗘𝗥𝗡𝗢𝗡 '미아' Official Film",
-      "url": "https://www.youtube.com/shorts/ab7oDTHpvho",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-08T05:00:07.000Z",
       "group": "bts",
       "bucket": "bts"
     }
