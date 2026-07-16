@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T08:15:55.494Z",
+  "updatedAt": "2026-07-16T18:53:50.797Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.soompi.com/article/1855040wpp/cortis-aespa-tws-babymonster-le-sserafim-illit-and-more-earn-circle-million-and-platinum-certifications",
       "source": "Soompi",
       "description": "Circle Chart has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certification system for album sales, song downloads, and online streaming. Starting with music released on or after January 1, 2018, Circle Chart now certifies albums platinum once they reach 250,000 sales, while albums that… Continue reading CORTIS, aespa, TWS, BABYMONSTER, LE SSERAFIM, ILLIT, And More Earn Circle Million And Platinum Certifications Th",
-      "summary": "Circle Chart has announced new official certifications for multiple K-pop artists including aespa, BABYMONSTER, LE SSERAFIM, and ILLIT based on album sales and streaming metrics. The certifications recognize albums that have reached platinum and million-unit thresholds under Circle Chart's system that has been in place since 2018.",
+      "summary": "Circle Chart has announced new certifications for multiple K-pop artists including aespa, BABYMONSTER, LE SSERAFIM, and ILLIT, with albums achieving platinum status upon reaching 250,000 sales under the certification system implemented by the Korea Music Content Industry Association.",
       "publishedAt": "2026-07-15T19:59:37.000Z",
       "author": "E Cha",
       "group": "cortis"
@@ -23,17 +23,6 @@
       "publishedAt": "2026-07-15T16:06:00.000Z",
       "author": "E Cha",
       "group": "boynextdoor"
-    },
-    {
-      "id": "cortis-s-keonho-to-limit-performances-during-upcoming-tour-after-hand-injuries-s",
-      "title": "CORTIS’s Keonho To Limit Performances During Upcoming Tour After Hand Injuries + Shares Message To Fans",
-      "url": "https://www.soompi.com/article/1854906wpp/cortiss-keonho-to-limit-performances-during-upcoming-tour-after-hand-injuries-shares-message-to-fans",
-      "source": "Soompi",
-      "description": "CORTIS’s Keonho has suffered injuries to both of his hands. On July 15, BIGHIT MUSIC announced that Keonho will perform without choreography during CORTIS’s upcoming “PUT YOUR PHONE DOWN” tour and other scheduled activities after a fall left him with fractures around both little fingers. For the time being, he will also wear casts and… Continue reading CORTIS’s Keonho To Limit Performances During Upcoming Tour After Hand Injuries + Shares Message To Fans The post CORTIS’s Keonho To Limit Perform",
-      "summary": "CORTIS member Keonho sustained fractures to both of his little fingers from a fall and will perform without choreography during the upcoming \"PUT YOUR PHONE DOWN\" tour while wearing casts. BIGHIT MUSIC announced on July 15 that he will limit his activities during performances and scheduled appearances as he recovers from his injuries.",
-      "publishedAt": "2026-07-15T07:25:16.000Z",
-      "author": "MLim",
-      "group": "cortis"
     },
     {
       "id": "bts-swim-lawsuit-bad-bunny-ruling-taylor-swift-case-music-law-recap",
@@ -485,6 +474,17 @@
       "publishedAt": "2026-06-27T10:33:08Z",
       "author": "Rich Johnston",
       "group": "hybe"
+    },
+    {
+      "id": "cortis-s-keonho-to-limit-performances-during-upcoming-tour-after-hand-injuries-s",
+      "title": "CORTIS’s Keonho To Limit Performances During Upcoming Tour After Hand Injuries + Shares Message To Fans",
+      "url": "https://www.soompi.com/article/1854906wpp/cortiss-keonho-to-limit-performances-during-upcoming-tour-after-hand-injuries-shares-message-to-fans",
+      "source": "Soompi",
+      "description": "CORTIS’s Keonho has suffered injuries to both of his hands. On July 15, BIGHIT MUSIC announced that Keonho will perform without choreography during CORTIS’s upcoming “PUT YOUR PHONE DOWN” tour and other scheduled activities after a fall left him with fractures around both little fingers. For the time being, he will also wear casts and… Continue reading CORTIS’s Keonho To Limit Performances During Upcoming Tour After Hand Injuries + Shares Message To Fans The post CORTIS’s Keonho To Limit Perform",
+      "summary": "CORTIS member Keonho sustained fractures to both of his little fingers from a fall and will perform without choreography during the upcoming \"PUT YOUR PHONE DOWN\" tour while wearing casts. BIGHIT MUSIC announced on July 15 that he will limit his activities during performances and scheduled appearances as he recovers from his injuries.",
+      "publishedAt": "2026-07-15T07:25:16.000Z",
+      "author": "MLim",
+      "group": "cortis"
     },
     {
       "id": "watch-tvxq-s-changmin-txt-s-beomgyu-and-more-join-murder-club-in-new-ai-based-de",

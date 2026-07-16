@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-07-16T08:15:55.509Z",
+  "updatedAt": "2026-07-16T18:53:50.813Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "t3JYShnjNjM",
+      "title": "EVAN (에반) Debut Documentary Teaser 2",
+      "url": "https://www.youtube.com/watch?v=t3JYShnjNjM",
+      "videoId": "t3JYShnjNjM",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/t3JYShnjNjM/mqdefault.jpg",
+      "publishedAt": "2026-07-16T14:00:26.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-3jJWUp6G4g",
+      "title": "EVAN (에반) Debut Documentary Teaser 1",
+      "url": "https://www.youtube.com/watch?v=-3jJWUp6G4g",
+      "videoId": "-3jJWUp6G4g",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/-3jJWUp6G4g/mqdefault.jpg",
+      "publishedAt": "2026-07-16T14:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "AavXg5HRIWI",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.5 : IT MUST GO VIRAL",
+      "url": "https://www.youtube.com/watch?v=AavXg5HRIWI",
+      "videoId": "AavXg5HRIWI",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/AavXg5HRIWI/mqdefault.jpg",
+      "publishedAt": "2026-07-16T13:00:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "retYNQR6NMY",
+      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'ROUTE' Film (ENGENE Ver.)",
+      "url": "https://www.youtube.com/watch?v=retYNQR6NMY",
+      "videoId": "retYNQR6NMY",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/retYNQR6NMY/mqdefault.jpg",
+      "publishedAt": "2026-07-16T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-8dm-official-video",
+      "title": "𝗧𝗛𝗘 𝟴 '8DM' Official Video",
+      "url": "https://www.youtube.com/shorts/mDWwYdzTfGo",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-16T11:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "IVBN2dnJMGo",
       "title": "SANTOS BRAVOS - “VELOCIDADE” (Special Performance Video)",
@@ -21,39 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/5ZLMJyoJIsk/mqdefault.jpg",
       "publishedAt": "2026-07-15T15:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "aoen-gaku-",
-      "title": "aoen GAKUのオーディションエピソードを公開✨ みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
-      "url": "https://www.youtube.com/shorts/v0vDf4q7HkU",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-15T10:00:21.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-picheolin-narr-official-mv",
-      "title": "피철인 (Picheolin) '아프지 않은 이별은 없다 (narr. 이문세)' Official MV",
-      "url": "https://www.youtube.com/shorts/pibuMprWvfg",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-15T09:16:32.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "yD-f74AkR8s",
-      "title": "YEONJUN (연준) 'Ice Cream' Official MV (Performance Ver.)",
-      "url": "https://www.youtube.com/watch?v=yD-f74AkR8s",
-      "videoId": "yD-f74AkR8s",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/yD-f74AkR8s/mqdefault.jpg",
-      "publishedAt": "2026-07-15T09:00:11.000Z",
       "group": "bts",
       "bucket": "bts"
     },
