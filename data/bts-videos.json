@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-07-17T08:11:36.746Z",
+  "updatedAt": "2026-07-17T18:51:18.390Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "evan-debut-documentary",
+      "title": "EVAN (에반) Debut Documentary",
+      "url": "https://www.youtube.com/shorts/lDVJ5pziYS8",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-17T15:00:17.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "LAA9dNRaLeg",
+      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'MIDNIGHT BANK' Film (ENGENE Ver.)",
+      "url": "https://www.youtube.com/watch?v=LAA9dNRaLeg",
+      "videoId": "LAA9dNRaLeg",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/LAA9dNRaLeg/mqdefault.jpg",
+      "publishedAt": "2026-07-17T13:00:11.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-wonwoo-official-mv",
+      "title": "원우 (WONWOO) '봄, 여름, 가을, 겨울' Official MV",
+      "url": "https://www.youtube.com/shorts/cZqS6Axpf0k",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-17T09:03:47.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "t3JYShnjNjM",
       "title": "EVAN (에반) Debut Documentary Teaser 2",
@@ -21,61 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/-3jJWUp6G4g/mqdefault.jpg",
       "publishedAt": "2026-07-16T14:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "AavXg5HRIWI",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'HOME VIDEO' EP.5 : IT MUST GO VIRAL",
-      "url": "https://www.youtube.com/watch?v=AavXg5HRIWI",
-      "videoId": "AavXg5HRIWI",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/AavXg5HRIWI/mqdefault.jpg",
-      "publishedAt": "2026-07-16T13:00:18.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "retYNQR6NMY",
-      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'ROUTE' Film (ENGENE Ver.)",
-      "url": "https://www.youtube.com/watch?v=retYNQR6NMY",
-      "videoId": "retYNQR6NMY",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/retYNQR6NMY/mqdefault.jpg",
-      "publishedAt": "2026-07-16T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-8dm-official-video",
-      "title": "𝗧𝗛𝗘 𝟴 '8DM' Official Video",
-      "url": "https://www.youtube.com/shorts/mDWwYdzTfGo",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-16T11:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "IVBN2dnJMGo",
-      "title": "SANTOS BRAVOS - “VELOCIDADE” (Special Performance Video)",
-      "url": "https://www.youtube.com/watch?v=IVBN2dnJMGo",
-      "videoId": "IVBN2dnJMGo",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/IVBN2dnJMGo/mqdefault.jpg",
-      "publishedAt": "2026-07-16T01:58:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "5ZLMJyoJIsk",
-      "title": "BTS (방탄소년단) ‘NORMAL’ Official Teaser",
-      "url": "https://www.youtube.com/watch?v=5ZLMJyoJIsk",
-      "videoId": "5ZLMJyoJIsk",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/5ZLMJyoJIsk/mqdefault.jpg",
-      "publishedAt": "2026-07-15T15:00:00.000Z",
       "group": "bts",
       "bucket": "bts"
     }
