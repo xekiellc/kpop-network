@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-07-18T07:52:50.455Z",
+  "updatedAt": "2026-07-18T18:44:04.512Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "1qUKMzJ5U-I",
+      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'DORMANT' Film (ENGENE Ver.)",
+      "url": "https://www.youtube.com/watch?v=1qUKMzJ5U-I",
+      "videoId": "1qUKMzJ5U-I",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/1qUKMzJ5U-I/mqdefault.jpg",
+      "publishedAt": "2026-07-18T13:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "aoen-ruka-",
+      "title": "aoen RUKAのオーディションエピソードを公開✨みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
+      "url": "https://www.youtube.com/shorts/pBFgbad5faI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-18T10:00:26.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "evan-debut-documentary",
       "title": "EVAN (에반) Debut Documentary",
@@ -32,28 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-17T09:03:47.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "t3JYShnjNjM",
-      "title": "EVAN (에반) Debut Documentary Teaser 2",
-      "url": "https://www.youtube.com/watch?v=t3JYShnjNjM",
-      "videoId": "t3JYShnjNjM",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/t3JYShnjNjM/mqdefault.jpg",
-      "publishedAt": "2026-07-16T14:00:26.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-3jJWUp6G4g",
-      "title": "EVAN (에반) Debut Documentary Teaser 1",
-      "url": "https://www.youtube.com/watch?v=-3jJWUp6G4g",
-      "videoId": "-3jJWUp6G4g",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/-3jJWUp6G4g/mqdefault.jpg",
-      "publishedAt": "2026-07-16T14:00:05.000Z",
       "group": "bts",
       "bucket": "bts"
     }
