@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T18:51:18.376Z",
+  "updatedAt": "2026-07-18T07:52:50.442Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.soompi.com/article/1855481wpp/watch-txts-yeonjun-takes-1st-win-for-ice-cream-on-music-bank-performances-by-i-dle-girlset-and-more",
       "source": "Soompi",
       "description": "TXT’s Yeonjun has won his first music show trophy for “Ice Cream”! On the July 17 episode of “Music Bank,” the candidates for first place were Yeonjun’s “Ice Cream” and i-dle’s “Gimme Dat Love.” Yeonjun ultimately took the prize with a total of 6,920 points. Congratulations to Yeonjun! Watch the winner announcement and encore (with Beomgyu’s… Continue reading Watch: TXT’s Yeonjun Takes 1st Win For “Ice Cream” On “Music Bank”; Performances By i-dle, GIRLSET, And More The post Watch: TXT’s Yeonjun",
-      "summary": "TXT's Yeonjun won his first music show trophy for his solo single \"Ice Cream\" on the July 17 episode of Music Bank, defeating i-dle's \"Gimme Dat Love\" with 6,920 points.",
+      "summary": "TXT's Yeonjun won his first music show trophy for his solo single \"Ice Cream\" on the July 17 episode of \"Music Bank,\" defeating i-dle's \"Gimme Dat Love\" with 6,920 points.",
       "publishedAt": "2026-07-17T11:24:36.000Z",
       "author": "MLim",
       "group": "txt"
@@ -245,28 +245,6 @@
       "group": "hybe"
     },
     {
-      "id": "treasure-i-o-i-cortis-zerobaseone-akmu-bts-and-illit-top-circle-monthly-and-week",
-      "title": "TREASURE, I.O.I, CORTIS, ZEROBASEONE, AKMU, BTS, And ILLIT Top Circle Monthly And Weekly Charts",
-      "url": "http://www.soompi.com/article/1848256wpp/treasure-i-o-i-cortis-zerobaseone-akmu-bts-and-illit-top-circle-monthly-and-weekly-charts",
-      "source": "soompi",
-      "description": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart CORTIS topped the physical album chart for May with their recent EP “GREENGREEN,” which claimed two of the top three spots on the monthly chart. The regular version of…",
-      "summary": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart CORTIS topped the physical album chart for May with their recent EP “GREENGREEN,” which claimed two of the top three spots on the monthly chart. The regular version of…",
-      "publishedAt": "2026-06-16T21:35:01Z",
-      "author": "E Cha",
-      "group": "bts"
-    },
-    {
-      "id": "how-a-newly-introduced-grammys-category-could-change-everything-for-kpop",
-      "title": "How A Newly Introduced Grammys Category Could Change Everything For KPop",
-      "url": "https://www.forbes.com/sites/hannahabraham/2026/06/16/how-a-newly-introduced-grammys-category-could-change-everything-for-kpop/",
-      "source": "Forbes",
-      "description": "The 69th Grammy Awards will introduce a \"Best Asian Pop Music Performance\" category, a landmark structural change for artists historically overlooked by Western awards.",
-      "summary": "The 69th Grammy Awards will introduce a \"Best Asian Pop Music Performance\" category, a landmark structural change for artists historically overlooked by Western awards.",
-      "publishedAt": "2026-06-16T16:00:45Z",
-      "author": "Hannah Abraham, Contributor, \n Hannah Abraham, Contributor\n https://www.forbes.com/sites/hannahabraham/",
-      "group": "hybe"
-    },
-    {
       "id": "boynextdoor-i-o-i-cortis-and-bts-top-circle-weekly-charts",
       "title": "BOYNEXTDOOR, I.O.I, CORTIS, And BTS Top Circle Weekly Charts",
       "url": "http://www.soompi.com/article/1850230wpp/boynextdoor-i-o-i-cortis-and-bts-top-circle-weekly-charts",
@@ -484,6 +462,28 @@
       "summary": "KPop Demon Hunters Dolls was the most-read story on Bleeding Cool yesterday. Again. And as all the comics publisher solicitations fall out this week, why not follow them on Bleeding Cool with this handy tag? Lying In The Gutters is the daily runaround for the…",
       "publishedAt": "2026-06-28T08:18:08Z",
       "author": "Rich Johnston",
+      "group": "hybe"
+    },
+    {
+      "id": "treasure-i-o-i-cortis-zerobaseone-akmu-bts-and-illit-top-circle-monthly-and-week",
+      "title": "TREASURE, I.O.I, CORTIS, ZEROBASEONE, AKMU, BTS, And ILLIT Top Circle Monthly And Weekly Charts",
+      "url": "http://www.soompi.com/article/1848256wpp/treasure-i-o-i-cortis-zerobaseone-akmu-bts-and-illit-top-circle-monthly-and-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart CORTIS topped the physical album chart for May with their recent EP “GREENGREEN,” which claimed two of the top three spots on the monthly chart. The regular version of…",
+      "summary": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart CORTIS topped the physical album chart for May with their recent EP “GREENGREEN,” which claimed two of the top three spots on the monthly chart. The regular version of…",
+      "publishedAt": "2026-06-16T21:35:01Z",
+      "author": "E Cha",
+      "group": "bts"
+    },
+    {
+      "id": "how-a-newly-introduced-grammys-category-could-change-everything-for-kpop",
+      "title": "How A Newly Introduced Grammys Category Could Change Everything For KPop",
+      "url": "https://www.forbes.com/sites/hannahabraham/2026/06/16/how-a-newly-introduced-grammys-category-could-change-everything-for-kpop/",
+      "source": "Forbes",
+      "description": "The 69th Grammy Awards will introduce a \"Best Asian Pop Music Performance\" category, a landmark structural change for artists historically overlooked by Western awards.",
+      "summary": "The 69th Grammy Awards will introduce a \"Best Asian Pop Music Performance\" category, a landmark structural change for artists historically overlooked by Western awards.",
+      "publishedAt": "2026-06-16T16:00:45Z",
+      "author": "Hannah Abraham, Contributor, \n Hannah Abraham, Contributor\n https://www.forbes.com/sites/hannahabraham/",
       "group": "hybe"
     },
     {
