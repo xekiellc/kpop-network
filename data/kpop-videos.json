@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-18T18:44:04.514Z",
+  "updatedAt": "2026-07-19T08:21:19.250Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "GEk4jHwfFTA",
+      "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
+      "url": "https://www.youtube.com/watch?v=GEk4jHwfFTA",
+      "videoId": "GEk4jHwfFTA",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/GEk4jHwfFTA/mqdefault.jpg",
+      "publishedAt": "2026-07-19T04:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "1qUKMzJ5U-I",
       "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'DORMANT' Film (ENGENE Ver.)",
