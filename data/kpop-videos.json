@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-07-19T08:21:19.250Z",
+  "updatedAt": "2026-07-20T09:16:29.111Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "BNOwZyEYBNU",
+      "title": "ILLIT (아일릿) 'I Got Your Back’ Official MV Teaser 1",
+      "url": "https://www.youtube.com/watch?v=BNOwZyEYBNU",
+      "videoId": "BNOwZyEYBNU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/BNOwZyEYBNU/mqdefault.jpg",
+      "publishedAt": "2026-07-20T08:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "Wwa2LWO2nCw",
+      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'PEARL BITE' Film (ENGENE Ver.)",
+      "url": "https://www.youtube.com/watch?v=Wwa2LWO2nCw",
+      "videoId": "Wwa2LWO2nCw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/Wwa2LWO2nCw/mqdefault.jpg",
+      "publishedAt": "2026-07-19T13:00:08.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "GwET3d-dC5w",
+      "title": "aoen ‛HAJIMARI COLOR’ Official MV Teaser",
+      "url": "https://www.youtube.com/watch?v=GwET3d-dC5w",
+      "videoId": "GwET3d-dC5w",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/GwET3d-dC5w/mqdefault.jpg",
+      "publishedAt": "2026-07-19T08:59:57.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "GEk4jHwfFTA",
       "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
@@ -43,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-17T15:00:17.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "LAA9dNRaLeg",
-      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'MIDNIGHT BANK' Film (ENGENE Ver.)",
-      "url": "https://www.youtube.com/watch?v=LAA9dNRaLeg",
-      "videoId": "LAA9dNRaLeg",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/LAA9dNRaLeg/mqdefault.jpg",
-      "publishedAt": "2026-07-17T13:00:11.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-wonwoo-official-mv",
-      "title": "원우 (WONWOO) '봄, 여름, 가을, 겨울' Official MV",
-      "url": "https://www.youtube.com/shorts/cZqS6Axpf0k",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-17T09:03:47.000Z",
       "group": "bts",
       "bucket": "bts"
     },
