@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-20T19:22:46.032Z",
+  "updatedAt": "2026-07-21T08:31:10.121Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-picheolin-official-mv-teaser",
+      "title": "피철인 (Picheolin) '미쳐 미쳐' Official MV Teaser",
+      "url": "https://www.youtube.com/shorts/U20slTwMugw",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-21T03:00:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "katseye-animal-official-mv-teaser-1",
       "title": "KATSEYE (캣츠아이) \"Animal\" Official MV Teaser 1",
@@ -54,28 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/Wwa2LWO2nCw/mqdefault.jpg",
       "publishedAt": "2026-07-19T13:00:08.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "GwET3d-dC5w",
-      "title": "aoen ‛HAJIMARI COLOR’ Official MV Teaser",
-      "url": "https://www.youtube.com/watch?v=GwET3d-dC5w",
-      "videoId": "GwET3d-dC5w",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/GwET3d-dC5w/mqdefault.jpg",
-      "publishedAt": "2026-07-19T08:59:57.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "GEk4jHwfFTA",
-      "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
-      "url": "https://www.youtube.com/watch?v=GEk4jHwfFTA",
-      "videoId": "GEk4jHwfFTA",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/GEk4jHwfFTA/mqdefault.jpg",
-      "publishedAt": "2026-07-19T04:00:02.000Z",
       "group": "bts",
       "bucket": "bts"
     },
