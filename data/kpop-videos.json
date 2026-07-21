@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-21T08:31:10.121Z",
+  "updatedAt": "2026-07-21T19:01:37.250Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "cRvXIm9Q8vw",
+      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'NOOMAX' Film (ENGENE Ver.)",
+      "url": "https://www.youtube.com/watch?v=cRvXIm9Q8vw",
+      "videoId": "cRvXIm9Q8vw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/cRvXIm9Q8vw/mqdefault.jpg",
+      "publishedAt": "2026-07-21T13:00:04.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-picheolin-official-mv-teaser",
       "title": "피철인 (Picheolin) '미쳐 미쳐' Official MV Teaser",
@@ -54,17 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/BNOwZyEYBNU/mqdefault.jpg",
       "publishedAt": "2026-07-20T08:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "Wwa2LWO2nCw",
-      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'PEARL BITE' Film (ENGENE Ver.)",
-      "url": "https://www.youtube.com/watch?v=Wwa2LWO2nCw",
-      "videoId": "Wwa2LWO2nCw",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/Wwa2LWO2nCw/mqdefault.jpg",
-      "publishedAt": "2026-07-19T13:00:08.000Z",
       "group": "bts",
       "bucket": "bts"
     },
