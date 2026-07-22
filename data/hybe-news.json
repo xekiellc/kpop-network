@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:30:59.568Z",
+  "updatedAt": "2026-07-22T18:55:19.065Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.soompi.com/article/1856618wpp/txts-yeonjun-and-cortis-earn-double-crowns-on-circle-weekly-charts",
       "source": "Soompi",
       "description": "Circle Chart has revealed its chart rankings for the week of July 5 to July 11! Album Chart TXT’s Yeonjun achieved a double crown on this week’s charts, topping both the physical album chart and the digital download chart with his new solo ini album “NO LABELS: PART 02” and its title track “Ice Cream.”… Continue reading TXT’s Yeonjun And CORTIS Earn Double Crowns On Circle Weekly Charts The post TXT’s Yeonjun And CORTIS Earn Double Crowns On Circle Weekly Charts appeared first on Soompi.",
-      "summary": "TXT's Yeonjun topped both the physical album and digital download charts on Circle Chart for the week of July 5-11 with his solo album \"NO LABELS: PART 02\" and its title track \"Ice Cream.\" CORTIS also achieved double crowns on the weekly charts.",
+      "summary": "TXT's Yeonjun topped both the physical album and digital download charts on Circle Chart for the week of July 5-11 with his solo album \"NO LABELS: PART 02\" and its title track \"Ice Cream,\" while CORTIS also earned a double crown on the charts.",
       "publishedAt": "2026-07-21T22:15:46.000Z",
       "author": "E Cha",
       "group": "txt"
@@ -19,7 +19,7 @@
       "url": "https://www.soompi.com/article/1856610wpp/txts-yeonjun-scores-2nd-solo-entry-on-billboard-200-with-no-labels-part-02",
       "source": "Soompi",
       "description": "TXT’s Yeonjun has entered the Billboard 200 for the second time as a soloist! On July 21 local time, Billboard officially announced that Yeonjun’s new solo mini album “NO LABELS: PART 02” had debuted at No. 16 on its Top 200 Albums chart, its weekly ranking of the most popular albums in the United States.… Continue reading TXT’s Yeonjun Scores 2nd Solo Entry On Billboard 200 With “NO LABELS: PART 02” The post TXT’s Yeonjun Scores 2nd Solo Entry On Billboard 200 With “NO LABELS: PART 02” appeared",
-      "summary": "TXT's Yeonjun achieved his second Billboard 200 entry as a soloist when his mini album \"NO LABELS: PART 02\" debuted at number 16 on the chart. The album was officially announced on July 21.",
+      "summary": "TXT member Yeonjun's solo mini album \"NO LABELS: PART 02\" debuted at No. 16 on the Billboard 200 chart, marking his second solo entry on the rankings. The album was officially announced by Billboard on July 21.",
       "publishedAt": "2026-07-21T21:14:16.000Z",
       "author": "E Cha",
       "group": "txt"
@@ -111,6 +111,17 @@
       "publishedAt": "2026-06-23T12:00:11Z",
       "author": "Mark Guiducci",
       "group": "blackpink"
+    },
+    {
+      "id": "yeonjun-interview-no-labels-era-ice-cream-lead-single-and-life-beyond-txt",
+      "title": "YEONJUN Interview: NO LABELS Era, Ice Cream Lead Single and Life Beyond TXT",
+      "url": "https://www.esquireindia.co.in/entertainment/the-interview/yeonjun-on-no-labels-part-02-ice-cream-and-defining-himself-as-a-solo-artist",
+      "source": "Esquireindia.co.in",
+      "description": "YEONJUN’s NO LABELS: PART 02 showcases his artistic evolution, genre-blending tracks, and candid reflections on solo success, pressure, and creative freedom",
+      "summary": "YEONJUN’s NO LABELS: PART 02 showcases his artistic evolution, genre-blending tracks, and candid reflections on solo success, pressure, and creative freedom",
+      "publishedAt": "2026-07-21T10:23:05Z",
+      "author": "Puja Talwar",
+      "group": "txt"
     },
     {
       "id": "txt-yeonjun-no-labels-part-02-interview-k-pop-star-on-all-rounder-tag-and-indian",
