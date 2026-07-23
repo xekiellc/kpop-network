@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-07-22T18:55:19.051Z",
+  "updatedAt": "2026-07-23T08:32:20.215Z",
   "bucket": "hybe",
   "articles": [
-    {
-      "id": "txt-s-yeonjun-and-cortis-earn-double-crowns-on-circle-weekly-charts",
-      "title": "TXT’s Yeonjun And CORTIS Earn Double Crowns On Circle Weekly Charts",
-      "url": "https://www.soompi.com/article/1856618wpp/txts-yeonjun-and-cortis-earn-double-crowns-on-circle-weekly-charts",
-      "source": "Soompi",
-      "description": "Circle Chart has revealed its chart rankings for the week of July 5 to July 11! Album Chart TXT’s Yeonjun achieved a double crown on this week’s charts, topping both the physical album chart and the digital download chart with his new solo ini album “NO LABELS: PART 02” and its title track “Ice Cream.”… Continue reading TXT’s Yeonjun And CORTIS Earn Double Crowns On Circle Weekly Charts The post TXT’s Yeonjun And CORTIS Earn Double Crowns On Circle Weekly Charts appeared first on Soompi.",
-      "summary": "TXT's Yeonjun topped both the physical album and digital download charts on Circle Chart for the week of July 5-11 with his solo album \"NO LABELS: PART 02\" and its title track \"Ice Cream,\" while CORTIS also earned a double crown on the charts.",
-      "publishedAt": "2026-07-21T22:15:46.000Z",
-      "author": "E Cha",
-      "group": "txt"
-    },
-    {
-      "id": "txt-s-yeonjun-scores-2nd-solo-entry-on-billboard-200-with-no-labels-part-02-",
-      "title": "TXT’s Yeonjun Scores 2nd Solo Entry On Billboard 200 With “NO LABELS: PART 02”",
-      "url": "https://www.soompi.com/article/1856610wpp/txts-yeonjun-scores-2nd-solo-entry-on-billboard-200-with-no-labels-part-02",
-      "source": "Soompi",
-      "description": "TXT’s Yeonjun has entered the Billboard 200 for the second time as a soloist! On July 21 local time, Billboard officially announced that Yeonjun’s new solo mini album “NO LABELS: PART 02” had debuted at No. 16 on its Top 200 Albums chart, its weekly ranking of the most popular albums in the United States.… Continue reading TXT’s Yeonjun Scores 2nd Solo Entry On Billboard 200 With “NO LABELS: PART 02” The post TXT’s Yeonjun Scores 2nd Solo Entry On Billboard 200 With “NO LABELS: PART 02” appeared",
-      "summary": "TXT member Yeonjun's solo mini album \"NO LABELS: PART 02\" debuted at No. 16 on the Billboard 200 chart, marking his second solo entry on the rankings. The album was officially announced by Billboard on July 21.",
-      "publishedAt": "2026-07-21T21:14:16.000Z",
-      "author": "E Cha",
-      "group": "txt"
-    },
     {
       "id": "bts-the-city-arirang-new-york-2026-guide",
       "title": "BTS THE CITY ARIRANG - New York 2026 Guide",
@@ -201,6 +179,17 @@
       "group": "hybe"
     },
     {
+      "id": "txt-s-yeonjun-and-cortis-earn-double-crowns-on-circle-weekly-charts",
+      "title": "TXT’s Yeonjun And CORTIS Earn Double Crowns On Circle Weekly Charts",
+      "url": "http://www.soompi.com/article/1856618wpp/txts-yeonjun-and-cortis-earn-double-crowns-on-circle-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart has revealed its chart rankings for the week of July 5 to July 11! Album Chart TXT’s Yeonjun achieved a double crown on this week’s charts, topping both the physical album chart and the digital download chart with his new solo ini album “NO LABEL…",
+      "summary": "Circle Chart has revealed its chart rankings for the week of July 5 to July 11! Album Chart TXT’s Yeonjun achieved a double crown on this week’s charts, topping both the physical album chart and the digital download chart with his new solo ini album “NO LABEL…",
+      "publishedAt": "2026-07-21T22:15:46Z",
+      "author": "E Cha",
+      "group": "txt"
+    },
+    {
       "id": "ateez-i-o-i-riize-cortis-bts-seventeen-s-v8-and-illit-top-circle-monthly-and-wee",
       "title": "ATEEZ, I.O.I, RIIZE, CORTIS, BTS, SEVENTEEN’s V8, And ILLIT Top Circle Monthly And Weekly Charts",
       "url": "http://www.soompi.com/article/1855025wpp/ateez-i-o-i-riize-cortis-bts-seventeens-v8-and-illit-top-circle-monthly-and-weekly-charts",
@@ -243,17 +232,6 @@
       "publishedAt": "2026-06-26T20:38:19Z",
       "author": "Anna Bell",
       "group": "lesserafim"
-    },
-    {
-      "id": "german-top100-single-charts-2026-06-19-",
-      "title": "German Top100 Single Charts (2026.06.19)",
-      "url": "https://post.rlsbb.to/german-top100-single-charts-2026-06-19/",
-      "source": "Rlsbb.to",
-      "description": "Tracklist: 01. KITSCHKRIEG - Gut Genug (mit Blumengarten & Shirin David)02. Shakira - Dai Dai03. Summer Cem - KILLY MANJARO04. Justin Bieber - Beauty And A Beat05. Temper City - Self Aware06. Olivia Rodrigo - stupid song07. Zara Larsson - Lush Life08. Michael…",
-      "summary": "Tracklist: 01. KITSCHKRIEG - Gut Genug (mit Blumengarten & Shirin David)02. Shakira - Dai Dai03. Summer Cem - KILLY MANJARO04. Justin Bieber - Beauty And A Beat05. Temper City - Self Aware06. Olivia Rodrigo - stupid song07. Zara Larsson - Lush Life08. Michael…",
-      "publishedAt": "2026-06-21T16:39:52Z",
-      "author": "Kingman",
-      "group": "hybe"
     },
     {
       "id": "boynextdoor-i-o-i-cortis-and-bts-top-circle-weekly-charts",
@@ -473,6 +451,28 @@
       "summary": "KPop Demon Hunters \"Ramyeon Scene\" to SDCC was the most-read story on Bleeding Cool yesterday. And as all the comics publisher solicitations fall out, why not follow them on Bleeding Cool with this handy tag? Lying In The Gutters is the daily runaround for th…",
       "publishedAt": "2026-07-02T10:52:09Z",
       "author": "Rich Johnston",
+      "group": "hybe"
+    },
+    {
+      "id": "txt-s-yeonjun-scores-2nd-solo-entry-on-billboard-200-with-no-labels-part-02-",
+      "title": "TXT’s Yeonjun Scores 2nd Solo Entry On Billboard 200 With “NO LABELS: PART 02”",
+      "url": "https://www.soompi.com/article/1856610wpp/txts-yeonjun-scores-2nd-solo-entry-on-billboard-200-with-no-labels-part-02",
+      "source": "Soompi",
+      "description": "TXT’s Yeonjun has entered the Billboard 200 for the second time as a soloist! On July 21 local time, Billboard officially announced that Yeonjun’s new solo mini album “NO LABELS: PART 02” had debuted at No. 16 on its Top 200 Albums chart, its weekly ranking of the most popular albums in the United States.… Continue reading TXT’s Yeonjun Scores 2nd Solo Entry On Billboard 200 With “NO LABELS: PART 02” The post TXT’s Yeonjun Scores 2nd Solo Entry On Billboard 200 With “NO LABELS: PART 02” appeared",
+      "summary": "TXT member Yeonjun's solo mini album \"NO LABELS: PART 02\" debuted at No. 16 on the Billboard 200 chart, marking his second solo entry on the rankings. The album was officially announced by Billboard on July 21.",
+      "publishedAt": "2026-07-21T21:14:16.000Z",
+      "author": "E Cha",
+      "group": "txt"
+    },
+    {
+      "id": "german-top100-single-charts-2026-06-19-",
+      "title": "German Top100 Single Charts (2026.06.19)",
+      "url": "https://post.rlsbb.to/german-top100-single-charts-2026-06-19/",
+      "source": "Rlsbb.to",
+      "description": "Tracklist: 01. KITSCHKRIEG - Gut Genug (mit Blumengarten & Shirin David)02. Shakira - Dai Dai03. Summer Cem - KILLY MANJARO04. Justin Bieber - Beauty And A Beat05. Temper City - Self Aware06. Olivia Rodrigo - stupid song07. Zara Larsson - Lush Life08. Michael…",
+      "summary": "Tracklist: 01. KITSCHKRIEG - Gut Genug (mit Blumengarten & Shirin David)02. Shakira - Dai Dai03. Summer Cem - KILLY MANJARO04. Justin Bieber - Beauty And A Beat05. Temper City - Self Aware06. Olivia Rodrigo - stupid song07. Zara Larsson - Lush Life08. Michael…",
+      "publishedAt": "2026-06-21T16:39:52Z",
+      "author": "Kingman",
       "group": "hybe"
     },
     {
