@@ -1,15 +1,26 @@
 {
-  "updatedAt": "2026-07-23T18:56:38.200Z",
+  "updatedAt": "2026-07-24T08:29:11.809Z",
   "bucket": "bts",
   "videos": [
     {
-      "id": "m7k9UMcHbr0",
+      "id": "katseye-animal-official-mv",
       "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
-      "url": "https://www.youtube.com/watch?v=m7k9UMcHbr0",
-      "videoId": "m7k9UMcHbr0",
+      "url": "https://www.youtube.com/shorts/_biFjdtllkU",
+      "videoId": "",
       "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/m7k9UMcHbr0/mqdefault.jpg",
-      "publishedAt": "2026-07-23T11:07:59.000Z",
+      "thumbnail": "",
+      "publishedAt": "2026-07-24T04:01:24.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "boynextdoor-viral-alan-walker-remix-official-visualizer",
+      "title": "BOYNEXTDOOR 'VIRAL (Alan Walker Remix)' Official Visualizer",
+      "url": "https://www.youtube.com/shorts/SdzKxvCevd4",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-24T04:00:39.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -43,17 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-22T10:00:28.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-picheolin-official-mv",
-      "title": "피철인 (Picheolin) '미쳐 미쳐' Official MV",
-      "url": "https://www.youtube.com/shorts/1a-wpbdVbJI",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-22T09:22:31.000Z",
       "group": "bts",
       "bucket": "bts"
     }
