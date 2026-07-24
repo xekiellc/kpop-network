@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-07-24T08:29:11.811Z",
+  "updatedAt": "2026-07-24T19:09:40.307Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "xmnj1OhJBHM",
+      "title": "TWS (투어스) 'SODA SODA' Official MV Teaser 1",
+      "url": "https://www.youtube.com/watch?v=xmnj1OhJBHM",
+      "videoId": "xmnj1OhJBHM",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/xmnj1OhJBHM/mqdefault.jpg",
+      "publishedAt": "2026-07-24T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "8BbeT171y4Q",
+      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. Ayra Starr)' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=8BbeT171y4Q",
+      "videoId": "8BbeT171y4Q",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/8BbeT171y4Q/mqdefault.jpg",
+      "publishedAt": "2026-07-24T09:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "katseye-animal-official-mv",
       "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
@@ -32,28 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-22T16:01:12.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "Ck4n1HQMHfY",
-      "title": "ENHYPEN (엔하이픈) THE SIN : BLISS 'HAVEN' Film (ENGENE Ver.)",
-      "url": "https://www.youtube.com/watch?v=Ck4n1HQMHfY",
-      "videoId": "Ck4n1HQMHfY",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/Ck4n1HQMHfY/mqdefault.jpg",
-      "publishedAt": "2026-07-22T13:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "aoen-reo-",
-      "title": "aoen REOのオーディションエピソードを公開✨みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
-      "url": "https://www.youtube.com/shorts/YJoTi9TWS5w",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-22T10:00:28.000Z",
       "group": "bts",
       "bucket": "bts"
     },
