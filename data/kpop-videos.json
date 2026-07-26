@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-07-25T08:07:53.725Z",
+  "updatedAt": "2026-07-26T08:27:43.502Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "4CNQ_BVFl4E",
+      "title": "aoen ‛HAJIMARI COLOR’ Official Performance Video",
+      "url": "https://www.youtube.com/watch?v=4CNQ_BVFl4E",
+      "videoId": "4CNQ_BVFl4E",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/4CNQ_BVFl4E/mqdefault.jpg",
+      "publishedAt": "2026-07-25T11:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "2wJCu8Z1VcQ",
+      "title": "ILLIT (아일릿) 'I Got Your Back’ Official MV Teaser 2",
+      "url": "https://www.youtube.com/watch?v=2wJCu8Z1VcQ",
+      "videoId": "2wJCu8Z1VcQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/2wJCu8Z1VcQ/mqdefault.jpg",
+      "publishedAt": "2026-07-25T11:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-",
+      "title": "&TEAMからメッセージが到着 ✉✨ みなさんのご応募、お待ちしています🫧",
+      "url": "https://www.youtube.com/shorts/Ce6xHxkvEfs",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-25T10:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "xmnj1OhJBHM",
       "title": "TWS (투어스) 'SODA SODA' Official MV Teaser 1",
@@ -43,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-24T04:00:39.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "katseye-animal-official-mv-teaser-2",
-      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV Teaser 2",
-      "url": "https://www.youtube.com/shorts/uVKOtrGCLbo",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-22T16:01:12.000Z",
       "group": "bts",
       "bucket": "bts"
     },
