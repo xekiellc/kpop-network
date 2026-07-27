@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-07-26T08:27:43.500Z",
+  "updatedAt": "2026-07-27T19:09:12.862Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-fuma-from-andteam-official-",
+      "title": "#FUMA from @andTEAM_official のオーディションエピソードを公開✨みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
+      "url": "https://www.youtube.com/shorts/PqwfQTcl3nA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-27T10:00:19.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-enhypen-the-sin-bliss-preview",
+      "title": "#ENHYPEN 'THE SIN : BLISS' Preview",
+      "url": "https://www.youtube.com/shorts/HN3PwviQHQQ",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-26T13:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "_Pk6xfju3l0",
+      "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
+      "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0",
+      "videoId": "_Pk6xfju3l0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/_Pk6xfju3l0/mqdefault.jpg",
+      "publishedAt": "2026-07-26T11:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "4CNQ_BVFl4E",
       "title": "aoen ‛HAJIMARI COLOR’ Official Performance Video",
@@ -54,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/8BbeT171y4Q/mqdefault.jpg",
       "publishedAt": "2026-07-24T09:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "katseye-animal-official-mv",
-      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
-      "url": "https://www.youtube.com/shorts/_biFjdtllkU",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-24T04:01:24.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-viral-alan-walker-remix-official-visualizer",
-      "title": "BOYNEXTDOOR 'VIRAL (Alan Walker Remix)' Official Visualizer",
-      "url": "https://www.youtube.com/shorts/SdzKxvCevd4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-24T04:00:39.000Z",
       "group": "bts",
       "bucket": "bts"
     }
