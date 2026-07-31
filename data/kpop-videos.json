@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-07-30T19:07:17.779Z",
+  "updatedAt": "2026-07-31T08:51:10.580Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-motion-feat-juicy-j-is-out-now-cortis-cortis-motion-feat-juicyj",
+      "title": "'MOTION (feat. Juicy J)' is out now! #CORTIS #코르티스 #CORTIS_MOTION feat. #JuicyJ",
+      "url": "https://www.youtube.com/shorts/b4g1tz34pBk",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-07-31T04:08:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "h7ITAdTxdxM",
+      "title": "CORTIS (코르티스) ‘MOTION (feat. Juicy J)’ Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=h7ITAdTxdxM",
+      "videoId": "h7ITAdTxdxM",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/h7ITAdTxdxM/mqdefault.jpg",
+      "publishedAt": "2026-07-31T03:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-fuma-from-andteam-official-",
       "title": "#FUMA from @andTEAM_official のオーディションエピソードを公開✨みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-25T10:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "xmnj1OhJBHM",
-      "title": "TWS (투어스) 'SODA SODA' Official MV Teaser 1",
-      "url": "https://www.youtube.com/watch?v=xmnj1OhJBHM",
-      "videoId": "xmnj1OhJBHM",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/xmnj1OhJBHM/mqdefault.jpg",
-      "publishedAt": "2026-07-24T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "8BbeT171y4Q",
-      "title": "LE SSERAFIM (르세라핌) 'BOOMPALA (feat. Ayra Starr)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=8BbeT171y4Q",
-      "videoId": "8BbeT171y4Q",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/8BbeT171y4Q/mqdefault.jpg",
-      "publishedAt": "2026-07-24T09:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
