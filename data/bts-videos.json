@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-01T08:22:42.429Z",
+  "updatedAt": "2026-08-01T18:52:11.947Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-picheolin-prod-hitchhiker-official-mv-teaser-1",
+      "title": "피철인 (Picheolin) '놀아보세 (prod. Hitchhiker)' Official MV Teaser 1",
+      "url": "https://www.youtube.com/shorts/7viib7UtqVQ",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-01T13:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "harua-from-team-",
+      "title": "HARUA from &TEAM のオーディションエピソードを公開✨みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
+      "url": "https://www.youtube.com/shorts/evIdmpqax4g",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-01T11:30:19.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-enhypen-the-sin-bliss-trailer-vol-1-film",
       "title": "#ENHYPEN 'THE SIN : BLISS' Trailer vol.1 Film",
@@ -43,39 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-07-31T10:30:20.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-motion-feat-juicy-j-is-out-now-cortis-cortis-motion-feat-juicyj",
-      "title": "'MOTION (feat. Juicy J)' is out now! #CORTIS #코르티스 #CORTIS_MOTION feat. #JuicyJ",
-      "url": "https://www.youtube.com/shorts/b4g1tz34pBk",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-31T04:08:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "h7ITAdTxdxM",
-      "title": "CORTIS (코르티스) ‘MOTION (feat. Juicy J)’ Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=h7ITAdTxdxM",
-      "videoId": "h7ITAdTxdxM",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/h7ITAdTxdxM/mqdefault.jpg",
-      "publishedAt": "2026-07-31T03:59:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-fuma-from-andteam-official-",
-      "title": "#FUMA from @andTEAM_official のオーディションエピソードを公開✨みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
-      "url": "https://www.youtube.com/shorts/PqwfQTcl3nA",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-27T10:00:19.000Z",
       "group": "bts",
       "bucket": "bts"
     }
