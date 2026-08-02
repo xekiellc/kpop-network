@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-01T18:52:11.947Z",
+  "updatedAt": "2026-08-02T18:52:30.287Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "d1rWv8VeQO0",
+      "title": "TWS (투어스) 'SODA SODA' Official MV",
+      "url": "https://www.youtube.com/watch?v=d1rWv8VeQO0",
+      "videoId": "d1rWv8VeQO0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/d1rWv8VeQO0/mqdefault.jpg",
+      "publishedAt": "2026-08-02T14:58:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-picheolin-prod-hitchhiker-official-mv-teaser-2",
+      "title": "피철인 (Picheolin) '놀아보세 (prod. Hitchhiker)' Official MV Teaser 2",
+      "url": "https://www.youtube.com/shorts/yzwsDNg741Y",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-02T13:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "0Yq74xnAotQ",
+      "title": "Introductions : WE TUIDE",
+      "url": "https://www.youtube.com/watch?v=0Yq74xnAotQ",
+      "videoId": "0Yq74xnAotQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/0Yq74xnAotQ/mqdefault.jpg",
+      "publishedAt": "2026-08-02T12:59:55.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "QCXsrej5QSU",
+      "title": "＆TEAM KR 2nd Mini Album 'Mark on Me' Prologue Video : The Wolf Who Loved Red",
+      "url": "https://www.youtube.com/watch?v=QCXsrej5QSU",
+      "videoId": "QCXsrej5QSU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/QCXsrej5QSU/mqdefault.jpg",
+      "publishedAt": "2026-08-02T09:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-picheolin-prod-hitchhiker-official-mv-teaser-1",
       "title": "피철인 (Picheolin) '놀아보세 (prod. Hitchhiker)' Official MV Teaser 1",
@@ -21,50 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-08-01T11:30:19.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-enhypen-the-sin-bliss-trailer-vol-1-film",
-      "title": "#ENHYPEN 'THE SIN : BLISS' Trailer vol.1 Film",
-      "url": "https://www.youtube.com/shorts/eYmUfgqs59I",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-31T13:01:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "WUvoe48yJw0",
-      "title": "TWS (투어스) 'SODA SODA' Official MV Teaser 2",
-      "url": "https://www.youtube.com/watch?v=WUvoe48yJw0",
-      "videoId": "WUvoe48yJw0",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/WUvoe48yJw0/mqdefault.jpg",
-      "publishedAt": "2026-07-31T13:00:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-a2wcO5Yf3s",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : BLISS' Trailer vol.1 Film",
-      "url": "https://www.youtube.com/watch?v=-a2wcO5Yf3s",
-      "videoId": "-a2wcO5Yf3s",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/-a2wcO5Yf3s/mqdefault.jpg",
-      "publishedAt": "2026-07-31T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "nicholas-from-team-",
-      "title": "NICHOLAS from &TEAM のオーディションエピソードを公開✨みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
-      "url": "https://www.youtube.com/shorts/s4yYkK16CJk",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-07-31T10:30:20.000Z",
       "group": "bts",
       "bucket": "bts"
     }
