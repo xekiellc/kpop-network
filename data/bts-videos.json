@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-02T18:52:30.287Z",
+  "updatedAt": "2026-08-03T09:47:51.574Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-picheolin-prod-hitchhiker-official-mv",
+      "title": "피철인 (Picheolin) '놀아보세 (prod. Hitchhiker)'Official MV",
+      "url": "https://www.youtube.com/shorts/O0ijkl-08Xs",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-03T09:18:33.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "d1rWv8VeQO0",
       "title": "TWS (투어스) 'SODA SODA' Official MV",
@@ -32,39 +43,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/0Yq74xnAotQ/mqdefault.jpg",
       "publishedAt": "2026-08-02T12:59:55.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "QCXsrej5QSU",
-      "title": "＆TEAM KR 2nd Mini Album 'Mark on Me' Prologue Video : The Wolf Who Loved Red",
-      "url": "https://www.youtube.com/watch?v=QCXsrej5QSU",
-      "videoId": "QCXsrej5QSU",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/QCXsrej5QSU/mqdefault.jpg",
-      "publishedAt": "2026-08-02T09:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-picheolin-prod-hitchhiker-official-mv-teaser-1",
-      "title": "피철인 (Picheolin) '놀아보세 (prod. Hitchhiker)' Official MV Teaser 1",
-      "url": "https://www.youtube.com/shorts/7viib7UtqVQ",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-01T13:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "harua-from-team-",
-      "title": "HARUA from &TEAM のオーディションエピソードを公開✨みなさんも是非、一歩を踏み出してみてくださいね。ご応募、お待ちしています🫧",
-      "url": "https://www.youtube.com/shorts/evIdmpqax4g",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-01T11:30:19.000Z",
       "group": "bts",
       "bucket": "bts"
     }
