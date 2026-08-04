@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-03T19:16:39.445Z",
+  "updatedAt": "2026-08-04T19:17:16.005Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "potvVgeuwbI",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' Trailer : The First Mark Teaser",
+      "url": "https://www.youtube.com/watch?v=potvVgeuwbI",
+      "videoId": "potvVgeuwbI",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/potvVgeuwbI/mqdefault.jpg",
+      "publishedAt": "2026-08-04T08:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-picheolin-prod-hitchhiker-official-mv",
       "title": "피철인 (Picheolin) '놀아보세 (prod. Hitchhiker)'Official MV",
@@ -32,17 +43,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-08-02T13:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "0Yq74xnAotQ",
-      "title": "Introductions : WE TUIDE",
-      "url": "https://www.youtube.com/watch?v=0Yq74xnAotQ",
-      "videoId": "0Yq74xnAotQ",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/0Yq74xnAotQ/mqdefault.jpg",
-      "publishedAt": "2026-08-02T12:59:55.000Z",
       "group": "bts",
       "bucket": "bts"
     }
