@@ -1,5 +1,61 @@
 {
-  "updatedAt": "2026-08-08T06:55:01.811Z",
+  "updatedAt": "2026-08-09T18:22:37.138Z",
   "bucket": "bts",
-  "videos": []
+  "videos": [
+    {
+      "id": "pRNhhwf8RVc",
+      "title": "aoen ‛BOoM×2 DROP’ Official Performance Video",
+      "url": "https://www.youtube.com/watch?v=pRNhhwf8RVc",
+      "videoId": "pRNhhwf8RVc",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/pRNhhwf8RVc/mqdefault.jpg",
+      "publishedAt": "2026-08-08T13:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "meet-my-grls-tuide",
+      "title": "Meet my GRLS, TUIDE",
+      "url": "https://www.youtube.com/shorts/lIW3VSyY9HE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-07T14:06:36.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "get-to-know-tuide-seohee",
+      "title": "Get to know TUIDE : #SEOHEE",
+      "url": "https://www.youtube.com/shorts/9hcUYZQa_WE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-07T13:03:15.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "get-to-know-tuide-saki",
+      "title": "Get to know TUIDE : #SAKI",
+      "url": "https://www.youtube.com/shorts/qjwJk8UnJmE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-07T13:03:10.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "get-to-know-tuide-seah",
+      "title": "Get to know TUIDE : #SEAH",
+      "url": "https://www.youtube.com/shorts/Oa-8sXj_rsM",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-07T13:03:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    }
+  ]
 }
