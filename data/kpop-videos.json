@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-10T07:43:30.719Z",
+  "updatedAt": "2026-08-11T07:09:07.847Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "VPrHHG04rqc",
+      "title": "KATSEYE (캣츠아이) 'WILD' Highlight Medley",
+      "url": "https://www.youtube.com/watch?v=VPrHHG04rqc",
+      "videoId": "VPrHHG04rqc",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/VPrHHG04rqc/mqdefault.jpg",
+      "publishedAt": "2026-08-10T16:00:20.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "4idi_2X_GWM",
+      "title": "STEP ONE - WE TUNE #ELENA #SAKI #SEAH",
+      "url": "https://www.youtube.com/watch?v=4idi_2X_GWM",
+      "videoId": "4idi_2X_GWM",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/4idi_2X_GWM/mqdefault.jpg",
+      "publishedAt": "2026-08-10T13:00:10.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "uZ9YVzMjip0",
+      "title": "STEP ONE - WE TUNE #SEOYEON #YIHANI",
+      "url": "https://www.youtube.com/watch?v=uZ9YVzMjip0",
+      "videoId": "uZ9YVzMjip0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/uZ9YVzMjip0/mqdefault.jpg",
+      "publishedAt": "2026-08-10T13:00:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "jiU0JzfhS_M",
+      "title": "STEP ONE - WE TUNE #SEOHEE #JIA",
+      "url": "https://www.youtube.com/watch?v=jiU0JzfhS_M",
+      "videoId": "jiU0JzfhS_M",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/jiU0JzfhS_M/mqdefault.jpg",
+      "publishedAt": "2026-08-10T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "gKcuPELgt9E",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : BLISS' Main Visual vol.1 Film",
+      "url": "https://www.youtube.com/watch?v=gKcuPELgt9E",
+      "videoId": "gKcuPELgt9E",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/gKcuPELgt9E/mqdefault.jpg",
+      "publishedAt": "2026-08-10T12:59:51.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "pRNhhwf8RVc",
       "title": "aoen ‛BOoM×2 DROP’ Official Performance Video",
@@ -21,39 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-08-07T14:06:36.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "get-to-know-tuide-seohee",
-      "title": "Get to know TUIDE : #SEOHEE",
-      "url": "https://www.youtube.com/shorts/9hcUYZQa_WE",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-07T13:03:15.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "get-to-know-tuide-saki",
-      "title": "Get to know TUIDE : #SAKI",
-      "url": "https://www.youtube.com/shorts/qjwJk8UnJmE",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-07T13:03:10.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "get-to-know-tuide-seah",
-      "title": "Get to know TUIDE : #SEAH",
-      "url": "https://www.youtube.com/shorts/Oa-8sXj_rsM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-07T13:03:05.000Z",
       "group": "bts",
       "bucket": "bts"
     },
