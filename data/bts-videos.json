@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-12T18:45:17.234Z",
+  "updatedAt": "2026-08-13T07:28:33.210Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "yeonjun-fxxking-star-official-mv-out-now",
+      "title": "YEONJUN 'Fxxking Star' Official MV out now",
+      "url": "https://www.youtube.com/shorts/AJht69Do1sY",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-13T04:00:40.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "wNBzt5O1iyw",
+      "title": "YEONJUN (연준) 'Fxxking Star' Official MV",
+      "url": "https://www.youtube.com/watch?v=wNBzt5O1iyw",
+      "videoId": "wNBzt5O1iyw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/wNBzt5O1iyw/mqdefault.jpg",
+      "publishedAt": "2026-08-13T04:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "gZoIV96ipIk",
       "title": "STEP TWO - WE PLAY #TUIDE",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/uZ9YVzMjip0/mqdefault.jpg",
       "publishedAt": "2026-08-10T13:00:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "jiU0JzfhS_M",
-      "title": "STEP ONE - WE TUNE #SEOHEE #JIA",
-      "url": "https://www.youtube.com/watch?v=jiU0JzfhS_M",
-      "videoId": "jiU0JzfhS_M",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/jiU0JzfhS_M/mqdefault.jpg",
-      "publishedAt": "2026-08-10T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "gKcuPELgt9E",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : BLISS' Main Visual vol.1 Film",
-      "url": "https://www.youtube.com/watch?v=gKcuPELgt9E",
-      "videoId": "gKcuPELgt9E",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/gKcuPELgt9E/mqdefault.jpg",
-      "publishedAt": "2026-08-10T12:59:51.000Z",
       "group": "bts",
       "bucket": "bts"
     }
