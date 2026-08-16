@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T18:12:36.154Z",
+  "updatedAt": "2026-08-16T18:12:54.236Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://kpoppie.com/team-the-quiet-coup-inside-mark-on-me/",
       "source": "Kpoppie",
       "description": "On their KR 2nd mini album, the nine-piece stops performing softness and starts wielding it. This is what control looks like when it’s finally theirs. Kpoppie Magazine · By Simone Okafor-Bright · Photography courtesy of XY Labels There is a version of this photograph that never happened — the one where the styling team leans hard into the title, where “tame me” becomes a costume instead of a dare. That version doesn’t exist. What exists instead is a boy draped backward over a chair like it owes ",
-      "summary": "&TEAM released their second Korean mini album \"Mark on Me,\" showcasing a more controlled and powerful artistic direction as a nine-member group. The album represents a shift from performing softness to wielding it strategically, with styling and concept choices that reflect the group's increased creative control.",
+      "summary": "&TEAM released their second Korean mini album \"Mark on Me,\" showcasing a more assertive artistic direction where the group demonstrates greater creative control over their musical and visual presentation.",
       "publishedAt": "2026-08-11T22:15:40.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "andteam"
@@ -278,17 +278,6 @@
       "group": "bts"
     },
     {
-      "id": "watch-boynextdoor-oh-my-girl-btob-and-tvxq-s-leaders-come-together-in-knowing-br",
-      "title": "Watch: BOYNEXTDOOR, OH MY GIRL, BTOB, And TVXQ’s Leaders Come Together In “Knowing Bros” Preview",
-      "url": "http://www.soompi.com/article/1855020wpp/watch-boynextdoor-oh-my-girl-btob-and-tvxqs-leaders-come-together-in-knowing-bros-preview",
-      "source": "soompi",
-      "description": "Get ready for a fun “K-pop leader” special episode of “Knowing Bros” (“Ask Us Anything”)! The popular JTBC variety show has released a sneak peek of its next episode, which will feature the leaders of four idol groups as guests: TVXQ’s Yunho, BTOB’s Eunkwang,…",
-      "summary": "Get ready for a fun “K-pop leader” special episode of “Knowing Bros” (“Ask Us Anything”)! The popular JTBC variety show has released a sneak peek of its next episode, which will feature the leaders of four idol groups as guests: TVXQ’s Yunho, BTOB’s Eunkwang,…",
-      "publishedAt": "2026-07-15T17:10:35Z",
-      "author": "E Cha",
-      "group": "boynextdoor"
-    },
-    {
       "id": "k-trot-campaign-in-new-york-s-times-square-draws-attention-in-celebration-of-kor",
       "title": "K-Trot Campaign in New York's Times Square Draws Attention in Celebration of Korea's 81st Liberation Day",
       "url": "https://www.prnewswire.com/news-releases/k-trot-campaign-in-new-yorks-times-square-draws-attention-in-celebration-of-koreas-81st-liberation-day-302851659.html",
@@ -364,6 +353,17 @@
       "publishedAt": "2026-07-16T10:56:08Z",
       "author": "Rich Johnston",
       "group": "hybe"
+    },
+    {
+      "id": "watch-boynextdoor-oh-my-girl-btob-and-tvxq-s-leaders-come-together-in-knowing-br",
+      "title": "Watch: BOYNEXTDOOR, OH MY GIRL, BTOB, And TVXQ’s Leaders Come Together In “Knowing Bros” Preview",
+      "url": "http://www.soompi.com/article/1855020wpp/watch-boynextdoor-oh-my-girl-btob-and-tvxqs-leaders-come-together-in-knowing-bros-preview",
+      "source": "soompi",
+      "description": "Get ready for a fun “K-pop leader” special episode of “Knowing Bros” (“Ask Us Anything”)! The popular JTBC variety show has released a sneak peek of its next episode, which will feature the leaders of four idol groups as guests: TVXQ’s Yunho, BTOB’s Eunkwang,…",
+      "summary": "Get ready for a fun “K-pop leader” special episode of “Knowing Bros” (“Ask Us Anything”)! The popular JTBC variety show has released a sneak peek of its next episode, which will feature the leaders of four idol groups as guests: TVXQ’s Yunho, BTOB’s Eunkwang,…",
+      "publishedAt": "2026-07-15T17:10:35Z",
+      "author": "E Cha",
+      "group": "boynextdoor"
     },
     {
       "id": "txt-to-headline-2026-global-citizen-festival-in-new-york",

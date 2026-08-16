@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-15T18:12:36.165Z",
+  "updatedAt": "2026-08-16T18:12:54.248Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "txt-setsuna-hanabi-official-mv",
+      "title": "TXT (투모로우바이투게더) 'セツナハナビ (Setsuna Hanabi)' Official MV",
+      "url": "https://www.youtube.com/shorts/haEIraiKaEM",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-16T15:00:13.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "txt-setsuna-hanabi-official-teaser",
       "title": "TXT (투모로우바이투게더) 'セツナハナビ (Setsuna Hanabi)' Official Teaser",
@@ -54,28 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/-2cKaJkKDXQ/mqdefault.jpg",
       "publishedAt": "2026-08-13T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "evan-death-of-me-tracklist",
-      "title": "EVAN (에반) 'DEATH OF ME' Tracklist",
-      "url": "https://www.youtube.com/shorts/3qAv75mSQbU",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-13T11:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-team-kr-2nd-mini-album-mark-on-me-mood-video-tame-me-ver-",
-      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' Mood Video TAME ME ver.",
-      "url": "https://www.youtube.com/shorts/q_7noTiz5Sw",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-13T09:01:58.000Z",
       "group": "bts",
       "bucket": "bts"
     }
