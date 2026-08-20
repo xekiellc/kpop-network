@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-20T06:47:27.215Z",
+  "updatedAt": "2026-08-20T18:21:26.230Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "enhypen-s-no-doubt-becomes-their-4th-mv-to-hit-100-million-views",
+      "title": "ENHYPEN’s “No Doubt” Becomes Their 4th MV To Hit 100 Million Views",
+      "url": "https://www.soompi.com/article/1864339wpp/enhypens-no-doubt-becomes-their-4th-mv-to-hit-100-million-views",
+      "source": "Soompi",
+      "description": "ENHYPEN has hit the 100 million mark with yet another music video on YouTube! On August 20 at approximately 7:05 p.m. KST, ENHYPEN’s music video for their hit 2024 track “No Doubt” surpassed 100 million views on YouTube, making it their fourth music video to do so after “Drunk-Dazed,” “FEVER,” and “Bite Me.” ENHYPEN originally released… Continue reading ENHYPEN’s “No Doubt” Becomes Their 4th MV To Hit 100 Million Views The post ENHYPEN’s “No Doubt” Becomes Their 4th MV To Hit 100 Million Views a",
+      "summary": "ENHYPEN's music video for \"No Doubt\" reached 100 million views on YouTube on August 20, becoming their fourth music video to achieve this milestone alongside \"Drunk-Dazed,\" \"FEVER,\" and \"Bite Me.\"",
+      "publishedAt": "2026-08-20T11:18:13.000Z",
+      "author": "MLim",
+      "group": "enhypen"
+    },
     {
       "id": "highlights-from-kcon-la-2026-m-countdown-night-market-and-more",
       "title": "Highlights From KCON LA 2026: M Countdown, Night Market, And More",
@@ -78,6 +89,17 @@
       "publishedAt": "2026-07-31T16:52:19Z",
       "author": "Billboard Korea",
       "group": "bts"
+    },
+    {
+      "id": "inside-yeonjun-s-u-s-summer-ice-cream-takeover",
+      "title": "Inside Yeonjun’s U.S. Summer ‘Ice Cream’ Takeover",
+      "url": "https://www.forbes.com/sites/laurasirikul/2026/08/19/inside-yeonjuns-us-summer-ice-cream-takeover/",
+      "source": "Forbes",
+      "description": "K-pop superstar Yeonjun of TXT just finished his U.S. promos for his second EP, NO LABELS: PART 02, on a whirlwind trip to NY and LA for nonstop events.",
+      "summary": "K-pop superstar Yeonjun of TXT just finished his U.S. promos for his second EP, NO LABELS: PART 02, on a whirlwind trip to NY and LA for nonstop events.",
+      "publishedAt": "2026-08-19T15:00:00Z",
+      "author": "Laura Sirikul, Contributor, \n Laura Sirikul, Contributor\n https://www.forbes.com/sites/laurasirikul/",
+      "group": "txt"
     },
     {
       "id": "yeonjun-concert-photos-from-billboard-live-performance-and-q-a",
