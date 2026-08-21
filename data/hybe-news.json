@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:21:26.243Z",
+  "updatedAt": "2026-08-21T06:48:49.560Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,9 +8,20 @@
       "url": "https://www.soompi.com/article/1864339wpp/enhypens-no-doubt-becomes-their-4th-mv-to-hit-100-million-views",
       "source": "Soompi",
       "description": "ENHYPEN has hit the 100 million mark with yet another music video on YouTube! On August 20 at approximately 7:05 p.m. KST, ENHYPEN’s music video for their hit 2024 track “No Doubt” surpassed 100 million views on YouTube, making it their fourth music video to do so after “Drunk-Dazed,” “FEVER,” and “Bite Me.” ENHYPEN originally released… Continue reading ENHYPEN’s “No Doubt” Becomes Their 4th MV To Hit 100 Million Views The post ENHYPEN’s “No Doubt” Becomes Their 4th MV To Hit 100 Million Views a",
-      "summary": "ENHYPEN's music video for \"No Doubt\" reached 100 million views on YouTube on August 20, becoming their fourth music video to achieve this milestone alongside \"Drunk-Dazed,\" \"FEVER,\" and \"Bite Me.\"",
+      "summary": "ENHYPEN's music video for \"No Doubt\" surpassed 100 million views on YouTube on August 20, becoming their fourth music video to reach this milestone alongside \"Drunk-Dazed,\" \"FEVER,\" and \"Bite Me.\"",
       "publishedAt": "2026-08-20T11:18:13.000Z",
       "author": "MLim",
+      "group": "enhypen"
+    },
+    {
+      "id": "enhypen-drops-latest-installment-in-the-sin-series-with-bliss-stream-it-now",
+      "title": "ENHYPEN Drops Latest Installment in ‘THE SIN’ Series With ‘BLISS’: Stream It Now",
+      "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-stream-it-now-1236321606/",
+      "source": "Billboard",
+      "description": "THE SIN : BLISS is the K-pop group's eighth mini-album.",
+      "summary": "ENHYPEN has released \"THE SIN: BLISS,\" their eighth mini-album, as the latest installment in the \"THE SIN\" series.",
+      "publishedAt": "2026-08-21T04:10:39.000Z",
+      "author": "Lars Brandle",
       "group": "enhypen"
     },
     {
@@ -89,6 +100,17 @@
       "publishedAt": "2026-07-31T16:52:19Z",
       "author": "Billboard Korea",
       "group": "bts"
+    },
+    {
+      "id": "kcon-la-2026-draws-record-142-000-fans-biggest-crowd-in-festival-history",
+      "title": "KCON LA 2026 Draws Record 142,000 Fans, Biggest Crowd In Festival History",
+      "url": "https://www.forbes.com/sites/jeffbenjamin/2026/08/19/kcon-la-2026-draws-record-142000-fans-biggest-crowd-in-festival-history/",
+      "source": "Forbes",
+      "description": "KCON LA 2026 drew 142,000 fans over 3 days, a new attendance record over its 2023 and 2024 highs in LA and Japan for biggest yet with NCT 127, TXT, P1Harmony and more.",
+      "summary": "KCON LA 2026 drew 142,000 fans over 3 days, a new attendance record over its 2023 and 2024 highs in LA and Japan for biggest yet with NCT 127, TXT, P1Harmony and more.",
+      "publishedAt": "2026-08-19T20:15:59Z",
+      "author": "Jeff Benjamin, Senior Contributor, \n Jeff Benjamin, Senior Contributor\n https://www.forbes.com/sites/jeffbenjamin/",
+      "group": "txt"
     },
     {
       "id": "inside-yeonjun-s-u-s-summer-ice-cream-takeover",
@@ -318,17 +340,6 @@
       "description": "Ted Lasso Season 4 was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steeped in a history of comic …",
       "summary": "Ted Lasso Season 4 was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steeped in a history of comic …",
       "publishedAt": "2026-07-20T10:59:09Z",
-      "author": "Rich Johnston",
-      "group": "hybe"
-    },
-    {
-      "id": "reacher-spinoff-neagley-gets-a-poster-in-the-daily-litg-19th-july-2026",
-      "title": "Reacher Spinoff Neagley Gets A Poster in The Daily LITG 19th July 2026",
-      "url": "https://bleedingcool.com/tv/reacher-spinoff-neagley-gets-a-poster-in-the-daily-litg-19th-july-2026/",
-      "source": "Bleeding Cool News",
-      "description": "The poster for the Reacher spinoff Neagley was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steepe…",
-      "summary": "The poster for the Reacher spinoff Neagley was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steepe…",
-      "publishedAt": "2026-07-19T10:59:09Z",
       "author": "Rich Johnston",
       "group": "hybe"
     }
