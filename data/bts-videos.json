@@ -1,5 +1,83 @@
 {
-  "updatedAt": "2026-08-21T06:48:49.560Z",
+  "updatedAt": "2026-08-21T18:20:29.518Z",
   "bucket": "bts",
-  "videos": []
+  "videos": [
+    {
+      "id": "-enhypen-bloody-paradise-official-mv",
+      "title": "#ENHYPEN (#엔하이픈) 'Bloody Paradise' Official MV",
+      "url": "https://www.youtube.com/shorts/wkRa3yuoZkM",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-21T15:01:40.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "MT-4Bk1Lw8g",
+      "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
+      "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g",
+      "videoId": "MT-4Bk1Lw8g",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/MT-4Bk1Lw8g/mqdefault.jpg",
+      "publishedAt": "2026-08-21T14:58:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "r0KCLM79ab8",
+      "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV Teaser 1",
+      "url": "https://www.youtube.com/watch?v=r0KCLM79ab8",
+      "videoId": "r0KCLM79ab8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/r0KCLM79ab8/mqdefault.jpg",
+      "publishedAt": "2026-08-20T12:59:57.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "t2bjOLxNvuw",
+      "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official Teaser 2",
+      "url": "https://www.youtube.com/watch?v=t2bjOLxNvuw",
+      "videoId": "t2bjOLxNvuw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/t2bjOLxNvuw/mqdefault.jpg",
+      "publishedAt": "2026-08-19T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "boynextdoor-boom-boom-boom-official-mv-boynextdoor-bnd-boomboomboom",
+      "title": "BOYNEXTDOOR 'Boom Boom Boom' Official MV #BOYNEXTDOOR #보이넥스트도어 #BND #BoomBoomBoom",
+      "url": "https://www.youtube.com/shorts/WSrGTR1CK4s",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-17T15:01:34.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "ntLoF0LnAwY",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'Boom Boom Boom' Official MV",
+      "url": "https://www.youtube.com/watch?v=ntLoF0LnAwY",
+      "videoId": "ntLoF0LnAwY",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/ntLoF0LnAwY/mqdefault.jpg",
+      "publishedAt": "2026-08-17T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "OeMwAsRgtS4",
+      "title": "STEP THREE - How we TUNE & PLAY #TUIDE",
+      "url": "https://www.youtube.com/watch?v=OeMwAsRgtS4",
+      "videoId": "OeMwAsRgtS4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/OeMwAsRgtS4/mqdefault.jpg",
+      "publishedAt": "2026-08-17T13:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    }
+  ]
 }
