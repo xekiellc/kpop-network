@@ -1,5 +1,72 @@
 {
-  "updatedAt": "2026-08-24T07:00:01.739Z",
+  "updatedAt": "2026-08-24T18:22:36.293Z",
   "bucket": "bts",
-  "videos": []
+  "videos": [
+    {
+      "id": "-pack-it-up-official-visualizer-out-now-cortis-cortis-packitup-greengreen-playex",
+      "title": "‘PACK IT UP’ Official Visualizer out now! #CORTIS #코르티스 #CORTIS_PACKITUP #GREENGREEN_playextended",
+      "url": "https://www.youtube.com/shorts/qAUmbTp2Bjg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T12:01:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "TZWiMoQpr8c",
+      "title": "CORTIS (코르티스) ‘PACK IT UP’ Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=TZWiMoQpr8c",
+      "videoId": "TZWiMoQpr8c",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/TZWiMoQpr8c/mqdefault.jpg",
+      "publishedAt": "2026-08-24T11:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "evan-death-of-me-track-sampler-noise",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Noise",
+      "url": "https://www.youtube.com/shorts/SMyj7efYfYU",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T11:00:28.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "evan-death-of-me-track-sampler-going-home",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Going Home",
+      "url": "https://www.youtube.com/shorts/0Q5sJ25Okig",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T10:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "tuide-sun-kiss-official-mv",
+      "title": "TUIDE (튜이드) 'SUN KISS' Official MV",
+      "url": "https://www.youtube.com/shorts/WGaejykDnoI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T09:19:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "dino-like-it-official-mv",
+      "title": "DINO 'LIKE IT' Official MV",
+      "url": "https://www.youtube.com/shorts/yFrAqFNeVlk",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T09:00:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    }
+  ]
 }

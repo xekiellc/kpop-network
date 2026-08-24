@@ -1,5 +1,160 @@
 {
-  "updatedAt": "2026-08-24T07:00:01.741Z",
+  "updatedAt": "2026-08-24T18:22:36.295Z",
   "bucket": "kpop",
-  "videos": []
+  "videos": [
+    {
+      "id": "-pack-it-up-official-visualizer-out-now-cortis-cortis-packitup-greengreen-playex",
+      "title": "‘PACK IT UP’ Official Visualizer out now! #CORTIS #코르티스 #CORTIS_PACKITUP #GREENGREEN_playextended",
+      "url": "https://www.youtube.com/shorts/qAUmbTp2Bjg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T12:01:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "TZWiMoQpr8c",
+      "title": "CORTIS (코르티스) ‘PACK IT UP’ Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=TZWiMoQpr8c",
+      "videoId": "TZWiMoQpr8c",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/TZWiMoQpr8c/mqdefault.jpg",
+      "publishedAt": "2026-08-24T11:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "evan-death-of-me-track-sampler-noise",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Noise",
+      "url": "https://www.youtube.com/shorts/SMyj7efYfYU",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T11:00:28.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "evan-death-of-me-track-sampler-going-home",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Going Home",
+      "url": "https://www.youtube.com/shorts/0Q5sJ25Okig",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T10:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "tuide-sun-kiss-official-mv",
+      "title": "TUIDE (튜이드) 'SUN KISS' Official MV",
+      "url": "https://www.youtube.com/shorts/WGaejykDnoI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T09:19:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "dino-like-it-official-mv",
+      "title": "DINO 'LIKE IT' Official MV",
+      "url": "https://www.youtube.com/shorts/yFrAqFNeVlk",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-24T09:00:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "0HSvBs73UXA",
+      "title": "BLACKPINK 10 YEARS : IN YOUR AREA - The Station",
+      "url": "https://www.youtube.com/watch?v=0HSvBs73UXA",
+      "videoId": "0HSvBs73UXA",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/0HSvBs73UXA/mqdefault.jpg",
+      "publishedAt": "2026-08-11T07:29:15.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "blackpink-10th-anniversary-meet-greet-",
+      "title": "BLACKPINK 10th Anniversary MEET & GREET 🖤💗",
+      "url": "https://www.youtube.com/shorts/uw4OYow_v7Y",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-08-17T09:00:25.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "k--lCrP69hg",
+      "title": "BLACKPINK 10TH ANNIVERSARY",
+      "url": "https://www.youtube.com/watch?v=k--lCrP69hg",
+      "videoId": "k--lCrP69hg",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/k--lCrP69hg/mqdefault.jpg",
+      "publishedAt": "2026-08-08T02:59:56.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "w1ayRv8j5yk",
+      "title": "BLACKPINK - DEADLINE JACKET MAKING FILM",
+      "url": "https://www.youtube.com/watch?v=w1ayRv8j5yk",
+      "videoId": "w1ayRv8j5yk",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/w1ayRv8j5yk/mqdefault.jpg",
+      "publishedAt": "2026-03-13T10:00:03.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "0LLFprdOHqo",
+      "title": "BLACKPINK - 'GO' M/V Behind the Scenes",
+      "url": "https://www.youtube.com/watch?v=0LLFprdOHqo",
+      "videoId": "0LLFprdOHqo",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/0LLFprdOHqo/mqdefault.jpg",
+      "publishedAt": "2026-03-09T09:00:03.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-lisa",
+      "title": "‘GO’ with LISA",
+      "url": "https://www.youtube.com/shorts/1EmQk31ImH0",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-09T08:30:01.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-ros-",
+      "title": "‘GO’ with ROSÉ",
+      "url": "https://www.youtube.com/shorts/7F-XXeRzNb8",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-09T08:00:06.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-jennie",
+      "title": "‘GO’ with JENNIE",
+      "url": "https://www.youtube.com/shorts/_lK8YkoOYUI",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-05T08:30:01.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    }
+  ]
 }
