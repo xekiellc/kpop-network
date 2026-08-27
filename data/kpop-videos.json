@@ -1,17 +1,83 @@
 {
-  "updatedAt": "2026-08-26T06:51:10.115Z",
+  "updatedAt": "2026-08-27T17:24:59.182Z",
   "bucket": "kpop",
   "videos": [
     {
-      "id": "0HSvBs73UXA",
-      "title": "BLACKPINK 10 YEARS : IN YOUR AREA - The Station",
-      "url": "https://www.youtube.com/watch?v=0HSvBs73UXA",
-      "videoId": "0HSvBs73UXA",
-      "channelName": "BLACKPINK",
-      "thumbnail": "https://img.youtube.com/vi/0HSvBs73UXA/mqdefault.jpg",
-      "publishedAt": "2026-08-11T07:29:15.000Z",
-      "group": "blackpink",
-      "bucket": "kpop"
+      "id": "OPgr9Gc5oZk",
+      "title": "LE SSERAFIM (르세라핌) YOU JUST MADE MY NIGHT",
+      "url": "https://www.youtube.com/watch?v=OPgr9Gc5oZk",
+      "videoId": "OPgr9Gc5oZk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/OPgr9Gc5oZk/mqdefault.jpg",
+      "publishedAt": "2026-08-27T15:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "LwFVLh5q33E",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler",
+      "url": "https://www.youtube.com/watch?v=LwFVLh5q33E",
+      "videoId": "LwFVLh5q33E",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/LwFVLh5q33E/mqdefault.jpg",
+      "publishedAt": "2026-08-27T11:05:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "tws-soda-soda-performance-film",
+      "title": "TWS (투어스) 'SODA SODA' Performance Film",
+      "url": "https://www.youtube.com/shorts/ns2T5VJHfKk",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-27T11:00:20.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "evan-death-of-me-track-sampler-overflow",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Overflow",
+      "url": "https://www.youtube.com/shorts/rx-9OEuWe_0",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-27T11:00:14.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "evan-death-of-me-track-sampler-ride-or-die",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Ride or Die",
+      "url": "https://www.youtube.com/shorts/nVaj6uziMSE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-27T11:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "evan-death-of-me-track-sampler-twilight",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Twilight",
+      "url": "https://www.youtube.com/shorts/QOAga2HT-18",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-26T11:00:15.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "evan-death-of-me-track-sampler-death-of-me",
+      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Death of Me",
+      "url": "https://www.youtube.com/shorts/JYokdoPDEok",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-26T10:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
     },
     {
       "id": "blackpink-10th-anniversary-meet-greet-",
@@ -87,6 +153,17 @@
       "channelName": "BLACKPINK",
       "thumbnail": "",
       "publishedAt": "2026-03-05T08:30:01.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-jisoo",
+      "title": "‘GO’ with JISOO",
+      "url": "https://www.youtube.com/shorts/v33fDKrzbhg",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-05T08:01:02.000Z",
       "group": "blackpink",
       "bucket": "kpop"
     }
