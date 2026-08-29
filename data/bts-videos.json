@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-08-27T17:24:59.181Z",
+  "updatedAt": "2026-08-29T12:26:43.003Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "4MAcunUpN4w",
+      "title": "LE SSERAFIM (르세라핌) THE MMN SHOW",
+      "url": "https://www.youtube.com/watch?v=4MAcunUpN4w",
+      "videoId": "4MAcunUpN4w",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/4MAcunUpN4w/mqdefault.jpg",
+      "publishedAt": "2026-08-28T15:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "t6nGxr5sz40",
+      "title": "TUIDE DEBUT SHOWCASE [TUNE & PLAY]",
+      "url": "https://www.youtube.com/watch?v=t6nGxr5sz40",
+      "videoId": "t6nGxr5sz40",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/t6nGxr5sz40/mqdefault.jpg",
+      "publishedAt": "2026-08-28T11:59:10.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "CTQck82MZ94",
+      "title": "BIGHIT MUSIC HIT IT BASE 2026 - Final Show",
+      "url": "https://www.youtube.com/watch?v=CTQck82MZ94",
+      "videoId": "CTQck82MZ94",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/CTQck82MZ94/mqdefault.jpg",
+      "publishedAt": "2026-08-28T03:00:22.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "OPgr9Gc5oZk",
       "title": "LE SSERAFIM (르세라핌) YOU JUST MADE MY NIGHT",
@@ -54,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-08-27T11:00:03.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "evan-death-of-me-track-sampler-twilight",
-      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Twilight",
-      "url": "https://www.youtube.com/shorts/QOAga2HT-18",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-26T11:00:15.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "evan-death-of-me-track-sampler-death-of-me",
-      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Death of Me",
-      "url": "https://www.youtube.com/shorts/JYokdoPDEok",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-26T10:59:59.000Z",
       "group": "bts",
       "bucket": "bts"
     }
