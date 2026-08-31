@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-08-29T20:07:09.874Z",
+  "updatedAt": "2026-08-31T12:57:29.591Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-f",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler F",
+      "url": "https://www.youtube.com/shorts/8JmaTZMM79A",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-31T09:03:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-e",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler E",
+      "url": "https://www.youtube.com/shorts/YskN3AEQ9jA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-31T09:02:33.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-d",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler D",
+      "url": "https://www.youtube.com/shorts/uPVkZdSu9jw",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-31T09:01:43.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-c",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler C",
+      "url": "https://www.youtube.com/shorts/rR-lLhKpQf4",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-31T09:01:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-b",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler B",
+      "url": "https://www.youtube.com/shorts/-0QICNq6ZMQ",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-31T09:00:33.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-a",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler A",
+      "url": "https://www.youtube.com/shorts/nl-AYqo9YJA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-31T08:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "_9KLBtIMdEs",
+      "title": "LE SSERAFIM (르세라핌) OUR DELUSION (Single CD ver.) 🎙️✨",
+      "url": "https://www.youtube.com/watch?v=_9KLBtIMdEs",
+      "videoId": "_9KLBtIMdEs",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/_9KLBtIMdEs/mqdefault.jpg",
+      "publishedAt": "2026-08-30T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "4MAcunUpN4w",
       "title": "LE SSERAFIM (르세라핌) THE MMN SHOW",
@@ -10,83 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/4MAcunUpN4w/mqdefault.jpg",
       "publishedAt": "2026-08-28T15:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "t6nGxr5sz40",
-      "title": "TUIDE DEBUT SHOWCASE [TUNE & PLAY]",
-      "url": "https://www.youtube.com/watch?v=t6nGxr5sz40",
-      "videoId": "t6nGxr5sz40",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/t6nGxr5sz40/mqdefault.jpg",
-      "publishedAt": "2026-08-28T11:59:10.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "CTQck82MZ94",
-      "title": "BIGHIT MUSIC HIT IT BASE 2026 - Final Show",
-      "url": "https://www.youtube.com/watch?v=CTQck82MZ94",
-      "videoId": "CTQck82MZ94",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/CTQck82MZ94/mqdefault.jpg",
-      "publishedAt": "2026-08-28T03:00:22.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "OPgr9Gc5oZk",
-      "title": "LE SSERAFIM (르세라핌) YOU JUST MADE MY NIGHT",
-      "url": "https://www.youtube.com/watch?v=OPgr9Gc5oZk",
-      "videoId": "OPgr9Gc5oZk",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/OPgr9Gc5oZk/mqdefault.jpg",
-      "publishedAt": "2026-08-27T15:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "LwFVLh5q33E",
-      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler",
-      "url": "https://www.youtube.com/watch?v=LwFVLh5q33E",
-      "videoId": "LwFVLh5q33E",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/LwFVLh5q33E/mqdefault.jpg",
-      "publishedAt": "2026-08-27T11:05:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-soda-soda-performance-film",
-      "title": "TWS (투어스) 'SODA SODA' Performance Film",
-      "url": "https://www.youtube.com/shorts/ns2T5VJHfKk",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-27T11:00:20.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "evan-death-of-me-track-sampler-overflow",
-      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Overflow",
-      "url": "https://www.youtube.com/shorts/rx-9OEuWe_0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-27T11:00:14.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "evan-death-of-me-track-sampler-ride-or-die",
-      "title": "EVAN (에반) 'DEATH OF ME' Track Sampler - Ride or Die",
-      "url": "https://www.youtube.com/shorts/nVaj6uziMSE",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-27T11:00:03.000Z",
       "group": "bts",
       "bucket": "bts"
     }
