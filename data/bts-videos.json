@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-08-31T12:57:29.591Z",
+  "updatedAt": "2026-09-01T11:15:24.729Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "le-sserafim-track-check-aeiou-",
+      "title": "LE SSERAFIM (르세라핌) TRACK CHECK AEIOU 💫",
+      "url": "https://www.youtube.com/shorts/TmdsA7z4pps",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-31T15:00:17.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "le-sserafim-track-check-made-my-night-",
+      "title": "LE SSERAFIM (르세라핌) TRACK CHECK Made My Night 💫",
+      "url": "https://www.youtube.com/shorts/hlqPx-i6dlw",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-08-31T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "W-D8GSXg1W8",
+      "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV",
+      "url": "https://www.youtube.com/watch?v=W-D8GSXg1W8",
+      "videoId": "W-D8GSXg1W8",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/W-D8GSXg1W8/mqdefault.jpg",
+      "publishedAt": "2026-08-31T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-f",
       "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler F",
@@ -54,39 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-08-31T09:00:33.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-a",
-      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler A",
-      "url": "https://www.youtube.com/shorts/nl-AYqo9YJA",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-31T08:59:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "_9KLBtIMdEs",
-      "title": "LE SSERAFIM (르세라핌) OUR DELUSION (Single CD ver.) 🎙️✨",
-      "url": "https://www.youtube.com/watch?v=_9KLBtIMdEs",
-      "videoId": "_9KLBtIMdEs",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/_9KLBtIMdEs/mqdefault.jpg",
-      "publishedAt": "2026-08-30T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "4MAcunUpN4w",
-      "title": "LE SSERAFIM (르세라핌) THE MMN SHOW",
-      "url": "https://www.youtube.com/watch?v=4MAcunUpN4w",
-      "videoId": "4MAcunUpN4w",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/4MAcunUpN4w/mqdefault.jpg",
-      "publishedAt": "2026-08-28T15:00:00.000Z",
       "group": "bts",
       "bucket": "bts"
     }
