@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-01T11:15:24.731Z",
+  "updatedAt": "2026-09-01T20:15:53.800Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "N2vFFxl-cdg",
+      "title": "LE SSERAFIM (르세라핌) CHEMICAL NIGHT 💥💫",
+      "url": "https://www.youtube.com/watch?v=N2vFFxl-cdg",
+      "videoId": "N2vFFxl-cdg",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/N2vFFxl-cdg/mqdefault.jpg",
+      "publishedAt": "2026-09-01T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "le-sserafim-track-check-aeiou-",
       "title": "LE SSERAFIM (르세라핌) TRACK CHECK AEIOU 💫",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-08-31T09:01:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-b",
-      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler B",
-      "url": "https://www.youtube.com/shorts/-0QICNq6ZMQ",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-31T09:00:33.000Z",
       "group": "bts",
       "bucket": "bts"
     },

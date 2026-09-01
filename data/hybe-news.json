@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T11:15:24.729Z",
+  "updatedAt": "2026-09-01T20:15:53.799Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -56,39 +56,6 @@
       "publishedAt": "2026-08-03T20:55:53Z",
       "author": "Sam Gutelle",
       "group": "hybe"
-    },
-    {
-      "id": "bts-grammy-decision-is-getting-ahead-of-award-show-sidelining",
-      "title": "BTS' Grammy Decision Is Getting Ahead of Award-Show Sidelining",
-      "url": "http://www.billboard.com/music/awards/bts-grammy-awards-critics-take-1236306764/",
-      "source": "Billboard",
-      "description": "BTS' decision not to submit to the 2027 Grammys isn't a snub. Critic's take.",
-      "summary": "BTS' decision not to submit to the 2027 Grammys isn't a snub. Critic's take.",
-      "publishedAt": "2026-07-31T18:45:58Z",
-      "author": "Jeff Benjamin",
-      "group": "bts"
-    },
-    {
-      "id": "bts-boycott-the-grammys-but-will-other-artists-follow-",
-      "title": "BTS Boycott the Grammys, But Will Other Artists Follow?",
-      "url": "http://www.rollingstone.com/music/music-features/bts-grammys-boycott-controversy-1235601631/",
-      "source": "Rolling Stone",
-      "description": "After the Grammys announced a Best Asian Pop category, BTS announced they won't submit their album. Will other artists follow their lead?",
-      "summary": "After the Grammys announced a Best Asian Pop category, BTS announced they won't submit their album. Will other artists follow their lead?",
-      "publishedAt": "2026-07-31T17:42:15Z",
-      "author": "Simon Vozick-Levinson",
-      "group": "bts"
-    },
-    {
-      "id": "bts-decision-to-sit-out-grammys-brings-attention-to-asian-pop-category",
-      "title": "BTS’ Decision to Sit Out Grammys Brings Attention to Asian Pop Category",
-      "url": "http://www.billboard.com/pro/bts-brings-new-attention-to-grammys-asian-pop-category/",
-      "source": "Billboard",
-      "description": "BTS' decision to sit out the Grammys brings attention to the Recording Academy's Asian Pop category.",
-      "summary": "BTS' decision to sit out the Grammys brings attention to the Recording Academy's Asian Pop category.",
-      "publishedAt": "2026-07-31T16:52:19Z",
-      "author": "Billboard Korea",
-      "group": "bts"
     },
     {
       "id": "show-hn-browser-automation-with-no-chromedriver-and-no-node-driver",
