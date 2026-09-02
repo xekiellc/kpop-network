@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-01T20:15:53.800Z",
+  "updatedAt": "2026-09-02T20:13:59.197Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "sssZYc4aRk4",
+      "title": "LE SSERAFIM (르세라핌) DIGITAL SYNC (COMPACT ver.) 🩶🗯️",
+      "url": "https://www.youtube.com/watch?v=sssZYc4aRk4",
+      "videoId": "sssZYc4aRk4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/sssZYc4aRk4/mqdefault.jpg",
+      "publishedAt": "2026-09-02T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "tv7Pk54p3Gc",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' Highlight Medley",
+      "url": "https://www.youtube.com/watch?v=tv7Pk54p3Gc",
+      "videoId": "tv7Pk54p3Gc",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/tv7Pk54p3Gc/mqdefault.jpg",
+      "publishedAt": "2026-09-02T09:00:20.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "N2vFFxl-cdg",
       "title": "LE SSERAFIM (르세라핌) CHEMICAL NIGHT 💥💫",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-08-31T09:02:33.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-d",
-      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler D",
-      "url": "https://www.youtube.com/shorts/uPVkZdSu9jw",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-31T09:01:43.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-c",
-      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler C",
-      "url": "https://www.youtube.com/shorts/rR-lLhKpQf4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-31T09:01:06.000Z",
       "group": "bts",
       "bucket": "bts"
     },
