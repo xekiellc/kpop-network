@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T10:48:28.757Z",
+  "updatedAt": "2026-09-04T19:59:56.857Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.soompi.com/article/1867943wpp/watch-enhypen-takes-6th-win-for-bloody-paradise-on-m-countdown-performances-by-chungha-tws-and-more",
       "source": "Soompi",
       "description": "ENHYPEN has won their sixth music show trophy for “Bloody Paradise”! On the September 3 episode of “M Countdown,” the candidates for first place were BIGBANG’s “BiiiG” and ENHYPEN’s “Bloody Paradise.” ENHYPEN ultimately took the prize with a total of 7,822 points. Congratulations to ENHYPEN! Watch the winner announcement below: Today’s performers included ENHYPEN, NCT 127,… Continue reading Watch: ENHYPEN Takes 6th Win For “Bloody Paradise” On “M Countdown”; Performances By Chungha, TWS, And Mor",
-      "summary": "ENHYPEN won their sixth music show trophy for \"Bloody Paradise\" on the September 3 episode of \"M Countdown,\" defeating BIGBANG's \"BiiiG\" with 7,822 points. The episode featured performances from various artists including ENHYPEN, NCT 127, Chungha, and TWS.",
+      "summary": "ENHYPEN won their sixth music show trophy for \"Bloody Paradise\" on the September 3 episode of \"M Countdown,\" defeating BIGBANG's \"BiiiG\" with 7,822 points. The episode featured performances by ENHYPEN, NCT 127, Chungha, TWS, and other artists.",
       "publishedAt": "2026-09-03T11:47:18.000Z",
       "author": "MLim",
       "group": "enhypen"
@@ -19,10 +19,21 @@
       "url": "https://kpoppie.com/le-sserafim-owns-the-dark-inside-made-my-nights-total-takeover/",
       "source": "Kpoppie",
       "description": "The 2nd Single Album drops Source Music’s sharpest weapon yet — five girls, one frequency, and a version of K-pop that refuses to ask permission. It starts with static. Not the metaphor — the literal kind, particles suspended mid-air like the frame itself is glitching under the weight of what’s standing in it. Three girls, backlit, dressed like the aftermath of a blackout at a rave inside a server room. Nobody’s smiling. Nobody needs to. This is the first image the world sees from Made My Night,",
-      "summary": "LE SSERAFIM released their second single album \"Made My Night,\" showcasing a dark, experimental aesthetic that positions the group as a bold force in K-pop. The album features five members and is described as Source Music's most innovative release to date.",
+      "summary": "LE SSERAFIM released their second single album \"Made My Night,\" showcasing a bold, dark aesthetic and distinctive visual style that emphasizes their artistic direction. The project features five members presenting a confident K-pop sound that prioritizes creative vision over conventional expectations.",
       "publishedAt": "2026-09-03T21:03:05.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "lesserafim"
+    },
+    {
+      "id": "-video-enhypen-scores-first-billboard-200-no-1-with-the-sin-bliss-sixth-k-pop-bo",
+      "title": "(VIDEO) ENHYPEN Scores First Billboard 200 No. 1 With 'The Sin: Bliss,' Sixth K-Pop Boy Group To Top Chart",
+      "url": "https://www.ibtimes.com.au/enhypen-first-billboard-200-no-1-sin-bliss-1874942",
+      "source": "Ibtimes.com.au",
+      "description": "ENHYPEN's eighth EP, 'The Sin: Bliss,' debuts at No. 1 on the Billboard 200, marking the K-pop group's first chart-topping album in the U.S., driven by strong physical sales.",
+      "summary": "ENHYPEN's eighth EP, 'The Sin: Bliss,' debuts at No. 1 on the Billboard 200, marking the K-pop group's first chart-topping album in the U.S., driven by strong physical sales.",
+      "publishedAt": "2026-09-03T11:23:09Z",
+      "author": "Jason Taylor",
+      "group": "enhypen"
     },
     {
       "id": "katseye-is-a-baffling-success",
@@ -78,6 +89,17 @@
       "publishedAt": "2026-08-03T20:55:53Z",
       "author": "Sam Gutelle",
       "group": "hybe"
+    },
+    {
+      "id": "nyc-s-2026-global-citizen-festival-lineup-includes-ms-lauryn-hill-wyclef-jean-la",
+      "title": "NYC's 2026 Global Citizen Festival lineup includes Ms. Lauryn Hill, Wyclef Jean, Lainey Wilson and more",
+      "url": "https://freerepublic.com/focus/f-chat/4394092/posts",
+      "source": "Freerepublic.com",
+      "description": "The concert returns to Central Park on Saturday, Sept. 26. Performers include Ms. Lauryn Hill and Wyclef Jean, Lenny Kravitz, John Legend, Lainey Wilson, Shaboozey and TXT (TOMORROW X TOGETHER). Actor Hugh Jackman will return to host for the 12th straight yea…",
+      "summary": "The concert returns to Central Park on Saturday, Sept. 26. Performers include Ms. Lauryn Hill and Wyclef Jean, Lenny Kravitz, John Legend, Lainey Wilson, Shaboozey and TXT (TOMORROW X TOGETHER). Actor Hugh Jackman will return to host for the 12th straight yea…",
+      "publishedAt": "2026-09-03T16:50:18Z",
+      "author": "CBS New York",
+      "group": "txt"
     },
     {
       "id": "-tomorrow-x-together-2-produced-by-moa-ep-2-walk-together-moa-",
