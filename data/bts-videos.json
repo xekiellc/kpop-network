@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-03T10:49:09.932Z",
+  "updatedAt": "2026-09-04T10:48:28.769Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "evan-death-of-me-official-mv-teaser",
+      "title": "EVAN (에반) 'Death of Me' Official MV Teaser",
+      "url": "https://www.youtube.com/shorts/SMGejrlxed0",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-04T09:00:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "le-sserafim-iykyk",
+      "title": "LE SSERAFIM (르세라핌) iykyk",
+      "url": "https://www.youtube.com/shorts/9ISYjxNtiC4",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-03T15:00:12.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "le-sserafim-is-this-even-real-",
+      "title": "LE SSERAFIM (르세라핌) is this even real?",
+      "url": "https://www.youtube.com/shorts/UYXeIxwxpOM",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-03T15:00:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "le-sserafim-is-this-a-dream-",
+      "title": "LE SSERAFIM (르세라핌) is this a dream?",
+      "url": "https://www.youtube.com/shorts/778dQvnPyjE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-03T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "sssZYc4aRk4",
       "title": "LE SSERAFIM (르세라핌) DIGITAL SYNC (COMPACT ver.) 🩶🗯️",
@@ -32,61 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/N2vFFxl-cdg/mqdefault.jpg",
       "publishedAt": "2026-09-01T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-track-check-aeiou-",
-      "title": "LE SSERAFIM (르세라핌) TRACK CHECK AEIOU 💫",
-      "url": "https://www.youtube.com/shorts/TmdsA7z4pps",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-31T15:00:17.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-track-check-made-my-night-",
-      "title": "LE SSERAFIM (르세라핌) TRACK CHECK Made My Night 💫",
-      "url": "https://www.youtube.com/shorts/hlqPx-i6dlw",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-31T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "W-D8GSXg1W8",
-      "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV",
-      "url": "https://www.youtube.com/watch?v=W-D8GSXg1W8",
-      "videoId": "W-D8GSXg1W8",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/W-D8GSXg1W8/mqdefault.jpg",
-      "publishedAt": "2026-08-31T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-f",
-      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler F",
-      "url": "https://www.youtube.com/shorts/8JmaTZMM79A",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-31T09:03:07.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-team-kr-2nd-mini-album-mark-on-me-track-sampler-e",
-      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' - Track Sampler E",
-      "url": "https://www.youtube.com/shorts/YskN3AEQ9jA",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-08-31T09:02:33.000Z",
       "group": "bts",
       "bucket": "bts"
     }
