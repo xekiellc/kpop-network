@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-05T19:40:20.071Z",
+  "updatedAt": "2026-09-06T19:42:49.717Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "le-sserafim-highlight-ready-",
+      "title": "LE SSERAFIM (르세라핌) HIGHLIGHT READY 🌟",
+      "url": "https://www.youtube.com/shorts/0Cv6MZzM7gI",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-06T15:00:10.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "le-sserafim-highlight-ready-aeiou",
+      "title": "LE SSERAFIM (르세라핌) HIGHLIGHT READY 🌟 - AEIOU",
+      "url": "https://www.youtube.com/shorts/rrOZYLbHB0U",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-06T15:00:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "le-sserafim-highlight-ready-made-my-night",
+      "title": "LE SSERAFIM (르세라핌) HIGHLIGHT READY 🌟 - Made My Night",
+      "url": "https://www.youtube.com/shorts/tf8XEIyuRB0",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-06T15:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "evan-death-of-me-official-mv-teaser",
       "title": "EVAN (에반) 'Death of Me' Official MV Teaser",
@@ -43,39 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-03T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "sssZYc4aRk4",
-      "title": "LE SSERAFIM (르세라핌) DIGITAL SYNC (COMPACT ver.) 🩶🗯️",
-      "url": "https://www.youtube.com/watch?v=sssZYc4aRk4",
-      "videoId": "sssZYc4aRk4",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/sssZYc4aRk4/mqdefault.jpg",
-      "publishedAt": "2026-09-02T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tv7Pk54p3Gc",
-      "title": "&TEAM KR 2nd Mini Album 'Mark on Me' Highlight Medley",
-      "url": "https://www.youtube.com/watch?v=tv7Pk54p3Gc",
-      "videoId": "tv7Pk54p3Gc",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/tv7Pk54p3Gc/mqdefault.jpg",
-      "publishedAt": "2026-09-02T09:00:20.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "N2vFFxl-cdg",
-      "title": "LE SSERAFIM (르세라핌) CHEMICAL NIGHT 💥💫",
-      "url": "https://www.youtube.com/watch?v=N2vFFxl-cdg",
-      "videoId": "N2vFFxl-cdg",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/N2vFFxl-cdg/mqdefault.jpg",
-      "publishedAt": "2026-09-01T15:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
