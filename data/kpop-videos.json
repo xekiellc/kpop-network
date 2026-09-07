@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-07T11:49:02.055Z",
+  "updatedAt": "2026-09-07T20:53:23.020Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "gCii_J4BnDQ",
+      "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH TEASER",
+      "url": "https://www.youtube.com/watch?v=gCii_J4BnDQ",
+      "videoId": "gCii_J4BnDQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/gCii_J4BnDQ/mqdefault.jpg",
+      "publishedAt": "2026-09-07T15:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "evan-death-of-me-official-mv",
       "title": "EVAN (에반) 'Death of Me' Official MV",
