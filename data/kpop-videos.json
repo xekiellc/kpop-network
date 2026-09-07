@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-06T19:42:49.717Z",
+  "updatedAt": "2026-09-07T11:49:02.055Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "evan-death-of-me-official-mv",
+      "title": "EVAN (에반) 'Death of Me' Official MV",
+      "url": "https://www.youtube.com/shorts/JaVMjxqM5DA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-07T09:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "5PJWEMeyGcM",
+      "title": "&TEAM 'Mark on Me' Official MV Teaser",
+      "url": "https://www.youtube.com/watch?v=5PJWEMeyGcM",
+      "videoId": "5PJWEMeyGcM",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/5PJWEMeyGcM/mqdefault.jpg",
+      "publishedAt": "2026-09-07T09:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "le-sserafim-highlight-ready-",
       "title": "LE SSERAFIM (르세라핌) HIGHLIGHT READY 🌟",
@@ -43,39 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-04T09:00:16.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-iykyk",
-      "title": "LE SSERAFIM (르세라핌) iykyk",
-      "url": "https://www.youtube.com/shorts/9ISYjxNtiC4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-03T15:00:12.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-is-this-even-real-",
-      "title": "LE SSERAFIM (르세라핌) is this even real?",
-      "url": "https://www.youtube.com/shorts/UYXeIxwxpOM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-03T15:00:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-is-this-a-dream-",
-      "title": "LE SSERAFIM (르세라핌) is this a dream?",
-      "url": "https://www.youtube.com/shorts/778dQvnPyjE",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-03T15:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
