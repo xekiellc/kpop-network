@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-07T20:53:23.020Z",
+  "updatedAt": "2026-09-08T10:46:41.744Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "F-NcvXY8_vU",
+      "title": "&TEAM 'Mark on Me' Official MV",
+      "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU",
+      "videoId": "F-NcvXY8_vU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/F-NcvXY8_vU/mqdefault.jpg",
+      "publishedAt": "2026-09-08T08:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "gCii_J4BnDQ",
       "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH TEASER",
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-06T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "evan-death-of-me-official-mv-teaser",
-      "title": "EVAN (에반) 'Death of Me' Official MV Teaser",
-      "url": "https://www.youtube.com/shorts/SMGejrlxed0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-04T09:00:16.000Z",
       "group": "bts",
       "bucket": "bts"
     },
