@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T10:46:41.742Z",
+  "updatedAt": "2026-09-09T10:53:47.507Z",
   "bucket": "bts",
   "videos": [
     {
@@ -10,6 +10,17 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/F-NcvXY8_vU/mqdefault.jpg",
       "publishedAt": "2026-09-08T08:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "Y1Lah0BM0KQ",
+      "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
+      "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ",
+      "videoId": "Y1Lah0BM0KQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/Y1Lah0BM0KQ/mqdefault.jpg",
+      "publishedAt": "2026-09-08T03:22:19.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-06T15:00:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-highlight-ready-made-my-night",
-      "title": "LE SSERAFIM (르세라핌) HIGHLIGHT READY 🌟 - Made My Night",
-      "url": "https://www.youtube.com/shorts/tf8XEIyuRB0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-06T15:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     }
