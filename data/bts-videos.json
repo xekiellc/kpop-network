@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-09T20:09:46.091Z",
+  "updatedAt": "2026-09-10T20:11:08.361Z",
   "bucket": "bts",
   "videos": [
     {
-      "id": "F-NcvXY8_vU",
-      "title": "&TEAM 'Mark on Me' Official MV",
-      "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU",
-      "videoId": "F-NcvXY8_vU",
+      "id": "P16Ld1lGYKs",
+      "title": "ENHYPEN (엔하이픈) 'Checkmate' Official Teaser",
+      "url": "https://www.youtube.com/watch?v=P16Ld1lGYKs",
+      "videoId": "P16Ld1lGYKs",
       "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/F-NcvXY8_vU/mqdefault.jpg",
-      "publishedAt": "2026-09-08T08:59:59.000Z",
+      "thumbnail": "https://img.youtube.com/vi/P16Ld1lGYKs/mqdefault.jpg",
+      "publishedAt": "2026-09-10T15:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -20,7 +20,18 @@
       "videoId": "Y1Lah0BM0KQ",
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/Y1Lah0BM0KQ/mqdefault.jpg",
-      "publishedAt": "2026-09-08T03:22:19.000Z",
+      "publishedAt": "2026-09-10T14:58:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "F-NcvXY8_vU",
+      "title": "&TEAM 'Mark on Me' Official MV",
+      "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU",
+      "videoId": "F-NcvXY8_vU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/F-NcvXY8_vU/mqdefault.jpg",
+      "publishedAt": "2026-09-08T08:59:59.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -65,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-06T15:00:10.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "le-sserafim-highlight-ready-aeiou",
-      "title": "LE SSERAFIM (르세라핌) HIGHLIGHT READY 🌟 - AEIOU",
-      "url": "https://www.youtube.com/shorts/rrOZYLbHB0U",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-06T15:00:06.000Z",
       "group": "bts",
       "bucket": "bts"
     }
