@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-12T10:14:58.728Z",
+  "updatedAt": "2026-09-13T11:15:36.757Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "boynextdoor-home-deluxe-special-report-the-animals-boynextdoor-bnd-home-deluxe",
+      "title": "BOYNEXTDOOR [HOME: DELUXE] Special Report: The Animals #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE",
+      "url": "https://www.youtube.com/shorts/rkRHzL79Mrg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-12T13:00:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "KPVSxXFOcSw",
+      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME: DELUXE] Special Report: The Animals",
+      "url": "https://www.youtube.com/watch?v=KPVSxXFOcSw",
+      "videoId": "KPVSxXFOcSw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/KPVSxXFOcSw/mqdefault.jpg",
+      "publishedAt": "2026-09-12T13:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "a-GSDbf6_zM",
       "title": "LE SSERAFIM (르세라핌) 'Made My Night (Karaoke ver.)' Official Visualizer",
@@ -54,17 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/v-U9WDRhXsQ/mqdefault.jpg",
       "publishedAt": "2026-09-11T13:00:04.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "rashmika-mandanna-x-hybe-india-audition-final-call-discover-your-own-universe",
-      "title": "Rashmika Mandanna X HYBE INDIA Audition Final Call | Discover Your Own Universe",
-      "url": "https://www.youtube.com/shorts/EB_ST7spKB4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-11T05:01:17.000Z",
       "group": "bts",
       "bucket": "bts"
     },
