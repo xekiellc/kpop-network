@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-13T19:58:11.007Z",
+  "updatedAt": "2026-09-14T12:03:35.514Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "RjXh3om4Mko",
+      "title": "LE SSERAFIM (르세라핌) 'Made My Night (feat. EJAE)' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=RjXh3om4Mko",
+      "videoId": "RjXh3om4Mko",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/RjXh3om4Mko/mqdefault.jpg",
+      "publishedAt": "2026-09-14T04:00:04.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "2026-bighit-music-global-audition",
+      "title": "2026 BIGHIT MUSIC GLOBAL AUDITION",
+      "url": "https://www.youtube.com/shorts/XSptOkaw5kk",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-14T03:16:44.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "boynextdoor-home-deluxe-special-report-the-animals-boynextdoor-bnd-home-deluxe",
       "title": "BOYNEXTDOOR [HOME: DELUXE] Special Report: The Animals #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE",
@@ -54,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/K5SXamqxoio/mqdefault.jpg",
       "publishedAt": "2026-09-11T15:00:07.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-deluxe-special-report-teaser-boynextdoor-bnd-home-deluxe",
-      "title": "BOYNEXTDOOR [HOME: DELUXE] Special Report Teaser #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE",
-      "url": "https://www.youtube.com/shorts/B03ysANhiIs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-11T13:00:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "v-U9WDRhXsQ",
-      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME: DELUXE] Special Report Teaser",
-      "url": "https://www.youtube.com/watch?v=v-U9WDRhXsQ",
-      "videoId": "v-U9WDRhXsQ",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/v-U9WDRhXsQ/mqdefault.jpg",
-      "publishedAt": "2026-09-11T13:00:04.000Z",
       "group": "bts",
       "bucket": "bts"
     },
