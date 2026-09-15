@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-14T21:08:23.905Z",
+  "updatedAt": "2026-09-15T11:17:10.676Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "Mkh1WMoslnI",
+      "title": "&TEAM 'Mark on Me' Extended Performance Film",
+      "url": "https://www.youtube.com/watch?v=Mkh1WMoslnI",
+      "videoId": "Mkh1WMoslnI",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/Mkh1WMoslnI/mqdefault.jpg",
+      "publishedAt": "2026-09-15T10:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "E0JO9AaJHRE",
       "title": "EVAN (에반) 'Death of Me' Official Performance Video",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/KPVSxXFOcSw/mqdefault.jpg",
       "publishedAt": "2026-09-12T13:00:03.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "a-GSDbf6_zM",
-      "title": "LE SSERAFIM (르세라핌) 'Made My Night (Karaoke ver.)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=a-GSDbf6_zM",
-      "videoId": "a-GSDbf6_zM",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/a-GSDbf6_zM/mqdefault.jpg",
-      "publishedAt": "2026-09-12T04:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
