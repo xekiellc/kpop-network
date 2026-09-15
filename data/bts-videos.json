@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-15T11:17:10.675Z",
+  "updatedAt": "2026-09-15T20:35:03.159Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "boynextdoor-home-deluxe-concept-film-overdrive-ver-boynextdoor-bnd-home-deluxe",
+      "title": "BOYNEXTDOOR [HOME: DELUXE] Concept Film : OVERDRIVE ver. #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE",
+      "url": "https://www.youtube.com/shorts/gI3yLlOGIqw",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-15T13:00:36.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "_PfbkaThyzA",
+      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME: DELUXE] Concept Film : OVERDRIVE ver.",
+      "url": "https://www.youtube.com/watch?v=_PfbkaThyzA",
+      "videoId": "_PfbkaThyzA",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/_PfbkaThyzA/mqdefault.jpg",
+      "publishedAt": "2026-09-15T13:00:30.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "Mkh1WMoslnI",
       "title": "&TEAM 'Mark on Me' Extended Performance Film",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-14T03:16:44.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-deluxe-special-report-the-animals-boynextdoor-bnd-home-deluxe",
-      "title": "BOYNEXTDOOR [HOME: DELUXE] Special Report: The Animals #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE",
-      "url": "https://www.youtube.com/shorts/rkRHzL79Mrg",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-12T13:00:16.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "KPVSxXFOcSw",
-      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME: DELUXE] Special Report: The Animals",
-      "url": "https://www.youtube.com/watch?v=KPVSxXFOcSw",
-      "videoId": "KPVSxXFOcSw",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/KPVSxXFOcSw/mqdefault.jpg",
-      "publishedAt": "2026-09-12T13:00:03.000Z",
       "group": "bts",
       "bucket": "bts"
     }
