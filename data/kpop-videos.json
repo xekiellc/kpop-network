@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-16T10:59:41.980Z",
+  "updatedAt": "2026-09-16T20:34:36.293Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "boynextdoor-home-deluxe-concept-film-spark-ver-boynextdoor-bnd-home-deluxe",
+      "title": "BOYNEXTDOOR [HOME: DELUXE] Concept Film : SPARK ver. #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE",
+      "url": "https://www.youtube.com/shorts/FOty1mxmTPE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-16T13:00:36.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "I0aDZ52rmF0",
+      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME: DELUXE] Concept Film : SPARK ver.",
+      "url": "https://www.youtube.com/watch?v=I0aDZ52rmF0",
+      "videoId": "I0aDZ52rmF0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/I0aDZ52rmF0/mqdefault.jpg",
+      "publishedAt": "2026-09-16T13:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "boynextdoor-home-deluxe-concept-film-overdrive-ver-boynextdoor-bnd-home-deluxe",
       "title": "BOYNEXTDOOR [HOME: DELUXE] Concept Film : OVERDRIVE ver. #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/vIJdmQDMA3c/mqdefault.jpg",
       "publishedAt": "2026-09-14T13:00:30.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "RjXh3om4Mko",
-      "title": "LE SSERAFIM (르세라핌) 'Made My Night (feat. EJAE)' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=RjXh3om4Mko",
-      "videoId": "RjXh3om4Mko",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/RjXh3om4Mko/mqdefault.jpg",
-      "publishedAt": "2026-09-14T04:00:04.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "2026-bighit-music-global-audition",
-      "title": "2026 BIGHIT MUSIC GLOBAL AUDITION",
-      "url": "https://www.youtube.com/shorts/XSptOkaw5kk",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-14T03:16:44.000Z",
       "group": "bts",
       "bucket": "bts"
     },
