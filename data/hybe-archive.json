@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-15T20:35:03.147Z",
+  "updatedAt": "2026-09-16T10:59:41.944Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "bighit-music-shares-update-on-legal-action-to-protect-cortis-s-rights",
+      "title": "BIGHIT MUSIC Shares Update On Legal Action To Protect CORTIS’s Rights",
+      "url": "https://www.soompi.com/article/1871123wpp/bighit-music-shares-update-on-legal-action-to-protect-cortiss-rights",
+      "source": "Soompi",
+      "description": "BIGHIT MUSIC has shared an update on its ongoing legal efforts to protect CORTIS’s rights and privacy. On September 16, the agency announced that it reported two foreign suspects to the police after they trespassed on CORTIS’s residence in July. The suspects admitted to illegally purchasing information about the artists’ accommodation address and entering the… Continue reading BIGHIT MUSIC Shares Update On Legal Action To Protect CORTIS’s Rights The post BIGHIT MUSIC Shares Update On Legal Actio",
+      "summary": "",
+      "publishedAt": "2026-09-16T09:43:10.000Z",
+      "author": "MLim",
+      "group": "cortis"
+    },
     {
       "id": "-team-breaks-1st-week-sales-record-with-mark-on-me-",
       "title": "&TEAM Breaks 1st-Week Sales Record With “Mark On Me”",
@@ -12,17 +23,6 @@
       "publishedAt": "2026-09-15T14:05:10.000Z",
       "author": "E Cha",
       "group": "andteam"
-    },
-    {
-      "id": "watch-le-sserafim-bring-made-my-night-to-the-jennifer-hudson-show-tease-their-u-",
-      "title": "Watch LE SSERAFIM Bring ‘Made My Night’ to ‘The Jennifer Hudson Show’ & Tease Their U.S. Tour",
-      "url": "https://www.billboard.com/culture/tv-film/le-sserafim-made-my-night-tease-tour-jennifer-hudson-show-1236340776/",
-      "source": "Billboard",
-      "description": "The K-pop stars opened up about their Overwatch collaboration, their upcoming tour and their favorite American snack.",
-      "summary": "",
-      "publishedAt": "2026-09-15T19:09:54.000Z",
-      "author": "Alicia Urrea",
-      "group": "lesserafim"
     },
     {
       "id": "-video-enhypen-scores-first-billboard-200-no-1-with-the-sin-bliss-sixth-k-pop-bo",
@@ -221,6 +221,17 @@
       "publishedAt": "2026-09-01T09:11:11Z",
       "author": "Kingman",
       "group": "hybe"
+    },
+    {
+      "id": "watch-le-sserafim-bring-made-my-night-to-the-jennifer-hudson-show-tease-their-u-",
+      "title": "Watch LE SSERAFIM Bring ‘Made My Night’ to ‘The Jennifer Hudson Show’ & Tease Their U.S. Tour",
+      "url": "https://www.billboard.com/culture/tv-film/le-sserafim-made-my-night-tease-tour-jennifer-hudson-show-1236340776/",
+      "source": "Billboard",
+      "description": "The K-pop stars opened up about their Overwatch collaboration, their upcoming tour and their favorite American snack.",
+      "summary": "",
+      "publishedAt": "2026-09-15T19:09:54.000Z",
+      "author": "Alicia Urrea",
+      "group": "lesserafim"
     },
     {
       "id": "k-trot-campaign-in-new-york-s-times-square-draws-attention-in-celebration-of-kor",
