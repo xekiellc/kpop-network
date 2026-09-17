@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:34:36.272Z",
+  "updatedAt": "2026-09-17T20:41:38.398Z",
   "bucket": "bts",
   "articles": [
     {
@@ -22,6 +22,17 @@
       "summary": "",
       "publishedAt": "2026-09-09T21:44:51.000Z",
       "author": "Kpoppie Editorial Team",
+      "group": "bts"
+    },
+    {
+      "id": "disney-seeking-next-big-k-pop-hit-after-striking-ten-project-deal-with-kakao",
+      "title": "Disney Seeking Next Big K-Pop Hit After Striking Ten-Project Deal With Kakao",
+      "url": "http://deadline.com/2026/09/disney-kpop-deal-kakao-korea-kpop-demon-hunters-1237104978/",
+      "source": "Deadline",
+      "description": "Could Disney be about to unearth the next big K-pop hit? Disney Korea has struck a deal with Kakao Entertainment to launch what they are calling a “K-culture fund” and is aiming to pursue around 10 projects over the medium to long term. The pair will “collabo…",
+      "summary": "Could Disney be about to unearth the next big K-pop hit? Disney Korea has struck a deal with Kakao Entertainment to launch what they are calling a “K-culture fund” and is aiming to pursue around 10 projects over the medium to long term. The pair will “collabo…",
+      "publishedAt": "2026-09-16T08:09:14Z",
+      "author": "Max Goldbart",
       "group": "bts"
     },
     {
@@ -223,17 +234,6 @@
       "group": "bts"
     },
     {
-      "id": "bts-blackpink-cortis-le-sserafim-katseye-and-huntr-x-nominated-for-2026-mtv-vide",
-      "title": "BTS, BLACKPINK, CORTIS, LE SSERAFIM, KATSEYE, And HUNTR/X Nominated For 2026 MTV Video Music Awards",
-      "url": "http://www.soompi.com/article/1863718wpp/bts-blackpink-cortis-le-sserafim-katseye-and-huntr-x-nominated-for-2026-mtv-video-music-awards",
-      "source": "soompi",
-      "description": "The nominees for the 2026 MTV Video Music Awards (VMAs) are out! On August 18 local time, MTV officially announced the nominations for this year’s award ceremony, which included nods for several K-pop artists. BTS’s recent hit “SWIM” scored two nominations: o…",
-      "summary": "The nominees for the 2026 MTV Video Music Awards (VMAs) are out! On August 18 local time, MTV officially announced the nominations for this year’s award ceremony, which included nods for several K-pop artists. BTS’s recent hit “SWIM” scored two nominations: o…",
-      "publishedAt": "2026-08-18T14:49:06Z",
-      "author": "E Cha",
-      "group": "bts"
-    },
-    {
       "id": "who-will-receive-mtv-s-2026-video-vanguard-vma-",
       "title": "Who Will Receive MTV's 2026 Video Vanguard VMA?",
       "url": "http://www.billboard.com/lists/mtv-video-vanguard-award-2026-vmas-likely-winners/",
@@ -421,6 +421,17 @@
       "group": "bts"
     },
     {
+      "id": "-no-1-aaa-2026-idolchamp-",
+      "title": "過去最大級の規模とラインナップ！グローバルNo.1授賞式「AAA 2026」人気賞、IDOLCHAMPにて予選投票スタート！",
+      "url": "https://prtimes.jp/main/html/rd/p/000001873.000010988.html",
+      "source": "Prtimes.jp",
+      "description": "[NEOWIZゲームオン] [画像: https://prcdn.freetls.fastly.net/release_image/10988/1873/10988-1873-37d274a41072a447949537d7fe226d30-696x999.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "summary": "[NEOWIZゲームオン] [画像: https://prcdn.freetls.fastly.net/release_image/10988/1873/10988-1873-37d274a41072a447949537d7fe226d30-696x999.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "publishedAt": "2026-09-16T02:41:04Z",
+      "author": "",
+      "group": "bts"
+    },
+    {
       "id": "bts-to-broadcast-argentina-and-brazil-concerts-live-to-cinemas-worldwide",
       "title": "BTS to Broadcast Argentina and Brazil Concerts Live to Cinemas Worldwide",
       "url": "https://consequence.net/2026/09/bts-argentina-brazil-concerts-broadcast-cinemas-worldwide/",
@@ -484,6 +495,17 @@
       "summary": "Google Gemini and BTS are collaborating on a series of interactive features inside the Gemini app.",
       "publishedAt": "2026-08-18T17:30:00Z",
       "author": "",
+      "group": "bts"
+    },
+    {
+      "id": "bts-blackpink-cortis-le-sserafim-katseye-and-huntr-x-nominated-for-2026-mtv-vide",
+      "title": "BTS, BLACKPINK, CORTIS, LE SSERAFIM, KATSEYE, And HUNTR/X Nominated For 2026 MTV Video Music Awards",
+      "url": "http://www.soompi.com/article/1863718wpp/bts-blackpink-cortis-le-sserafim-katseye-and-huntr-x-nominated-for-2026-mtv-video-music-awards",
+      "source": "soompi",
+      "description": "The nominees for the 2026 MTV Video Music Awards (VMAs) are out! On August 18 local time, MTV officially announced the nominations for this year’s award ceremony, which included nods for several K-pop artists. BTS’s recent hit “SWIM” scored two nominations: o…",
+      "summary": "The nominees for the 2026 MTV Video Music Awards (VMAs) are out! On August 18 local time, MTV officially announced the nominations for this year’s award ceremony, which included nods for several K-pop artists. BTS’s recent hit “SWIM” scored two nominations: o…",
+      "publishedAt": "2026-08-18T14:49:06Z",
+      "author": "E Cha",
       "group": "bts"
     },
     {
@@ -5478,28 +5500,6 @@
       "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its latest monthly and weekly chart rankings! Monthly Album Chart TXT achieved a double crown on this month’s Circle charts, topping both the overall physical album chart and the digital download chart …",
       "publishedAt": "2026-05-12T20:17:07Z",
       "author": "E Cha",
-      "group": "bts"
-    },
-    {
-      "id": "akmu-earns-circle-triple-crown-cortis-bts-and-illit-top-weekly-charts",
-      "title": "AKMU Earns Circle Triple Crown + CORTIS, BTS, And ILLIT Top Weekly Charts",
-      "url": "http://www.soompi.com/article/1842714wpp/akmu-earns-circle-triple-crown-cortis-bts-and-illit-top-weekly-charts",
-      "source": "soompi",
-      "description": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of May 3 to 9! Album Chart CORTIS swept the top two spots on this week’s physical album chart with their new EP “GREENGREEN.” The regular version of the EP debuted at No.…",
-      "summary": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of May 3 to 9! Album Chart CORTIS swept the top two spots on this week’s physical album chart with their new EP “GREENGREEN.” The regular version of the EP debuted at No.…",
-      "publishedAt": "2026-05-20T21:23:52Z",
-      "author": "E Cha",
-      "group": "bts"
-    },
-    {
-      "id": "taylor-swift-s-top-10-record-has-been-broken",
-      "title": "Taylor Swift’s Top 10 Record Has Been Broken",
-      "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/01/taylor-swifts-top-10-record-has-been-broken/",
-      "source": "Forbes",
-      "description": "Before this week, Taylor Swift claimed the most top 10s of all time on the Billboard Global 200. Now her record has been passed by Drake.",
-      "summary": "Before this week, Taylor Swift claimed the most top 10s of all time on the Billboard Global 200. Now her record has been passed by Drake.",
-      "publishedAt": "2026-06-01T14:58:33Z",
-      "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
       "group": "bts"
     }
   ]
