@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T20:41:38.410Z",
+  "updatedAt": "2026-09-19T10:27:55.701Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "WSKwF5qleTo",
+      "title": "2026 BIGHIT MUSIC GLOBAL AUDITION",
+      "url": "https://www.youtube.com/watch?v=WSKwF5qleTo",
+      "videoId": "WSKwF5qleTo",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/WSKwF5qleTo/mqdefault.jpg",
+      "publishedAt": "2026-09-18T03:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "ZdgVpnHq70o",
       "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL PERFORMANCE FILM @ THE LOBBY",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/E0JO9AaJHRE/mqdefault.jpg",
       "publishedAt": "2026-09-14T14:59:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-deluxe-concept-film-haze-ver-boynextdoor-bnd-home-deluxe",
-      "title": "BOYNEXTDOOR [HOME: DELUXE] Concept Film : HAZE ver. #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE",
-      "url": "https://www.youtube.com/shorts/1bkuTPY_V1Q",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-14T13:00:40.000Z",
       "group": "bts",
       "bucket": "bts"
     }
