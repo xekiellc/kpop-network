@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-20T19:55:15.172Z",
+  "updatedAt": "2026-09-21T12:13:49.695Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "zNjog0TG9k4",
+      "title": "&TEAM SHOWCASE 'Mark on Me'",
+      "url": "https://www.youtube.com/watch?v=zNjog0TG9k4",
+      "videoId": "zNjog0TG9k4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/zNjog0TG9k4/mqdefault.jpg",
+      "publishedAt": "2026-09-21T12:03:52.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-2026-bighit-music-global-audition-message-from-tomorrowxtogether",
+      "title": "[2026 BIGHIT MUSIC GLOBAL AUDITION] 🌟 Message From #TOMORROWXTOGETHER",
+      "url": "https://www.youtube.com/shorts/QQ19Ip03O74",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-21T03:00:10.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "WSKwF5qleTo",
       "title": "2026 BIGHIT MUSIC GLOBAL AUDITION",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/_PfbkaThyzA/mqdefault.jpg",
       "publishedAt": "2026-09-15T13:00:30.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "Mkh1WMoslnI",
-      "title": "&TEAM 'Mark on Me' Extended Performance Film",
-      "url": "https://www.youtube.com/watch?v=Mkh1WMoslnI",
-      "videoId": "Mkh1WMoslnI",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/Mkh1WMoslnI/mqdefault.jpg",
-      "publishedAt": "2026-09-15T10:59:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "E0JO9AaJHRE",
-      "title": "EVAN (에반) 'Death of Me' Official Performance Video",
-      "url": "https://www.youtube.com/watch?v=E0JO9AaJHRE",
-      "videoId": "E0JO9AaJHRE",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/E0JO9AaJHRE/mqdefault.jpg",
-      "publishedAt": "2026-09-14T14:59:59.000Z",
       "group": "bts",
       "bucket": "bts"
     }
