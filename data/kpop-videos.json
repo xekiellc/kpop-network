@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-22T11:07:22.593Z",
+  "updatedAt": "2026-09-23T20:47:29.674Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "7lYsPhdYI-U",
+      "title": "&TEAM 'Good Boy' Official MV Teaser",
+      "url": "https://www.youtube.com/watch?v=7lYsPhdYI-U",
+      "videoId": "7lYsPhdYI-U",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/7lYsPhdYI-U/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "boynextdoor-home-deluxe-sneak-peek-boynextdoor-bnd-home-deluxe-400-years",
       "title": "BOYNEXTDOOR [HOME: DELUXE] Sneak Peek #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #400_Years",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/zNjog0TG9k4/mqdefault.jpg",
       "publishedAt": "2026-09-21T12:03:52.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-2026-bighit-music-global-audition-message-from-tomorrowxtogether",
-      "title": "[2026 BIGHIT MUSIC GLOBAL AUDITION] 🌟 Message From #TOMORROWXTOGETHER",
-      "url": "https://www.youtube.com/shorts/QQ19Ip03O74",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-21T03:00:10.000Z",
       "group": "bts",
       "bucket": "bts"
     },
