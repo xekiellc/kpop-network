@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-23T20:47:29.674Z",
+  "updatedAt": "2026-09-24T11:16:44.436Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "VHA0FMXsQgk",
+      "title": "&TEAM 'Good Boy' Official MV",
+      "url": "https://www.youtube.com/watch?v=VHA0FMXsQgk",
+      "videoId": "VHA0FMXsQgk",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/VHA0FMXsQgk/mqdefault.jpg",
+      "publishedAt": "2026-09-24T09:02:54.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "F2fsRLdhHHc",
+      "title": "JUN ‘9’ 1st EP CHINA Scheduler : Wish of NINE",
+      "url": "https://www.youtube.com/watch?v=F2fsRLdhHHc",
+      "videoId": "F2fsRLdhHHc",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/F2fsRLdhHHc/mqdefault.jpg",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "XA7A2xZ82FQ",
+      "title": "JUN ‘9’ 1st EP CHINA Identity : Beyond the Door",
+      "url": "https://www.youtube.com/watch?v=XA7A2xZ82FQ",
+      "videoId": "XA7A2xZ82FQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/XA7A2xZ82FQ/mqdefault.jpg",
+      "publishedAt": "2026-09-24T00:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "7lYsPhdYI-U",
       "title": "&TEAM 'Good Boy' Official MV Teaser",
@@ -54,39 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-21T13:02:21.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-deluxe-sneak-peek-boynextdoor-bnd-home-deluxe-cliche",
-      "title": "BOYNEXTDOOR [HOME: DELUXE] Sneak Peek #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #CLICHE",
-      "url": "https://www.youtube.com/shorts/-GgFYk_MgxI",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-21T13:01:57.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "c9Wro8wTMkk",
-      "title": "BOYNEXTDOOR (보이넥스트도어) [HOME: DELUXE] Sneak Peek",
-      "url": "https://www.youtube.com/watch?v=c9Wro8wTMkk",
-      "videoId": "c9Wro8wTMkk",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/c9Wro8wTMkk/mqdefault.jpg",
-      "publishedAt": "2026-09-21T13:00:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "zNjog0TG9k4",
-      "title": "&TEAM SHOWCASE 'Mark on Me'",
-      "url": "https://www.youtube.com/watch?v=zNjog0TG9k4",
-      "videoId": "zNjog0TG9k4",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/zNjog0TG9k4/mqdefault.jpg",
-      "publishedAt": "2026-09-21T12:03:52.000Z",
       "group": "bts",
       "bucket": "bts"
     },
