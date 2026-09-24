@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:16:44.434Z",
+  "updatedAt": "2026-09-24T20:53:25.390Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://kpoppie.com/quiet-velocity-how-teams-ej-and-taki-are-rewriting-pops-visual-code/",
       "source": "Kpoppie",
       "description": "The Static Before the Thunder The shutter clicks, but the silence in the Seoul studio feels louder than the music. Under the sharp tungsten lights of the Allure Korea set, EJ leans forward, resting his chin lightly on a silver-ringed hand. His dark hair falls across his forehead in deliberate, soft curtaining; his gaze into the lens is unblinking, cool, and undeniably magnetic. Beside him, Taki stands with an easy, fluid confidence—chest framed by a slashed knit, structured shoulders cloaked in ",
-      "summary": "&TEAM members EJ and Taki are featured in an Allure Korea photoshoot, showcasing their distinctive visual aesthetics and styling through fashion photography.",
+      "summary": "&TEAM members EJ and Taki are featured in an Allure Korea photoshoot, showcasing their distinctive visual styling and presence in pop culture. The article explores their impact on contemporary pop's aesthetic direction through their photography and image presentation.",
       "publishedAt": "2026-09-22T03:50:35.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "andteam"
@@ -19,10 +19,21 @@
       "url": "https://kpoppie.com/the-architecture-of-aftershocks-how-txts-yeonjun-is-rewriting-global-pop/",
       "source": "Kpoppie",
       "description": "YEONJUN: The Blueprint of Global Pop’s New High-Fashion Era The Pulse Before the Drop The shutter clicks with the rapid-fire precision of an automatic weapon, but inside the studio, time seems to bend around him. Under the blinding, stark-white tungsten lights of the Seoul soundstage, Choi Yeonjun doesn’t just pose—he conducts the room. Dressed in a sharply tailored, distressed black leather dynamic fit from Miu Miu’s latest collection, the 27-year-old artist leans forward, his piercing gaze cut",
-      "summary": "The article discusses TXT member Yeonjun's influence on global pop music and fashion, featuring a photoshoot where the 27-year-old artist models high-fashion pieces while being framed as a trendsetter in the industry.",
+      "summary": "TXT member Yeonjun is featured in an article examining his influence on global pop music and high-fashion trends, with focus on his styling and artistic presentation during a photoshoot.",
       "publishedAt": "2026-09-16T21:57:53.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "txt"
+    },
+    {
+      "id": "a-day-in-the-life-with-le-sserafim-at-blizzcon-billboard",
+      "title": "A Day In the Life With LE SSERAFIM at BlizzCon | Billboard",
+      "url": "https://www.billboard.com/video/a-day-in-the-life-with-le-sserafim-at-blizzcon/",
+      "source": "Billboard",
+      "description": "For the latest episode of A Day In the Life With, Billboard is with LE SSERAFIM at BlizzCon in Los Angeles, as the group is getting ready to hit the stage for its first BlizzCon performance in three years. The girls take Billboard behind the scenes, shares how they made the night extra special with […]",
+      "summary": "Billboard followed K-pop group LE SSERAFIM behind the scenes at BlizzCon in Los Angeles as they prepared for their first performance at the event in three years.",
+      "publishedAt": "2026-09-24T19:35:47.000Z",
+      "author": "Stefanie Tanaka",
+      "group": "lesserafim"
     },
     {
       "id": "-video-enhypen-scores-first-billboard-200-no-1-with-the-sin-bliss-sixth-k-pop-bo",

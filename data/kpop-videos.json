@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-24T11:16:44.436Z",
+  "updatedAt": "2026-09-24T20:53:25.391Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "boynextdoor-animal-official-mv-teaser-boynextdoor-bnd-home-deluxe-animal",
+      "title": "BOYNEXTDOOR 'ANIMAL' Official MV Teaser #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #ANIMAL",
+      "url": "https://www.youtube.com/shorts/7EqmF7hziYA",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-24T13:00:05.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "5VdADuLnWak",
+      "title": "BOYNEXTDOOR (보이넥스트도어) 'ANIMAL' Official MV Teaser",
+      "url": "https://www.youtube.com/watch?v=5VdADuLnWak",
+      "videoId": "5VdADuLnWak",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/5VdADuLnWak/mqdefault.jpg",
+      "publishedAt": "2026-09-24T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "VHA0FMXsQgk",
       "title": "&TEAM 'Good Boy' Official MV",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-21T13:03:32.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-deluxe-sneak-peek-boynextdoor-bnd-home-deluxe-animal",
-      "title": "BOYNEXTDOOR [HOME: DELUXE] Sneak Peek #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #ANIMAL",
-      "url": "https://www.youtube.com/shorts/mNguWi1FB6Q",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-21T13:02:49.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-deluxe-sneak-peek-boynextdoor-bnd-home-deluxe-count-to-love",
-      "title": "BOYNEXTDOOR [HOME: DELUXE] Sneak Peek #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #Count_To_Love",
-      "url": "https://www.youtube.com/shorts/0yrQvgZEoXI",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-21T13:02:21.000Z",
       "group": "bts",
       "bucket": "bts"
     },
