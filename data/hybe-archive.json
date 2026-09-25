@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2026-09-24T20:53:25.377Z",
+  "updatedAt": "2026-09-25T20:50:21.390Z",
   "bucket": "hybe",
   "articles": [
+    {
+      "id": "nct-wish-txt-enhypen-riize-tws-zerobaseone-le-sserafim-and-more-earn-riaj-double",
+      "title": "NCT WISH, TXT, ENHYPEN, RIIZE, TWS, ZEROBASEONE, LE SSERAFIM, And More Earn RIAJ Double Platinum And Gold Certifications In Japan",
+      "url": "https://www.soompi.com/article/1873066wpp/nct-wish-txt-enhypen-riize-tws-zerobaseone-le-sserafim-and-more-earn-riaj-double-platinum-and-gold-certifications-in-japan",
+      "source": "Soompi",
+      "description": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! This month, NCT WISH’s latest Japanese single album “YO-I-DON! / BOY MEETS GIRL” was certified double platinum for over 500,000 units shipped in Japan. According to the RIAJ’s certification thresholds, albums are certified gold at 100,000 units shipped, platinum at… Continue reading NCT WISH, TXT, ENHYPEN, RIIZE, TWS, ZEROBASEONE, LE SSERAFIM, And More Earn RIAJ Double Platinum And Gold ",
+      "summary": "The Recording Industry Association of Japan announced its latest certifications, with NCT WISH's Japanese single album \"YO-I-DON! / BOY MEETS GIRL\" earning double platinum status for surpassing 500,000 units shipped, alongside multiple other K-pop groups receiving platinum and gold certifications.",
+      "publishedAt": "2026-09-25T01:04:44.000Z",
+      "author": "E Cha",
+      "group": "txt"
+    },
     {
       "id": "quiet-velocity-how-team-s-ej-and-taki-are-rewriting-pop-s-visual-code",
       "title": "Quiet Velocity: How &TEAM’s EJ and Taki Are Rewriting Pop’s Visual Code",
       "url": "https://kpoppie.com/quiet-velocity-how-teams-ej-and-taki-are-rewriting-pops-visual-code/",
       "source": "Kpoppie",
       "description": "The Static Before the Thunder The shutter clicks, but the silence in the Seoul studio feels louder than the music. Under the sharp tungsten lights of the Allure Korea set, EJ leans forward, resting his chin lightly on a silver-ringed hand. His dark hair falls across his forehead in deliberate, soft curtaining; his gaze into the lens is unblinking, cool, and undeniably magnetic. Beside him, Taki stands with an easy, fluid confidence—chest framed by a slashed knit, structured shoulders cloaked in ",
-      "summary": "&TEAM members EJ and Taki are featured in an Allure Korea photoshoot, showcasing their distinctive visual styling and presence in pop culture. The article explores their impact on contemporary pop's aesthetic direction through their photography and image presentation.",
+      "summary": "&TEAM members EJ and Taki are featured in Allure Korea, showcasing a distinctive visual aesthetic that the publication suggests is influencing contemporary pop culture's visual direction. The article highlights their composed, magnetic presence during a photoshoot as part of their broader impact on pop's visual trends.",
       "publishedAt": "2026-09-22T03:50:35.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "andteam"
@@ -19,21 +30,10 @@
       "url": "https://kpoppie.com/the-architecture-of-aftershocks-how-txts-yeonjun-is-rewriting-global-pop/",
       "source": "Kpoppie",
       "description": "YEONJUN: The Blueprint of Global Pop’s New High-Fashion Era The Pulse Before the Drop The shutter clicks with the rapid-fire precision of an automatic weapon, but inside the studio, time seems to bend around him. Under the blinding, stark-white tungsten lights of the Seoul soundstage, Choi Yeonjun doesn’t just pose—he conducts the room. Dressed in a sharply tailored, distressed black leather dynamic fit from Miu Miu’s latest collection, the 27-year-old artist leans forward, his piercing gaze cut",
-      "summary": "TXT member Yeonjun is featured in an article examining his influence on global pop music and high-fashion trends, with focus on his styling and artistic presentation during a photoshoot.",
+      "summary": "Yeonjun from TXT is featured in an article exploring his influence on global pop culture and high-fashion aesthetics, with the piece examining his role in shaping contemporary music and style trends.",
       "publishedAt": "2026-09-16T21:57:53.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "txt"
-    },
-    {
-      "id": "a-day-in-the-life-with-le-sserafim-at-blizzcon-billboard",
-      "title": "A Day In the Life With LE SSERAFIM at BlizzCon | Billboard",
-      "url": "https://www.billboard.com/video/a-day-in-the-life-with-le-sserafim-at-blizzcon/",
-      "source": "Billboard",
-      "description": "For the latest episode of A Day In the Life With, Billboard is with LE SSERAFIM at BlizzCon in Los Angeles, as the group is getting ready to hit the stage for its first BlizzCon performance in three years. The girls take Billboard behind the scenes, shares how they made the night extra special with […]",
-      "summary": "Billboard followed K-pop group LE SSERAFIM behind the scenes at BlizzCon in Los Angeles as they prepared for their first performance at the event in three years.",
-      "publishedAt": "2026-09-24T19:35:47.000Z",
-      "author": "Stefanie Tanaka",
-      "group": "lesserafim"
     },
     {
       "id": "-video-enhypen-scores-first-billboard-200-no-1-with-the-sin-bliss-sixth-k-pop-bo",
@@ -199,6 +199,17 @@
       "publishedAt": "2026-09-01T09:11:11Z",
       "author": "Kingman",
       "group": "hybe"
+    },
+    {
+      "id": "a-day-in-the-life-with-le-sserafim-at-blizzcon-billboard",
+      "title": "A Day In the Life With LE SSERAFIM at BlizzCon | Billboard",
+      "url": "https://www.billboard.com/video/a-day-in-the-life-with-le-sserafim-at-blizzcon/",
+      "source": "Billboard",
+      "description": "For the latest episode of A Day In the Life With, Billboard is with LE SSERAFIM at BlizzCon in Los Angeles, as the group is getting ready to hit the stage for its first BlizzCon performance in three years. The girls take Billboard behind the scenes, shares how they made the night extra special with […]",
+      "summary": "Billboard followed K-pop group LE SSERAFIM behind the scenes at BlizzCon in Los Angeles as they prepared for their first performance at the event in three years.",
+      "publishedAt": "2026-09-24T19:35:47.000Z",
+      "author": "Stefanie Tanaka",
+      "group": "lesserafim"
     },
     {
       "id": "quiz-can-you-correctly-identify-these-enhypen-mvs-from-just-one-screenshot-",

@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-24T20:53:25.389Z",
+  "updatedAt": "2026-09-25T20:50:21.404Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "jun-9-1st-ep-china-trailer-04-conquer",
+      "title": "JUN ‘9’ 1st EP CHINA Trailer 04 : Conquer",
+      "url": "https://www.youtube.com/shorts/JdYZMXOFVRg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-25T09:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "jun-9-1st-ep-china-trailer-03-butterfly",
+      "title": "JUN ‘9’ 1st EP CHINA Trailer 03 : Butterfly",
+      "url": "https://www.youtube.com/shorts/7zd9FL809-s",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-25T06:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "jun-9-1st-ep-china-trailer-02-admiration",
+      "title": "JUN ‘9’ 1st EP CHINA Trailer 02 : Admiration",
+      "url": "https://www.youtube.com/shorts/3LRb-PrqnpU",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-25T03:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "jun-9-1st-ep-china-trailer-01-awakening",
+      "title": "JUN ‘9’ 1st EP CHINA Trailer 01 : Awakening",
+      "url": "https://www.youtube.com/shorts/090DMYg8ME0",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-25T00:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "boynextdoor-animal-official-mv-teaser-boynextdoor-bnd-home-deluxe-animal",
       "title": "BOYNEXTDOOR 'ANIMAL' Official MV Teaser #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #ANIMAL",
@@ -43,50 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/F2fsRLdhHHc/mqdefault.jpg",
       "publishedAt": "2026-09-24T08:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "XA7A2xZ82FQ",
-      "title": "JUN ‘9’ 1st EP CHINA Identity : Beyond the Door",
-      "url": "https://www.youtube.com/watch?v=XA7A2xZ82FQ",
-      "videoId": "XA7A2xZ82FQ",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/XA7A2xZ82FQ/mqdefault.jpg",
-      "publishedAt": "2026-09-24T00:59:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "7lYsPhdYI-U",
-      "title": "&TEAM 'Good Boy' Official MV Teaser",
-      "url": "https://www.youtube.com/watch?v=7lYsPhdYI-U",
-      "videoId": "7lYsPhdYI-U",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/7lYsPhdYI-U/mqdefault.jpg",
-      "publishedAt": "2026-09-23T08:59:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-deluxe-sneak-peek-boynextdoor-bnd-home-deluxe-400-years",
-      "title": "BOYNEXTDOOR [HOME: DELUXE] Sneak Peek #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #400_Years",
-      "url": "https://www.youtube.com/shorts/V8sP8ekiAoQ",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-21T13:04:03.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-home-deluxe-sneak-peek-boynextdoor-bnd-home-deluxe-boomboomboom",
-      "title": "BOYNEXTDOOR [HOME: DELUXE] Sneak Peek #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #BoomBoomBoom",
-      "url": "https://www.youtube.com/shorts/cpOBafVRLSg",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-21T13:03:32.000Z",
       "group": "bts",
       "bucket": "bts"
     }
