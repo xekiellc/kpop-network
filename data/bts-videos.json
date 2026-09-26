@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-25T20:50:21.404Z",
+  "updatedAt": "2026-09-26T10:58:10.584Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "jun-9-1st-ep-china-trailer-08-inward",
+      "title": "JUN ‘9’ 1st EP CHINA Trailer 08 : Inward",
+      "url": "https://www.youtube.com/shorts/4Y90Iuudvvs",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-26T09:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "jun-9-1st-ep-china-trailer-07-chaos",
+      "title": "JUN ‘9’ 1st EP CHINA Trailer 07 : Chaos",
+      "url": "https://www.youtube.com/shorts/WSk6GVj4ubk",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-26T07:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "jun-9-1st-ep-china-trailer-06-boredom",
+      "title": "JUN ‘9’ 1st EP CHINA Trailer 06 : Boredom",
+      "url": "https://www.youtube.com/shorts/bOkzvnRj_mc",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-26T04:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "jun-9-1st-ep-china-trailer-05-doubt",
+      "title": "JUN ‘9’ 1st EP CHINA Trailer 05 : Doubt",
+      "url": "https://www.youtube.com/shorts/vfuVzE1Uj1E",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-26T01:00:02.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "jun-9-1st-ep-china-trailer-04-conquer",
       "title": "JUN ‘9’ 1st EP CHINA Trailer 04 : Conquer",
@@ -43,50 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-25T00:59:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-animal-official-mv-teaser-boynextdoor-bnd-home-deluxe-animal",
-      "title": "BOYNEXTDOOR 'ANIMAL' Official MV Teaser #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #ANIMAL",
-      "url": "https://www.youtube.com/shorts/7EqmF7hziYA",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-24T13:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "5VdADuLnWak",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'ANIMAL' Official MV Teaser",
-      "url": "https://www.youtube.com/watch?v=5VdADuLnWak",
-      "videoId": "5VdADuLnWak",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/5VdADuLnWak/mqdefault.jpg",
-      "publishedAt": "2026-09-24T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "VHA0FMXsQgk",
-      "title": "&TEAM 'Good Boy' Official MV",
-      "url": "https://www.youtube.com/watch?v=VHA0FMXsQgk",
-      "videoId": "VHA0FMXsQgk",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/VHA0FMXsQgk/mqdefault.jpg",
-      "publishedAt": "2026-09-24T09:02:54.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "F2fsRLdhHHc",
-      "title": "JUN ‘9’ 1st EP CHINA Scheduler : Wish of NINE",
-      "url": "https://www.youtube.com/watch?v=F2fsRLdhHHc",
-      "videoId": "F2fsRLdhHHc",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/F2fsRLdhHHc/mqdefault.jpg",
-      "publishedAt": "2026-09-24T08:00:00.000Z",
       "group": "bts",
       "bucket": "bts"
     }
