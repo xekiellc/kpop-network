@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-26T10:58:10.586Z",
+  "updatedAt": "2026-09-27T11:35:01.471Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "99Fo8lqXV_I",
+      "title": "JUN ‘9’ 1st EP CHINA Key Object : The Altar of NINE",
+      "url": "https://www.youtube.com/watch?v=99Fo8lqXV_I",
+      "videoId": "99Fo8lqXV_I",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/99Fo8lqXV_I/mqdefault.jpg",
+      "publishedAt": "2026-09-27T00:59:58.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "jun-9-1st-ep-china-trailer-08-inward",
       "title": "JUN ‘9’ 1st EP CHINA Trailer 08 : Inward",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-25T03:59:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "jun-9-1st-ep-china-trailer-01-awakening",
-      "title": "JUN ‘9’ 1st EP CHINA Trailer 01 : Awakening",
-      "url": "https://www.youtube.com/shorts/090DMYg8ME0",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-25T00:59:58.000Z",
       "group": "bts",
       "bucket": "bts"
     },
