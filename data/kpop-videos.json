@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-28T22:43:05.075Z",
+  "updatedAt": "2026-09-29T12:18:37.508Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "illit-break-even-concept-film-burning-minju",
+      "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥 - #MINJU",
+      "url": "https://www.youtube.com/shorts/I4NJtlDTDKM",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-29T11:00:29.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "JXe4S-WY4h4",
+      "title": "ENHYPEN x SANTOS BRAVOS - Bloody Paradise x VELOCIDADE (PETERBLUE Remix)",
+      "url": "https://www.youtube.com/watch?v=JXe4S-WY4h4",
+      "videoId": "JXe4S-WY4h4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/JXe4S-WY4h4/mqdefault.jpg",
+      "publishedAt": "2026-09-29T04:00:04.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "illit-break-even-promotion-calendar",
+      "title": "ILLIT (아일릿) ‘BREAK EVEN’ Promotion Calendar",
+      "url": "https://www.youtube.com/shorts/vl-_W3oy61s",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-29T03:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "illit-break-even-concept-film-burning-",
       "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥",
@@ -32,39 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/WI4__7z_dJw/mqdefault.jpg",
       "publishedAt": "2026-09-28T08:59:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "jun-9-official-mv",
-      "title": "JUN ‘9’ Official MV",
-      "url": "https://www.youtube.com/shorts/FlMV5Bc6uY4",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-28T02:07:23.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "99Fo8lqXV_I",
-      "title": "JUN ‘9’ 1st EP CHINA Key Object : The Altar of NINE",
-      "url": "https://www.youtube.com/watch?v=99Fo8lqXV_I",
-      "videoId": "99Fo8lqXV_I",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/99Fo8lqXV_I/mqdefault.jpg",
-      "publishedAt": "2026-09-27T00:59:58.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "jun-9-1st-ep-china-trailer-08-inward",
-      "title": "JUN ‘9’ 1st EP CHINA Trailer 08 : Inward",
-      "url": "https://www.youtube.com/shorts/4Y90Iuudvvs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-26T09:59:59.000Z",
       "group": "bts",
       "bucket": "bts"
     },

@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-09-28T22:43:05.061Z",
+  "updatedAt": "2026-09-29T12:18:37.495Z",
   "bucket": "hybe",
   "articles": [
-    {
-      "id": "txt-announces-comeback-date-and-details-for-return-with-perfect-storm-",
-      "title": "TXT Announces Comeback Date And Details For Return With “PERFECT STORM”",
-      "url": "https://www.soompi.com/article/1873466wpp/txt-announces-comeback-date-and-details-for-return-with-perfect-storm",
-      "source": "Soompi",
-      "description": "Mark your calendars for TXT’s return! On September 28 KST, BIGHIT MUSIC officially announced the date and details of TXT’s upcoming November comeback. TXT will be returning with their ninth mini album “PERFECT STORM” on November 16, the day after they kick off their new world tour “STEAL THE WIND” with three nights of concerts… Continue reading TXT Announces Comeback Date And Details For Return With “PERFECT STORM” The post TXT Announces Comeback Date And Details For Return With “PERFECT STORM” ",
-      "summary": "BIGHIT MUSIC announced on September 28 that TXT will release their ninth mini album \"PERFECT STORM\" on November 16, coinciding with the start of their world tour \"STEAL THE WIND.\"",
-      "publishedAt": "2026-09-27T22:46:31.000Z",
-      "author": "E Cha",
-      "group": "txt"
-    },
-    {
-      "id": "quiet-velocity-how-team-s-ej-and-taki-are-rewriting-pop-s-visual-code",
-      "title": "Quiet Velocity: How &TEAM’s EJ and Taki Are Rewriting Pop’s Visual Code",
-      "url": "https://kpoppie.com/quiet-velocity-how-teams-ej-and-taki-are-rewriting-pops-visual-code/",
-      "source": "Kpoppie",
-      "description": "The Static Before the Thunder The shutter clicks, but the silence in the Seoul studio feels louder than the music. Under the sharp tungsten lights of the Allure Korea set, EJ leans forward, resting his chin lightly on a silver-ringed hand. His dark hair falls across his forehead in deliberate, soft curtaining; his gaze into the lens is unblinking, cool, and undeniably magnetic. Beside him, Taki stands with an easy, fluid confidence—chest framed by a slashed knit, structured shoulders cloaked in ",
-      "summary": "&TEAM members EJ and Taki are featured in an Allure Korea photoshoot that highlights their distinctive visual presence and styling in contemporary K-pop. The article examines how their aesthetic choices are influencing pop culture's visual landscape.",
-      "publishedAt": "2026-09-22T03:50:35.000Z",
-      "author": "Kpoppie Editorial Team",
-      "group": "andteam"
-    },
     {
       "id": "-video-enhypen-scores-first-billboard-200-no-1-with-the-sin-bliss-sixth-k-pop-bo",
       "title": "(VIDEO) ENHYPEN Scores First Billboard 200 No. 1 With 'The Sin: Bliss,' Sixth K-Pop Boy Group To Top Chart",
@@ -34,6 +12,17 @@
       "publishedAt": "2026-09-03T11:23:09Z",
       "author": "Jason Taylor",
       "group": "enhypen"
+    },
+    {
+      "id": "txt-to-return-with-new-ep-in-november-the-korea-times",
+      "title": "TXT to return with new EP in November - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260928/txt-to-return-with-new-ep-in-november",
+      "source": "코리아타임스",
+      "description": "K-pop boy band Tomorrow X Together (TXT) will drop its ninth EP, \"Perfect Storm,\" in November, the group's agency said Monday. The album, set for r...",
+      "summary": "K-pop boy band Tomorrow X Together (TXT) will drop its ninth EP, \"Perfect Storm,\" in November, the group's agency said Monday. The album, set for r...",
+      "publishedAt": "2026-09-28T01:37:40Z",
+      "author": "Yonhap",
+      "group": "txt"
     },
     {
       "id": "coord-server-added-to-pypi",
@@ -166,6 +155,28 @@
       "publishedAt": "2026-09-01T09:11:11Z",
       "author": "Kingman",
       "group": "hybe"
+    },
+    {
+      "id": "txt-announces-comeback-date-and-details-for-return-with-perfect-storm-",
+      "title": "TXT Announces Comeback Date And Details For Return With “PERFECT STORM”",
+      "url": "https://www.soompi.com/article/1873466wpp/txt-announces-comeback-date-and-details-for-return-with-perfect-storm",
+      "source": "Soompi",
+      "description": "Mark your calendars for TXT’s return! On September 28 KST, BIGHIT MUSIC officially announced the date and details of TXT’s upcoming November comeback. TXT will be returning with their ninth mini album “PERFECT STORM” on November 16, the day after they kick off their new world tour “STEAL THE WIND” with three nights of concerts… Continue reading TXT Announces Comeback Date And Details For Return With “PERFECT STORM” The post TXT Announces Comeback Date And Details For Return With “PERFECT STORM” ",
+      "summary": "BIGHIT MUSIC announced on September 28 that TXT will release their ninth mini album \"PERFECT STORM\" on November 16, coinciding with the start of their world tour \"STEAL THE WIND.\"",
+      "publishedAt": "2026-09-27T22:46:31.000Z",
+      "author": "E Cha",
+      "group": "txt"
+    },
+    {
+      "id": "quiet-velocity-how-team-s-ej-and-taki-are-rewriting-pop-s-visual-code",
+      "title": "Quiet Velocity: How &TEAM’s EJ and Taki Are Rewriting Pop’s Visual Code",
+      "url": "https://kpoppie.com/quiet-velocity-how-teams-ej-and-taki-are-rewriting-pops-visual-code/",
+      "source": "Kpoppie",
+      "description": "The Static Before the Thunder The shutter clicks, but the silence in the Seoul studio feels louder than the music. Under the sharp tungsten lights of the Allure Korea set, EJ leans forward, resting his chin lightly on a silver-ringed hand. His dark hair falls across his forehead in deliberate, soft curtaining; his gaze into the lens is unblinking, cool, and undeniably magnetic. Beside him, Taki stands with an easy, fluid confidence—chest framed by a slashed knit, structured shoulders cloaked in ",
+      "summary": "&TEAM members EJ and Taki are featured in an Allure Korea photoshoot that highlights their distinctive visual presence and styling in contemporary K-pop. The article examines how their aesthetic choices are influencing pop culture's visual landscape.",
+      "publishedAt": "2026-09-22T03:50:35.000Z",
+      "author": "Kpoppie Editorial Team",
+      "group": "andteam"
     },
     {
       "id": "txt-and-katseye-join-star-studded-lineup-for-iheartradio-s-jingle-ball-tour-2026",
