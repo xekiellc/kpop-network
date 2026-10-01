@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T12:37:30.089Z",
+  "updatedAt": "2026-10-01T22:05:44.031Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,10 +8,21 @@
       "url": "https://www.soompi.com/article/1874771wpp/watch-enhypen-takes-7th-win-and-triple-crown-for-bloody-paradise-on-m-countdown-performances-by-evan-team-and-more-2",
       "source": "Soompi",
       "description": "i-dle’s Soyeon has won her first music show trophy for “I’m gonna TOESA”! On the October 1 episode of “M Countdown,” the candidates for first place were BLACKPINK’s Rosé’s “new trick” and i-dle’s Soyeon’s “I’m gonna TOESA.” Soyeon ultimately took the prize with a total of 7,621 points. Congratulations to Soyeon! Watch the winner announcement… Continue reading Watch: i-dle’s Soyeon Takes 1st Win For “I’m gonna TOESA” On “M Countdown”; Performances By CRAVITY, BOYNEXTDOOR, And More The post Watch:",
-      "summary": "On the October 1 episode of \"M Countdown,\" i-dle's Soyeon won her first music show trophy for \"I'm gonna TOESA,\" earning 7,621 points and defeating BLACKPINK's Rosé's \"new trick\" for first place. The episode also featured performances by CRAVITY, BOYNEXTDOOR, and other artists.",
+      "summary": "i-dle's Soyeon won her first music show trophy for \"I'm gonna TOESA\" on the October 1 episode of M Countdown, defeating BLACKPINK's Rosé's \"new trick\" with 7,621 points. The episode also featured performances from CRAVITY, BOYNEXTDOOR, and other artists.",
       "publishedAt": "2026-10-01T12:25:03.000Z",
       "author": "MLim",
       "group": "boynextdoor"
+    },
+    {
+      "id": "sakura-s-diamond-reign-le-sserafim-s-icon-redefines-pop-architecture",
+      "title": "Sakura’s Diamond Reign: LE SSERAFIM’s Icon Redefines Pop Architecture",
+      "url": "https://kpoppie.com/sakuras-diamond-reign-le-sserafims-icon-redefines-pop-architecture/",
+      "source": "Kpoppie",
+      "description": "Cover Story The Spark in the Dark The shutter fires, and for a fraction of a millisecond, the studio vanishes. Inside the leather-trimmed interior of a vintage green sports car parked beneath high-intensity studio grids, Miyawaki Sakura doesn’t just hold the camera’s gaze—she commands the room’s atmospheric pressure. Her soft, pastel-pink bob catches the strobe, contrasting with the razor-sharp brilliance of Damiani’s Margherita and Mimosa collections draped across her fingers and collarbone. Th",
+      "summary": "LE SSERAFIM member Sakura is featured in a cover story that highlights her visual impact and presence, showcasing her styling with luxury jewelry from Damiani's collections during a studio photoshoot.",
+      "publishedAt": "2026-10-01T20:16:11.000Z",
+      "author": "Kpoppie Editorial Team",
+      "group": "lesserafim"
     },
     {
       "id": "-video-enhypen-scores-first-billboard-200-no-1-with-the-sin-bliss-sixth-k-pop-bo",
@@ -102,17 +113,6 @@
       "group": "enhypen"
     },
     {
-      "id": "enhypen-claims-1st-no-1-on-billboard-200-with-the-sin-bliss-the-korea-times",
-      "title": "ENHYPEN claims 1st No. 1 on Billboard 200 with 'The Sin: Bliss' - The Korea Times",
-      "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260831/enhypen-claims-1st-no-1-on-billboard-200-with-the-sin-bliss",
-      "source": "코리아타임스",
-      "description": "The latest album from K-pop boy group ENHYPEN has debuted at No. 1 on the U.S. Billboard's main albums chart, earning the group its first chart-top...",
-      "summary": "The latest album from K-pop boy group ENHYPEN has debuted at No. 1 on the U.S. Billboard's main albums chart, earning the group its first chart-top...",
-      "publishedAt": "2026-08-31T00:51:54Z",
-      "author": "Yonhap",
-      "group": "enhypen"
-    },
-    {
       "id": "bts-takes-three-mtv-vmas-led-by-song-of-the-year-for-swim-as-lisa-wins-best-pop-",
       "title": "BTS Takes Three MTV VMAs, Led by Song of the Year for 'Swim,' as Lisa Wins Best Pop and Swift Sets Record",
       "url": "https://www.ibtimes.com.au/bts-lisa-2026-mtv-vmas-winners-1875981",
@@ -188,6 +188,17 @@
       "publishedAt": "2026-09-01T09:11:11Z",
       "author": "Kingman",
       "group": "hybe"
+    },
+    {
+      "id": "enhypen-claims-1st-no-1-on-billboard-200-with-the-sin-bliss-the-korea-times",
+      "title": "ENHYPEN claims 1st No. 1 on Billboard 200 with 'The Sin: Bliss' - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260831/enhypen-claims-1st-no-1-on-billboard-200-with-the-sin-bliss",
+      "source": "코리아타임스",
+      "description": "The latest album from K-pop boy group ENHYPEN has debuted at No. 1 on the U.S. Billboard's main albums chart, earning the group its first chart-top...",
+      "summary": "The latest album from K-pop boy group ENHYPEN has debuted at No. 1 on the U.S. Billboard's main albums chart, earning the group its first chart-top...",
+      "publishedAt": "2026-08-31T00:51:54Z",
+      "author": "Yonhap",
+      "group": "enhypen"
     },
     {
       "id": "txt-announces-comeback-date-and-details-for-return-with-perfect-storm-",
