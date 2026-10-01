@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-29T12:18:37.505Z",
+  "updatedAt": "2026-10-01T12:37:30.101Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "illit-break-even-concept-film-burning-iroha",
+      "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥 - #IROHA",
+      "url": "https://www.youtube.com/shorts/-_ktqLA18zo",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-01T11:06:29.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "q0XKUFGn_M4",
+      "title": "HYBE CINE FEST 2026 Line-up Trailer",
+      "url": "https://www.youtube.com/watch?v=q0XKUFGn_M4",
+      "videoId": "q0XKUFGn_M4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/q0XKUFGn_M4/mqdefault.jpg",
+      "publishedAt": "2026-09-30T13:00:31.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-hwang-min-hyun-our-dot-dotting",
+      "title": "황민현 (HWANG MIN HYUN) [OUR] DOT & DOTTING",
+      "url": "https://www.youtube.com/shorts/kM5eVl21thE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-30T13:00:29.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "illit-break-even-concept-film-burning-yunah",
+      "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥 - #YUNAH",
+      "url": "https://www.youtube.com/shorts/09HdjKa1X9c",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-09-30T11:00:31.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "illit-break-even-concept-film-burning-minju",
       "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥 - #MINJU",
@@ -10,61 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-29T11:00:29.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "JXe4S-WY4h4",
-      "title": "ENHYPEN x SANTOS BRAVOS - Bloody Paradise x VELOCIDADE (PETERBLUE Remix)",
-      "url": "https://www.youtube.com/watch?v=JXe4S-WY4h4",
-      "videoId": "JXe4S-WY4h4",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/JXe4S-WY4h4/mqdefault.jpg",
-      "publishedAt": "2026-09-29T04:00:04.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-break-even-promotion-calendar",
-      "title": "ILLIT (아일릿) ‘BREAK EVEN’ Promotion Calendar",
-      "url": "https://www.youtube.com/shorts/vl-_W3oy61s",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-29T03:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-break-even-concept-film-burning-",
-      "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥",
-      "url": "https://www.youtube.com/shorts/nZskWeinurA",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-28T11:00:05.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "boynextdoor-animal-official-mv-boynextdoor-bnd-home-deluxe-animal",
-      "title": "BOYNEXTDOOR 'ANIMAL' Official MV #BOYNEXTDOOR #보이넥스트도어 #BND #HOME_DELUXE #ANIMAL",
-      "url": "https://www.youtube.com/shorts/Mj5SvX9D9bc",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-28T09:00:28.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "WI4__7z_dJw",
-      "title": "BOYNEXTDOOR (보이넥스트도어) 'ANIMAL' Official MV",
-      "url": "https://www.youtube.com/watch?v=WI4__7z_dJw",
-      "videoId": "WI4__7z_dJw",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/WI4__7z_dJw/mqdefault.jpg",
-      "publishedAt": "2026-09-28T08:59:06.000Z",
       "group": "bts",
       "bucket": "bts"
     }
