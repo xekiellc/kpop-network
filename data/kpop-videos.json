@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-01T22:05:44.046Z",
+  "updatedAt": "2026-10-02T21:32:24.577Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "T7V8ruoKqNo",
+      "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥 - #WONHEE",
+      "url": "https://www.youtube.com/watch?v=T7V8ruoKqNo",
+      "videoId": "T7V8ruoKqNo",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/T7V8ruoKqNo/mqdefault.jpg",
+      "publishedAt": "2026-10-02T11:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "illit-break-even-concept-film-burning-iroha",
       "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥 - #IROHA",
@@ -43,17 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-09-30T11:00:31.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "illit-break-even-concept-film-burning-minju",
-      "title": "ILLIT (아일릿) ‘BREAK EVEN’ Concept Film BURNING🔥 - #MINJU",
-      "url": "https://www.youtube.com/shorts/I4NJtlDTDKM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-09-29T11:00:29.000Z",
       "group": "bts",
       "bucket": "bts"
     },
