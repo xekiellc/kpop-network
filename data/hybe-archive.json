@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T20:18:52.276Z",
+  "updatedAt": "2026-10-04T11:54:32.827Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.soompi.com/article/1875044wpp/cortis-takes-12th-win-for-redred-on-music-bank",
       "source": "Soompi",
       "description": "CORTIS has snagged a 12th music show trophy for “REDRED”! KBS 2TV’s “Music Bank” did not air a new episode on October 2, but the music show still announced this week’s winner on its official website. CORTIS took the win with a total of 5,315 points on the Music Bank K-Chart from September 21 to… Continue reading CORTIS Takes 12th Win For “REDRED” On “Music Bank” The post CORTIS Takes 12th Win For “REDRED” On “Music Bank” appeared first on Soompi.",
-      "summary": "CORTIS won their 12th music show trophy for \"REDRED\" on KBS 2TV's \"Music Bank\" with 5,315 points on the K-Chart. The win was announced on the show's official website despite no new episode airing on October 2.",
+      "summary": "CORTIS won their 12th music show trophy for \"REDRED\" on KBS 2TV's \"Music Bank\" with 5,315 points on the K-Chart. The win was announced on the show's official website as a new episode did not air on October 2.",
       "publishedAt": "2026-10-02T11:16:53.000Z",
       "author": "MLim",
       "group": "cortis"
@@ -19,7 +19,7 @@
       "url": "https://kpoppie.com/sakuras-diamond-reign-le-sserafims-icon-redefines-pop-architecture/",
       "source": "Kpoppie",
       "description": "Cover Story The Spark in the Dark The shutter fires, and for a fraction of a millisecond, the studio vanishes. Inside the leather-trimmed interior of a vintage green sports car parked beneath high-intensity studio grids, Miyawaki Sakura doesn’t just hold the camera’s gaze—she commands the room’s atmospheric pressure. Her soft, pastel-pink bob catches the strobe, contrasting with the razor-sharp brilliance of Damiani’s Margherita and Mimosa collections draped across her fingers and collarbone. Th",
-      "summary": "LE SSERAFIM member Miyawaki Sakura is featured in a cover story photoshoot where she models luxury jewelry while showcasing her commanding presence and visual appeal. The article highlights her status as an influential figure in K-pop and her role in redefining the genre's aesthetic standards.",
+      "summary": "LE SSERAFIM member Sakura is featured in a cover story highlighting her visual presence and styling, which includes luxury jewelry from Damiani's collections during an artistic photoshoot.",
       "publishedAt": "2026-10-01T20:16:11.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "lesserafim"
@@ -34,17 +34,6 @@
       "publishedAt": "2026-10-01T21:39:53Z",
       "author": "Dan Rys",
       "group": "hybe"
-    },
-    {
-      "id": "-video-enhypen-scores-first-billboard-200-no-1-with-the-sin-bliss-sixth-k-pop-bo",
-      "title": "(VIDEO) ENHYPEN Scores First Billboard 200 No. 1 With 'The Sin: Bliss,' Sixth K-Pop Boy Group To Top Chart",
-      "url": "https://www.ibtimes.com.au/enhypen-first-billboard-200-no-1-sin-bliss-1874942",
-      "source": "Ibtimes.com.au",
-      "description": "ENHYPEN's eighth EP, 'The Sin: Bliss,' debuts at No. 1 on the Billboard 200, marking the K-pop group's first chart-topping album in the U.S., driven by strong physical sales.",
-      "summary": "ENHYPEN's eighth EP, 'The Sin: Bliss,' debuts at No. 1 on the Billboard 200, marking the K-pop group's first chart-topping album in the U.S., driven by strong physical sales.",
-      "publishedAt": "2026-09-03T11:23:09Z",
-      "author": "Jason Taylor",
-      "group": "enhypen"
     },
     {
       "id": "10-01-2026",
@@ -99,17 +88,6 @@
       "summary": "The concert returns to Central Park on Saturday, Sept. 26. Performers include Ms. Lauryn Hill and Wyclef Jean, Lenny Kravitz, John Legend, Lainey Wilson, Shaboozey and TXT (TOMORROW X TOGETHER). Actor Hugh Jackman will return to host for the 12th straight yea…",
       "publishedAt": "2026-09-03T16:50:18Z",
       "author": "CBS New York",
-      "group": "txt"
-    },
-    {
-      "id": "-tomorrow-x-together-2-produced-by-moa-ep-2-walk-together-moa-",
-      "title": "【ファンがプロデュースしたTOMORROW X TOGETHER日本オリジナル商品第2弾 “PRODUCED BY MOA EP.2” 『WALK TOGETHER #MOAと過ごす休日』発売決定！】",
-      "url": "https://prtimes.jp/main/html/rd/p/000000743.000045862.html",
-      "source": "Prtimes.jp",
-      "description": "[株式会社HYBE JAPAN] [画像1: https://prcdn.freetls.fastly.net/release_image/45862/743/45862-743-9cf236aabc4199d2db2b3a8a221458a6-1928x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-      "summary": "[株式会社HYBE JAPAN] [画像1: https://prcdn.freetls.fastly.net/release_image/45862/743/45862-743-9cf236aabc4199d2db2b3a8a221458a6-1928x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-      "publishedAt": "2026-09-03T03:00:00Z",
-      "author": "",
       "group": "txt"
     },
     {
@@ -177,6 +155,28 @@
       "publishedAt": "2026-09-12T16:55:25Z",
       "author": "Kingman",
       "group": "hybe"
+    },
+    {
+      "id": "-video-enhypen-scores-first-billboard-200-no-1-with-the-sin-bliss-sixth-k-pop-bo",
+      "title": "(VIDEO) ENHYPEN Scores First Billboard 200 No. 1 With 'The Sin: Bliss,' Sixth K-Pop Boy Group To Top Chart",
+      "url": "https://www.ibtimes.com.au/enhypen-first-billboard-200-no-1-sin-bliss-1874942",
+      "source": "Ibtimes.com.au",
+      "description": "ENHYPEN's eighth EP, 'The Sin: Bliss,' debuts at No. 1 on the Billboard 200, marking the K-pop group's first chart-topping album in the U.S., driven by strong physical sales.",
+      "summary": "ENHYPEN's eighth EP, 'The Sin: Bliss,' debuts at No. 1 on the Billboard 200, marking the K-pop group's first chart-topping album in the U.S., driven by strong physical sales.",
+      "publishedAt": "2026-09-03T11:23:09Z",
+      "author": "Jason Taylor",
+      "group": "enhypen"
+    },
+    {
+      "id": "-tomorrow-x-together-2-produced-by-moa-ep-2-walk-together-moa-",
+      "title": "【ファンがプロデュースしたTOMORROW X TOGETHER日本オリジナル商品第2弾 “PRODUCED BY MOA EP.2” 『WALK TOGETHER #MOAと過ごす休日』発売決定！】",
+      "url": "https://prtimes.jp/main/html/rd/p/000000743.000045862.html",
+      "source": "Prtimes.jp",
+      "description": "[株式会社HYBE JAPAN] [画像1: https://prcdn.freetls.fastly.net/release_image/45862/743/45862-743-9cf236aabc4199d2db2b3a8a221458a6-1928x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "summary": "[株式会社HYBE JAPAN] [画像1: https://prcdn.freetls.fastly.net/release_image/45862/743/45862-743-9cf236aabc4199d2db2b3a8a221458a6-1928x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "publishedAt": "2026-09-03T03:00:00Z",
+      "author": "",
+      "group": "txt"
     },
     {
       "id": "watch-i-dle-s-soyeon-takes-1st-win-for-i-m-gonna-toesa-on-m-countdown-performanc",
