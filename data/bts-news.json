@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T12:49:20.868Z",
+  "updatedAt": "2026-10-07T22:23:37.815Z",
   "bucket": "bts",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://kpoppie.com/the-architect-of-calm-how-bts-jin-redefined-global-pops-frequency/",
       "source": "Kpoppie",
       "description": "The flash units hit at sixty frames a minute, but inside the frame, Kim Seokjin doesn’t blink. Lounging back on a warm leather sofa in an olive-drab ALO crewneck, one hand resting over a black leather duffel bag, Jin radiates a quiet, immovable gravity. Outside, the global pop economy runs on hyper-stimulation, algorithmic friction, and a relentless, deafening noise. Inside, the posture isn’t defensive—it’s serene. When he shifts position, stepping out under the limestone architectural arches in",
-      "summary": "BTS member Jin is featured in a profile piece that explores his calm demeanor and composed presence, contrasting his serene approach with the high-intensity nature of the global pop music industry.",
+      "summary": "BTS member Jin is featured in a profile discussing his calm, composed demeanor and influence on global pop culture, contrasting his serene approach with the high-energy nature of the industry.",
       "publishedAt": "2026-10-03T09:06:59.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "bts"
@@ -319,6 +319,28 @@
       "summary": "Away from the chaos that follows his every waking move, K-pop superstar V seems like a pretty chill guy. But what keeps him grounded in a life lived for the stage?",
       "publishedAt": "2026-09-09T16:00:00Z",
       "author": "Ted Stansfield",
+      "group": "bts"
+    },
+    {
+      "id": "bts-skincare-favorites-are-on-sale-for-amazon-october-prime-day-2026",
+      "title": "BTS Skincare Favorites Are on Sale for Amazon October Prime Day 2026",
+      "url": "http://www.billboard.com/culture/product-recommendations/bts-beauty-korean-skincare-october-prime-day-deals-2026-1236355078/",
+      "source": "Billboard",
+      "description": "Prime Big Deal Days is bringing discounts on the K-beauty products spotted in the members’ routines, up to 53% off.",
+      "summary": "Prime Big Deal Days is bringing discounts on the K-beauty products spotted in the members’ routines, up to 53% off.",
+      "publishedAt": "2026-10-06T18:12:49Z",
+      "author": "Camila Quimper",
+      "group": "bts"
+    },
+    {
+      "id": "bts-picnic-in-the-park-play-drop-the-handkerchief-on-run-bts-watch",
+      "title": "BTS Picnic in the Park, Play Drop the Handkerchief on 'Run BTS!': Watch",
+      "url": "http://www.billboard.com/music/pop/bts-run-episode-picnic-drop-the-handkerchief-games-watch-1236355102/",
+      "source": "Billboard",
+      "description": "BTS get seriously silly in the new Toronto episode of their \"Run BTS!\" web series, having a picnic in the park and playing drop the handkerchief: watch.",
+      "summary": "BTS get seriously silly in the new Toronto episode of their \"Run BTS!\" web series, having a picnic in the park and playing drop the handkerchief: watch.",
+      "publishedAt": "2026-10-06T17:38:19Z",
+      "author": "Gil Kaufman",
       "group": "bts"
     },
     {
