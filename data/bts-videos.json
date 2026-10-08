@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-10-08T12:58:12.922Z",
+  "updatedAt": "2026-10-08T22:36:43.406Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-track-sampler-no-looking-back",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' track sampler 𝟬𝟳 No looking back",
+      "url": "https://www.youtube.com/shorts/_88z58EKzB4",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-08T15:00:32.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-track-sampler-jeonghan-solo-",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' track sampler 𝟬𝟲 컬러링 (JEONGHAN Solo)",
+      "url": "https://www.youtube.com/shorts/tri15tjfaOc",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-08T15:00:24.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-track-sampler-not-personal-joshua-solo-",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' track sampler 𝟬𝟱 Not personal (JOSHUA Solo)",
+      "url": "https://www.youtube.com/shorts/gxwVrmiUp8Y",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-08T15:00:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-track-sampler-one-plus-one",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' track sampler 𝟬𝟰 One plus one",
+      "url": "https://www.youtube.com/shorts/Vlc1DeCj44g",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-08T15:00:15.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-track-sampler-outside",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' track sampler 𝟬𝟯 Outside",
+      "url": "https://www.youtube.com/shorts/_ecegfHshIg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-08T15:00:11.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-track-sampler-12-o-clock",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' track sampler 𝟬𝟮 12 o'clock",
+      "url": "https://www.youtube.com/shorts/hUTDTVmQAtk",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-08T15:00:07.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-track-sampler-like-you",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' track sampler 𝟬𝟭 Like you",
+      "url": "https://www.youtube.com/shorts/XR0kNMprA00",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-08T15:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "Dqhps1ecJDQ",
       "title": "EVAN (에반) 'Twilight' Performance Film",
@@ -10,39 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/Dqhps1ecJDQ/mqdefault.jpg",
       "publishedAt": "2026-10-07T11:59:56.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-hwang-min-hyun-our-official-mv",
-      "title": "황민현 (HWANG MIN HYUN) 'OUR' Official MV",
-      "url": "https://www.youtube.com/shorts/6qeMlAHbmQY",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-07T09:10:44.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "5xcEJHC6ufo",
-      "title": "TWS (투어스) Being Together : TO US",
-      "url": "https://www.youtube.com/watch?v=5xcEJHC6ufo",
-      "videoId": "5xcEJHC6ufo",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/5xcEJHC6ufo/mqdefault.jpg",
-      "publishedAt": "2026-10-06T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-hwang-min-hyun-our-official-mv-teaser",
-      "title": "황민현 (HWANG MIN HYUN) 'OUR' Official MV Teaser",
-      "url": "https://www.youtube.com/shorts/J20wj7Scz64",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-06T13:00:09.000Z",
       "group": "bts",
       "bucket": "bts"
     }
