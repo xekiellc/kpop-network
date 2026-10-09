@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T22:36:43.383Z",
+  "updatedAt": "2026-10-09T12:44:25.490Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -8,21 +8,10 @@
       "url": "https://www.soompi.com/article/1876441wpp/watch-boynextdoor-takes-1st-win-for-animal-on-m-countdown-performances-by-kickflip-hwang-minhyun-and-more",
       "source": "Soompi",
       "description": "BOYNEXTDOOR has won their first music show trophy for “ANIMAL”! On the October 8 episode of “M Countdown,” the candidates for first place were BOYNEXTDOOR’s “ANIMAL” and i-dle’s Soyeon’s “I’m gonna TOESA.” BOYNEXTDOOR ultimately took the prize with a total of 6,453 points. Congratulations to BOYNEXTDOOR! Watch the winner announcement and encore below: Today’s performers… Continue reading Watch: BOYNEXTDOOR Takes 1st Win For “ANIMAL” On “M Countdown”; Performances By KickFlip, Hwang Minhyun, And ",
-      "summary": "BOYNEXTDOOR won their first music show trophy for \"ANIMAL\" on the October 8 episode of \"M Countdown,\" defeating i-dle's Soyeon's \"I'm gonna TOESA\" with 6,453 points. The episode also featured performances by KickFlip, Hwang Minhyun, and other artists.",
+      "summary": "BOYNEXTDOOR won their first music show trophy for \"ANIMAL\" on the October 8 episode of \"M Countdown,\" defeating i-dle's Soyeon with 6,453 points.",
       "publishedAt": "2026-10-08T12:35:58.000Z",
       "author": "MLim",
       "group": "boynextdoor"
-    },
-    {
-      "id": "i-dle-s-soyeon-cortis-illit-and-more-top-circle-weekly-charts",
-      "title": "i-dle’s Soyeon, CORTIS, ILLIT, And More Top Circle Weekly Charts",
-      "url": "https://www.soompi.com/article/1876172wpp/i-dles-soyeon-cortis-illit-and-more-top-circle-weekly-charts",
-      "source": "Soompi",
-      "description": "Circle Chart has revealed its chart rankings for the week of September 20 to 26! Overall Digital Chart + Streaming Chart i-dle’s Soyeon achieved a double crown on this week’s Circle charts, where her solo hit “I’m gonna TOESA” rose to No. 1 on both the overall digital chart and streaming chart. The top five… Continue reading i-dle’s Soyeon, CORTIS, ILLIT, And More Top Circle Weekly Charts The post i-dle’s Soyeon, CORTIS, ILLIT, And More Top Circle Weekly Charts appeared first on Soompi.",
-      "summary": "Circle Chart revealed its weekly rankings for September 20-26, with (G)I-DLE's Soyeon achieving the top position on both the overall digital and streaming charts with her solo track \"I'm gonna TOESA.\"",
-      "publishedAt": "2026-10-07T19:40:06.000Z",
-      "author": "E Cha",
-      "group": "cortis"
     },
     {
       "id": "inside-the-grammys-asian-pop-category-controversy",
@@ -102,6 +91,17 @@
       "group": "bts"
     },
     {
+      "id": "i-dle-s-soyeon-cortis-illit-and-more-top-circle-weekly-charts",
+      "title": "i-dle’s Soyeon, CORTIS, ILLIT, And More Top Circle Weekly Charts",
+      "url": "http://www.soompi.com/article/1876172wpp/i-dles-soyeon-cortis-illit-and-more-top-circle-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart has revealed its chart rankings for the week of September 20 to 26! Overall Digital Chart + Streaming Chart i-dle’s Soyeon achieved a double crown on this week’s Circle charts, where her solo hit “I’m gonna TOESA” rose to No. 1 on both the overal…",
+      "summary": "Circle Chart has revealed its chart rankings for the week of September 20 to 26! Overall Digital Chart + Streaming Chart i-dle’s Soyeon achieved a double crown on this week’s Circle charts, where her solo hit “I’m gonna TOESA” rose to No. 1 on both the overal…",
+      "publishedAt": "2026-10-07T19:40:06Z",
+      "author": "E Cha",
+      "group": "cortis"
+    },
+    {
       "id": "aespa-s-winter-rescene-young-tak-illit-and-more-top-circle-weekly-charts",
       "title": "aespa’s Winter, RESCENE, Young Tak, ILLIT, And More Top Circle Weekly Charts",
       "url": "http://www.soompi.com/article/1875339wpp/aespas-winter-rescene-young-tak-illit-and-more-top-circle-weekly-charts",
@@ -155,6 +155,17 @@
       "publishedAt": "2026-09-08T19:36:10Z",
       "author": "E Cha",
       "group": "nct127"
+    },
+    {
+      "id": "marvel-brick-announced-at-nycc-in-the-daily-litg-8th-of-october-2026",
+      "title": "Marvel Brick Announced At NYCC In The Daily LITG, 8th Of October, 2026",
+      "url": "https://bleedingcool.com/comics/marvel-brick-announced-at-nycc-in-the-daily-litg-8th-of-october-2026/",
+      "source": "Bleeding Cool News",
+      "description": "Marvel Brick Announced At NYCC was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past eight years. Founded seventeen years ago and steeped in a histo…",
+      "summary": "Marvel Brick Announced At NYCC was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past eight years. Founded seventeen years ago and steeped in a histo…",
+      "publishedAt": "2026-10-08T09:58:09Z",
+      "author": "Rich Johnston",
+      "group": "hybe"
     },
     {
       "id": "russell-t-davies-doctor-who-and-the-daily-litg-5th-of-october-2026",
