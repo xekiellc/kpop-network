@@ -1,5 +1,171 @@
 {
-  "updatedAt": "2026-10-13T22:03:05.588Z",
+  "updatedAt": "2026-10-15T10:59:42.433Z",
   "bucket": "kpop",
-  "videos": []
+  "videos": [
+    {
+      "id": "tws-to-us-concept-film-closer-ver-",
+      "title": "TWS (투어스) 'TO US' Concept Film : Closer Ver.",
+      "url": "https://www.youtube.com/shorts/n8m7xfffC4w",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-14T13:10:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "katseye-unloveu-visualizer",
+      "title": "KATSEYE (캣츠아이) “Unloveu” Visualizer",
+      "url": "https://www.youtube.com/shorts/VflYdFI-OjQ",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-14T00:03:17.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-no-looking-back",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟳 No looking back",
+      "url": "https://www.youtube.com/shorts/q2G3FH_0jko",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:01:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-jeonghan-solo-",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟲 컬러링 (JEONGHAN Solo)",
+      "url": "https://www.youtube.com/shorts/uJ7JPVVH8FU",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:01:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-not-personal-joshua-solo",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟱 Not personal (JOSHUA Solo)",
+      "url": "https://www.youtube.com/shorts/IdpQIqROSvE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:01:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-one-plus-one",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟰 One plus one",
+      "url": "https://www.youtube.com/shorts/xLCJTkQPo0Y",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:00:34.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-outside",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟯 Outside",
+      "url": "https://www.youtube.com/shorts/UkVgqH1v6Hg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:00:27.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "blackpink-10th-anniversary-meet-greet-",
+      "title": "BLACKPINK 10th Anniversary MEET & GREET 🖤💗",
+      "url": "https://www.youtube.com/shorts/uw4OYow_v7Y",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-08-17T09:00:25.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "k--lCrP69hg",
+      "title": "BLACKPINK 10TH ANNIVERSARY",
+      "url": "https://www.youtube.com/watch?v=k--lCrP69hg",
+      "videoId": "k--lCrP69hg",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/k--lCrP69hg/mqdefault.jpg",
+      "publishedAt": "2026-08-08T02:59:56.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "w1ayRv8j5yk",
+      "title": "BLACKPINK - DEADLINE JACKET MAKING FILM",
+      "url": "https://www.youtube.com/watch?v=w1ayRv8j5yk",
+      "videoId": "w1ayRv8j5yk",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/w1ayRv8j5yk/mqdefault.jpg",
+      "publishedAt": "2026-03-13T10:00:03.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "0LLFprdOHqo",
+      "title": "BLACKPINK - 'GO' M/V Behind the Scenes",
+      "url": "https://www.youtube.com/watch?v=0LLFprdOHqo",
+      "videoId": "0LLFprdOHqo",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/0LLFprdOHqo/mqdefault.jpg",
+      "publishedAt": "2026-03-09T09:00:03.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-lisa",
+      "title": "‘GO’ with LISA",
+      "url": "https://www.youtube.com/shorts/1EmQk31ImH0",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-09T08:30:01.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-ros-",
+      "title": "‘GO’ with ROSÉ",
+      "url": "https://www.youtube.com/shorts/7F-XXeRzNb8",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-09T08:00:06.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-jennie",
+      "title": "‘GO’ with JENNIE",
+      "url": "https://www.youtube.com/shorts/_lK8YkoOYUI",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-05T08:30:01.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-jisoo",
+      "title": "‘GO’ with JISOO",
+      "url": "https://www.youtube.com/shorts/v33fDKrzbhg",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-05T08:01:02.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    }
+  ]
 }

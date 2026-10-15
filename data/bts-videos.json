@@ -1,5 +1,83 @@
 {
-  "updatedAt": "2026-10-13T22:03:05.586Z",
+  "updatedAt": "2026-10-15T10:59:42.431Z",
   "bucket": "bts",
-  "videos": []
+  "videos": [
+    {
+      "id": "tws-to-us-concept-film-closer-ver-",
+      "title": "TWS (투어스) 'TO US' Concept Film : Closer Ver.",
+      "url": "https://www.youtube.com/shorts/n8m7xfffC4w",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-14T13:10:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "katseye-unloveu-visualizer",
+      "title": "KATSEYE (캣츠아이) “Unloveu” Visualizer",
+      "url": "https://www.youtube.com/shorts/VflYdFI-OjQ",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-14T00:03:17.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-no-looking-back",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟳 No looking back",
+      "url": "https://www.youtube.com/shorts/q2G3FH_0jko",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:01:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-jeonghan-solo-",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟲 컬러링 (JEONGHAN Solo)",
+      "url": "https://www.youtube.com/shorts/uJ7JPVVH8FU",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:01:06.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-not-personal-joshua-solo",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟱 Not personal (JOSHUA Solo)",
+      "url": "https://www.youtube.com/shorts/IdpQIqROSvE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:01:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-one-plus-one",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟰 One plus one",
+      "url": "https://www.youtube.com/shorts/xLCJTkQPo0Y",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:00:34.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-outside",
+      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟯 Outside",
+      "url": "https://www.youtube.com/shorts/UkVgqH1v6Hg",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-13T15:00:27.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    }
+  ]
 }
