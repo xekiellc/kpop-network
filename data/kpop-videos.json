@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-15T10:59:42.433Z",
+  "updatedAt": "2026-10-15T20:39:12.706Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "tws-to-us-concept-film-beyond-ver-",
+      "title": "TWS (투어스) 'TO US' Concept Film : Beyond Ver.",
+      "url": "https://www.youtube.com/shorts/tpIXS71ILkM",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-15T13:10:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "sDnlPFdo9t0",
+      "title": "LE SSERAFIM (르세라핌) 'AEIOU' Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=sDnlPFdo9t0",
+      "videoId": "sDnlPFdo9t0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/sDnlPFdo9t0/mqdefault.jpg",
+      "publishedAt": "2026-10-15T13:00:00.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "tws-to-us-concept-film-closer-ver-",
       "title": "TWS (투어스) 'TO US' Concept Film : Closer Ver.",
@@ -54,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-10-13T15:01:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-one-plus-one",
-      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟰 One plus one",
-      "url": "https://www.youtube.com/shorts/xLCJTkQPo0Y",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-13T15:00:34.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-outside",
-      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟯 Outside",
-      "url": "https://www.youtube.com/shorts/UkVgqH1v6Hg",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-13T15:00:27.000Z",
       "group": "bts",
       "bucket": "bts"
     },
