@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-10-16T10:54:10.596Z",
+  "updatedAt": "2026-10-16T20:11:45.414Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "oPe4tf7QarE",
+      "title": "TWS (투어스) Being Myself : KYUNGMIN",
+      "url": "https://www.youtube.com/watch?v=oPe4tf7QarE",
+      "videoId": "oPe4tf7QarE",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/oPe4tf7QarE/mqdefault.jpg",
+      "publishedAt": "2026-10-16T13:00:23.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "anU_GmCdChU",
+      "title": "TWS (투어스) Being Myself : JIHOON",
+      "url": "https://www.youtube.com/watch?v=anU_GmCdChU",
+      "videoId": "anU_GmCdChU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/anU_GmCdChU/mqdefault.jpg",
+      "publishedAt": "2026-10-16T13:00:20.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "zTP8Vj687Xo",
+      "title": "TWS (투어스) Being Myself : HANJIN",
+      "url": "https://www.youtube.com/watch?v=zTP8Vj687Xo",
+      "videoId": "zTP8Vj687Xo",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/zTP8Vj687Xo/mqdefault.jpg",
+      "publishedAt": "2026-10-16T13:00:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "k3tPV_riQfc",
+      "title": "TWS (투어스) Being Myself : YOUNGJAE",
+      "url": "https://www.youtube.com/watch?v=k3tPV_riQfc",
+      "videoId": "k3tPV_riQfc",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/k3tPV_riQfc/mqdefault.jpg",
+      "publishedAt": "2026-10-16T13:00:13.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "Ju-tmnBsJaA",
+      "title": "TWS (투어스) Being Myself : DOHOON",
+      "url": "https://www.youtube.com/watch?v=Ju-tmnBsJaA",
+      "videoId": "Ju-tmnBsJaA",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/Ju-tmnBsJaA/mqdefault.jpg",
+      "publishedAt": "2026-10-16T13:00:09.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "bMgH4IQ8wMI",
+      "title": "TWS (투어스) Being Myself : SHINYU",
+      "url": "https://www.youtube.com/watch?v=bMgH4IQ8wMI",
+      "videoId": "bMgH4IQ8wMI",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/bMgH4IQ8wMI/mqdefault.jpg",
+      "publishedAt": "2026-10-16T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "tws-to-us-concept-film-beyond-ver-",
       "title": "TWS (투어스) 'TO US' Concept Film : Beyond Ver.",
@@ -21,61 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/sDnlPFdo9t0/mqdefault.jpg",
       "publishedAt": "2026-10-15T13:00:00.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-to-us-concept-film-closer-ver-",
-      "title": "TWS (투어스) 'TO US' Concept Film : Closer Ver.",
-      "url": "https://www.youtube.com/shorts/n8m7xfffC4w",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-14T13:10:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "katseye-unloveu-visualizer",
-      "title": "KATSEYE (캣츠아이) “Unloveu” Visualizer",
-      "url": "https://www.youtube.com/shorts/VflYdFI-OjQ",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-14T00:03:17.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-no-looking-back",
-      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟳 No looking back",
-      "url": "https://www.youtube.com/shorts/q2G3FH_0jko",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-13T15:01:16.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-jeonghan-solo-",
-      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟲 컬러링 (JEONGHAN Solo)",
-      "url": "https://www.youtube.com/shorts/uJ7JPVVH8FU",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-13T15:01:06.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-x-seventeen-1st-mini-album-dreamscape-highlight-medley-not-personal-joshua-solo",
-      "title": "정한X조슈아 (SEVENTEEN) 1st Mini Album ‘DREAMSCAPE' highlight medley 𝟬𝟱 Not personal (JOSHUA Solo)",
-      "url": "https://www.youtube.com/shorts/IdpQIqROSvE",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-13T15:01:00.000Z",
       "group": "bts",
       "bucket": "bts"
     },
