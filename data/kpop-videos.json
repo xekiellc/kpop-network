@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-16T20:11:45.414Z",
+  "updatedAt": "2026-10-17T10:17:01.010Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "-x-seventeen-12-o-clock-official-teaser-1",
+      "title": "정한X조슈아 (SEVENTEEN) '12 o'clock' Official Teaser 1",
+      "url": "https://www.youtube.com/shorts/LI_uMCwuFNE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-17T09:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "oPe4tf7QarE",
       "title": "TWS (투어스) Being Myself : KYUNGMIN",
@@ -65,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/bMgH4IQ8wMI/mqdefault.jpg",
       "publishedAt": "2026-10-16T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-to-us-concept-film-beyond-ver-",
-      "title": "TWS (투어스) 'TO US' Concept Film : Beyond Ver.",
-      "url": "https://www.youtube.com/shorts/tpIXS71ILkM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-15T13:10:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "sDnlPFdo9t0",
-      "title": "LE SSERAFIM (르세라핌) 'AEIOU' Official Visualizer",
-      "url": "https://www.youtube.com/watch?v=sDnlPFdo9t0",
-      "videoId": "sDnlPFdo9t0",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/sDnlPFdo9t0/mqdefault.jpg",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
       "group": "bts",
       "bucket": "bts"
     },
