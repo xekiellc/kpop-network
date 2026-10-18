@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-17T10:17:01.009Z",
+  "updatedAt": "2026-10-18T10:32:27.775Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "-x-seventeen-12-o-clock-official-teaser-2",
+      "title": "정한X조슈아 (SEVENTEEN) '12 o'clock' Official Teaser 2",
+      "url": "https://www.youtube.com/shorts/poZjOdFDKKo",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-18T09:00:16.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-x-seventeen-12-o-clock-official-teaser-1",
       "title": "정한X조슈아 (SEVENTEEN) '12 o'clock' Official Teaser 1",
@@ -54,28 +65,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/k3tPV_riQfc/mqdefault.jpg",
       "publishedAt": "2026-10-16T13:00:13.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "Ju-tmnBsJaA",
-      "title": "TWS (투어스) Being Myself : DOHOON",
-      "url": "https://www.youtube.com/watch?v=Ju-tmnBsJaA",
-      "videoId": "Ju-tmnBsJaA",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/Ju-tmnBsJaA/mqdefault.jpg",
-      "publishedAt": "2026-10-16T13:00:09.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "bMgH4IQ8wMI",
-      "title": "TWS (투어스) Being Myself : SHINYU",
-      "url": "https://www.youtube.com/watch?v=bMgH4IQ8wMI",
-      "videoId": "bMgH4IQ8wMI",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/bMgH4IQ8wMI/mqdefault.jpg",
-      "publishedAt": "2026-10-16T13:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     }
