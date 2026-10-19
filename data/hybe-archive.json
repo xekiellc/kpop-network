@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2026-10-18T10:32:27.765Z",
+  "updatedAt": "2026-10-19T12:24:48.435Z",
   "bucket": "hybe",
   "articles": [
-    {
-      "id": "10-dramas-on-le-sserafim-s-watchlist",
-      "title": "10+ Dramas On LE SSERAFIM’s Watchlist",
-      "url": "https://www.soompi.com/article/1877709wpp/10-dramas-on-le-sserafims-watchlist",
-      "source": "Soompi",
-      "description": "LE SSERAFIM has teamed up with Viki to share the K-dramas that they love! Recently on October 14, Viki launched the “Pass It On” brand campaign with LE SSERAFIM at the forefront. As part of the campaign, LE SSERAFIM also shared their drama watchlist—featuring all the best from time-bending love stories and epic supernatural worlds… Continue reading 10+ Dramas On LE SSERAFIM’s Watchlist The post 10+ Dramas On LE SSERAFIM’s Watchlist appeared first on Soompi.",
-      "summary": "LE SSERAFIM partnered with streaming platform Viki on October 14 for a \"Pass It On\" brand campaign, during which the group shared their personal K-drama watchlist featuring various genres including romance and supernatural series.",
-      "publishedAt": "2026-10-16T17:30:00.000Z",
-      "author": "S Nam",
-      "group": "lesserafim"
-    },
     {
       "id": "enhypen-architects-of-the-new-dark-avant-garde",
       "title": "ENHYPEN: ARCHITECTS OF THE NEW DARK AVANT-GARDE",
       "url": "https://kpoppie.com/enhypen-architects-of-the-new-dark-avant-garde/",
       "source": "Kpoppie",
       "description": "THE ENGINE IS STILL THUMMING The sound of a vintage motorcycle idling against a damp asphalt rooftop in Seoul doesn’t feel like a photo shoot. It feels like a cinematic warning. Rain has just settled over the skyline, reflecting cold grey light across sleek Prada leather, textured knits, and sharp monochrome tailoring. Around the bike stand seven young men who have long ceased playing by the standard rules of pop stardom. Jungwon leaning into the frame with quiet authority; Heeseung perched effo",
-      "summary": "ENHYPEN is featured in a fashion and lifestyle photoshoot styled with dark, avant-garde aesthetics, shot on a Seoul rooftop with luxury brand styling and cinematic imagery.",
+      "summary": "ENHYPEN is featured in a fashion editorial shoot in Seoul styled with dark, avant-garde aesthetics and luxury clothing, showcasing the group's departure from conventional K-pop imagery.",
       "publishedAt": "2026-10-15T08:03:08.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "enhypen"
@@ -33,6 +22,17 @@
       "summary": "The Recording Academy introduced a new Asian pop music performance category for the 2027 Grammys. The controversy has left many wondering what's next.",
       "publishedAt": "2026-10-01T21:39:53Z",
       "author": "Dan Rys",
+      "group": "hybe"
+    },
+    {
+      "id": "talk-python-to-me-566-state-of-the-art-in-python-2026",
+      "title": "Talk Python to Me: #566: State of the art in Python 2026",
+      "url": "https://talkpython.fm/episodes/show/566/state-of-the-art-in-python-2026",
+      "source": "Talkpython.fm",
+      "description": "Which of your Python tools would you still pick if you started fresh today? For a long time, the answer was easy. The stack felt settled. AI has reopened almost every one of those choices. Some tools got faster. Others got replaced outright. On this episode, …",
+      "summary": "Which of your Python tools would you still pick if you started fresh today? For a long time, the answer was easy. The stack felt settled. AI has reopened almost every one of those choices. Some tools got faster. Others got replaced outright. On this episode, …",
+      "publishedAt": "2026-10-17T11:36:21Z",
+      "author": "Michael Kennedy",
       "group": "hybe"
     },
     {
@@ -146,17 +146,6 @@
       "group": "andteam"
     },
     {
-      "id": "stray-kids-shinee-s-taemin-nct-127-monsta-x-rescene-and-more-top-circle-monthly-",
-      "title": "Stray Kids, SHINee’s Taemin, NCT 127, MONSTA X, RESCENE, And More Top Circle Monthly And Weekly Charts",
-      "url": "http://www.soompi.com/article/1871282wpp/stray-kids-shinees-taemin-nct-127-monsta-x-rescene-and-more-top-circle-monthly-and-weekly-charts",
-      "source": "soompi",
-      "description": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart Stray Kids topped the physical album chart for August with their new mini album “THIS & THAT,” which claimed two of the top five spots. The regular version of the EP d…",
-      "summary": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart Stray Kids topped the physical album chart for August with their new mini album “THIS & THAT,” which claimed two of the top five spots. The regular version of the EP d…",
-      "publishedAt": "2026-09-16T22:00:49Z",
-      "author": "E Cha",
-      "group": "straykids"
-    },
-    {
       "id": "marvel-brick-announced-at-nycc-in-the-daily-litg-8th-of-october-2026",
       "title": "Marvel Brick Announced At NYCC In The Daily LITG, 8th Of October, 2026",
       "url": "https://bleedingcool.com/comics/marvel-brick-announced-at-nycc-in-the-daily-litg-8th-of-october-2026/",
@@ -177,6 +166,28 @@
       "publishedAt": "2026-10-05T08:38:09Z",
       "author": "Rich Johnston",
       "group": "hybe"
+    },
+    {
+      "id": "10-dramas-on-le-sserafim-s-watchlist",
+      "title": "10+ Dramas On LE SSERAFIM’s Watchlist",
+      "url": "https://www.soompi.com/article/1877709wpp/10-dramas-on-le-sserafims-watchlist",
+      "source": "Soompi",
+      "description": "LE SSERAFIM has teamed up with Viki to share the K-dramas that they love! Recently on October 14, Viki launched the “Pass It On” brand campaign with LE SSERAFIM at the forefront. As part of the campaign, LE SSERAFIM also shared their drama watchlist—featuring all the best from time-bending love stories and epic supernatural worlds… Continue reading 10+ Dramas On LE SSERAFIM’s Watchlist The post 10+ Dramas On LE SSERAFIM’s Watchlist appeared first on Soompi.",
+      "summary": "LE SSERAFIM partnered with streaming platform Viki on October 14 for a \"Pass It On\" brand campaign, during which the group shared their personal K-drama watchlist featuring various genres including romance and supernatural series.",
+      "publishedAt": "2026-10-16T17:30:00.000Z",
+      "author": "S Nam",
+      "group": "lesserafim"
+    },
+    {
+      "id": "stray-kids-shinee-s-taemin-nct-127-monsta-x-rescene-and-more-top-circle-monthly-",
+      "title": "Stray Kids, SHINee’s Taemin, NCT 127, MONSTA X, RESCENE, And More Top Circle Monthly And Weekly Charts",
+      "url": "http://www.soompi.com/article/1871282wpp/stray-kids-shinees-taemin-nct-127-monsta-x-rescene-and-more-top-circle-monthly-and-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart Stray Kids topped the physical album chart for August with their new mini album “THIS & THAT,” which claimed two of the top five spots. The regular version of the EP d…",
+      "summary": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart Stray Kids topped the physical album chart for August with their new mini album “THIS & THAT,” which claimed two of the top five spots. The regular version of the EP d…",
+      "publishedAt": "2026-09-16T22:00:49Z",
+      "author": "E Cha",
+      "group": "straykids"
     },
     {
       "id": "win-signed-polaroids-from-le-sserafim-in-viki-s-pass-it-on-giveaway-event",
