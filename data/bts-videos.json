@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:24:48.447Z",
+  "updatedAt": "2026-10-19T21:49:14.045Z",
   "bucket": "bts",
   "videos": [
     {
@@ -9,7 +9,18 @@
       "videoId": "9JrZtzsgiL0",
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/9JrZtzsgiL0/mqdefault.jpg",
-      "publishedAt": "2026-10-12T02:52:47.000Z",
+      "publishedAt": "2026-10-19T13:53:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "jqE3_WRD-yM",
+      "title": "TWS (투어스) 'TO US' Concept Film : Everglow Ver.",
+      "url": "https://www.youtube.com/watch?v=jqE3_WRD-yM",
+      "videoId": "jqE3_WRD-yM",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/jqE3_WRD-yM/mqdefault.jpg",
+      "publishedAt": "2026-10-19T13:10:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/9ieqMqYdxhg/mqdefault.jpg",
       "publishedAt": "2026-10-19T12:00:11.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "-x-seventeen-12-o-clock-official-mv",
-      "title": "정한X조슈아 (SEVENTEEN) '12 o'clock' Official MV",
-      "url": "https://www.youtube.com/shorts/q_PqztUBeEs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-19T09:15:30.000Z",
       "group": "bts",
       "bucket": "bts"
     }
