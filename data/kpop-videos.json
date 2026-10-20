@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-19T21:49:14.046Z",
+  "updatedAt": "2026-10-20T20:58:45.506Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "tws-to-us-concept-film-beside-ver-",
+      "title": "TWS (투어스) 'TO US' Concept Film : Beside Ver.",
+      "url": "https://www.youtube.com/shorts/Syl9o2GjaOU",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-20T13:10:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "9JrZtzsgiL0",
       "title": "BOYNEXTDOOR [HOME: DELUXE] HOME Party",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-10-19T12:00:53.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "9ieqMqYdxhg",
-      "title": "TXT (투모로우바이투게더) PERFECT STORM: STORM IS COMING",
-      "url": "https://www.youtube.com/watch?v=9ieqMqYdxhg",
-      "videoId": "9ieqMqYdxhg",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/9ieqMqYdxhg/mqdefault.jpg",
-      "publishedAt": "2026-10-19T12:00:11.000Z",
       "group": "bts",
       "bucket": "bts"
     },
