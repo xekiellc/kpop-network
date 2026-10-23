@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-23T11:09:37.516Z",
+  "updatedAt": "2026-10-23T20:44:54.308Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "illit-you-re-under-arrest-official-teaser-1",
+      "title": "ILLIT (아일릿) '체포하겠어 (You’re Under Arrest)’ Official Teaser 1",
+      "url": "https://www.youtube.com/shorts/tSUBepz11ow",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-23T13:00:23.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "tws-to-us-concept-film-beside-ver-",
       "title": "TWS (투어스) 'TO US' Concept Film : Beside Ver.",
@@ -65,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-10-19T12:01:08.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "storm-is-coming-yeonjun-",
-      "title": "STORM IS COMING - #연준 (#YEONJUN)",
-      "url": "https://www.youtube.com/shorts/RHsxUDEZEdo",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-19T12:00:59.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "storm-is-coming-soobin-",
-      "title": "STORM IS COMING - #수빈 (#SOOBIN)",
-      "url": "https://www.youtube.com/shorts/vYO5KESl7vo",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-19T12:00:53.000Z",
       "group": "bts",
       "bucket": "bts"
     }
