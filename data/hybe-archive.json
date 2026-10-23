@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-22T20:57:14.250Z",
+  "updatedAt": "2026-10-23T11:09:37.503Z",
   "bucket": "hybe",
   "articles": [
-    {
-      "id": "txt-s-agency-warns-of-strong-legal-action-against-false-rumors-and-malicious-pos",
-      "title": "TXT’s Agency Warns Of Strong Legal Action Against False Rumors And Malicious Posts",
-      "url": "https://www.soompi.com/article/1880735wpp/txts-agency-warns-of-strong-legal-action-against-false-rumors-and-malicious-posts",
-      "source": "Soompi",
-      "description": "TXT’s agency has announced that it will take strong legal action against those who spread false information and malicious rumors targeting the group, warning that it will show no leniency toward offenders. On October 22, BIGHIT MUSIC released the following statement: Hello. This is BIGHIT MUSIC. We have recently identified the indiscriminate spread of false… Continue reading TXT’s Agency Warns Of Strong Legal Action Against False Rumors And Malicious Posts The post TXT’s Agency Warns Of Strong L",
-      "summary": "BIGHIT MUSIC announced on October 22 that it will take strong legal action against those spreading false information and malicious rumors about TXT, stating it will show no leniency toward offenders.",
-      "publishedAt": "2026-10-22T06:49:30.000Z",
-      "author": "MLim",
-      "group": "txt"
-    },
     {
       "id": "inside-the-grammys-asian-pop-category-controversy",
       "title": "Inside the Grammys Asian Pop Category Controversy",
@@ -166,6 +155,17 @@
       "publishedAt": "2026-10-05T08:38:09Z",
       "author": "Rich Johnston",
       "group": "hybe"
+    },
+    {
+      "id": "txt-s-agency-warns-of-strong-legal-action-against-false-rumors-and-malicious-pos",
+      "title": "TXT’s Agency Warns Of Strong Legal Action Against False Rumors And Malicious Posts",
+      "url": "https://www.soompi.com/article/1880735wpp/txts-agency-warns-of-strong-legal-action-against-false-rumors-and-malicious-posts",
+      "source": "Soompi",
+      "description": "TXT’s agency has announced that it will take strong legal action against those who spread false information and malicious rumors targeting the group, warning that it will show no leniency toward offenders. On October 22, BIGHIT MUSIC released the following statement: Hello. This is BIGHIT MUSIC. We have recently identified the indiscriminate spread of false… Continue reading TXT’s Agency Warns Of Strong Legal Action Against False Rumors And Malicious Posts The post TXT’s Agency Warns Of Strong L",
+      "summary": "BIGHIT MUSIC announced on October 22 that it will take strong legal action against those spreading false information and malicious rumors about TXT, stating it will show no leniency toward offenders.",
+      "publishedAt": "2026-10-22T06:49:30.000Z",
+      "author": "MLim",
+      "group": "txt"
     },
     {
       "id": "le-sserafim-s-sakura-to-sit-out-today-s-concert-in-paris-due-to-health",
