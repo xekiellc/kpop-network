@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-25T20:06:28.425Z",
+  "updatedAt": "2026-10-26T12:25:27.684Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "illit-you-re-under-arrest-official-mv",
+      "title": "ILLIT (아일릿) '체포하겠어 (You’re Under Arrest)’ Official MV",
+      "url": "https://www.youtube.com/shorts/0fOjiyaWKHo",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-26T09:00:25.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "-3_urMtv6K8",
       "title": "ILLIT (아일릿) '체포하겠어 (You’re Under Arrest)’ Official Teaser 2",
@@ -43,28 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/9JrZtzsgiL0/mqdefault.jpg",
       "publishedAt": "2026-10-19T13:53:03.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "jqE3_WRD-yM",
-      "title": "TWS (투어스) 'TO US' Concept Film : Everglow Ver.",
-      "url": "https://www.youtube.com/watch?v=jqE3_WRD-yM",
-      "videoId": "jqE3_WRD-yM",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/jqE3_WRD-yM/mqdefault.jpg",
-      "publishedAt": "2026-10-19T13:10:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "storm-is-coming-hueningkai-",
-      "title": "STORM IS COMING - #휴닝카이 (#HUENINGKAI)",
-      "url": "https://www.youtube.com/shorts/fcY8ux3kGUM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-19T12:01:18.000Z",
       "group": "bts",
       "bucket": "bts"
     },
