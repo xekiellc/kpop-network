@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-26T22:01:49.267Z",
+  "updatedAt": "2026-10-27T11:44:19.040Z",
   "bucket": "hybe",
   "articles": [
-    {
-      "id": "enhypen-announces-november-comeback-with-spinoff-single-the-sin-parallel-world-",
-      "title": "ENHYPEN Announces November Comeback With Spinoff Single “THE SIN : PARALLEL WORLD”",
-      "url": "https://www.soompi.com/article/1881313wpp/enhypen-announces-november-comeback-with-spinoff-single-the-sin-parallel-world",
-      "source": "Soompi",
-      "description": "Just two months after their last comeback, ENHYPEN is already gearing up for a new release! On October 26 at midnight KST, BELIFT LAB announced that ENHYPEN would be returning next month with a new “spinoff single” called “THE SIN : PARALLEL WORLD.” “‘The SIN : PARALLEL WORLD’ is a spinoff single that brings ‘THE… Continue reading ENHYPEN Announces November Comeback With Spinoff Single “THE SIN : PARALLEL WORLD” The post ENHYPEN Announces November Comeback With Spinoff Single “THE SIN : PARALLEL",
-      "summary": "ENHYPEN will release a spinoff single titled \"THE SIN : PARALLEL WORLD\" in November, approximately two months after their previous comeback, according to an announcement by their label BELIFT LAB on October 26.",
-      "publishedAt": "2026-10-25T15:28:38.000Z",
-      "author": "E Cha",
-      "group": "enhypen"
-    },
     {
       "id": "inside-the-grammys-asian-pop-category-controversy",
       "title": "Inside the Grammys Asian Pop Category Controversy",
@@ -67,17 +56,6 @@
       "publishedAt": "2026-09-28T01:37:40Z",
       "author": "Yonhap",
       "group": "txt"
-    },
-    {
-      "id": "coord-server-added-to-pypi",
-      "title": "coord-server added to PyPI",
-      "url": "https://pypi.org/project/coord-server/",
-      "source": "Pypi.org",
-      "description": "coord server and certificate management: claims, messages, tasks for concurrent agent sessions (clients: clients/ts)",
-      "summary": "coord server and certificate management: claims, messages, tasks for concurrent agent sessions (clients: clients/ts)",
-      "publishedAt": "2026-09-25T17:32:38Z",
-      "author": "",
-      "group": "hybe"
     },
     {
       "id": "-dick-clark-s-new-year-s-rockin-eve-with-ryan-seacrest-to-simulcast-on-abc-and-d",
@@ -146,6 +124,17 @@
       "group": "bts"
     },
     {
+      "id": "young-sheldon-big-bang-reunion-in-the-daily-litg-26th-october-2026",
+      "title": "Young Sheldon Big Bang Reunion In The Daily LITG, 26th October 2026",
+      "url": "https://bleedingcool.com/tv/young-sheldon-big-bang-reunion-in-the-daily-litg-26th-october-2026/",
+      "source": "Bleeding Cool News",
+      "description": "Young Sheldon Big Bang Reunion was the most-read article on Bleeding Cool yesterday, again. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past eight years. Founded seventeen years ago and steeped in …",
+      "summary": "Young Sheldon Big Bang Reunion was the most-read article on Bleeding Cool yesterday, again. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past eight years. Founded seventeen years ago and steeped in …",
+      "publishedAt": "2026-10-26T08:57:09Z",
+      "author": "Rich Johnston",
+      "group": "hybe"
+    },
+    {
       "id": "kpop-demon-hunters-in-the-daily-litg-25th-october-2026",
       "title": "KPop Demon Hunters In The Daily LITG, 25th October 2026",
       "url": "https://bleedingcool.com/games/kpop-demon-hunters-in-the-daily-litg-25th-october-2026/",
@@ -187,6 +176,28 @@
       "summary": "Russell T Davies on Doctor Who and Billie Piper was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past eight years. Founded seventeen years ago and s…",
       "publishedAt": "2026-10-05T08:38:09Z",
       "author": "Rich Johnston",
+      "group": "hybe"
+    },
+    {
+      "id": "enhypen-announces-november-comeback-with-spinoff-single-the-sin-parallel-world-",
+      "title": "ENHYPEN Announces November Comeback With Spinoff Single “THE SIN : PARALLEL WORLD”",
+      "url": "https://www.soompi.com/article/1881313wpp/enhypen-announces-november-comeback-with-spinoff-single-the-sin-parallel-world",
+      "source": "Soompi",
+      "description": "Just two months after their last comeback, ENHYPEN is already gearing up for a new release! On October 26 at midnight KST, BELIFT LAB announced that ENHYPEN would be returning next month with a new “spinoff single” called “THE SIN : PARALLEL WORLD.” “‘The SIN : PARALLEL WORLD’ is a spinoff single that brings ‘THE… Continue reading ENHYPEN Announces November Comeback With Spinoff Single “THE SIN : PARALLEL WORLD” The post ENHYPEN Announces November Comeback With Spinoff Single “THE SIN : PARALLEL",
+      "summary": "ENHYPEN will release a spinoff single titled \"THE SIN : PARALLEL WORLD\" in November, approximately two months after their previous comeback, according to an announcement by their label BELIFT LAB on October 26.",
+      "publishedAt": "2026-10-25T15:28:38.000Z",
+      "author": "E Cha",
+      "group": "enhypen"
+    },
+    {
+      "id": "coord-server-added-to-pypi",
+      "title": "coord-server added to PyPI",
+      "url": "https://pypi.org/project/coord-server/",
+      "source": "Pypi.org",
+      "description": "coord server and certificate management: claims, messages, tasks for concurrent agent sessions (clients: clients/ts)",
+      "summary": "coord server and certificate management: claims, messages, tasks for concurrent agent sessions (clients: clients/ts)",
+      "publishedAt": "2026-09-25T17:32:38Z",
+      "author": "",
       "group": "hybe"
     },
     {
