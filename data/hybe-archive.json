@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:26:40.352Z",
+  "updatedAt": "2026-10-29T22:09:27.230Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -69,17 +69,6 @@
       "group": "hybe"
     },
     {
-      "id": "bts-takes-three-mtv-vmas-led-by-song-of-the-year-for-swim-as-lisa-wins-best-pop-",
-      "title": "BTS Takes Three MTV VMAs, Led by Song of the Year for 'Swim,' as Lisa Wins Best Pop and Swift Sets Record",
-      "url": "https://www.ibtimes.com.au/bts-lisa-2026-mtv-vmas-winners-1875981",
-      "source": "Ibtimes.com.au",
-      "description": "BTS won Song of the Year, Best K-pop and Best Group at the 2026 MTV VMAs, while Lisa secured Best Pop and Madonna and Taylor Swift dominated top honours.",
-      "summary": "BTS won Song of the Year, Best K-pop and Best Group at the 2026 MTV VMAs, while Lisa secured Best Pop and Madonna and Taylor Swift dominated top honours.",
-      "publishedAt": "2026-09-28T12:53:17Z",
-      "author": "Jason Taylor",
-      "group": "bts"
-    },
-    {
       "id": "a2o-lite-nct-wish-plave-soyeon-and-illit-top-circle-weekly-charts",
       "title": "A2O LITE, NCT WISH, PLAVE, Soyeon, And ILLIT Top Circle Weekly Charts",
       "url": "http://www.soompi.com/article/1882039wpp/a2o-lite-nct-wish-plave-soyeon-and-illit-top-circle-weekly-charts",
@@ -122,17 +111,6 @@
       "publishedAt": "2026-10-03T23:46:25Z",
       "author": "E Cha",
       "group": "aespa"
-    },
-    {
-      "id": "btsdisband",
-      "title": "btsdisband",
-      "url": "https://knowyourmeme.com/memes/btsdisband",
-      "source": "Knowyourmeme.com",
-      "description": "#BTSDisband About #BTSDisband, also known as BTS Disband and the BTS Disband Party, refers to a hashtag and fandom meme centered around jokes, discussions",
-      "summary": "#BTSDisband About #BTSDisband, also known as BTS Disband and the BTS Disband Party, refers to a hashtag and fandom meme centered around jokes, discussions",
-      "publishedAt": "2026-09-28T17:29:14Z",
-      "author": "zinandout",
-      "group": "bts"
     },
     {
       "id": "young-sheldon-big-bang-reunion-in-the-daily-litg-27th-october-2026",
@@ -199,6 +177,28 @@
       "publishedAt": "2026-10-05T08:38:09Z",
       "author": "Rich Johnston",
       "group": "hybe"
+    },
+    {
+      "id": "bts-takes-three-mtv-vmas-led-by-song-of-the-year-for-swim-as-lisa-wins-best-pop-",
+      "title": "BTS Takes Three MTV VMAs, Led by Song of the Year for 'Swim,' as Lisa Wins Best Pop and Swift Sets Record",
+      "url": "https://www.ibtimes.com.au/bts-lisa-2026-mtv-vmas-winners-1875981",
+      "source": "Ibtimes.com.au",
+      "description": "BTS won Song of the Year, Best K-pop and Best Group at the 2026 MTV VMAs, while Lisa secured Best Pop and Madonna and Taylor Swift dominated top honours.",
+      "summary": "BTS won Song of the Year, Best K-pop and Best Group at the 2026 MTV VMAs, while Lisa secured Best Pop and Madonna and Taylor Swift dominated top honours.",
+      "publishedAt": "2026-09-28T12:53:17Z",
+      "author": "Jason Taylor",
+      "group": "bts"
+    },
+    {
+      "id": "btsdisband",
+      "title": "btsdisband",
+      "url": "https://knowyourmeme.com/memes/btsdisband",
+      "source": "Knowyourmeme.com",
+      "description": "#BTSDisband About #BTSDisband, also known as BTS Disband and the BTS Disband Party, refers to a hashtag and fandom meme centered around jokes, discussions",
+      "summary": "#BTSDisband About #BTSDisband, also known as BTS Disband and the BTS Disband Party, refers to a hashtag and fandom meme centered around jokes, discussions",
+      "publishedAt": "2026-09-28T17:29:14Z",
+      "author": "zinandout",
+      "group": "bts"
     },
     {
       "id": "txt-to-return-with-new-ep-in-november-the-korea-times",
