@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:58:33.699Z",
+  "updatedAt": "2026-10-29T12:26:40.352Z",
   "bucket": "hybe",
   "articles": [
     {
@@ -47,17 +47,6 @@
       "group": "hybe"
     },
     {
-      "id": "txt-to-return-with-new-ep-in-november-the-korea-times",
-      "title": "TXT to return with new EP in November - The Korea Times",
-      "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260928/txt-to-return-with-new-ep-in-november",
-      "source": "코리아타임스",
-      "description": "K-pop boy band Tomorrow X Together (TXT) will drop its ninth EP, \"Perfect Storm,\" in November, the group's agency said Monday. The album, set for r...",
-      "summary": "K-pop boy band Tomorrow X Together (TXT) will drop its ninth EP, \"Perfect Storm,\" in November, the group's agency said Monday. The album, set for r...",
-      "publishedAt": "2026-09-28T01:37:40Z",
-      "author": "Yonhap",
-      "group": "txt"
-    },
-    {
       "id": "kpop-demon-hunters-huntr-x-dance-rehearsal-how-it-s-done-",
       "title": "KPop Demon Hunters: HUNTR/X Dance Rehearsal – \"How It's Done\"",
       "url": "https://bleedingcool.com/movies/kpop-demon-hunters-huntr-x-dance-rehearsal-how-its-done/",
@@ -89,6 +78,17 @@
       "publishedAt": "2026-09-28T12:53:17Z",
       "author": "Jason Taylor",
       "group": "bts"
+    },
+    {
+      "id": "a2o-lite-nct-wish-plave-soyeon-and-illit-top-circle-weekly-charts",
+      "title": "A2O LITE, NCT WISH, PLAVE, Soyeon, And ILLIT Top Circle Weekly Charts",
+      "url": "http://www.soompi.com/article/1882039wpp/a2o-lite-nct-wish-plave-soyeon-and-illit-top-circle-weekly-charts",
+      "source": "soompi",
+      "description": "Circle Chart has revealed its chart rankings for the week of October 11 to 17! Overall Digital Chart Rookie girl group A2O LITE achieved a double crown on this week’s Circle charts, topping both the overall digital chart and the global K-pop chart with their …",
+      "summary": "Circle Chart has revealed its chart rankings for the week of October 11 to 17! Overall Digital Chart Rookie girl group A2O LITE achieved a double crown on this week’s Circle charts, topping both the overall digital chart and the global K-pop chart with their …",
+      "publishedAt": "2026-10-27T23:11:00Z",
+      "author": "E Cha",
+      "group": "hybe"
     },
     {
       "id": "-team-close-your-eyes-rescene-soyeon-illit-and-more-top-circle-monthly-and-weekl",
@@ -199,6 +199,17 @@
       "publishedAt": "2026-10-05T08:38:09Z",
       "author": "Rich Johnston",
       "group": "hybe"
+    },
+    {
+      "id": "txt-to-return-with-new-ep-in-november-the-korea-times",
+      "title": "TXT to return with new EP in November - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260928/txt-to-return-with-new-ep-in-november",
+      "source": "코리아타임스",
+      "description": "K-pop boy band Tomorrow X Together (TXT) will drop its ninth EP, \"Perfect Storm,\" in November, the group's agency said Monday. The album, set for r...",
+      "summary": "K-pop boy band Tomorrow X Together (TXT) will drop its ninth EP, \"Perfect Storm,\" in November, the group's agency said Monday. The album, set for r...",
+      "publishedAt": "2026-09-28T01:37:40Z",
+      "author": "Yonhap",
+      "group": "txt"
     },
     {
       "id": "enhypen-announces-november-comeback-with-spinoff-single-the-sin-parallel-world-",
