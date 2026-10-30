@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-29T22:09:27.241Z",
+  "updatedAt": "2026-10-30T21:45:51.529Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "perfect-storm-in-motion",
+      "title": "PERFECT STORM IN MOTION",
+      "url": "https://www.youtube.com/shorts/6eDdaILDEGQ",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-30T15:00:10.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "tws-official-teaser-2",
+      "title": "TWS (투어스) '내 이름을 불러줘' Official Teaser 2",
+      "url": "https://www.youtube.com/shorts/6vLfyTb1Qec",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-10-30T13:01:53.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "desp5LJxijw",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Promotion Calendar #2",
+      "url": "https://www.youtube.com/watch?v=desp5LJxijw",
+      "videoId": "desp5LJxijw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/desp5LJxijw/mqdefault.jpg",
+      "publishedAt": "2026-10-30T12:59:53.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "J9fnUajOfO4",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Promotion Calendar #1",
+      "url": "https://www.youtube.com/watch?v=J9fnUajOfO4",
+      "videoId": "J9fnUajOfO4",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/J9fnUajOfO4/mqdefault.jpg",
+      "publishedAt": "2026-10-30T12:59:42.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "illit-you-re-under-arrest-official-mv-performance-ver-",
       "title": "ILLIT (아일릿) '체포하겠어 (You’re Under Arrest)’ Official MV (Performance ver.)",
@@ -10,61 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-10-29T13:04:21.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-official-teaser-1",
-      "title": "TWS (투어스) '내 이름을 불러줘' Official Teaser 1",
-      "url": "https://www.youtube.com/shorts/niCS0uwykPU",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-28T13:00:26.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-2nd-single-album-to-us-highlight-medley-heavy-",
-      "title": "TWS (투어스) 2nd Single Album 'TO US' Highlight Medley 'heavy'",
-      "url": "https://www.youtube.com/shorts/XPLpaz42NiM",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-26T13:00:30.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-2nd-single-album-to-us-highlight-medley-",
-      "title": "TWS (투어스) 2nd Single Album 'TO US' Highlight Medley '내 이름을 불러줘'",
-      "url": "https://www.youtube.com/shorts/4GY09jQRVsw",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-26T13:00:23.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-2nd-single-album-to-us-highlight-medley-we-up-",
-      "title": "TWS (투어스) 2nd Single Album 'TO US' Highlight Medley 'WE UP'",
-      "url": "https://www.youtube.com/shorts/pw1mo1xcB48",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-26T13:00:14.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tXvopPZFY8Y",
-      "title": "TWS (투어스) 2nd Single Album 'TO US' Highlight Medley",
-      "url": "https://www.youtube.com/watch?v=tXvopPZFY8Y",
-      "videoId": "tXvopPZFY8Y",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/tXvopPZFY8Y/mqdefault.jpg",
-      "publishedAt": "2026-10-26T13:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
