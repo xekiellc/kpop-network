@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-01T12:48:50.469Z",
+  "updatedAt": "2026-11-01T21:27:22.688Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "3MPUCncZBR0",
+      "title": "TWS (투어스) '내 이름을 불러줘' Official MV",
+      "url": "https://www.youtube.com/watch?v=3MPUCncZBR0",
+      "videoId": "3MPUCncZBR0",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/3MPUCncZBR0/mqdefault.jpg",
+      "publishedAt": "2026-10-31T06:06:17.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "perfect-storm-in-motion",
       "title": "PERFECT STORM IN MOTION",
