@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-03T00:09:05.304Z",
+  "updatedAt": "2026-11-03T13:45:51.735Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "XItzOV6huqw",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DREAM Ver.)",
+      "url": "https://www.youtube.com/watch?v=XItzOV6huqw",
+      "videoId": "XItzOV6huqw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/XItzOV6huqw/mqdefault.jpg",
+      "publishedAt": "2026-11-03T12:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-dino-automatic-performance-film",
+      "title": "디노 (DINO) 'AUTOMATIC' Performance Film",
+      "url": "https://www.youtube.com/shorts/cR2munV13wE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-11-03T09:05:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-2026-bighit-music-global-audition-message-from-tomorrowxtogether",
+      "title": "[2026 BIGHIT MUSIC GLOBAL AUDITION] 🌟 Message From #TOMORROWXTOGETHER",
+      "url": "https://www.youtube.com/shorts/rfa_QnmKmLc",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-11-03T03:00:23.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "tws-official-mv",
       "title": "TWS (투어스) '내 이름을 불러줘' Official MV",
@@ -21,39 +54,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-10-30T15:00:10.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "tws-official-teaser-2",
-      "title": "TWS (투어스) '내 이름을 불러줘' Official Teaser 2",
-      "url": "https://www.youtube.com/shorts/6vLfyTb1Qec",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-10-30T13:01:53.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "desp5LJxijw",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Promotion Calendar #2",
-      "url": "https://www.youtube.com/watch?v=desp5LJxijw",
-      "videoId": "desp5LJxijw",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/desp5LJxijw/mqdefault.jpg",
-      "publishedAt": "2026-10-30T12:59:53.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "J9fnUajOfO4",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Promotion Calendar #1",
-      "url": "https://www.youtube.com/watch?v=J9fnUajOfO4",
-      "videoId": "J9fnUajOfO4",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/J9fnUajOfO4/mqdefault.jpg",
-      "publishedAt": "2026-10-30T12:59:42.000Z",
       "group": "bts",
       "bucket": "bts"
     }

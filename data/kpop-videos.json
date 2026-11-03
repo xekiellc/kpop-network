@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-03T00:09:05.306Z",
+  "updatedAt": "2026-11-03T13:45:51.738Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "XItzOV6huqw",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DREAM Ver.)",
+      "url": "https://www.youtube.com/watch?v=XItzOV6huqw",
+      "videoId": "XItzOV6huqw",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/XItzOV6huqw/mqdefault.jpg",
+      "publishedAt": "2026-11-03T12:59:59.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-dino-automatic-performance-film",
+      "title": "디노 (DINO) 'AUTOMATIC' Performance Film",
+      "url": "https://www.youtube.com/shorts/cR2munV13wE",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-11-03T09:05:18.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "-2026-bighit-music-global-audition-message-from-tomorrowxtogether",
+      "title": "[2026 BIGHIT MUSIC GLOBAL AUDITION] 🌟 Message From #TOMORROWXTOGETHER",
+      "url": "https://www.youtube.com/shorts/rfa_QnmKmLc",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-11-03T03:00:23.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "tws-official-mv",
       "title": "TWS (투어스) '내 이름을 불러줘' Official MV",
@@ -25,37 +58,92 @@
       "bucket": "bts"
     },
     {
-      "id": "tws-official-teaser-2",
-      "title": "TWS (투어스) '내 이름을 불러줘' Official Teaser 2",
-      "url": "https://www.youtube.com/shorts/6vLfyTb1Qec",
+      "id": "blackpink-10th-anniversary-meet-greet-",
+      "title": "BLACKPINK 10th Anniversary MEET & GREET 🖤💗",
+      "url": "https://www.youtube.com/shorts/uw4OYow_v7Y",
       "videoId": "",
-      "channelName": "BANGTANTV",
+      "channelName": "BLACKPINK",
       "thumbnail": "",
-      "publishedAt": "2026-10-30T13:01:53.000Z",
-      "group": "bts",
-      "bucket": "bts"
+      "publishedAt": "2026-08-17T09:00:25.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
     },
     {
-      "id": "desp5LJxijw",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Promotion Calendar #2",
-      "url": "https://www.youtube.com/watch?v=desp5LJxijw",
-      "videoId": "desp5LJxijw",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/desp5LJxijw/mqdefault.jpg",
-      "publishedAt": "2026-10-30T12:59:53.000Z",
-      "group": "bts",
-      "bucket": "bts"
+      "id": "k--lCrP69hg",
+      "title": "BLACKPINK 10TH ANNIVERSARY",
+      "url": "https://www.youtube.com/watch?v=k--lCrP69hg",
+      "videoId": "k--lCrP69hg",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/k--lCrP69hg/mqdefault.jpg",
+      "publishedAt": "2026-08-08T02:59:56.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
     },
     {
-      "id": "J9fnUajOfO4",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Promotion Calendar #1",
-      "url": "https://www.youtube.com/watch?v=J9fnUajOfO4",
-      "videoId": "J9fnUajOfO4",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/J9fnUajOfO4/mqdefault.jpg",
-      "publishedAt": "2026-10-30T12:59:42.000Z",
-      "group": "bts",
-      "bucket": "bts"
+      "id": "w1ayRv8j5yk",
+      "title": "BLACKPINK - DEADLINE JACKET MAKING FILM",
+      "url": "https://www.youtube.com/watch?v=w1ayRv8j5yk",
+      "videoId": "w1ayRv8j5yk",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/w1ayRv8j5yk/mqdefault.jpg",
+      "publishedAt": "2026-03-13T10:00:03.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "0LLFprdOHqo",
+      "title": "BLACKPINK - 'GO' M/V Behind the Scenes",
+      "url": "https://www.youtube.com/watch?v=0LLFprdOHqo",
+      "videoId": "0LLFprdOHqo",
+      "channelName": "BLACKPINK",
+      "thumbnail": "https://img.youtube.com/vi/0LLFprdOHqo/mqdefault.jpg",
+      "publishedAt": "2026-03-09T09:00:03.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-lisa",
+      "title": "‘GO’ with LISA",
+      "url": "https://www.youtube.com/shorts/1EmQk31ImH0",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-09T08:30:01.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-ros-",
+      "title": "‘GO’ with ROSÉ",
+      "url": "https://www.youtube.com/shorts/7F-XXeRzNb8",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-09T08:00:06.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-jennie",
+      "title": "‘GO’ with JENNIE",
+      "url": "https://www.youtube.com/shorts/_lK8YkoOYUI",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-05T08:30:01.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
+    },
+    {
+      "id": "-go-with-jisoo",
+      "title": "‘GO’ with JISOO",
+      "url": "https://www.youtube.com/shorts/v33fDKrzbhg",
+      "videoId": "",
+      "channelName": "BLACKPINK",
+      "thumbnail": "",
+      "publishedAt": "2026-03-05T08:01:02.000Z",
+      "group": "blackpink",
+      "bucket": "kpop"
     }
   ]
 }
