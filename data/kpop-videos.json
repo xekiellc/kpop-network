@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-04T22:58:21.656Z",
+  "updatedAt": "2026-11-05T14:10:11.327Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "qwivRjjPlZU",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 제이크 (JAKE)",
+      "url": "https://www.youtube.com/watch?v=qwivRjjPlZU",
+      "videoId": "qwivRjjPlZU",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/qwivRjjPlZU/mqdefault.jpg",
+      "publishedAt": "2026-11-05T13:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "perfect-storm-preview-hate-it-or-love-it",
       "title": "PERFECT STORM Preview 'Hate It or Love It",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/77SfHCoJfgc/mqdefault.jpg",
       "publishedAt": "2026-11-04T15:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "XItzOV6huqw",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DREAM Ver.)",
-      "url": "https://www.youtube.com/watch?v=XItzOV6huqw",
-      "videoId": "XItzOV6huqw",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/XItzOV6huqw/mqdefault.jpg",
-      "publishedAt": "2026-11-03T12:59:59.000Z",
       "group": "bts",
       "bucket": "bts"
     },
