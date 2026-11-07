@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-07T12:36:48.610Z",
+  "updatedAt": "2026-11-07T21:11:22.132Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "oPCjiOQcxRY",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 제이 (JAY)",
+      "url": "https://www.youtube.com/watch?v=oPCjiOQcxRY",
+      "videoId": "oPCjiOQcxRY",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/oPCjiOQcxRY/mqdefault.jpg",
+      "publishedAt": "2026-11-07T13:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "ftWK9_qLXyQ",
       "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 성훈 (SUNGHOON)",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-11-04T15:00:17.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "perfect-storm-preview-storm-is-",
-      "title": "PERFECT STORM Preview '지금까지와는 다른 무언가가 필요해 (Storm is…)'",
-      "url": "https://www.youtube.com/shorts/EL3VoJmCpCE",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-11-04T15:00:11.000Z",
       "group": "bts",
       "bucket": "bts"
     },
