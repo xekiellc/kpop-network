@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-08T21:26:56.935Z",
+  "updatedAt": "2026-11-09T15:27:53.417Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "iB3zmnG6UMs",
+      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 니키 (NI-KI)",
+      "url": "https://www.youtube.com/watch?v=iB3zmnG6UMs",
+      "videoId": "iB3zmnG6UMs",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/iB3zmnG6UMs/mqdefault.jpg",
+      "publishedAt": "2026-11-09T13:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
+    {
+      "id": "XSSCREq27ZQ",
+      "title": "TOMORROW X TOGETHER WORLD TOUR 'STEAL THE WIND' Official Trailer",
+      "url": "https://www.youtube.com/watch?v=XSSCREq27ZQ",
+      "videoId": "XSSCREq27ZQ",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/XSSCREq27ZQ/mqdefault.jpg",
+      "publishedAt": "2026-11-09T12:00:01.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "cNXeIF1dGBg",
       "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 정원 (JUNGWON)",
@@ -65,28 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "",
       "publishedAt": "2026-11-04T15:00:36.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "perfect-storm-preview-sweetest-escape-",
-      "title": "PERFECT STORM Preview 'Sweetest Escape'",
-      "url": "https://www.youtube.com/shorts/t9lvV2U56FA",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-11-04T15:00:31.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "perfect-storm-preview-higher-love-",
-      "title": "PERFECT STORM Preview 'Higher Love'",
-      "url": "https://www.youtube.com/shorts/hzuYpO0g7Dc",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-11-04T15:00:24.000Z",
       "group": "bts",
       "bucket": "bts"
     },
