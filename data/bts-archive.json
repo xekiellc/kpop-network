@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T14:28:39.805Z",
+  "updatedAt": "2026-11-10T22:38:00.391Z",
   "bucket": "bts",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "url": "https://kpoppie.com/architects-of-the-new-era-bts-and-the-ultimate-visual-reinvention/",
       "source": "Kpoppie",
       "description": "The Spark in the Studio: The Immediate Moment The studio lights flicker to full intensity, cutting through a low-hanging haze of industrial fog. Jimin stands under the high-contrast beam, hands resting casually behind his head, crisp white shirt catching every angle of the studio geometry. There is no posture of performance here—only absolute, calm control. The atmosphere vibrates with quiet focus. Across the set, photographer Park Jongha shifts framing while visual director Go Donghwi reviews t",
-      "summary": "BTS member Jimin participates in a studio photoshoot with photographer Park Jongha and visual director Go Donghwi, showcasing a calm and controlled aesthetic during the production session.",
+      "summary": "BTS member Jimin participates in a studio photoshoot with photographer Park Jongha and visual director Go Donghwi, showcasing a calm and controlled aesthetic in what appears to be a visual reinvention project.",
       "publishedAt": "2026-11-08T21:09:27.000Z",
       "author": "Kpoppie Editorial Team",
       "group": "bts"
@@ -124,17 +124,6 @@
       "group": "bts"
     },
     {
-      "id": "annecy-sci-fi-animation-pilgrims-from-japan-sinks-2020-director-heo-pyoungkang-l",
-      "title": "Annecy Sci-Fi Animation ‘Pilgrims,’ From ‘Japan Sinks: 2020’ Director Heo Pyoungkang, Lands at EST N8 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/annecy-sci-fi-animation-pilgrims-est-n8-1236906340/",
-      "source": "Variety",
-      "description": "“Pilgrims,” a Korean sci-fi animated feature that played Annecy and took a prize at Bucheon, has been picked up for worldwide sales by EST N8. It is the first animated title for the film financing, sales and distribution company. EST N8 will launch internatio…",
-      "summary": "“Pilgrims,” a Korean sci-fi animated feature that played Annecy and took a prize at Bucheon, has been picked up for worldwide sales by EST N8. It is the first animated title for the film financing, sales and distribution company. EST N8 will launch internatio…",
-      "publishedAt": "2026-10-09T06:12:07Z",
-      "author": "Naman Ramachandran",
-      "group": "bts"
-    },
-    {
       "id": "bts-v-learns-about-diwali-from-indian-fans-his-diwali-mubarak-wish-and-reaction-",
       "title": "BTS' V Learns About Diwali From Indian Fans; His 'Diwali Mubarak' Wish And Reaction To Desi BTS Pictures Win Hearts",
       "url": "https://www.newsx.com/entertainment/bts-v-learns-about-diwali-from-indian-fans-his-diwali-mubarak-wish-and-reaction-to-desi-bts-pictures-win-hearts-291026/",
@@ -242,6 +231,17 @@
       "summary": "BTS trades the stage for the pickleball court in a new 'Run BTS 2.0' episode filled with friendly competition, playful banter and a tournament.",
       "publishedAt": "2026-10-12T22:44:09Z",
       "author": "Alicia Urrea",
+      "group": "bts"
+    },
+    {
+      "id": "annecy-sci-fi-animation-pilgrims-from-japan-sinks-2020-director-heo-pyoungkang-l",
+      "title": "Annecy Sci-Fi Animation ‘Pilgrims,’ From ‘Japan Sinks: 2020’ Director Heo Pyoungkang, Lands at EST N8 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/annecy-sci-fi-animation-pilgrims-est-n8-1236906340/",
+      "source": "Variety",
+      "description": "“Pilgrims,” a Korean sci-fi animated feature that played Annecy and took a prize at Bucheon, has been picked up for worldwide sales by EST N8. It is the first animated title for the film financing, sales and distribution company. EST N8 will launch internatio…",
+      "summary": "“Pilgrims,” a Korean sci-fi animated feature that played Annecy and took a prize at Bucheon, has been picked up for worldwide sales by EST N8. It is the first animated title for the film financing, sales and distribution company. EST N8 will launch internatio…",
+      "publishedAt": "2026-10-09T06:12:07Z",
+      "author": "Naman Ramachandran",
       "group": "bts"
     },
     {
