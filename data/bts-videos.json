@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-11T23:47:50.315Z",
+  "updatedAt": "2026-11-12T14:46:16.493Z",
   "bucket": "bts",
   "videos": [
+    {
+      "id": "_pLJBPzp3Fg",
+      "title": "ENHYPEN (엔하이픈) 'I Want You' Official Teaser",
+      "url": "https://www.youtube.com/watch?v=_pLJBPzp3Fg",
+      "videoId": "_pLJBPzp3Fg",
+      "channelName": "BANGTANTV",
+      "thumbnail": "https://img.youtube.com/vi/_pLJBPzp3Fg/mqdefault.jpg",
+      "publishedAt": "2026-11-12T13:00:03.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "rF640_v3ikE",
       "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 선우 (SUNOO)",
@@ -76,17 +87,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/qwivRjjPlZU/mqdefault.jpg",
       "publishedAt": "2026-11-05T13:00:01.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "perfect-storm-preview-hate-it-or-love-it",
-      "title": "PERFECT STORM Preview 'Hate It or Love It",
-      "url": "https://www.youtube.com/shorts/3BPe7rnifRs",
-      "videoId": "",
-      "channelName": "BANGTANTV",
-      "thumbnail": "",
-      "publishedAt": "2026-11-04T15:00:42.000Z",
       "group": "bts",
       "bucket": "bts"
     }
