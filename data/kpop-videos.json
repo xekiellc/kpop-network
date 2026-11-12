@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-12T14:46:16.495Z",
+  "updatedAt": "2026-11-12T22:56:53.303Z",
   "bucket": "kpop",
   "videos": [
+    {
+      "id": "txt-angel-bite-official-teaser-1",
+      "title": "TXT (투모로우바이투게더) 'Angel Bite' Official Teaser 1",
+      "url": "https://www.youtube.com/shorts/WATVWYEOs84",
+      "videoId": "",
+      "channelName": "BANGTANTV",
+      "thumbnail": "",
+      "publishedAt": "2026-11-12T15:00:31.000Z",
+      "group": "bts",
+      "bucket": "bts"
+    },
     {
       "id": "_pLJBPzp3Fg",
       "title": "ENHYPEN (엔하이픈) 'I Want You' Official Teaser",
@@ -65,28 +76,6 @@
       "channelName": "BANGTANTV",
       "thumbnail": "https://img.youtube.com/vi/oPCjiOQcxRY/mqdefault.jpg",
       "publishedAt": "2026-11-07T13:00:03.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "ftWK9_qLXyQ",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 성훈 (SUNGHOON)",
-      "url": "https://www.youtube.com/watch?v=ftWK9_qLXyQ",
-      "videoId": "ftWK9_qLXyQ",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/ftWK9_qLXyQ/mqdefault.jpg",
-      "publishedAt": "2026-11-06T13:00:02.000Z",
-      "group": "bts",
-      "bucket": "bts"
-    },
-    {
-      "id": "qwivRjjPlZU",
-      "title": "ENHYPEN (엔하이픈) 'THE SIN : PARALLEL WORLD' Concept Film (DAY&NIGHT Ver.) - 제이크 (JAKE)",
-      "url": "https://www.youtube.com/watch?v=qwivRjjPlZU",
-      "videoId": "qwivRjjPlZU",
-      "channelName": "BANGTANTV",
-      "thumbnail": "https://img.youtube.com/vi/qwivRjjPlZU/mqdefault.jpg",
-      "publishedAt": "2026-11-05T13:00:01.000Z",
       "group": "bts",
       "bucket": "bts"
     },
